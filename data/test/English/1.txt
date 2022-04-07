@@ -1,0 +1,407 @@
+
+Rationalism
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the philosophical method, position, theory, or view. For other uses, see Rationalism (disambiguation).
+Not to be confused with rationality or rationalization (sociology).
+
+René Descartes
+
+Baruch Spinoza
+
+Gottfried Leibniz
+In philosophy, rationalism is the epistemological view that "regards reason as the chief source and test of knowledge"[1] or "any view appealing to reason as a source of knowledge or justification".[2] More formally, rationalism is defined as a methodology or a theory "in which the criterion of the truth is not sensory but intellectual and deductive".[3]
+
+In an old controversy, rationalism was opposed to empiricism, where the rationalists believed that reality has an intrinsically logical structure. Because of this, the rationalists argued that certain truths exist and that the intellect can directly grasp these truths. That is to say, rationalists asserted that certain rational principles exist in logic, mathematics, ethics, and metaphysics that are so fundamentally true that denying them causes one to fall into contradiction. The rationalists had such a high confidence in reason that empirical proof and physical evidence were regarded as unnecessary to ascertain certain truths – in other words, "there are significant ways in which our concepts and knowledge are gained independently of sense experience".[4]
+
+Different degrees of emphasis on this method or theory lead to a range of rationalist standpoints, from the moderate position "that reason has precedence over other ways of acquiring knowledge" to the more extreme position that reason is "the unique path to knowledge".[5] Given a pre-modern understanding of reason, rationalism is identical to philosophy, the Socratic life of inquiry, or the zetetic (skeptical) clear interpretation of authority (open to the underlying or essential cause of things as they appear to our sense of certainty). In recent decades, Leo Strauss sought to revive "Classical Political Rationalism" as a discipline that understands the task of reasoning, not as foundational, but as maieutic.
+
+In the 17th-century Dutch Republic, the rise of early modern-period rationalism — as a highly systematic school of philosophy in its own right for the first time in history — exerted an immense and profound influence on modern Western thought in general,[6] with the birth of two highly influential rationalistic philosophical systems of Descartes[7] (who spent most of his adult life in the Netherlands in the period 1628–1649)[8][9][10] and Spinoza[11][12] — namely Cartesianism[13][14][15] and Spinozism.[16][17][18][19][20][21][22] It was the 17th-century arch-rationalists like Descartes, Spinoza and Leibniz who have given the "Age of Reason" its name and place in history.
+
+In politics, rationalism, since the Enlightenment, historically emphasized a "politics of reason" centered upon rational choice, utilitarianism, secularism, and irreligion[23] – the latter aspect's antitheism was later softened by the adoption of pluralistic methods practicable regardless of religious or irreligious ideology.[24] In this regard, the philosopher John Cottingham[25] noted how rationalism, a methodology, became socially conflated with atheism, a worldview:
+
+In the past, particularly in the 17th and 18th centuries, the term 'rationalist' was often used to refer to free thinkers of an anti-clerical and anti-religious outlook, and for a time the word acquired a distinctly pejorative force (thus in 1670 Sanderson spoke disparagingly of 'a mere rationalist, that is to say in plain English an atheist of the late edition...'). The use of the label 'rationalist' to characterize a world outlook which has no place for the supernatural is becoming less popular today; terms like 'humanist' or 'materialist' seem largely to have taken its place. But the old usage still survives.
+
+
+Contents
+1	Philosophical usage
+1.1	Theory of justification
+1.2	Thesis of rationalism
+1.2.1	The Intuition/Deduction Thesis
+1.2.2	The Innate Knowledge Thesis
+1.2.3	The Innate Concept Thesis
+1.2.4	The other two theses
+2	Background
+3	History
+3.1	Rationalist philosophy from antiquity
+3.1.1	Ajita Kesakambali (600 BCE)
+3.1.2	Pythagoras (570–495 BCE)
+3.1.3	Plato (427–347 BCE)
+3.1.4	Aristotle (384–322 BCE)
+3.1.5	Post-Aristotle
+3.2	Classical rationalism
+3.2.1	René Descartes (1596–1650)
+3.2.2	Baruch Spinoza (1632–1677)
+3.2.3	Gottfried Leibniz (1646–1716)
+3.2.4	Immanuel Kant (1724–1804)
+3.3	Contemporary rationalism
+4	Criticism
+5	See also
+6	References
+6.1	Citations
+6.2	Primary sources
+6.3	Secondary sources
+7	External links
+Philosophical usage
+Rationalism is often contrasted with empiricism. Taken very broadly, these views are not mutually exclusive, since a philosopher can be both rationalist and empiricist.[2] Taken to extremes, the empiricist view holds that all ideas come to us a posteriori, that is to say, through experience; either through the external senses or through such inner sensations as pain and gratification. The empiricist essentially believes that knowledge is based on or derived directly from experience. The rationalist believes we come to knowledge a priori – through the use of logic – and is thus independent of sensory experience. In other words, as Galen Strawson once wrote, "you can see that it is true just lying on your couch. You don't have to get up off your couch and go outside and examine the way things are in the physical world. You don't have to do any science."[26] Between both philosophies, the issue at hand is the fundamental source of human knowledge and the proper techniques for verifying what we think we know. Whereas both philosophies are under the umbrella of epistemology, their argument lies in the understanding of the warrant, which is under the wider epistemic umbrella of the theory of justification.
+
+Theory of justification
+Main article: Theory of justification
+The theory of justification is the part of epistemology that attempts to understand the justification of propositions and beliefs. Epistemologists are concerned with various epistemic features of belief, which include the ideas of justification, warrant, rationality, and probability. Of these four terms, the term that has been most widely used and discussed by the early 21st century is "warrant". Loosely speaking, justification is the reason that someone (probably) holds a belief.
+
+If "A" makes a claim, and "B" then casts doubt on it, "A"'s next move would normally be to provide justification. The precise method one uses to provide justification is where the lines are drawn between rationalism and empiricism (among other philosophical views). Much of the debate in these fields are focused on analyzing the nature of knowledge and how it relates to connected notions such as truth, belief, and justification.
+
+Thesis of rationalism
+At its core, rationalism consists of three basic claims. For one to consider themselves a rationalist, they must adopt at least one of these three claims: The Intuition/Deduction Thesis, The Innate Knowledge Thesis, or The Innate Concept Thesis. In addition, rationalists can choose to adopt the claims of Indispensability of Reason and or the Superiority of Reason – although one can be a rationalist without adopting either thesis.
+
+The Intuition/Deduction Thesis
+Main articles: Intuition (philosophy) and Deductive reasoning
+Rationale: "Some propositions in a particular subject area, S, are knowable by us by intuition alone; still others are knowable by being deduced from intuited propositions."[27]
+
+Generally speaking, intuition is a priori knowledge or experiential belief characterized by its immediacy; a form of rational insight. We simply "see" something in such a way as to give us a warranted belief. Beyond that, the nature of intuition is hotly debated.
+
+In the same way, generally speaking, deduction is the process of reasoning from one or more general premises to reach a logically certain conclusion. Using valid arguments, we can deduce from intuited premises.
+
+For example, when we combine both concepts, we can intuit that the number three is prime and that it is greater than two. We then deduce from this knowledge that there is a prime number greater than two. Thus, it can be said that intuition and deduction combined to provide us with a priori knowledge – we gained this knowledge independently of sense experience.
+
+Empiricists such as David Hume have been willing to accept this thesis for describing the relationships among our own concepts.[27] In this sense, empiricists argue that we are allowed to intuit and deduce truths from knowledge that has been obtained a posteriori.
+
+By injecting different subjects into the Intuition/Deduction thesis, we are able to generate different arguments. Most rationalists agree mathematics is knowable by applying the intuition and deduction. Some go further to include ethical truths into the category of things knowable by intuition and deduction. Furthermore, some rationalists also claim metaphysics is knowable in this thesis.
+
+In addition to different subjects, rationalists sometimes vary the strength of their claims by adjusting their understanding of the warrant. Some rationalists understand warranted beliefs to be beyond even the slightest doubt; others are more conservative and understand the warrant to be belief beyond a reasonable doubt.
+
+Rationalists also have different understanding and claims involving the connection between intuition and truth. Some rationalists claim that intuition is infallible and that anything we intuit to be true is as such. More contemporary rationalists accept that intuition is not always a source of certain knowledge – thus allowing for the possibility of a deceiver who might cause the rationalist to intuit a false proposition in the same way a third party could cause the rationalist to have perceptions of nonexistent objects.
+
+Naturally, the more subjects the rationalists claim to be knowable by the Intuition/Deduction thesis, the more certain they are of their warranted beliefs, and the more strictly they adhere to the infallibility of intuition, the more controversial their truths or claims and the more radical their rationalism.[27]
+
+To argue in favor of this thesis, Gottfried Wilhelm Leibniz, a prominent German philosopher, says, "The senses, although they are necessary for all our actual knowledge, are not sufficient to give us the whole of it, since the senses never give anything but instances, that is to say particular or individual truths. Now all the instances which confirm a general truth, however numerous they may be, are not sufficient to establish the universal necessity of this same truth, for it does not follow that what happened before will happen in the same way again. … From which it appears that necessary truths, such as we find in pure mathematics, and particularly in arithmetic and geometry, must have principles whose proof does not depend on instances, nor consequently on the testimony of the senses, although without the senses it would never have occurred to us to think of them…"[28]
+
+The Innate Knowledge Thesis
+Rationale: "We have knowledge of some truths in a particular subject area, S, as part of our rational nature."[29]
+
+The Innate Knowledge thesis is similar to the Intuition/Deduction thesis in the regard that both theses claim knowledge is gained a priori. The two theses go their separate ways when describing how that knowledge is gained. As the name, and the rationale, suggests, the Innate Knowledge thesis claims knowledge is simply part of our rational nature. Experiences can trigger a process that allows this knowledge to come into our consciousness, but the experiences don't provide us with the knowledge itself. The knowledge has been with us since the beginning and the experience simply brought into focus, in the same way a photographer can bring the background of a picture into focus by changing the aperture of the lens. The background was always there, just not in focus.
+
+This thesis targets a problem with the nature of inquiry originally postulated by Plato in Meno. Here, Plato asks about inquiry; how do we gain knowledge of a theorem in geometry? We inquire into the matter. Yet, knowledge by inquiry seems impossible.[30] In other words, "If we already have the knowledge, there is no place for inquiry. If we lack the knowledge, we don't know what we are seeking and cannot recognize it when we find it. Either way we cannot gain knowledge of the theorem by inquiry. Yet, we do know some theorems."[29] The Innate Knowledge thesis offers a solution to this paradox. By claiming that knowledge is already with us, either consciously or unconsciously, a rationalist claims we don't really "learn" things in the traditional usage of the word, but rather that we simply bring to light what we already know.
+
+The Innate Concept Thesis
+Rationale: "We have some of the concepts we employ in a particular subject area, S, as part of our rational nature."[31]
+
+Similar to the Innate Knowledge thesis, the Innate Concept thesis suggests that some concepts are simply part of our rational nature. These concepts are a priori in nature and sense experience is irrelevant to determining the nature of these concepts (though, sense experience can help bring the concepts to our conscious mind).
+
+Some philosophers, such as John Locke (who is considered one of the most influential thinkers of the Enlightenment and an empiricist) argue that the Innate Knowledge thesis and the Innate Concept thesis are the same.[32] Other philosophers, such as Peter Carruthers, argue that the two theses are distinct from one another. As with the other theses covered under the umbrella of rationalism, the more types and greater number of concepts a philosopher claims to be innate, the more controversial and radical their position; "the more a concept seems removed from experience and the mental operations we can perform on experience the more plausibly it may be claimed to be innate. Since we do not experience perfect triangles but do experience pains, our concept of the former is a more promising candidate for being innate than our concept of the latter.[31]
+
+In his book, Meditations on First Philosophy,[33] René Descartes postulates three classifications for our ideas when he says, "Among my ideas, some appear to be innate, some to be adventitious, and others to have been invented by me. My understanding of what a thing is, what truth is, and what thought is, seems to derive simply from my own nature. But my hearing a noise, as I do now, or seeing the sun, or feeling the fire, comes from things which are located outside me, or so I have hitherto judged. Lastly, sirens, hippogriffs and the like are my own invention."[34]
+
+Adventitious ideas are those concepts that we gain through sense experiences, ideas such as the sensation of heat, because they originate from outside sources; transmitting their own likeness rather than something else and something you simply cannot will away. Ideas invented by us, such as those found in mythology, legends, and fairy tales are created by us from other ideas we possess. Lastly, innate ideas, such as our ideas of perfection, are those ideas we have as a result of mental processes that are beyond what experience can directly or indirectly provide.
+
+Gottfried Wilhelm Leibniz defends the idea of innate concepts by suggesting the mind plays a role in determining the nature of concepts, to explain this, he likens the mind to a block of marble in the New Essays on Human Understanding, "This is why I have taken as an illustration a block of veined marble, rather than a wholly uniform block or blank tablets, that is to say what is called tabula rasa in the language of the philosophers. For if the soul were like those blank tablets, truths would be in us in the same way as the figure of Hercules is in a block of marble, when the marble is completely indifferent whether it receives this or some other figure. But if there were veins in the stone which marked out the figure of Hercules rather than other figures, this stone would be more determined thereto, and Hercules would be as it were in some manner innate in it, although labour would be needed to uncover the veins, and to clear them by polishing, and by cutting away what prevents them from appearing. It is in this way that ideas and truths are innate in us, like natural inclinations and dispositions, natural habits or potentialities, and not like activities, although these potentialities are always accompanied by some activities which correspond to them, though they are often imperceptible."[35]
+
+The other two theses
+The three aforementioned theses of Intuition/Deduction, Innate Knowledge, and Innate Concept are the cornerstones of rationalism. To be considered a rationalist, one must adopt at least one of those three claims. The following two theses are traditionally adopted by rationalists, but they aren't essential to the rationalist's position.
+
+The Indispensability of Reason Thesis has the following rationale, "The knowledge we gain in subject area, S, by intuition and deduction, as well as the ideas and instances of knowledge in S that are innate to us, could not have been gained by us through sense experience."[1] In short, this thesis claims that experience cannot provide what we gain from reason.
+
+The Superiority of Reason Thesis has the following rationale, '"The knowledge we gain in subject area S by intuition and deduction or have innately is superior to any knowledge gained by sense experience".[1] In other words, this thesis claims reason is superior to experience as a source for knowledge.
+
+In addition to the following claims, rationalists often adopt similar stances on other aspects of philosophy. Most rationalists reject skepticism for the areas of knowledge they claim are knowable a priori. Naturally, when you claim some truths are innately known to us, one must reject skepticism in relation to those truths. Especially for rationalists who adopt the Intuition/Deduction thesis, the idea of epistemic foundationalism tends to crop up. This is the view that we know some truths without basing our belief in them on any others and that we then use this foundational knowledge to know more truths.[1]
+
+Background
+Rationalism - as an appeal to human reason as a way of obtaining knowledge - has a philosophical history dating from antiquity. The analytical nature of much of philosophical enquiry, the awareness of apparently a priori domains of knowledge such as mathematics, combined with the emphasis of obtaining knowledge through the use of rational faculties (commonly rejecting, for example, direct revelation) have made rationalist themes very prevalent in the history of philosophy.
+
+Since the Enlightenment, rationalism is usually associated with the introduction of mathematical methods into philosophy as seen in the works of Descartes, Leibniz, and Spinoza.[3] This is commonly called continental rationalism, because it was predominant in the continental schools of Europe, whereas in Britain empiricism dominated.
+
+Even then, the distinction between rationalists and empiricists was drawn at a later period and would not have been recognized by the philosophers involved. Also, the distinction between the two philosophies is not as clear-cut as is sometimes suggested; for example, Descartes and Locke have similar views about the nature of human ideas.[4]
+
+Proponents of some varieties of rationalism argue that, starting with foundational basic principles, like the axioms of geometry, one could deductively derive the rest of all possible knowledge. The philosophers who held this view most clearly were Baruch Spinoza and Gottfried Leibniz, whose attempts to grapple with the epistemological and metaphysical problems raised by Descartes led to a development of the fundamental approach of rationalism. Both Spinoza and Leibniz asserted that, in principle, all knowledge, including scientific knowledge, could be gained through the use of reason alone, though they both observed that this was not possible in practice for human beings except in specific areas such as mathematics. On the other hand, Leibniz admitted in his book Monadology that "we are all mere Empirics in three fourths of our actions."[5]
+
+History
+Rationalist philosophy from antiquity
+Although rationalism in its modern form post-dates antiquity, philosophers from this time laid down the foundations of rationalism.[citation needed] In particular, the understanding that we may be aware of knowledge available only through the use of rational thought.[citation needed]
+
+Ajita Kesakambali (600 BCE)
+Ajita Kesakambali was an ancient Indian philosopher in the 6th century BCE. He is considered to be the first known proponent of Indian materialism, and forerunner to the Charvaka school of Indian thought, which holds direct perception, empiricism, and conditional inference as proper sources of knowledge, embraces philosophical skepticism and rejects Vedas, Vedic ritualism, and supernaturalism.[36]
+
+Pythagoras (570–495 BCE)
+Main article: Pythagoras
+Pythagoras was one of the first Western philosophers to stress rationalist insight.[37] He is often revered as a great mathematician, mystic and scientist, but he is best known for the Pythagorean theorem, which bears his name, and for discovering the mathematical relationship between the length of strings on lute and the pitches of the notes. Pythagoras "believed these harmonies reflected the ultimate nature of reality. He summed up the implied metaphysical rationalism in the words "All is number". It is probable that he had caught the rationalist's vision, later seen by Galileo (1564–1642), of a world governed throughout by mathematically formulable laws".[37] It has been said that he was the first man to call himself a philosopher, or lover of wisdom.[38]
+
+Plato (427–347 BCE)
+Main article: Plato
+Plato held rational insight to a very high standard, as is seen in his works such as Meno and The Republic. He taught on the Theory of Forms (or the Theory of Ideas)[39][40][41] which asserts that the highest and most fundamental kind of reality is not the material world of change known to us through sensation, but rather the abstract, non-material (but substantial) world of forms (or ideas).[42] For Plato, these forms were accessible only to reason and not to sense.[37] In fact, it is said that Plato admired reason, especially in geometry, so highly that he had the phrase "Let no one ignorant of geometry enter" inscribed over the door to his academy.[43]
+
+Aristotle (384–322 BCE)
+Main article: Aristotle
+Aristotle's main contribution to rationalist thinking was the use of syllogistic logic and its use in argument. Aristotle defines syllogism as "a discourse in which certain (specific) things having been supposed, something different from the things supposed results of necessity because these things are so."[44] Despite this very general definition, Aristotle limits himself to categorical syllogisms which consist of three categorical propositions in his work Prior Analytics.[45] These included categorical modal syllogisms.[46]
+
+Post-Aristotle
+Although the three great Greek philosophers disagreed with one another on specific points, they all agreed that rational thought could bring to light knowledge that was self-evident – information that humans otherwise couldn't know without the use of reason. After Aristotle's death, Western rationalistic thought was generally characterized by its application to theology, such as in the works of Augustine, the Islamic philosopher Avicenna and Jewish philosopher and theologian Maimonides. One notable event in the Western timeline was the philosophy of Thomas Aquinas who attempted to merge Greek rationalism and Christian revelation in the thirteenth-century.[37]
+
+Classical rationalism
+Early modern rationalism has its roots in the 17th-century Dutch Republic,[47] with some notable intellectual representatives like Hugo Grotius,[48] René Descartes, and Baruch Spinoza.
+
+René Descartes (1596–1650)
+Part of a series on
+René Descartes
+Descartes2.jpg
+Philosophy[show]
+Works[show]
+People[show]
+vte
+Main article: René Descartes
+Descartes was the first of the modern rationalists and has been dubbed the 'Father of Modern Philosophy.' Much subsequent Western philosophy is a response to his writings,[49][50][51] which are studied closely to this day.
+
+Descartes thought that only knowledge of eternal truths – including the truths of mathematics, and the epistemological and metaphysical foundations of the sciences – could be attained by reason alone; other knowledge, the knowledge of physics, required experience of the world, aided by the scientific method. He also argued that although dreams appear as real as sense experience, these dreams cannot provide persons with knowledge. Also, since conscious sense experience can be the cause of illusions, then sense experience itself can be doubtable. As a result, Descartes deduced that a rational pursuit of truth should doubt every belief about sensory reality. He elaborated these beliefs in such works as Discourse on Method, Meditations on First Philosophy, and Principles of Philosophy. Descartes developed a method to attain truths according to which nothing that cannot be recognised by the intellect (or reason) can be classified as knowledge. These truths are gained "without any sensory experience," according to Descartes. Truths that are attained by reason are broken down into elements that intuition can grasp, which, through a purely deductive process, will result in clear truths about reality.
+
+Descartes therefore argued, as a result of his method, that reason alone determined knowledge, and that this could be done independently of the senses. For instance, his famous dictum, cogito ergo sum or "I think, therefore I am", is a conclusion reached a priori i.e., prior to any kind of experience on the matter. The simple meaning is that doubting one's existence, in and of itself, proves that an "I" exists to do the thinking. In other words, doubting one's own doubting is absurd.[52] This was, for Descartes, an irrefutable principle upon which to ground all forms of other knowledge. Descartes posited a metaphysical dualism, distinguishing between the substances of the human body ("res extensa") and the mind or soul ("res cogitans"). This crucial distinction would be left unresolved and lead to what is known as the mind-body problem, since the two substances in the Cartesian system are independent of each other and irreducible.
+
+Baruch Spinoza (1632–1677)
+Main article: Philosophy of Spinoza
+
+In spite of his early death, Spinoza exerted a profound influence on philosophy in the Age of Reason.[53][54][55] He is often considered one of three most remarkable rationalists of modern Western thought, along with Descartes and Leibniz.
+The philosophy of Baruch Spinoza is a systematic, logical, rational philosophy developed in seventeenth-century Europe.[56][57][58] Spinoza's philosophy is a system of ideas constructed upon basic building blocks with an internal consistency with which he tried to answer life's major questions and in which he proposed that "God exists only philosophically."[58][59] He was heavily influenced by Descartes,[60] Euclid[59] and Thomas Hobbes,[60] as well as theologians in the Jewish philosophical tradition such as Maimonides.[60] But his work was in many respects a departure from the Judeo-Christian tradition. Many of Spinoza's ideas continue to vex thinkers today and many of his principles, particularly regarding the emotions, have implications for modern approaches to psychology. To this day, many important thinkers have found Spinoza's "geometrical method"[58] difficult to comprehend: Goethe admitted that he found this concept confusing[citation needed]. His magnum opus, Ethics, contains unresolved obscurities and has a forbidding mathematical structure modeled on Euclid's geometry.[59] Spinoza's philosophy attracted believers such as Albert Einstein[61] and much intellectual attention.[62][63][64][65][66]
+
+Gottfried Leibniz (1646–1716)
+Main article: Gottfried Leibniz
+Leibniz was the last of the great Rationalists who contributed heavily to other fields such as metaphysics, epistemology, logic, mathematics, physics, jurisprudence, and the philosophy of religion; he is also considered to be one of the last "universal geniuses".[67] He did not develop his system, however, independently of these advances. Leibniz rejected Cartesian dualism and denied the existence of a material world. In Leibniz's view there are infinitely many simple substances, which he called "monads" (possibly taking the term from the work of Anne Conway).
+
+Leibniz developed his theory of monads in response to both Descartes and Spinoza, because the rejection of their visions forced him to arrive at his own solution. Monads are the fundamental unit of reality, according to Leibniz, constituting both inanimate and animate objects. These units of reality represent the universe, though they are not subject to the laws of causality or space (which he called "well-founded phenomena"). Leibniz, therefore, introduced his principle of pre-established harmony to account for apparent causality in the world.
+
+Immanuel Kant (1724–1804)
+Main article: Immanuel Kant
+Kant is one of the central figures of modern philosophy, and set the terms by which all subsequent thinkers have had to grapple. He argued that human perception structures natural laws, and that reason is the source of morality. His thought continues to hold a major influence in contemporary thought, especially in fields such as metaphysics, epistemology, ethics, political philosophy, and aesthetics.[68]
+
+Kant named his brand of epistemology "Transcendental Idealism", and he first laid out these views in his famous work The Critique of Pure Reason. In it he argued that there were fundamental problems with both rationalist and empiricist dogma. To the rationalists he argued, broadly, that pure reason is flawed when it goes beyond its limits and claims to know those things that are necessarily beyond the realm of all possible experience: the existence of God, free will, and the immortality of the human soul. Kant referred to these objects as "The Thing in Itself" and goes on to argue that their status as objects beyond all possible experience by definition means we cannot know them. To the empiricist he argued that while it is correct that experience is fundamentally necessary for human knowledge, reason is necessary for processing that experience into coherent thought. He therefore concludes that both reason and experience are necessary for human knowledge. In the same way, Kant also argued that it was wrong to regard thought as mere analysis. "In Kant's views, a priori concepts do exist, but if they are to lead to the amplification of knowledge, they must be brought into relation with empirical data".[69]
+
+Contemporary rationalism
+Rationalism has become a rarer label tout court of philosophers today; rather many different kinds of specialised rationalisms are identified. For example, Robert Brandom has appropriated the terms rationalist expressivism and rationalist pragmatism as labels for aspects of his programme in Articulating Reasons, and identified linguistic rationalism, the claim that the content of propositions "are essentially what can serve as both premises and conclusions of inferences", as a key thesis of Wilfred Sellars.[70]
+
+Criticism
+[icon]	
+This section needs expansion. You can help by adding to it. (January 2018)
+Rationalism was criticized by William James for being out of touch with reality. James also criticized rationalism for representing the universe as a closed system, which contrasts to his view that the universe is an open system.[71]
+
+See also
+17th-century philosophy
+Age of Reason (Age of Enlightenment)
+Cartesianism
+Spinozism
+Philosophy of Baruch Spinoza
+German Idealism
+Cult of Reason
+Critical rationalism
+Phenomenology (philosophy)
+Cartesian linguistics
+Cynicism
+Empiricism
+Foundationalism
+Historical criticism
+Humanism
+Idealism
+Innatism
+Positivism
+Logical positivism
+Logical truth
+Natural philosophy
+Nature versus nurture
+Nominalism
+Noology
+Objectivity (philosophy)
+Objectivity (science)
+Pancritical rationalism
+Panrationalism
+Philosophical realism
+Poverty of the stimulus
+Platonic realism
+Realistic rationalism
+Pluralistic rationalism
+Psychological nativism
+Rationalist International
+Rational mysticism
+Rationality and power
+Secular humanism
+Tabula rasa
+Theistic rationalism
+References
+Citations
+ "Rationalism".
+ Lacey, A.R. (1996), A Dictionary of Philosophy, 1st edition, Routledge and Kegan Paul, 1976. 2nd edition, 1986. 3rd edition, Routledge, London, UK, 1996. p. 286
+ Bourke, Vernon J., "Rationalism," p. 263 in Runes (1962).
+ Stanford Encyclopedia of Philosophy, Rationalism vs. Empiricism First published August 19, 2004; substantive revision March 31, 2013 cited on May 20, 2013.
+ Audi, Robert, The Cambridge Dictionary of Philosophy, Cambridge University Press, Cambridge, UK, 1995. 2nd edition, 1999, p. 771.
+ Lavaert, Sonja; Schröder, Winfried (eds.): The Dutch Legacy: Radical Thinkers of the 17th Century and the Enlightenment. (Leiden: Brill, 2016)
+Arthur Schopenhauer: "Descartes is rightly regarded as the father of modern philosophy primarily and generally because he helped the faculty of reason to stand on its own feet by teaching men to use their brains in place whereof the Bible, on the one hand, and Aristotle, on the other, had previously served." (Sketch of a History of the Doctrine of the Ideal and the Real) [original in German]
+Friedrich Hayek: "The great thinker from whom the basic ideas of what we shall call constructivist rationalism received their most complete expression was René Descartes. [...] Although Descartes' immediate concern was to establish criteria for the truth of propositions, these were inevitably also applied by his followers to judge the appropriateness and justification of actions." (Law, Legislation and Liberty, 1973)
+ Coppens, Gunther (ed.): Spinoza en het Nederlands cartesianisme. (Leuven: Acco, 2004)
+ Nyden-Bullock, Tammy: Spinoza's Radical Cartesian Mind. (Continuum, 2007)
+ Benigni, Fiormichele: Itinerari dell'antispinozismo. Spinoza e le metafisiche cartesiane in Francia (1684–1718). (Firenze: Le Lettere, 2018)
+Georg Friedrich Hegel: "The philosophy of Descartes underwent a great variety of unspeculative developments, but in Benedict Spinoza a direct successor to this philosopher may be found, and one who carried on the Cartesian principle to its furthest logical conclusions." (Lectures on the History of Philosophy) [original in German]
+Hegel: "...It is therefore worthy of note that thought must begin by placing itself at the standpoint of Spinozism; to be a follower of Spinoza is the essential commencement of all Philosophy." (Lectures on the History of Philosophy) [original in German]
+Hegel: "...The fact is that Spinoza is made a testing-point in modern philosophy, so that it may really be said: You are either a Spinozist or not a philosopher at all." (Lectures on the History of Philosophy) [original in German]
+Friedrich Wilhelm Schelling: "...It is unquestionably the peacefulness and calm of the Spinozist system which particularly produces the idea of its depth, and which, with hidden but irresistible charm, has attracted so many minds. The Spinozist system will also always remain in a certain sense a model. A system of freedom — but with just as great contours, with the same simplicity, as a perfect counter-image (Gegenbild) of the Spinozist system — this would really be the highest system. This is why Spinozism, despite the many attacks on it, and the many supposed refutations, has never really become something truly past, never been really overcome up to now, and no one can hope to progress to the true and the complete in philosophy who has not at least once in his life lost himself in the abyss of Spinozism." (On the History of Modern Philosophy, 1833) [original in German]
+Heinrich Heine: "...And besides, one could certainly maintain that Mr. Schelling borrowed more from Spinoza than Hegel borrowed from Schelling. If Spinoza is some day liberated from his rigid, antiquated Cartesian, mathematical form and made accessible to a large public, we shall perhaps see that he, more than any other, might complain about the theft of ideas. All our present‑day philosophers, possibly without knowing it, look through glasses that Baruch Spinoza ground." (On the History of Religion and Philosophy in Germany, 1836) [original in German]
+Karl Marx & Friedrich Engels: "Spinozism dominated the eighteenth century both in its later French variety, which made matter into substance, and in deism, which conferred on matter a more spiritual name.... Spinoza's French school and the supporters of deism were but two sects disputing over the true meaning of his system...." (The Holy Family, 1844) [original in German]
+George Henry Lewes: "A brave and simple man, earnestly meditating on the deepest subjects that can occupy the human race, he produced a system which will ever remain as one of the most astounding efforts of abstract speculation — a system that has been decried, for nearly two centuries, as the most iniquitous and blasphemous of human invention; and which has now, within the last sixty years, become the acknowledged parent of a whole nation's philosophy, ranking among its admirers some of the most pious and illustrious intellects of the age." (A Biographical History of Philosophy, Vol. 3 & 4, 1846)
+James Anthony Froude: "We may deny his conclusions; we may consider his system of thought preposterous and even pernicious, but we cannot refuse him the respect which is the right of all sincere and honourable men. [...] Spinoza's influence over European thought is too great to be denied or set aside..." (1854)
+Arthur Schopenhauer: "In consequence of the Kantian criticism of all speculative theology, the philosophisers of Germany almost all threw themselves back upon Spinoza, so that the whole series of futile attempts known by the name of the post-Kantian philosophy are simply Spinozism tastelessly dressed up, veiled in all kinds of unintelligible language, and otherwise distorted..." (The World as Will and Idea, 1859) [original in German]
+S. M. Melamed: "The rediscovery of Spinoza by the Germans contributed to the shaping of the cultural destinies of the German people for almost two hundred years. Just as at the time of the Reformation no other spiritual force was as potent in German life as the Bible, so during the eighteenth and nineteenth centuries no other intellectual force so dominated German life as Spinozism. Spinoza became the magnet to German steel. Except for Immanuel Kant and Herbart, Spinoza attracted every great intellectual figure in Germany during the last two centuries, from the greatest, Goethe, to the purest, Lessing." (Spinoza and Buddha: Visions of a Dead God, University of Chicago Press, 1933)
+Louis Althusser: "Spinoza's philosophy introduced an unprecedented theoretical revolution in the history of philosophy, probably the greatest philosophical revolution of all time, insofar as we can regard Spinoza as Marx's only direct ancestor, from the philosophical standpoint. However, this radical revolution was the object of a massive historical repression, and Spinozist philosophy suffered much the same fate as Marxist philosophy used to and still does suffer in some countries: it served as damning evidence for a charge of ‘atheism’." (Reading Capital, 1968) [original in French]
+Frederick C. Beiser: "The rise of Spinozism in the late eighteenth century is a phenomenon of no less significance than the emergence of Kantianism itself. By the beginning of the nineteenth century, Spinoza's philosophy had become the main competitor to Kant's, and only Spinoza had as many admirers or adherents as Kant." (The Fate of Reason: German Philosophy from Kant to Fichte, 1987)
+ Förster, Eckart; Melamed, Yitzhak Y. (eds.): Spinoza and German Idealism. (Cambridge: Cambridge University Press, 2012)
+ Verbeek, Theo: Descartes and the Dutch: Early Reactions to Cartesian Philosophy, 1637–1650. (Carbondale: Southern Illinois University Press, 1992)
+ Douglas, Alexander X.: Spinoza and Dutch Cartesianism: Philosophy and Theology. (Oxford: Oxford University Press, 2015)
+ Strazzoni, Andrea: Dutch Cartesianism and the Birth of Philosophy of Science: A Reappraisal of the Function of Philosophy from Regius to 's Gravesande, 1640–1750. (Berlin: De Gruyter, 2018)
+ Chiereghin, Franco: L'influenza dello spinozismo nella formazione della filosofia hegeliana. (Padova: CEDAM, 1961)
+ Bollacher, Martin: Der junge Goethe und Spinoza. Studien zur Geschichte des Spinozismus in der Epoche des Sturm und Drang. (Tübingen: Niemeyer, 1968)
+ Hong, Han-ding: Spinoza und die deutsche Philosophie. Eine Untersuchung zur metaphysischen Wirkungsgeschichte des Spinozismus in Deutschland. (Aalen: Scientia Verlag, 1989)
+ Berti, Silvia; Charles-Daubert, Françoise; Popkin, Richard H. (eds.): Heterodoxy, Spinozism, and Free Thought in Early-Eighteenth-Century Europe: Studies on the "Traité des trois imposteurs". (Dordrecht: Springer, 1996)
+ Misrahi, Robert: Spinoza et le spinozisme. (Paris: Armand Colin, 1998)
+ Hampshire, Stuart: Spinoza and Spinozism. (Oxford: Clarendon Press; New York: Oxford University Press, 2005)
+ Moreau, Pierre-François: Spinoza et le spinozisme. (Paris: Presses Universitaires de France, 2009)
+ Oakeshott, Michael,"Rationalism in Politics," The Cambridge Journal 1947, vol. 1 Retrieved 2013-01-13.
+ Boyd, Richard, "The Value of Civility?," Urban Studies Journal, May 2006, vol. 43 (no. 5–6), pp. 863–78 Retrieved 2013-01-13.
+ Cottingham, John. 1984. Rationalism. Paladi/Granada
+ Sommers (2003), p. 15.
+ Stanford Encyclopedia of Philosophy, The Intuition/Deduction Thesis First published August 19, 2004; substantive revision March 31, 2013 cited on May 20, 2013.
+ 1704, Gottfried Leibniz Preface, pp. 150–151
+ Stanford Encyclopedia of Philosophy, The Innate Knowledge Thesis First published August 19, 2004; substantive revision March 31, 2013 cited on May 20, 2013.
+ Meno, 80d–e
+ Stanford Encyclopedia of Philosophy, The Innate Concept Thesis First published August 19, 2004; substantive revision March 31, 2013 cited on May 20, 2013.
+ Locke, Concerning Human Understanding, Book I, Ch. III, par. 20
+ Cottingham, J., ed. (April 1996) [1986]. Meditations on First Philosophy With Selections from the Objections and Replies (revised ed.). Cambridge University Press. ISBN 978-0-521-55818-1. –The original Meditations, translated, in its entirety.
+ René Descartes AT VII 37–8; CSM II 26
+ Gottfried Wilhelm Leibniz, 1704, New Essays on human Understanding, Preface, p. 153
+ "Indian rationalism, Charvaka to Narendra Dabholkar".
+ "Rationalism".
+ Cicero, Tusculan Disputations, 5.3.8–9 = Heraclides Ponticus fr. 88 Wehrli, Diogenes Laërtius 1.12, 8.8, Iamblichus VP 58. Burkert attempted to discredit this ancient tradition, but it has been defended by C.J. De Vogel, Pythagoras and Early Pythagoreanism (1966), pp. 97–102, and C. Riedweg, Pythagoras: His Life, Teaching, And Influence (2005), p. 92.
+ Modern English textbooks and translations prefer "theory of Form" to "theory of Ideas," but the latter has a long and respected tradition starting with Cicero and continuing in German philosophy until present, and some English philosophers prefer this in English too. See W D Ross, Plato's Theory of Ideas (1951) and this Archived 2011-09-27 at the Wayback Machine reference site.
+ The name of this aspect of Plato's thought is not modern and has not been extracted from certain dialogues by modern scholars. The term was used at least as early as Diogenes Laërtius, who called it (Plato's) "Theory of Forms:" Πλάτων ἐν τῇ περὶ τῶν ἰδεῶν ὑπολήψει...., "Plato". Lives of Eminent Philosophers. Book III. pp. Paragraph 15.
+ Plato uses many different words for what is traditionally called form in English translations and idea in German and Latin translations (Cicero). These include idéa, morphē, eîdos, and parádeigma, but also génos, phýsis, and ousía. He also uses expressions such as to x auto, "the x itself" or kath' auto "in itself." See Christian Schäfer: Idee/Form/Gestalt/Wesen, in Platon-Lexikon, Darmstadt 2007, p. 157.
+ Forms (usually given a capital F) were properties or essences of things, treated as non-material abstract, but substantial, entities. They were eternal, changeless, supremely real, and independent of ordinary objects that had their being and properties by 'participating' in them. Plato's theory of forms (or ideas) Archived 2011-09-27 at the Wayback Machine
+ SUZANNE, Bernard F. "Plato FAQ: "Let no one ignorant of geometry enter"". plato-dialogues.org.
+ Aristotle, Prior Analytics, 24b18–20
+ [1] Stanford Encyclopedia of Philosophy: Ancient Logic Aristotle Non-Modal Syllogistic
+ [2] Stanford Encyclopedia of Philosophy: Ancient Logic Aristotle Modal Logic
+ Lavaert, Sonja; Schröder, Winfried: The Dutch Legacy: Radical Thinkers of the 17th Century and the Enlightenment. (BRILL, 2016, ISBN 978-9004332072)
+ Berolzheimer, Fritz: The World's Legal Philosophies. Translated by Rachel Szold. (New York: The MacMillan Co., 1929. lv, 490 pp. Reprinted 2002 by The Lawbook Exchange, Ltd). As Fritz Berolzheimer noted, "As the Cartesian "cogito ergo sum" became the point of departure of rationalistic philosophy, so the establishment of government and law upon reason made Hugo Grotius the founder of an independent and purely rationalistic system of natural law."
+ Bertrand Russell (2004) History of western philosophy pp. 511, 516–17
+ Heidegger [1938] (2002) p. 76 "Descartes... that which he himself founded... modern (and that means, at the same time, Western) metaphysics."
+ Watson, Richard A. (31 March 2012). "René Descartes". Encyclopædia Britannica. Encyclopædia Britannica Online. Encyclopædia Britannica Inc. Retrieved 31 March 2012.
+ "Rationalism".
+ Durant, Will; Ariel, Durant: The Story of Civilization: The Age of Reason Begins. (New York: Simon & Schuster, 1961)
+ Nadler, Steven, "Baruch Spinoza", Stanford Encyclopedia of Philosophy (Fall 2016 Edition), Edward N. Zalta (ed.)
+ Popkin, Richard H., "Benedict de Spinoza", Encyclopædia Britannica, (2017 Edition)
+ Lisa Montanarelli (book reviewer) (January 8, 2006). "Spinoza stymies 'God's attorney' – Stewart argues the secular world was at stake in Leibniz face off". San Francisco Chronicle. Retrieved 2009-09-08.
+ Kelley L. Ross (1999). "Baruch Spinoza (1632–1677)". History of Philosophy As I See It. Retrieved 2009-12-07. While for Spinoza all is God and all is Nature, the active/passive dualism enables us to restore, if we wish, something more like the traditional terms. Natura Naturans is the most God-like side of God, eternal, unchanging, and invisible, while Natura Naturata is the most Nature-like side of God, transient, changing, and visible.
+ Anthony Gottlieb (July 18, 1999). "God Exists, Philosophically". The New York Times: Books. Retrieved 2009-12-07. Spinoza, a Dutch Jewish thinker of the 17th century, not only preached a philosophy of tolerance and benevolence but actually succeeded in living it. He was reviled in his own day and long afterward for his supposed atheism, yet even his enemies were forced to admit that he lived a saintly life.
+ ANTHONY GOTTLIEB (2009-09-07). "God Exists, Philosophically (review of "Spinoza: A Life" by Steven Nadler)". The New York Times – Books. Retrieved 2009-09-07.
+ Michael LeBuffe (book reviewer) (2006-11-05). "Spinoza's Ethics: An Introduction, by Steven Nadler". University of Notre Dame. Retrieved 2009-12-07. Spinoza's Ethics is a recent addition to Cambridge's Introductions to Key Philosophical Texts, a series developed for the purpose of helping readers with no specific background knowledge to begin the study of important works of Western philosophy...
+ "EINSTEIN BELIEVES IN "SPINOZA'S GOD"; Scientist Defines His Faith in Reply, to Cablegram From Rabbi Here. SEES A DIVINE ORDER But Says Its Ruler Is Not Concerned "Wit Fates and Actions of Human Beings."". The New York Times. April 25, 1929. Retrieved 2009-09-08.
+ Hutchison, Percy (November 20, 1932). "Spinoza, "God-Intoxicated Man"; Three Books Which Mark the Three Hundredth Anniversary of the Philosopher's Birth BLESSED SPINOZA. A Biography. By Lewis Browne. 319 pp. New York: Macmillan. SPINOZA. Liberator of God and Man. By Benjamin De Casseres, 145 pp. New York: E.Wickham Sweetland. SPINOZA THE BIOSOPHER. By Frederick Kettner. Introduction by Nicholas Roerich, New Era Library. 255 pp. New York: Roerich Museum Press. Spinoza". The New York Times. Retrieved 2009-09-08.
+ "Spinoza's First Biography Is Recovered; THE OLDEST BIOGRAPHY OF SPINOZA. Edited with Translations, Introduction, Annotations, &c., by A. Wolf. 196 pp. New York: Lincoln Macveagh. The Dial Press". The New York Times. December 11, 1927. Retrieved 2009-09-08.
+ IRWIN EDMAN (July 22, 1934). "The Unique and Powerful Vision of Baruch Spinoza; Professor Wolfson's Long-Awaited Book Is a Work of Illuminating Scholarship. (Book review) THE PHILOSOPHY OF SPINOZA. By Henry Austryn Wolfson". The New York Times. Retrieved 2009-09-08.
+ Cummings, M E (September 8, 1929). "ROTH EVALUATES SPINOZA". Los Angeles Times. Retrieved 2009-09-08.
+ SOCIAL NEWS BOOKS (November 25, 1932). "TRIBUTE TO SPINOZA PAID BY EDUCATORS; Dr. Robinson Extols Character of Philosopher, 'True to the Eternal Light Within Him.' HAILED AS 'GREAT REBEL'; De Casseres Stresses Individualism of Man Whose Tercentenary Is Celebrated at Meeting". The New York Times. Retrieved 2009-09-08.
+ Stanford Encyclopedia of Philosophy: Gottfried Wilhelm Leibniz.
+ "Immanuel Kant (Stanford Encyclopedia of Philosophy)". Plato.stanford.edu. 20 May 2010. Retrieved 2011-10-22.
+ Excerpt from the Encyclopædia Britannica
+ Articulating reasons, 2000. Harvard University Press.
+ James, William (November 1906). The Present Dilemma in Philosophy (Speech). Lowell Institute.
+Primary sources
+Descartes, René (1637), Discourse on Method.
+Spinoza, Baruch (1677), Ethics.
+Leibniz, Gottfried (1714), Monadology.
+Kant, Immanuel (1781/1787), Critique of Pure Reason.
+Secondary sources
+Audi, Robert (ed., 1999), The Cambridge Dictionary of Philosophy, Cambridge University Press, Cambridge, UK, 1995. 2nd edition, 1999.
+Blackburn, Simon (1996), The Oxford Dictionary of Philosophy, Oxford University Press, Oxford, UK, 1994. Paperback edition with new Chronology, 1996.
+Bourke, Vernon J. (1962), "Rationalism," p. 263 in Runes (1962).
+Fischer, Louis (1997). The Life of Mahatma Gandhi. Harper Collins. pp. 306–07. ISBN 0-00-638887-6.
+Lacey, A.R. (1996), A Dictionary of Philosophy, 1st edition, Routledge and Kegan Paul, 1976. 2nd edition, 1986. 3rd edition, Routledge, London, UK, 1996.
+Runes, Dagobert D. (ed., 1962), Dictionary of Philosophy, Littlefield, Adams, and Company, Totowa, NJ.
+Baird, Forrest E.; Walter Kaufmann (2008). From Plato to Derrida. Upper Saddle River, New Jersey: Pearson Prentice Hall. ISBN 0-13-158591-6.
+External links
+	Wikimedia Commons has media related to Rationalism.
+	Wikiquote has quotations related to: Rationalism
+Zalta, Edward N. (ed.). "Rationalism vs. Empiricism". Stanford Encyclopedia of Philosophy.
+Rationalism at PhilPapers
+Rationalism at the Indiana Philosophy Ontology Project
+Homan, Matthew. "Continental Rationalism". Internet Encyclopedia of Philosophy.
+Lennon, Thomas M.; Dea, Shannon. "Continental Rationalism". In Zalta, Edward N. Stanford Encyclopedia of Philosophy.
+John F. Hurst (1867), History of Rationalism Embracing a Survey of the Present State of Protestant Theology
+vte
+Baruch Spinoza
+vte
+Gottfried Wilhelm Leibniz
+vte
+Philosophy of science
+vte
+Epistemology
+vte
+Philosophy
+Branches
+Schools of thought
+Positions
+By regionRelated listsMiscellaneous
+Portal Portal Category Category Wikipedia book Book
+Authority control Edit this at Wikidata	
+GND: 4129164-5 LCCN: sh85111520
+Categories: RationalismEpistemological theoriesHistory of philosophyInternalism and externalismJustificationPhilosophical conceptsPhilosophical movementsPhilosophy and thought in the Dutch RepublicPhilosophy of mindReasoningThought
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+
+Languages
+Беларуская
+Deutsch
+Español
+हिन्दी
+Lietuvių
+Polski
+Русский
+Українська
+中文
+64 more
+Edit links
+This page was last edited on 7 March 2019, at 13:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki
+Methodology is the systematic, theoretical analysis of the methods applied to a field of study. It comprises the theoretical analysis of the body of methods and principles associated with a branch of knowledge. Typically, it encompasses concepts such as paradigm, theoretical model, phases and quantitative or qualitative techniques.
+

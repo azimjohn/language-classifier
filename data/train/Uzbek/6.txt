@@ -1,0 +1,144 @@
+Kompyuter
+Vikipediya, ochiq ensiklopediya
+Navigatsiya qismiga oʻtishQidirish qismiga oʻtish
+
+Shaxsiy kompyuterning sxemasi:
+1. Monitor tizimi
+2. Ona plata
+3. Protsessor
+4. Port ATA
+5. Tezkor xotira
+6. Kengaytiruvchi kartalar
+7. Quvvat bloki
+8. Diskovod
+9. Qattiq disk
+10. Klaviatura
+11. Sichqon
+Kompyuter (ing. computer — hisoblayman), EHM (Elektron Hisoblash Mashinasi) — oldindan berilgan dastur (programma) boʻyicha ishlaydigan avtomatik qurilma. Elektron hisoblash mashinasi (EHM) bilan bir xildagi atama. Biroq, K. hisoblash ishlarini bajarishdan tashqari uning funksiyasi ancha keng. EHMlarning rivojlanishida K. ning bir necha avlodlarini koʻrsatish mumkin. Bu avlodlar element turlari, konstruktiv-texnologik xususiyatlari, mantiqiy tuzilishi, dastur taʼminoti, texnik tafsilotlari, texnikadan foydalanishning qulaylik darajasi bilan bir-biridan farq qiladi. K.ning dastlabki avlodida (Ural-1, Minsk-2, BSEM-2) asosiy element elektron lampa boʻlgani uchun u juda katta joyni egallagan edi. Soʻngra bu lampa oʻrnida tranzistorlar ishlatilgan K. (Razdan-2, M-220, Minsk-22 va boshqalar), integral mikrosxemalar ishlatilgan K. (IBM-360, 1BM-370, (AQSH), YESEVM (Rossiya) va boshqa, integratsiya darajasi katta boʻlgan integral sxemalar urnatilgan shaxsiy K.lar paydo boʻldi. Shaxsiy K. (mikro va-mikro EHM) tushunchasi 20-asr 70-yillar oxiridan boshlab keng tarqala boshladi. Shaxsiy K.ning keyingi avlodlarida mikroelektron va biosxemalardan foydalanildi; ularning hajmi kitob kattaligidek hajmgacha kichraydi, massasi esa 3,5 kg gacha kamaydi. 1981-yil IBM (Ay-Bi-Em) firmasi shaxsiy K.ning yanada takomillashgan modellarini ishlab chiqara boshladi. Keyinchalik boshqa firmalar IBM bilan PC biriktirilgan K.ni, Apple firmasi esa Macintosh ("Makintosh") yoki oddiygina "maki" deb ataladigan K. ni yaratishdi. 21-asr boshlarida dunyoda oʻnlab mln. shaxsiy K.lar, 1 mln.ga yaqin EHM (shu jumladan, bir necha oʻn superEHM) boʻlgan. K.lar masalalarni yechishda foydalaniladigan komponentlar (tarkibiy qismlar) tarkibi va tavsifi jihatdan bir-biridan farq qiladi. Murakkab masalalarni yechishda kuchli qurilmalar oʻrnatilgan K.dan, xujjatlarni bosishda harf bosish qurilmasi boʻlgan K.dan foydalaniladi. Istalgan K. tizimlar bloki, monitor va klaviaturadan iborat boʻladi. Kerak boʻlganda bulardan tashqari boshqa qurilmalar ham ulanadi. Tizimlar bloki da K.ning ishlashi uchun zarur muhim qismlar (diskni yuritkich, vinchester — qattiq disk, mantiqiy amallarni bajaruvchi mikrosxemalar) boʻlib, unga qolgan qurilmalar ulanadi. Monitor {displey) matn va turli tasvir kurinishidagi axborotlarni ekranda aks ettiradi. Klaviatura K.ga buyruq va turli axborotlarni kiritadi. Koʻpincha, K. tarkibiga "sichqon" manipulyatori va printer kiritiladi. "Sichqon" ikki yoki uchta knopkasi (tugmasi) boʻlgan qurilma boʻlib, uning yordamida K. ishini osonlashtiradi. Printer esa axborotlarni qogʻozga tushirish uchun xizmat qiladi. Zamonaviy K.lar, asosan, toʻrt qurilma: boshqarish, protsessor, xotira va kiritish-chiqarish qurilmalaridan iborat. Boshqarish qurilmasi K.ning barcha qurilmalari ishini muvofiklashtiradi va boshqaradi. Protsessor K.ning asosiy qurilmasi boʻlib, axborotlarga ishlov beradi, yaʼni hisoblash amallari, solishtirish va uzatish kabi arifmetikmantiqiy amallarni bajaradi. Bu qurilma bajaradigan amallar dasturlar orqali belgilanadi. Xotira qurilmasi axborotlarga ishlov berish vaqtida uni saqlash uchun xizmat qiladi. Foydalanayotgan dasturlar ichki xotirada, uzoq, muddat saqlanadigan axborotlar tashqi xotira (disketalar)da saqlanadi. Ichki va tashqi xotiralarda axborot almashinuvi kiritish-ch iqarish qurilmalari yordamida amalga oshiriladi.
+
+K. oʻyinlari ham keng tarqalgan. Ularning mingdan ortiq xili mavjud; ular yordamida koʻp narsalarni amaliy bilib olish va amaliy tajribalarni orttirish mumkin (qarang Kompyuter oʻyinlari). K.ning universalligi axborotni aniq maqsad yoʻlida qayta ishlay olishiga, inson faoliyatining turli sohalarida ishlab chiqarishni tubdan oʻzgartirishga, kishilarning ishini osonlashtirishga imkon beradi. Ob-havoni oldindan aytib berishda meteostansiyalar va sunʼiy yoʻldoshlardan keladigan axborotlarni yigʻib va tahlil qilib, juda katta hisoblash ishlarini bajaradi va inson uchun qulay boʻlgan shaklda ifodalaydi (qarang Intranet, Internet, Kompyuter tarmogʻi).
+
+
+Mundarija
+1	Adabiyot
+2	Manbalar
+3	Tarixi
+4	Manbalar
+Adabiyot
+Xolmatov T., Taylaqov N., Informatika va hisoblash texnikasi T., 2001.[1]
+Manbalar
+ OʻzME. Birinchi jild. Toshkent, 2000-yil
+Tarixi
+Elektron hisoblash mashinalari (EHM) davri 4 avloddan iborat boʻlib, ular quyidagi alomatlari bilan farqlanadi: asosiy tashkil etuvchi elementi, tezkorligi, tezkor xotirasi hajmi, kiritish-chiqarish qurilmasi, dasturiy taʼminoti.
+
+1947-yilda Bell laboratoriyasinig xodimlari amerikalik Uilyam Shokli, Jon Bardin va Uolter Bratteyn tomonidan elektron lampa ishini bajara oladigan tranzistor ishlab chiqildi. Endi bu element asosida EHMlar oʻlchami, vazni va energiya sarfi minglab baravar kamaydi, tezligi oʻnlab marotaba ortdi. Bu kashfiyot uchun ular 1956-yilda Nobel mukofotiga sazovor boʻlishdi. 1957-yilda Texas Instruments firmasi xodimi Jek Kilbi mantiqiy elementlardan tuzilgan birinchi integral sxemani ishlab chiqdi. Tranzistor va integral sxemaning kashfiyoti tufayli qisqa davr ichida EHMlarning quyidagi jadvalda qiyoslamasi berilgan toʻrt avlodi ishlab chiqarilgan.
+
+Avlodlar	Asosiy
+element
+
+Amal bajarish
+tezligi
+
+Kiritish-chiqarish qurilmasi	Dasturiy taʼminot	Shu avlod
+EHMiga misol
+
+1-avlod
+1946-1955
+
+Elektron
+lampa
+
+1 sekundda
+10-20 ming
+
+Boshqarish pulti, perfokarta	Mashina tili, dasturlash tili	ENIAC, MESM,
+MINSK-1, URAL
+
+2-avlod
+1956-1965
+
+Tranzistor	1 sekundda
+100-500 ming
+
+Perfokarta,
+perfolenta, magnitli baraban
+
+Dispetcher va paket sistemasi,	IBM 707, BESM-6
+MINSK-22
+
+3-avlod
+1966-1974
+
+Integral
+sxema
+
+1 sekundda
+2×106 gacha
+
+Videoterminal
+sistemasi
+
+Operatsion sistemalar	IBM 360,
+EC-1030
+
+4-avlod
+1975 -…
+
+Katta
+integral
+
+sxema
+
+1 sekundda 108
+va yuqori
+
+Rangli grafik displey	Maʼlumotlar ombori, ekspert sistemasi	PRAVETS, IBM,
+Pentium
+
+Narxi qimmat hamda oʻlchami katta EHMlarga koʻp sonli muhandislar va dasturchilar xizmat koʻrsatishgan. Bunday hisoblash mashinalarining oddiy inson xonadoniga kirib kelishi uchun narxini arzonlashtirish, oʻlchamlarini kichiklashtirish, oʻrnatilgan dastur asosida dasturchilarsiz mustaqil ishlatilishi mumkin boʻlgan holatga keltirish zarur boʻldi. Bu rivojlanish shaxsiy kompyuter (PC – Personal Compyuter) atamasi bilan bogʻlangan.
+
+Kompyuter deganda dastur asosida axborotlarni katta tezlikda qayta ishlashni taʼminlovchi universal avtomatik qurilmani tushunish mumkin.
+
+Birinchi shaxsiy kompyuter 1973-yilda Fransiyada Truong Trong Ti tomonidan ishlab chiqilgan. Avvaliga mazkur shaxsiy kompyuter elektron oʻyinchoq sifatida qabul qilindi. Bu kompyuter 1977-yilda amerikalik Stiv Jobs boshchiligidagi „Apple Computer“ firmasi tomonidan mukammallashtirildi hamda dasturlarning katta majmuini tatbiq etib ommaviy ravishda ishlab chiqarila boshlandi. Shundan beri kompyuter hayotimizda mustahkam joylashib, axborotni qayta ishlashning eng zamonaviy vositasiga aylandi.
+
+Hozirgi kunda xilma-xil zamonaviy kompyuterlar insonga xolis xizmat qilmoqda. Ular­ning tashqi koʻrinishlari ham turlicha. Lekin kompyuterlarni tashkil etuvchi qurilmalar (yaʼni apparatli taʼminoti) bilan yaqindan tanishsak, turli turkumdagi mashinalardagi qurilmalarda oʻxshashlik borligini koʻramiz. Har qanday kompyu­terning apparatli taʼminoti asosiy va qoʻshimcha qurilmalardan tashkil topgan. Asosiy qurilmalar kompyuter ishlashini taʼminlasa, qoʻshimcha qurilmalar kompyuterdan foydalanishda qulayliklar va qoʻshimcha imkoniyatlar beradi.
+
+Kompyuterning asosiy qurilmalariga sistema bloki, monitor va klaviatura kiradi. Qoʻshimcha qurilmalarga sichqoncha manipulyatori, printer, plotter, skaner, modem, web-kamera va boshqalar misol boʻladi.
+
+Sistema bloki, asosan, gʻilof, asosiy plata (ona plata yoki sistema platasi), protsessor, xotira qurilmalari va mikrosxemalar, quvvat blokidan iborat.
+
+Asosiy plata yaxlit asosga yigʻilgan elektron sxemalar boʻlib, unga baʼzi qurilmalar axborot almashish sistema magistrali – shinalar (simlarining oʻramlari) yordamida bogʻlanadi. Shinalar kompyuter-ning hamma qurilmalariga parallel holda ulanadi. Kompyuter ishida uch xil shina xizmat koʻrsatadi: berilganlar (berilgan maʼlumotlar) shinasi, adreslar shinasi, boshqarish shinasi. Asosiy platada mikroprotsessor, xotira qurilmalari va mikrosxemalar, ovoz, video va tarmoq platalari ham joylashadi. Ular asosiy plataning maxsus slot (qirqim)lariga ulanadi.
+
+Diskyurituvchi, printer, flash-xotira kabi qurilmalar portlar deb yuritiluvchi asosiy platadagi maxsus joylarga ulanadi. Bu qurilmalarni boshqarish uchun asosiy platada kontrollerlar deb ataluvchi elektron sxemalar mavjud. Portlar parallel (LPT), ketma-ket (COM) va universal ketma-ket (USB) turlarga boʻlinadi. Ketma-ket port protsesordan maʼlumotlarni baytlarda oladi va qurilmalarga bitlarda uzatadi, paralelel port esa baytlarda olib baytlarda uzatadi. Odatda, sichqoncha va modem ketma-ket portlarga, printer parallel portga ulanadi. Juda koʻp asosiy platalarda sichqoncha va klaviatura doiracha shaklidagi PS/2 boʻlmaga ulanadi. Hozirgi kunda universal ketma-ket portga sichqoncha, klaviatura va boshqa qurilmalarni ulash imkoni bor.
+
+Odatda, asosiy plataning ajralmas qismi sifatida qaraladigan doimiy xotira qurilmasi (DXQ, ing. ROM – Read Only Memory – faqat oʻqish uchun xotira) mikrosxema koʻrinishida tashkil etilgan boʻlib, quvvat manbaiga bogʻliq boʻlmagan holda maʼlumotlarni saqlash uchun xizmat qiladi. Doimiy xotira qurilmasida kompyuterning kiritish-chiqarish asosiy sistemasi (BIOS – Basic Input-Output System) haqidagi doimiy axborot saqlanadi.
+
+Protsessorni mikroprotsessor yoki CPU (yaʼni, Central Processing Unit-markaziy protsessor) deb ham atashadi. Protsessor arifmetik va mantiqiy amallar bajaradi, xotira bilan bogʻlanadi va barcha qurilmalar ishini boshqaradi.
+
+Zamonaviy kompyuterlarda protsessor vazifasini kvadratdan ham kichik yuzali yagona yarim oʻtkazgichli kristalda (kremniy yoki germaniy) joylashgan millionlab mitti tranzistorlardan tashkil topgan mikroprotsessor, yaʼni oʻta zich integral sxema, bajarmoqda. Misol sifatida koʻradigan boʻlsak, Intel Pentium Pro mikroprotsessori oʻz ichida 5,5 milliondan ortiq tranzistorlarni saqlaydi.
+
+Protsessorning ish unumdorligi uning tezligi (taktli chastota) va raz­ryadlar soni bilan belgilanadi. Tezlik protsessorning 1 sekundda bajargan amallar miqdori bilan belgilanadi va Gs (gers) bilan ifodalanadi. Masalan, i8086 protsessori 10 MGs (sekundiga 10 million amal) tezlikka ega boʻlsa, Intel Pentium IV protsessori uchun bu koʻrsatkich 1700 MGs va undan yuqoridir. Protsessor­ning razryadlari soni uning bir vaqtning oʻzida baravariga ishlashi mumkin boʻlgan bitlar miqdori bilan aniqlanadi. Hozirgi kunda 16, 32, 64, 128 razryadli protsessorlar keng qoʻllanilmoqda. Protsessorning tezligini oshirish maqsadida hozirgi vaqtda kesh-xotira, turli matematik soprotsessorlar kabi vositalardan foydalanish yoʻlga qoʻyilgan. Shu kunlarda protsessorlarning koʻp yadroli turlari ishlatilmoqda.
+
+Protsessor, asosan, quyidagi qismlardan iborat:
+
+arifmetik-mantiqiy qurilma;
+maʼlumotlar va adreslar shinasi;
+registrlar;
+buyruq jamlagichi;
+kesh, yaʼni kichik hajmli oʻta tezkor xotira;
+qoʻzgʻaluvchan vergulli sonlar matematik soprotsessori.
+Aniq protsessorga mos i80386, 16/32 yozuvi, ushbu protsessor 16 razryadli berilganlar shinasi va 32 razryadli adreslar shinasiga ega ekanligini, yaʼni bir vaqtning oʻzida 16 bit axborot va 232= 4 Gbayt hajmdagi adreslar (adreslar sohasi) bilan ishlash imkoniyati mavjudligini bildiradi.
+
+Protsessorning asosiy ishi tezkor xotira qurilmasida joylashgan dasturdan navbatdagi buyruqni oʻqish va bajarish, natijani yozib qoʻyish hamda keyingi bajariladigan buyruqni aniqlashdan iborat takrorlanuvchi jarayondir. Bundan tashqari protsessor dastur mazmunidagi boshqa­rishni amalga oshirish, maʼlumotlarni zarur joydan oʻqish, lozim joyga yozish, kerak joyga uzatish, boshqa qurilmalarning ishlashini muvofiqlashtirish vazifasini ham bajaradi.
+
+Demak, protsessor berilgan dastur va zarur maʼlumotlar asosida inson aralashuvisiz kompyuterning avtomatik ishlashini taʼminlovchi qurilma ekan.
+
+Tezkor xotira qurilmasida (TXQ) ishlash jarayonida protsessor foydalanadigan barcha axborotlar va dasturlar saqlanadi. Uni tezkor deyilishiga sabab boshqa xotiralarga nisbatan axborot almashinuvi minglab yoki millionlab marotaba tezdir. Tezkor xotira qurilmasida saqlanayotgan maʼlumotlar kompyuter elektr manbaidan uzilganda yoki qayta yuklanganda oʻchib ketadi.
+
+Tezkor xotira qurilmasi registrlardan tashkil topgan. Registr – maʼlumotlarni ikkilik shaklida vaqtinchalik saqlab turish uchun moʻljallangan qurilma. Har bir registr oʻz navbatida triggerlardan tashkil topadi. Trigger mitti elektron sxema boʻlib, u elektr toki bilan zaryadlangan holda „1“ ni, zaryadlanmagan holatda „0“ ni ifodalaydi. Registrdagi triggerlarning miqdori kompyuterning necha razryadli ekanini belgilaydi. Registrlar uyachalar (yacheykalar) deb ham yuritiladi. Uyachalarning har bir razryadida bir bit axborot  joylashadi (yaʼni 0 yoki 1). 8 bit axborot birlashganda 1 bayt miqdordagi axborotni hosil qiladi. Har bir bayt oʻz tartib raqamiga,  yaʼni adresiga ega boʻladi. Uyachaning  sigʻimi mashina soʻzi uzunligini belgilab beradi. Mashina soʻzining uzunligi baytlarda oʻlchanadi. Mashina soʻzining uzunligi 2, 4, 8 baytga teng boʻlishi mumkin. Demak, ketma-ket joylashgan ikki, toʻrt yoki sakkiz bayt birlashib, bitta mashina soʻzini tashkil etishi mumkin ekan. Har bir xotira uyachasi ham oʻz adresiga ega, u esa shu uya­chadagi boshlangʻich bayt adresi bilan ifo­dalanadi. Tezkor xotira qurilmasining boshqacha nomi – RAM (Random Access Memory – tanlov boʻyicha ixtiyoriy kirishli xotira), chunki undagi istalgan adresli uyachaga toʻgʻridan-toʻgʻri oʻtish imkoniyati mavjud.
+
+Tovush, video va tarmoq platalari asosiy plataga joylashtirilgan yoki alohida boʻlishi mumkin. Bu platalar protsessor ishini tezlashtirish hamda zaruriy sifat koʻrsatkichiga erishish maqsadida ishlatiladi.
+
+Tovush platasi (ing. Sound adapter, adapter-moslashtiruvchi) – axborot saqlagichlarga yozilgan raqamli audioaxborotni tovushlarga aylantirib beruvchi qurilma. Qurilmaning chiqish qismiga ovoz kuchaytirgich yoki karnaylarni ulash mumkin. Tovush platasi oʻz mikroprotsessoriga ega boʻlib, tovushni kiritishda analog-raqamli oʻzgartirish va chiqarishida diskret-analogli oʻzgartirishni taʼminlaydi.
+
+Video-plata (ing. Graphics adapter) – murakkab tasvirlar va millionlab ranglarni qayta ishlashni taʼminlab beruvchi plata. Bu plata oʻz mikroprotsessori va tezkor xotirasiga ega boʻladi. Zamonaviy video-karta hajmli va uch oʻlchovli grafika bilan ishlash imkoniyatiga ega. Hozirgi kundagi juda koʻp dasturlar va oʻyinlar 64 Mb yoki 128 Mb sigʻimli video-kartalar bilangina ishlaydi.

@@ -1,0 +1,882 @@
+
+Immanuel Kant
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"Kant" redirects here. For other uses, see Kant (disambiguation).
+Immanuel Kant
+Kant gemaelde 3.jpg
+Born	22 April 1724
+Königsberg, Prussia
+Died	12 February 1804 (aged 79)
+Königsberg, Prussia
+Nationality	Prussian
+Education	Collegium Fridericianum
+University of Königsberg
+(B.A.; M.A., April 1755; PhD, September 1755; PhD,[1] August 1770)
+Era	Age of Enlightenment
+Region	Western philosophy
+School	
+Kantianism
+Enlightenment philosophy
+German idealism[2]
+Foundationalism[3]
+Metaphysical conceptualism[4]
+Perceptual non-conceptualism[5][6]
+Transcendental idealism
+Empirical realism
+Correspondence theory of truth[7]
+Liberal naturalism[8]
+Kantian ethics
+Classical liberalism
+Institutions	University of Königsberg
+Theses	
+Principiorum primorum cognitionis metaphysicae nova dilucidatio (A New Elucidation of the First Principles of Metaphysical Cognition) (September 1755)
+[Immanuel Kant, p. PA123, at Google Books De mundi sensibilis atque intelligibilis forma et principiis (Dissertation on the Form and Principles of the Sensible and the Intelligible World)] (August 1770)
+Academic advisors	Martin Knutzen, Johann Gottfried Teske (M.A. advisor), Konrad Gottlieb Marquardt[9]
+Notable students	Jakob Sigismund Beck, Johann Gottlieb Fichte
+Main interests
+EpistemologyMetaphysicsEthicsAestheticsCosmogony
+Notable ideas
+Abstract–concrete distinction[10]
+Aesthetic–teleological judgments
+Analytic–synthetic distinction
+Categorical and hypothetical imperative
+Categories
+Cosmotheology
+Critical philosophy
+Empirical realism
+Kant's antinomies
+Kant's pitchfork
+Kingdom of Ends
+Mathematical and dynamical sublimity[11]
+Nebular hypothesis
+Noogony and noology
+Noumenon/thing-in-itself
+Ontotheology
+Primacy of the practical[12]
+Public reason
+Rechtsstaat
+Sapere aude
+Transcendental schema
+Transcendental idealism
+Transcendental theology
+Understanding–reason distinction
+Influences[show]
+Influenced[show]
+Signature
+Immanuel Kant signature.svg
+Part of a series on
+Immanuel Kant
+Immanuel Kant
+Major works
+Critique of Pure Reason
+Prolegomena to Any Future Metaphysics
+Answering the Question: What is Enlightenment?
+Groundwork of the Metaphysic of Morals
+Critique of Practical Reason
+Critique of Judgment
+Religion within the Bounds of Bare Reason
+Perpetual Peace: A Philosophical Sketch
+The Metaphysics of Morals
+KantianismKantian ethics
+Transcendental idealism Critical philosophy Sapere aude Thing-in-itself Schema A priori and a posteriori Analytic–synthetic distinction Noumenon Categories Categorical imperative Hypothetical imperative "Kingdom of Ends" Political philosophy
+People
+George Berkeley René Descartes J. G. Fichte F. H. Jacobi G. W. F. Hegel David Hume Arthur Schopenhauer Baruch Spinoza African Spir Johannes Tetens
+Related topics
+Schopenhauer's criticism German idealism Neo-Kantianism
+vte
+Immanuel Kant (/kænt/;[15] German: [ʔɪˈmaːnu̯eːl ˈkant, -nu̯ɛl -];[16][17] 22 April 1724 – 12 February 1804) was an influential German philosopher.[18] In his doctrine of transcendental idealism, he argued that space, time and causation are mere sensibilities; "things-in-themselves" exist, but their nature is unknowable.[19][20] In his view, the mind shapes and structures experience, with all human experience sharing certain structural features. He drew a parallel to the Copernican revolution in his proposition that worldly objects can be intuited a priori ('beforehand'), and that intuition is therefore independent from objective reality.[21] Kant believed that reason is the source of morality, and that aesthetics arise from a faculty of disinterested judgment. Kant's views continue to have a major influence on contemporary philosophy, especially the fields of epistemology, ethics, political theory, and post-modern aesthetics.
+
+In one of Kant's major works, the Critique of Pure Reason (1781),[22] he attempted to explain the relationship between reason and human experience and to move beyond the failures of traditional philosophy and metaphysics. Kant wanted to put an end to an era of futile and speculative theories of human experience, while resisting the skepticism of thinkers such as David Hume. Kant regarded himself as showing the way past the impasse between rationalists and empiricists which philosophy had led to,[23] and is widely held to have synthesized both traditions in his thought.[24]
+
+Kant was an exponent of the idea that perpetual peace could be secured through universal democracy and international cooperation. He believed that this would be the eventual outcome of universal history, although it is not rationally planned.[25] The nature of Kant's religious ideas continues to be the subject of philosophical dispute, with viewpoints ranging from the impression that he was an initial advocate of atheism who at some point developed an ontological argument for God, to more critical treatments epitomized by Nietzsche, who claimed that Kant had "theologian blood"[26] and was merely a sophisticated apologist for traditional Christian faith.[a]
+
+Kant published other important works on ethics, religion, law, aesthetics, astronomy, and history. These include the Universal Natural History (1755), the Critique of Practical Reason (1788), the Metaphysics of Morals (1797), and the Critique of Judgment (1790), which looks at aesthetics and teleology.
+
+
+Contents
+1	Biography
+1.1	Young scholar
+1.2	Early work
+1.3	Work hiatus
+1.4	Later work and death
+2	Philosophy
+2.1	Theory of perception
+2.2	Categories of the Faculty of Understanding
+2.3	Transcendental schema doctrine
+2.4	Moral philosophy
+2.4.1	First formulation
+2.4.2	Second formulation
+2.4.3	Third formulation
+2.4.4	Religion Within the Limits of Reason
+2.4.5	Idea of freedom
+2.4.6	Categories of freedom
+2.5	Aesthetic philosophy
+2.6	Political philosophy
+3	Anthropology
+4	Influence
+4.1	Historical influence
+4.2	Influence on modern thinkers
+5	Personal legacy
+6	Tomb and statue
+7	Bibliography
+7.1	List of major works
+7.2	Collected works in German
+8	See also
+9	Notes
+10	References and footnotes
+10.1	Works cited
+11	Further reading
+12	External links
+Biography
+Kant's mother, Anna Regina Reuter[28] (1697–1737), was born in Königsberg (since 1946 the city of Kaliningrad, Kaliningrad Oblast, Russia) to a father from Nuremberg. Her surname is sometimes erroneously given as Porter. Kant's father, Johann Georg Kant (1682–1746), was a German harness maker from Memel, at the time Prussia's most northeastern city (now Klaipėda, Lithuania). Kant believed that his paternal grandfather Hans Kant was of Scottish origin.[29] While scholars of Kant's life long accepted the claim, there is no evidence that Kant's paternal line was Scottish and it is more likely that the Kants got their name from the village of Kantwaggen (today part of Priekulė) and were of Curonian origin.[30][31] Kant was the fourth of nine children (four of whom reached adulthood).[32]
+
+Kant was born on 22 April 1724 into a Prussian German family of Lutheran Protestant faith in Königsberg, East Prussia. Baptized Emanuel, he later changed his name to Immanuel[33] after learning Hebrew. He was brought up in a Pietist household that stressed religious devotion, humility, and a literal interpretation of the Bible.[citation needed] His education was strict, punitive and disciplinary, and focused on Latin and religious instruction over mathematics and science.[34] Kant maintained Christian ideals for some time, but struggled to reconcile the faith with his belief in science.[35] In his Groundwork of the Metaphysic of Morals, he reveals a belief in immortality as the necessary condition of humanity's approach to the highest morality possible.[36][37] However, as Kant was skeptical about some of the arguments used prior to him in defence of theism and maintained that human understanding is limited and can never attain knowledge about God or the soul, various commentators have labelled him a philosophical agnostic.[38][39][40][41][42][43]
+
+Common myths about Kant's personal mannerisms are listed, explained, and refuted in Goldthwait's introduction to his translation of Observations on the Feeling of the Beautiful and Sublime.[44] It is often held that Kant lived a very strict and disciplined life, leading to an oft-repeated story that neighbors would set their clocks by his daily walks. He never married, but seemed to have a rewarding social life — he was a popular teacher and a modestly successful author even before starting on his major philosophical works. He had a circle of friends with whom he frequently met, among them Joseph Green, an English merchant in Königsberg.
+
+A common myth is that Kant never traveled more than 16 kilometres (9.9 mi) from Königsberg his whole life.[45] In fact, between 1750 and 1754 he worked as a tutor (Hauslehrer) in Judtschen[46] (now Veselovka, Russia, approximately 20 km) and in Groß-Arnsdorf[47] (now Jarnołtowo near Morąg (German: Mohrungen), Poland, approximately 145 km).
+
+Young scholar
+Kant showed a great aptitude for study at an early age. He first attended the Collegium Fridericianum from which he graduated at the end of the summer of 1740. In 1740, aged 16, he enrolled at the University of Königsberg, where he spent his whole career.[48] He studied the philosophy of Gottfried Leibniz and Christian Wolff under Martin Knutzen (Associate Professor of Logic and Metaphysics from 1734 until his death in 1751), a rationalist who was also familiar with developments in British philosophy and science and introduced Kant to the new mathematical physics of Isaac Newton. Knutzen dissuaded Kant from the theory of pre-established harmony, which he regarded as "the pillow for the lazy mind".[49] He also dissuaded Kant from idealism, the idea that reality is purely mental, which most philosophers in the 18th century regarded in a negative light. The theory of transcendental idealism that Kant later included in the Critique of Pure Reason was developed partially in opposition to traditional idealism.
+
+His father's stroke and subsequent death in 1746 interrupted his studies. Kant left Königsberg shortly after August 1748[50]—he would return there in August 1754.[51] He became a private tutor in the towns surrounding Königsberg, but continued his scholarly research. In 1749, he published his first philosophical work, Thoughts on the True Estimation of Living Forces (written in 1745–47).[52]
+
+Early work
+Kant is best known for his work in the philosophy of ethics and metaphysics,[53] but he made significant contributions to other disciplines. In 1754, while contemplating on a prize question by the Berlin Academy about the problem of Earth's rotation, he argued that the Moon's gravity would slow down Earth's spin and he also put forth the argument that gravity would eventually cause the Moon's tidal locking to coincide with the Earth's rotation.[b][55] The next year, he expanded this reasoning to the formation and evolution of the Solar System in his Universal Natural History and Theory of the Heavens.[55]
+
+
+Kant's house in Königsberg
+In the Universal Natural History, Kant laid out the Nebular hypothesis, in which he deduced that the Solar System had formed from a large cloud of gas, a nebula. Kant also correctly deduced (though through usually false premisses and fallacious reasoning, according to Bertrand Russell[56]) that the Milky Way was a large disk of stars, which he theorized formed from a much larger spinning gas cloud. He further suggested that other distant "nebulae" might be other galaxies. These postulations opened new horizons for astronomy, for the first time extending it beyond the Solar System to galactic and intergalactic realms.[57] According to Thomas Huxley (1867), Kant also made contributions to geology in his Universal Natural History.[citation needed]
+
+From then on, Kant turned increasingly to philosophical issues, although he continued to write on the sciences throughout his life. In the early 1760s, Kant produced a series of important works in philosophy. The False Subtlety of the Four Syllogistic Figures, a work in logic, was published in 1762. Two more works appeared the following year: Attempt to Introduce the Concept of Negative Magnitudes into Philosophy and The Only Possible Argument in Support of a Demonstration of the Existence of God. In 1764, Kant wrote Observations on the Feeling of the Beautiful and Sublime and then was second to Moses Mendelssohn in a Berlin Academy prize competition with his Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality (often referred to as "The Prize Essay"). In 1766 Kant wrote Dreams of a Spirit-Seer which dealt with the writings of Emanuel Swedenborg. The exact influence of Swedenborg on Kant, as well as the extent of Kant's belief in mysticism according to Dreams of a Spirit-Seer, remain controversial.[14] On 31 March 1770, aged 45, Kant was finally appointed Full Professor of Logic and Metaphysics (Professor Ordinarius der Logic und Metaphysic) at the University of Königsberg. In defense of this appointment, Kant wrote his inaugural dissertation (Inaugural-Dissertation) De Mundi Sensibilis atque Intelligibilis Forma et Principiis (On the Form and Principles of the Sensible and the Intelligible World).[1] This work saw the emergence of several central themes of his mature work, including the distinction between the faculties of intellectual thought and sensible receptivity. To miss this distinction would mean to commit the error of subreption, and, as he says in the last chapter of the dissertation, only in avoiding this error does metaphysics flourish.
+
+The issue that vexed Kant was central to what 20th-century scholars called "the philosophy of mind". The flowering of the natural sciences had led to an understanding of how data reaches the brain. Sunlight falling on an object is reflected from its surface in a way that maps the surface features (color, texture, etc.). The reflected light reaches the human eye, passes through the cornea, is focused by the lens onto the retina where it forms an image similar to that formed by light passing through a pinhole into a camera obscura. The retinal cells send impulses through the optic nerve and then they form a mapping in the brain of the visual features of the object. The interior mapping is not the exterior object, and our belief that there is a meaningful relationship between the object and the mapping in the brain depends on a chain of reasoning that is not fully grounded. But the uncertainty aroused by these considerations, by optical illusions, misperceptions, delusions, etc., are not the end of the problems.
+
+Kant saw that the mind could not function as an empty container that simply receives data from outside. Something must be giving order to the incoming data. Images of external objects must be kept in the same sequence in which they were received. This ordering occurs through the mind's intuition of time. The same considerations apply to the mind's function of constituting space for ordering mappings of visual and tactile signals arriving via the already described chains of physical causation.
+
+It is often claimed that Kant was a late developer, that he only became an important philosopher in his mid-50s after rejecting his earlier views. While it is true that Kant wrote his greatest works relatively late in life, there is a tendency to underestimate the value of his earlier works. Recent Kant scholarship has devoted more attention to these "pre-critical" writings and has recognized a degree of continuity with his mature work.[58]
+
+Work hiatus
+At age 46, Kant was an established scholar and an increasingly influential philosopher, and much was expected of him.
+
+In correspondence with his ex-student and friend Markus Herz, Kant admitted that, in the inaugural dissertation, he had failed to account for the relation between our sensible and intellectual faculties. He needed to explain how we combine what is known as sensory knowledge with the other type of knowledge—i.e. reasoned knowledge—these two being related but having very different processes.
+
+Kant also credited David Hume with awakening him from a "dogmatic slumber".[59] Hume had stated that experience consists only of sequences of feelings, images or sounds. Ideas such as "cause", goodness, or objects were not evident in experience, so why do we believe in the reality of these? Kant felt that reason could remove this skepticism, and he set himself to solving these problems. He did not publish any work in philosophy for the next 11 years.
+
+
+Immanuel Kant
+Although fond of company and conversation with others, Kant isolated himself, and resisted friends' attempts to bring him out of his isolation. It has been noted that in 1778, in response to one of these offers by a former pupil, Kant wrote:
+
+Any change makes me apprehensive, even if it offers the greatest promise of improving my condition, and I am persuaded by this natural instinct of mine that I must take heed if I wish that the threads which the Fates spin so thin and weak in my case to be spun to any length. My great thanks, to my well-wishers and friends, who think so kindly of me as to undertake my welfare, but at the same time a most humble request to protect me in my current condition from any disturbance.[60]
+
+When Kant emerged from his silence in 1781, the result was the Critique of Pure Reason. Although now uniformly recognized as one of the greatest works in the history of philosophy, this Critique was largely ignored upon its initial publication. The book was long, over 800 pages in the original German edition, and written in a convoluted style. It received few reviews, and these granted it no significance. Kant's former student, Johann Gottfried Herder criticized it for placing reason as an entity worthy of criticism instead of considering the process of reasoning within the context of language and one's entire personality.[61] Similar to Christian Garve and Johann Georg Heinrich Feder, he rejected Kant's position that space and time possessed a form that could be analyzed. Additionally, Garve and Feder also faulted Kant's Critique for not explaining differences in perception of sensations.[62] Its density made it, as Herder said in a letter to Johann Georg Hamann, a "tough nut to crack", obscured by "all this heavy gossamer".[63] Its reception stood in stark contrast to the praise Kant had received for earlier works, such as his Prize Essay and shorter works that preceded the first Critique. These well-received and readable tracts include one on the earthquake in Lisbon that was so popular that it was sold by the page.[64] Prior to the change in course documented in the first Critique, his books sold well, and by the time he published Observations on the Feeling of the Beautiful and Sublime in 1764 he had become a notable popular author.[65] Kant was disappointed with the first Critique's reception. Recognizing the need to clarify the original treatise, Kant wrote the Prolegomena to any Future Metaphysics in 1783 as a summary of its main views. Shortly thereafter, Kant's friend Johann Friedrich Schultz (1739–1805) (professor of mathematics) published Erläuterungen über des Herrn Professor Kant Critik der reinen Vernunft (Königsberg, 1784), which was a brief but very accurate commentary on Kant's Critique of Pure Reason.
+
+Kant's reputation gradually rose through the latter portion of the 1780s, sparked by a series of important works: the 1784 essay, "Answer to the Question: What is Enlightenment?"; 1785's Groundwork of the Metaphysics of Morals (his first work on moral philosophy); and, from 1786, Metaphysical Foundations of Natural Science. But Kant's fame ultimately arrived from an unexpected source. In 1786, Karl Leonhard Reinhold published a series of public letters on Kantian philosophy. In these letters, Reinhold framed Kant's philosophy as a response to the central intellectual controversy of the era: the Pantheism Dispute. Friedrich Jacobi had accused the recently deceased Gotthold Ephraim Lessing (a distinguished dramatist and philosophical essayist) of Spinozism. Such a charge, tantamount to atheism, was vigorously denied by Lessing's friend Moses Mendelssohn, leading to a bitter public dispute among partisans. The controversy gradually escalated into a debate about the values of the Enlightenment and the value of reason.
+
+Reinhold maintained in his letters that Kant's Critique of Pure Reason could settle this dispute by defending the authority and bounds of reason. Reinhold's letters were widely read and made Kant the most famous philosopher of his era.
+
+Later work and death
+Kant published a second edition of the Critique of Pure Reason (Kritik der reinen Vernunft) in 1787, heavily revising the first parts of the book. Most of his subsequent work focused on other areas of philosophy. He continued to develop his moral philosophy, notably in 1788's Critique of Practical Reason (known as the second Critique) and 1797's Metaphysics of Morals. The 1790 Critique of Judgment (the third Critique) applied the Kantian system to aesthetics and teleology. It was in this critique where Kant wrote one of his most popular statements, "it is absurd to hope that another Newton will arise in the future who will make comprehensible to us the production of a blade of grass according to natural laws".[66]
+
+In 1792, Kant's attempt to publish the Second of the four Pieces of Religion within the Bounds of Bare Reason, in the journal Berlinische Monatsschrift, met with opposition from the King's censorship commission, which had been established that same year in the context of the French Revolution.[67] Kant then arranged to have all four pieces published as a book, routing it through the philosophy department at the University of Jena to avoid the need for theological censorship.[67] This insubordination earned him a now famous reprimand from the King.[67] When he nevertheless published a second edition in 1794, the censor was so irate that he arranged for a royal order that required Kant never to publish or even speak publicly about religion.[67] Kant then published his response to the King's reprimand and explained himself, in the preface of The Conflict of the Faculties.[67]
+
+
+Kant with friends, including Christian Jakob Kraus, Johann Georg Hamann, Theodor Gottlieb von Hippel and Karl Gottfried Hagen
+He also wrote a number of semi-popular essays on history, religion, politics and other topics. These works were well received by Kant's contemporaries and confirmed his preeminent status in 18th-century philosophy. There were several journals devoted solely to defending and criticizing Kantian philosophy. Despite his success, philosophical trends were moving in another direction. Many of Kant's most important disciples and followers (including Reinhold, Beck and Fichte) transformed the Kantian position into increasingly radical forms of idealism. The progressive stages of revision of Kant's teachings marked the emergence of German Idealism. Kant opposed these developments and publicly denounced Fichte in an open letter in 1799.[68] It was one of his final acts expounding a stance on philosophical questions. In 1800, a student of Kant named Gottlob Benjamin Jäsche (1762–1842) published a manual of logic for teachers called Logik, which he had prepared at Kant's request. Jäsche prepared the Logik using a copy of a textbook in logic by Georg Friedrich Meier entitled Auszug aus der Vernunftlehre, in which Kant had written copious notes and annotations. The Logik has been considered of fundamental importance to Kant's philosophy, and the understanding of it. The great 19th-century logician Charles Sanders Peirce remarked, in an incomplete review of Thomas Kingsmill Abbott's English translation of the introduction to Logik, that "Kant's whole philosophy turns upon his logic."[69] Also, Robert Schirokauer Hartman and Wolfgang Schwarz, wrote in the translators' introduction to their English translation of the Logik, "Its importance lies not only in its significance for the Critique of Pure Reason, the second part of which is a restatement of fundamental tenets of the Logic, but in its position within the whole of Kant's work."[70]
+
+Kant's health, long poor, worsened and he died at Königsberg on 12 February 1804, uttering "Es ist gut (It is good)" before expiring.[71] His unfinished final work was published as Opus Postumum.
+
+Kant wrote a book discussing his theory of virtue in terms of independence which he believed was "a viable modern alternative to more familiar Greek views about virtue". This book is often criticized for its hostile tone and for not articulating his thoughts about autocracy comprehensibly. In the self-governance model of Aristotelian virtue, the non-rational part of the soul can be made to listen to reason through training. Although Kantian self-governance appears to involve "a rational crackdown on appetites and emotions" with lack of harmony between reason and emotion, Kantian virtue denies requiring "self-conquest, self-suppression, or self-silencing". They dispute that "the self-mastery constitutive of virtue is ultimately mastery over our tendency of will to give priority to appetite or emotion unregulated by duty, it does not require extirpating, suppressing, or silencing sensibility in general".[72]
+
+Philosophy
+Main article: Kantianism
+
+It has been suggested that this article be split into a new article titled Kantianism. (Discuss) (December 2018)
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Immanuel Kant" – news · newspapers · books · scholar · JSTOR (April 2017) (Learn how and when to remove this template message)
+In Kant's essay "Answering the Question: What is Enlightenment?", Kant defined the Enlightenment as an age shaped by the Latin motto Sapere aude ("Dare to be wise"). Kant maintained that one ought to think autonomously, free of the dictates of external authority. His work reconciled many of the differences between the rationalist and empiricist traditions of the 18th century. He had a decisive impact on the Romantic and German Idealist philosophies of the 19th century. His work has also been a starting point for many 20th century philosophers.
+
+Kant asserted that, because of the limitations of argumentation in the absence of irrefutable evidence, no one could really know whether there is a God and an afterlife or not. For the sake of morality and as a ground for reason, Kant asserted, people are justified in believing in God, even though they could never know God's presence empirically. He explained:
+
+All the preparations of reason, therefore, in what may be called pure philosophy, are in reality directed to those three problems only [God, the soul, and freedom]. However, these three elements in themselves still hold independent, proportional, objective weight individually. Moreover, in a collective relational context; namely, to know what ought to be done: if the will is free, if there is a God, and if there is a future world. As this concerns our actions with reference to the highest aims of life, we see that the ultimate intention of nature in her wise provision was really, in the constitution of our reason, directed to moral interests only.[73]
+
+
+Immanuel Kant by Carle Vernet (1758–1836)
+The sense of an enlightened approach and the critical method required that "If one cannot prove that a thing is, he may try to prove that it is not. If he fails to do either (as often occurs), he may still ask whether it is in his interest to accept one or the other of the alternatives hypothetically, from the theoretical or the practical point of view. Hence the question no longer is as to whether perpetual peace is a real thing or not a real thing, or as to whether we may not be deceiving ourselves when we adopt the former alternative, but we must act on the supposition of its being real."[74] The presupposition of God, soul, and freedom was then a practical concern, for "Morality, by itself, constitutes a system, but happiness does not, unless it is distributed in exact proportion to morality. This, however, is possible in an intelligible world only under a wise author and ruler. Reason compels us to admit such a ruler, together with life in such a world, which we must consider as future life, or else all moral laws are to be considered as idle dreams... ."[75]
+
+Kant drew a parallel between the Copernican revolution and the epistemology of his new transcendental philosophy. He never used the "Copernican revolution" phrase about himself, but it has often been applied to his work by others.[76]
+
+Kant's Copernican revolution involved two interconnected foundations of his "critical philosophy":
+
+the epistemology of transcendental idealism and
+the moral philosophy of the autonomy of practical reason.
+These teachings placed the active, rational human subject at the center of the cognitive and moral worlds. Kant argued that the rational order of the world as known by science was not just the accidental accumulation of sense perceptions.
+
+Conceptual unification and integration is carried out by the mind through concepts or the "categories of the understanding" operating on the perceptual manifold within space and time. The latter are not concepts,[77] but are forms of sensibility that are a priori necessary conditions for any possible experience. Thus the objective order of nature and the causal necessity that operates within it depend on the mind's processes, the product of the rule-based activity that Kant called, "synthesis." There is much discussion among Kant scholars about the correct interpretation of this train of thought.
+
+The 'two-world' interpretation regards Kant's position as a statement of epistemological limitation, that we are not able to transcend the bounds of our own mind, meaning that we cannot access the "thing-in-itself". However, Kant also speaks of the thing in itself or transcendental object as a product of the (human) understanding as it attempts to conceive of objects in abstraction from the conditions of sensibility. Following this line of thought, some interpreters have argued that the thing in itself does not represent a separate ontological domain but simply a way of considering objects by means of the understanding alone – this is known as the two-aspect view.
+
+The notion of the "thing in itself" was much discussed by philosophers after Kant. It was argued that because the "thing in itself" was unknowable, its existence must not be assumed. Rather than arbitrarily switching to an account that was ungrounded in anything supposed to be the "real," as did the German Idealists, another group arose to ask how our (presumably reliable) accounts of a coherent and rule-abiding universe were actually grounded. This new kind of philosophy became known as Phenomenology, and its founder was Edmund Husserl.
+
+With regard to morality, Kant argued that the source of the good lies not in anything outside the human subject, either in nature or given by God, but rather is only the good will itself. A good will is one that acts from duty in accordance with the universal moral law that the autonomous human being freely gives itself. This law obliges one to treat humanity – understood as rational agency, and represented through oneself as well as others – as an end in itself rather than (merely) as means to other ends the individual might hold. This necessitates practical self-reflection in which we universalize our reasons.
+
+These ideas have largely framed or influenced all subsequent philosophical discussion and analysis. The specifics of Kant's account generated immediate and lasting controversy. Nevertheless, his theses – that the mind itself necessarily makes a constitutive contribution to its knowledge, that this contribution is transcendental rather than psychological, that philosophy involves self-critical activity, that morality is rooted in human freedom, and that to act autonomously is to act according to rational moral principles – have all had a lasting effect on subsequent philosophy.
+
+Theory of perception
+Main article: Critique of Pure Reason
+Kant defines his theory of perception in his influential 1781 work the Critique of Pure Reason, which has often been cited as the most significant volume of metaphysics and epistemology in modern philosophy.[citation needed] Kant maintains that our understanding of the external world had its foundations not merely in experience, but in both experience and a priori concepts, thus offering a non-empiricist critique of rationalist philosophy, which is what has been referred to as his Copernican revolution.[78]
+
+Firstly, Kant distinguishes between analytic and synthetic propositions:
+
+Analytic proposition: a proposition whose predicate concept is contained in its subject concept; e.g., "All bachelors are unmarried," or, "All bodies take up space."
+Synthetic proposition: a proposition whose predicate concept is not contained in its subject concept; e.g., "All bachelors are alone," or, "All bodies have weight."
+An analytic proposition is true by nature of the meaning of the words in the sentence — we require no further knowledge than a grasp of the language to understand this proposition. On the other hand, a synthetic statement is one that tells us something about the world. The truth or falsehood of synthetic statements derives from something outside their linguistic content. In this instance, weight is not a necessary predicate of the body; until we are told the heaviness of the body we do not know that it has weight. In this case, experience of the body is required before its heaviness becomes clear. Before Kant's first Critique, empiricists (cf. Hume) and rationalists (cf. Leibniz) assumed that all synthetic statements required experience to be known.
+
+Kant contests this assumption by claiming that elementary mathematics, like arithmetic, is synthetic a priori, in that its statements provide new knowledge not derived from experience. This becomes part of his over-all argument for transcendental idealism. That is, he argues that the possibility of experience depends on certain necessary conditions — which he calls a priori forms — and that these conditions structure and hold true of the world of experience. His main claims in the "Transcendental Aesthetic" are that mathematic judgments are synthetic a priori and that space and time are not derived from experience but rather are its preconditions.
+
+Once we have grasped the functions of basic arithmetic, we do not need empirical experience to know that 100 + 100 = 200, and so it appears that arithmetic is analytic. However, that it is analytic can be disproved by considering the calculation 5 + 7 = 12: there is nothing in the numbers 5 and 7 by which the number 12 can be inferred.[citation needed] Thus "5 + 7" and "the cube root of 1,728" or "12" are not analytic because their reference is the same but their sense is not — the statement "5 + 7 = 12" tells us something new about the world. It is self-evident, and undeniably a priori, but at the same time it is synthetic. Thus Kant argued that a proposition can be synthetic and a priori.
+
+Kant asserts that experience is based on the perception of external objects and a priori knowledge.[79] The external world, he writes, provides those things that we sense. But our mind processes this information and gives it order, allowing us to comprehend it. Our mind supplies the conditions of space and time to experience objects. According to the "transcendental unity of apperception", the concepts of the mind (Understanding) and perceptions or intuitions that garner information from phenomena (Sensibility) are synthesized by comprehension. Without concepts, perceptions are nondescript; without perceptions, concepts are meaningless — thus the famous statement, "Thoughts without content are empty, intuitions (perceptions) without concepts are blind."[80]
+
+Kant also claims that an external environment is necessary for the establishment of the self. Although Kant would want to argue that there is no empirical way of observing the self, we can see the logical necessity of the self when we observe that we can have different perceptions of the external environment over time. By uniting these general representations into one global representation, we can see how a transcendental self emerges. "I am therefore conscious of the identical self in regard to the manifold of the representations that are given to me in an intuition because I call them all together my representations."[81]
+
+Categories of the Faculty of Understanding
+See also: Category (Kant)
+
+Kant statue in the School of Philosophy and Human Sciences (FAFICH) in the Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil
+Kant deemed it obvious that we have some objective knowledge of the world, such as, say, Newtonian physics. But this knowledge relies on synthetic, a priori laws of nature, like causality and substance. How is this possible? Kant's solution was that the subject must supply laws that make experience of objects possible, and that these laws are synthetic, a priori laws of nature that apply to all objects before we experience them. To deduce all these laws, Kant examined experience in general, dissecting in it what is supplied by the mind from what is supplied by the given intuitions. This is commonly called a transcendental deduction.[82]
+
+To begin with, Kant's distinction between the a posteriori being contingent and particular knowledge, and the a priori being universal and necessary knowledge, must be kept in mind. If we merely connect two intuitions together in a perceiving subject, the knowledge is always subjective because it is derived a posteriori, when what is desired is for the knowledge to be objective, that is, for the two intuitions to refer to the object and hold good of it for anyone at any time, not just the perceiving subject in its current condition. What else is equivalent to objective knowledge besides the a priori, (universal and necessary knowledge)? Before knowledge can be objective, it must be incorporated under an a priori category of understanding.[82][83]
+
+For example, if a subject says, "The sun shines on the stone; the stone grows warm," all he perceives are phenomena. His judgment is contingent and holds no necessity. But if he says, "The sunshine causes the stone to warm," he subsumes the perception under the category of causality, which is not found in the perception, and necessarily synthesizes the concept sunshine with the concept heat, producing a necessarily universally true judgment.[82]
+
+To explain the categories in more detail, they are the preconditions of the construction of objects in the mind. Indeed, to even think of the sun and stone presupposes the category of subsistence, that is, substance. For the categories synthesize the random data of the sensory manifold into intelligible objects. This means that the categories are also the most abstract things one can say of any object whatsoever, and hence one can have an a priori cognition of the totality of all objects of experience if one can list all of them. To do so, Kant formulates another transcendental deduction.[82]
+
+Judgments are, for Kant, the preconditions of any thought. Man thinks via judgments, so all possible judgments must be listed and the perceptions connected within them put aside, so as to make it possible to examine the moments when the understanding is engaged in constructing judgments. For the categories are equivalent to these moments, in that they are concepts of intuitions in general, so far as they are determined by these moments universally and necessarily. Thus by listing all the moments, one can deduce from them all of the categories.[82]
+
+One may now ask: How many possible judgments are there? Kant believed that all the possible propositions within Aristotle's syllogistic logic are equivalent to all possible judgments, and that all the logical operators within the propositions are equivalent to the moments of the understanding within judgments. Thus he listed Aristotle's system in four groups of three: quantity (universal, particular, singular), quality (affirmative, negative, infinite), relation (categorical, hypothetical, disjunctive) and modality (problematic, assertoric, apodeictic). The parallelism with Kant's categories is obvious: quantity (unity, plurality, totality), quality (reality, negation, limitation), relation (substance, cause, community) and modality (possibility, existence, necessity).[82]
+
+The fundamental building blocks of experience, i.e. objective knowledge, are now in place. First there is the sensibility, which supplies the mind with intuitions, and then there is the understanding, which produces judgments of these intuitions and can subsume them under categories. These categories lift the intuitions up out of the subject's current state of consciousness and place them within consciousness in general, producing universally necessary knowledge. For the categories are innate in any rational being, so any intuition thought within a category in one mind is necessarily subsumed and understood identically in any mind. In other words, we filter what we see and hear.[82]
+
+Transcendental schema doctrine
+See also: Schema (Kant)
+Kant ran into a problem with his theory that the mind plays a part in producing objective knowledge. Intuitions and categories are entirely disparate, so how can they interact? Kant's solution is the (transcendental) schema: a priori principles by which the transcendental imagination connects concepts with intuitions through time. All the principles are temporally bound, for if a concept is purely a priori, as the categories are, then they must apply for all times. Hence there are principles such as substance is that which endures through time, and the cause must always be prior to the effect.[82][84]
+
+Moral philosophy
+
+Immanuel Kant
+Kant developed his moral philosophy in three works: Groundwork of the Metaphysic of Morals (1785), Critique of Practical Reason (1788), and Metaphysics of Morals (1797).
+
+In Groundwork, Kant' tries to convert our everyday, obvious, rational[85] knowledge of morality into philosophical knowledge. The latter two works used "practical reason", which is based only on things about which reason can tell us, and not deriving any principles from experience, to reach conclusions which can be applied to the world of experience (in the second part of The Metaphysic of Morals).
+
+Kant is known for his theory that there is a single moral obligation, which he called the "Categorical Imperative", and is derived from the concept of duty. Kant defines the demands of moral law as "categorical imperatives". Categorical imperatives are principles that are intrinsically valid; they are good in and of themselves; they must be obeyed in all situations and circumstances, if our behavior is to observe the moral law. The Categorical Imperative provides a test against which moral statements can be assessed. Kant also stated that the moral means and ends can be applied to the categorical imperative, that rational beings can pursue certain "ends" using the appropriate "means". Ends based on physical needs or wants create hypothetical imperatives. The categorical imperative can only be based on something that is an "end in itself", that is, an end that is not a means to some other need, desire, or purpose.[86] Kant believed that the moral law is a principle of reason itself, and is not based on contingent facts about the world, such as what would make us happy, but to act on the moral law which has no other motive than "worthiness of being happy".[87] Accordingly, he believed that moral obligation applies only to rational agents.[88]
+
+Unlike a hypothetical imperative, a categorical imperative is an unconditional obligation; it has the force of an obligation regardless of our will or desires[89] In Groundwork of the Metaphysic of Morals (1785) Kant enumerated three formulations of the categorical imperative that he believed to be roughly equivalent.[90] In the same book, Kant stated:
+
+Act only according to that maxim whereby you can, at the same time, will that it should become a universal law.[91]
+According to Kant, one cannot make exceptions for oneself. The philosophical maxim on which one acts should always be considered to be a universal law without exception. One cannot allow oneself to do a particular action unless one thinks it appropriate that the reason for the action should become a universal law. For example, one should not steal, however dire the circumstances—because, by permitting oneself to steal, one makes stealing a universally acceptable act. This is the first formulation of the categorical imperative, often known as the universalizability principle.
+
+Kant believed that, if an action is not done with the motive of duty, then it is without moral value. He thought that every action should have pure intention behind it; otherwise, it is meaningless. The final result is not the most important aspect of an action; rather, how the person feels while carrying out the action is the time when value is attached to the result.
+
+In Groundwork of the Metaphysic of Morals, Kant also posited the "counter-utilitarian idea that there is a difference between preferences and values, and that considerations of individual rights temper calculations of aggregate utility", a concept that is an axiom in economics:[92]
+
+Everything has either a price or a dignity. Whatever has a price can be replaced by something else as its equivalent; on the other hand, whatever is above all price, and therefore admits of no equivalent, has a dignity. But that which constitutes the condition under which alone something can be an end in itself does not have mere relative worth, i.e., price, but an intrinsic worth, i.e., a dignity. (p. 53, italics in original).
+
+A phrase quoted by Kant, which is used to summarize the counter-utilitarian nature of his moral philosophy, is Fiat justitia, pereat mundus, ("Let justice be done, though the world perish"), which he translates loosely as "Let justice reign even if all the rascals in the world should perish from it". This appears in his 1795 Perpetual Peace: A Philosophical Sketch ("Zum ewigen Frieden. Ein philosophischer Entwurf"), Appendix 1.[93][94][95]
+
+First formulation
+
+In his Metaphysics, Immanuel Kant introduced the categorical imperative: "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law."
+The first formulation (Formula of Universal Law) of the moral imperative "requires that the maxims be chosen as though they should hold as universal laws of nature" .[90] This formulation in principle has as its supreme law the creed "Always act according to that maxim whose universality as a law you can at the same time will" and is the "only condition under which a will can never come into conflict with itself [....]"[96]
+
+One interpretation of the first formulation is called the "universalizability test".[97] An agent's maxim, according to Kant, is his "subjective principle of human actions": that is, what the agent believes is his reason to act.[98] The universalisability test has five steps:
+
+Find the agent's maxim (i.e., an action paired with its motivation). Take, for example, the declaration "I will lie for personal benefit". Lying is the action; the motivation is to fulfill some sort of desire. Together, they form the maxim.
+Imagine a possible world in which everyone in a similar position to the real-world agent followed that maxim.
+Decide if contradictions or irrationalities would arise in the possible world as a result of following the maxim.
+If a contradiction or irrationality would arise, acting on that maxim is not allowed in the real world.
+If there is no contradiction, then acting on that maxim is permissible, and is sometimes required.
+(For a modern parallel, see John Rawls' hypothetical situation, the original position.)
+
+Second formulation
+The second formulation (or Formula of the End in Itself) holds that "the rational being, as by its nature an end and thus as an end in itself, must serve in every maxim as the condition restricting all merely relative and arbitrary ends".[90] The principle dictates that you "[a]ct with reference to every rational being (whether yourself or another) so that it is an end in itself in your maxim", meaning that the rational being is "the basis of all maxims of action" and "must be treated never as a mere means but as the supreme limiting condition in the use of all means, i.e., as an end at the same time".[99]
+
+Third formulation
+The third formulation (i.e. Formula of Autonomy) is a synthesis of the first two and is the basis for the "complete determination of all maxims". It states "that all maxims which stem from autonomous legislation ought to harmonize with a possible realm of ends as with a realm of nature".[90]
+
+In principle, "So act as if your maxims should serve at the same time as the universal law (of all rational beings)", meaning that we should so act that we may think of ourselves as "a member in the universal realm of ends", legislating universal laws through our maxims (that is, a universal code of conduct), in a "possible realm of ends".[100] No one may elevate themselves above the universal law, therefore it is one's duty to follow the maxim(s).
+
+Religion Within the Limits of Reason
+Commentators, starting in the 20th century, have tended to see Kant as having a strained relationship with religion, though this was not the prevalent view in the 19th century. Karl Leonhard Reinhold, whose letters first made Kant famous, wrote "I believe that I may infer without reservation that the interest of religion, and of Christianity in particular, accords completely with the result of the Critique of Reason.".[101] Johann Schultz, who wrote one of the first Kant commentaries, wrote "And does not this system itself cohere most splendidly with the Christian religion? Do not the divinity and beneficence of the latter become all the more evident?"[102] This view continued throughout the 19th century, as noted by Friedrich Nietzsche, who said "Kant's success is merely a theologian's success."[103] The reason for these views was Kant's moral theology, and the widespread belief that his philosophy was the great antithesis to Spinozism, which had been convulsing the European academy for much of the 18th century. Spinozism was widely seen as the cause of the Pantheism controversy, and as a form of sophisticated pantheism or even atheism. As Kant's philosophy disregarded the possibility of arguing for God through pure reason alone, for the same reasons it also disregarded the possibility of arguing against God through pure reason alone. This, coupled with his moral philosophy (his argument that the existence of morality is a rational reason why God and an afterlife do and must exist), was the reason he was seen by many, at least through the end of the 19th century, as a great defender of religion in general and Christianity in particular.[citation needed]
+
+Kant articulates his strongest criticisms of the organization and practices of religious organizations to those that encourage what he sees as a religion of counterfeit service to God.[104] Among the major targets of his criticism are external ritual, superstition and a hierarchical church order. He sees these as efforts to make oneself pleasing to God in ways other than conscientious adherence to the principle of moral rightness in choosing and acting upon one's maxims. Kant's criticisms on these matters, along with his rejection of certain theoretical proofs grounded in pure reason (particularly the ontological argument) for the existence of God and his philosophical commentary on some Christian doctrines, have resulted in interpretations that see Kant as hostile to religion in general and Christianity in particular (e.g., Walsh 1967). Nevertheless, other interpreters consider that Kant was trying to mark off defensible from indefensible Christian belief.[105] Kant sees in Jesus Christ the affirmation of a "pure moral disposition of the heart" that "can make man well-pleasing to God".[104] Regarding Kant's conception of religion, some critics have argued that he was sympathetic to deism.[106] Other critics have argued that Kant's moral conception moves from deism to theism (as moral theism), for example Allen W. Wood[107] and Merold Westphal.[108] As for Kant's book Religion within the Boundaries of bare Reason, it was emphasized that Kant reduced religiosity to rationality, religion to morality and Christianity to ethics.[109]
+
+Idea of freedom
+In the Critique of Pure Reason,[110] Kant distinguishes between the transcendental idea of freedom, which as a psychological concept is "mainly empirical" and refers to "the question whether we must admit a power of spontaneously beginning a series of successive things or states" as a real ground of necessity in regard to causality,[111] and the practical concept of freedom as the independence of our will from the "coercion" or "necessitation through sensuous impulses". Kant finds it a source of difficulty that the practical idea of freedom is founded on the transcendental idea of freedom,[112] but for the sake of practical interests uses the practical meaning, taking "no account of... its transcendental meaning," which he feels was properly "disposed of" in the Third Antinomy, and as an element in the question of the freedom of the will is for philosophy "a real stumbling-block" that has "embarrassed speculative reason".[111]
+
+Kant calls practical "everything that is possible through freedom", and the pure practical laws that are never given through sensuous conditions but are held analogously with the universal law of causality are moral laws. Reason can give us only the "pragmatic laws of free action through the senses", but pure practical laws given by reason a priori[113] dictate "what ought to be done".[114][115]
+
+Categories of freedom
+In the Critique of Practical Reason, at the end of the second Main Part of the Analytics,[116] Kant introduces the categories of freedom, in analogy with the categories of understanding their practical counterparts. Kant's categories of freedom apparently function primarily as conditions for the possibility for actions (i) to be free, (ii) to be understood as free and (iii) to be morally evaluated. For Kant, although actions as theoretical objects are constituted by means of the theoretical categories, actions as practical objects (objects of practical use of reason, and which can be good or bad) are constituted by means of the categories of freedom. Only in this way can actions, as phenomena, be a consequence of freedom, and be understood and evaluated as such.[117]
+
+Aesthetic philosophy
+Kant discusses the subjective nature of aesthetic qualities and experiences in Observations on the Feeling of the Beautiful and Sublime (1764). Kant's contribution to aesthetic theory is developed in the Critique of Judgment (1790) where he investigates the possibility and logical status of "judgments of taste." In the "Critique of Aesthetic Judgment," the first major division of the Critique of Judgment, Kant used the term "aesthetic" in a manner that, according to Kant scholar W.H. Walsh, differs from its modern sense.[118] In the Critique of Pure Reason, to note essential differences between judgments of taste, moral judgments, and scientific judgments, Kant abandoned the term "aesthetic" as "designating the critique of taste," noting that judgments of taste could never be "directed" by "laws a priori."[119] After A. G. Baumgarten, who wrote Aesthetica (1750–58),[120] Kant was one of the first philosophers to develop and integrate aesthetic theory into a unified and comprehensive philosophical system, utilizing ideas that played an integral role throughout his philosophy.[121]
+
+In the chapter "Analytic of the Beautiful" in the Critique of Judgment, Kant states that beauty is not a property of an artwork or natural phenomenon, but is instead consciousness of the pleasure that attends the 'free play' of the imagination and the understanding. Even though it appears that we are using reason to decide what is beautiful, the judgment is not a cognitive judgment,[122] "and is consequently not logical, but aesthetical" (§ 1). A pure judgement of taste is subjective since it refers to the emotional response of the subject and is based upon nothing but esteem for an object itself: it is a disinterested pleasure, and we feel that pure judgements of taste (i.e. judgements of beauty), lay claim to universal validity (§§ 20–22). It is important to note that this universal validity is not derived from a determinate concept of beauty but from common sense (§40). Kant also believed that a judgement of taste shares characteristics engaged in a moral judgement: both are disinterested, and we hold them to be universal. In the chapter "Analytic of the Sublime" Kant identifies the sublime as an aesthetic quality that, like beauty, is subjective, but unlike beauty refers to an indeterminate relationship between the faculties of the imagination and of reason, and shares the character of moral judgments in the use of reason. The feeling of the sublime, divided into two distinct modes (the mathematical and the dynamical sublime), describes two subjective moments that concern the relationship of the faculty of the imagination to reason. Some commentators[123] argue that Kant's critical philosophy contains a third kind of the sublime, the moral sublime, which is the aesthetic response to the moral law or a representation, and a development of the "noble" sublime in Kant's theory of 1764. The mathematical sublime results from the failure of the imagination to comprehend natural objects that appear boundless and formless, or appear "absolutely great" (§§ 23–25). This imaginative failure is then recuperated through the pleasure taken in reason's assertion of the concept of infinity. In this move the faculty of reason proves itself superior to our fallible sensible self (§§ 25–26). In the dynamical sublime there is the sense of annihilation of the sensible self as the imagination tries to comprehend a vast might. This power of nature threatens us but through the resistance of reason to such sensible annihilation, the subject feels a pleasure and a sense of the human moral vocation. This appreciation of moral feeling through exposure to the sublime helps to develop moral character.
+
+Kant developed a distinction between an object of art as a material value subject to the conventions of society and the transcendental condition of the judgment of taste as a "refined" value in the propositions of his Idea of A Universal History (1784). In the Fourth and Fifth Theses of that work he identified all art as the "fruits of unsociableness" due to men's "antagonism in society"[124] and, in the Seventh Thesis, asserted that while such material property is indicative of a civilized state, only the ideal of morality and the universalization of refined value through the improvement of the mind "belongs to culture".[125]
+
+Political philosophy
+Main article: Political philosophy of Immanuel Kant
+Part of a series on
+Liberalism
+Yellow flag waving.svg
+Schools[show]
+Ideas[show]
+Variants[show]
+People[show]
+Organizations[show]
+Regional variants[show]
+Related topics[show]
+Yellow flag waving.svg Liberalism portal
+A coloured voting box.svg Politics portal
+vte
+In Perpetual Peace: A Philosophical Sketch,[126] Kant listed several conditions that he thought necessary for ending wars and creating a lasting peace. They included a world of constitutional republics.[127] His classical republican theory was extended in the Science of Right, the first part of the Metaphysics of Morals (1797).[128] Kant believed that universal history leads to the ultimate world of republican states at peace, but his theory was not pragmatic. The process was described in "Perpetual Peace" as natural rather than rational:
+
+The guarantee of perpetual peace is nothing less than that great artist, nature...In her mechanical course we see that her aim is to produce a harmony among men, against their will, and indeed through their discord. As a necessity working according to laws we do not know, we call it destiny. But, considering its designs in universal history, we call it "providence," inasmuch as we discern in it the profound wisdom of a higher cause which predetermines the course of nature and directs it to the objective final end of the human race.[129]
+
+Kant's political thought can be summarized as republican government and international organization. "In more characteristically Kantian terms, it is doctrine of the state based upon the law (Rechtsstaat) and of eternal peace. Indeed, in each of these formulations, both terms express the same idea: that of legal constitution or of 'peace through law'. Kant's political philosophy, being essentially a legal doctrine, rejects by definition the opposition between moral education and the play of passions as alternate foundations for social life. The state is defined as the union of men under law. The state is constituted by laws which are necessary a priori because they flow from the very concept of law. "A regime can be judged by no other criteria nor be assigned any other functions, than those proper to the lawful order as such." [130]
+
+He opposed "democracy," which at his time meant direct democracy, believing that majority rule posed a threat to individual liberty. He stated, "...democracy is, properly speaking, necessarily a despotism, because it establishes an executive power in which 'all' decide for or even against one who does not agree; that is, 'all,' who are not quite all, decide, and this is a contradiction of the general will with itself and with freedom."[131] As with most writers at the time, he distinguished three forms of government i.e. democracy, aristocracy, and monarchy with mixed government as the most ideal form of it.
+
+Anthropology
+
+5 DM 1974 D silver coin commemorating the 250th birthday of Immanuel Kant in Königsberg
+Kant lectured on anthropology for over 25 years. His Anthropology from a Pragmatic Point of View was published in 1798. (This was the subject of Michel Foucault's secondary dissertation for his State doctorate, Introduction to Kant's Anthropology.) Kant's Lectures on Anthropology were published for the first time in 1997 in German.[132] Introduction to Kant's Anthropology was translated into English and published by the Cambridge Texts in the History of Philosophy series in 2006.[133]
+
+Kant was among the first people of his time to introduce anthropology as an intellectual area of study long before the field gained popularity. As a result, his texts are considered to have advanced the field. Kant's point of view also influenced the works of philosophers after him such as Martin Heidegger, Paul Ricoeur, and Jean Greisch.
+
+Kant viewed anthropology in two broad categories. One category was the physiological approach which he referred to as "what nature makes of the human being". The other category was the pragmatic approach which explored the things a human "can and should make of himself".[134]
+
+Influence
+Kant's influence on Western thought has been profound.[135] Over and above his influence on specific thinkers, Kant changed the framework within which philosophical inquiry has been carried out. He accomplished a paradigm shift; very little philosophy is now carried out in the style of pre-Kantian philosophy. This shift consists in several closely related innovations that have become foundational in philosophy itself and in the social sciences and humanities generally:
+
+Kant's "Copernican revolution", that placed the role of the human subject or knower at the center of inquiry into our knowledge, such that it is impossible to philosophize about things as they are independently of us or of how they are for us;[136]
+His invention of critical philosophy, that is of the notion of being able to discover and systematically explore possible inherent limits to our ability to know through philosophical reasoning;
+The notion of the "categorical imperative," an assertion that people are naturally endowed with the ability and obligation toward right reason and acting;
+His creation of the concept of "conditions of possibility", as in his notion of "the conditions of possible experience" – that is that things, knowledge, and forms of consciousness rest on prior conditions that make them possible, so that, to understand or to know them, we must first understand these conditions;
+The theory that objective experience is actively constituted or constructed by the functioning of the human mind;
+His notion of moral autonomy as central to humanity;
+His assertion of the principle that human beings should be treated as ends rather than as means.
+Kant's ideas have been incorporated into a variety of schools of thought. These include German Idealism, Marxism, positivism, phenomenology, existentialism, critical theory, linguistic philosophy, structuralism, post-structuralism, and deconstructionism.[citation needed]
+
+Historical influence
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Immanuel Kant" – news · newspapers · books · scholar · JSTOR (July 2016) (Learn how and when to remove this template message)
+During his own life, there was much critical attention paid to his thought. He had an influence on Reinhold, Fichte, Schelling, Hegel, and Novalis during the 1780s and 1790s. The school of thinking known as German Idealism developed from his writings. The German Idealists Fichte and Schelling, for example, tried to bring traditional "metaphysically" laden notions like "the Absolute", "God", and "Being" into the scope of Kant's critical thought.[137] In so doing, the German Idealists tried to reverse Kant's view that we cannot know what we cannot observe.
+
+
+Statue of Immanuel Kant in Kaliningrad (Königsberg), Russia. Replica by Harald Haacke [de] of the original by Christian Daniel Rauch lost in 1945.
+Hegel was one of Kant's first major critics. In response to what he saw as Kant's abstract and formal account, Hegel brought about an ethic focused on the "ethical life" of the community.[138] But Hegel's notion of "ethical life" is meant to subsume, rather than replace, Kantian ethics. And Hegel can be seen as trying to defend Kant's idea of freedom as going beyond finite "desires", by means of reason. Thus, in contrast to later critics like Nietzsche or Russell, Hegel shares some of Kant's most basic concerns.[139]
+
+Kant's thinking on religion was used in Britain to challenge the decline in religious faith in the nineteenth century. British Catholic writers, notably G.K. Chesterton and Hilaire Belloc, followed this approach. Ronald Englefield debated this movement, and Kant's use of language.[c] Criticisms of Kant were common in the realist views of the new positivism at that time.
+
+Arthur Schopenhauer was strongly influenced by Kant's transcendental idealism. He, like G.E. Schulze, Jacobi, and Fichte before him, was critical of Kant's theory of the thing in itself. Things in themselves, they argued, are neither the cause of what we observe nor are they completely beyond our access. Ever since the first Critique of Pure Reason philosophers have been critical of Kant's theory of the thing in itself. Many have argued, if such a thing exists beyond experience then one cannot posit that it affects us causally, since that would entail stretching the category 'causality' beyond the realm of experience.[d] For Schopenhauer things in themselves do not exist outside the non-rational will. The world, as Schopenhauer would have it, is the striving and largely unconscious will. Michael Kelly, in the preface to his 1910 book Kant's Ethics and Schopenhauer's Criticism, stated: "Of Kant it may be said that what is good and true in his philosophy would have been buried with him, were it not for Schopenhauer...."
+
+With the success and wide influence of Hegel's writings, Kant's influence began to wane, though there was in Germany a movement that hailed a return to Kant in the 1860s, beginning with the publication of Kant und die Epigonen in 1865 by Otto Liebmann. His motto was "Back to Kant", and a re-examination of his ideas began (see Neo-Kantianism). During the turn of the 20th century there was an important revival of Kant's theoretical philosophy, known as the Marburg School, represented in the work of Hermann Cohen, Paul Natorp, Ernst Cassirer,[140] and anti-Neo-Kantian Nicolai Hartmann.[141]
+
+Kant's notion of "Critique" has been quite influential. The Early German Romantics, especially Friedrich Schlegel in his "Athenaeum Fragments", used Kant's self-reflexive conception of criticism in their Romantic theory of poetry.[142] Also in Aesthetics, Clement Greenberg, in his classic essay "Modernist Painting", uses Kantian criticism, what Greenberg refers to as "immanent criticism", to justify the aims of Abstract painting, a movement Greenberg saw as aware of the key limitiaton—flatness—that makes up the medium of painting.[143] French philosopher Michel Foucault was also greatly influenced by Kant's notion of "Critique" and wrote several pieces on Kant for a re-thinking of the Enlightenment as a form of "critical thought". He went so far as to classify his own philosophy as a "critical history of modernity, rooted in Kant".[144]
+
+Kant believed that mathematical truths were forms of synthetic a priori knowledge, which means they are necessary and universal, yet known through intuition.[145] Kant's often brief remarks about mathematics influenced the mathematical school known as intuitionism, a movement in philosophy of mathematics opposed to Hilbert's formalism, and Frege and Bertrand Russell's logicism.[146]
+
+Influence on modern thinkers
+
+West German postage stamp, 1974, commemorating the 250th anniversary of Kant's birth
+With his Perpetual Peace: A Philosophical Sketch, Kant is considered to have foreshadowed many of the ideas that have come to form the democratic peace theory, one of the main controversies in political science.[147]
+
+Prominent recent Kantians include the British philosophers P.F. Strawson,[148] Onora O'Neill,[149] and Quassim Cassam[150] and the American philosophers Wilfrid Sellars[151] and Christine Korsgaard.[152] Due to the influence of Strawson and Sellars, among others, there has been a renewed interest in Kant's view of the mind. Central to many debates in philosophy of psychology and cognitive science is Kant's conception of the unity of consciousness.[153]
+
+Jürgen Habermas and John Rawls are two significant political and moral philosophers whose work is strongly influenced by Kant's moral philosophy.[154] They argued against relativism,[155] supporting the Kantian view that universality is essential to any viable moral philosophy. Jean-Francois Lyotard, however, emphasized the indeterminacy in the nature of thought and language and has engaged in debates with Habermas based on the effects this indeterminacy has on philosophical and political debates.[156]
+
+Kant's influence also has extended to the social, behavioral, and physical sciences, as in the sociology of Max Weber, the psychology of Jean Piaget, and the linguistics of Noam Chomsky. Kant's work on mathematics and synthetic a priori knowledge is also cited by theoretical physicist Albert Einstein as an early influence on his intellectual development.[157] Because of the thoroughness of the Kantian paradigm shift, his influence extends to thinkers who neither specifically refer to his work nor use his terminology.
+
+Personal legacy
+Kant always cut a curious figure in his lifetime for his modest, rigorously scheduled habits, which have been referred to as clocklike. However, Heinrich Heine noted the magnitude of "his destructive, world-crushing thoughts" and considered him a sort of philosophical "executioner", comparing him to Robespierre with the observation that both men "represented in the highest the type of provincial bourgeois. Nature had destined them to weigh coffee and sugar, but Fate determined that they should weigh other things and placed on the scales of the one a king, on the scales of the other a god."[158]
+
+When his body was transferred to a new burial spot, his skull was measured during the exhumation and found to be larger than the average German male's with a "high and broad" forehead.[159] His forehead has been an object of interest ever since it became well-known through his portraits: "In Döbler's portrait and in Kiefer's faithful if expressionistic reproduction of it — as well as in many of the other late eighteenth- and early nineteenth-century portraits of Kant — the forehead is remarkably large and decidedly retreating. Was Kant's forehead shaped this way in these images because he was a philosopher, or, to follow the implications of Lavater's system, was he a philosopher because of the intellectual acuity manifested by his forehead? Kant and Johann Kaspar Lavater were correspondents on theological matters, and Lavater refers to Kant in his work "Physiognomic Fragments, for the Education of Human Knowledge and Love of People" (Leipzig & Winterthur, 1775–1778).[160]
+
+Tomb and statue
+
+Kant's tomb in Kaliningrad, Russia
+Kant's mausoleum adjoins the northeast corner of Königsberg Cathedral in Kaliningrad, Russia. The mausoleum was constructed by the architect Friedrich Lahrs and was finished in 1924 in time for the bicentenary of Kant's birth. Originally, Kant was buried inside the cathedral, but in 1880 his remains were moved to a neo-Gothic chapel adjoining the northeast corner of the cathedral. Over the years, the chapel became dilapidated and was demolished to make way for the mausoleum, which was built on the same location.
+
+The tomb and its mausoleum are among the few artifacts of German times preserved by the Soviets after they conquered and annexed the city.[161] Today, many newlyweds bring flowers to the mausoleum.
+
+Artifacts previously owned by Kant, known as Kantiana, were included in the Königsberg City Museum. However, the museum was destroyed during World War II.
+
+A replica of the statue of Kant that stood in German times in front of the main University of Königsberg building was donated by a German entity in the early 1990s and placed in the same grounds.
+
+After the expulsion of Königsberg's German population at the end of World War II, the University of Königsberg where Kant taught was replaced by the Russian-language Kaliningrad State University, which appropriated the campus and surviving buildings. In 2005, the university was renamed Immanuel Kant State University of Russia. The name change was announced at a ceremony attended by President Vladimir Putin of Russia and Chancellor Gerhard Schröder of Germany, and the university formed a Kant Society, dedicated to the study of Kantianism.
+
+In the late November 2018, his tomb and statue were vandalized with paint by unknown assailants, who also scattered leaflets glorifying Rus' and denouncing Kant as a "traitor". The incident is apparently connected with a recent vote to rename Khrabrovo Airport, where Kant was in the lead for a while, prompting nationalist resentment.[162]
+
+Bibliography
+List of major works
+(1749) Thoughts on the True Estimation of Living Forces (Gedanken von der wahren Schätzung der lebendigen Kräfte)
+(March 1755) Universal Natural History and Theory of the Heavens (Allgemeine Naturgeschichte und Theorie des Himmels)
+(April 1755) Brief Outline of Certain Meditations on Fire (Meditationum quarundam de igne succinta delineatio (master's thesis under Johann Gottfried Teske))[163][164][165][166]
+(September 1755) A New Elucidation of the First Principles of Metaphysical Cognition (Principiorum primorum cognitionis metaphysicae nova dilucidatio (doctoral thesis))[167][168]
+(1756) The Use in Natural Philosophy of Metaphysics Combined with Geometry, Part I: Physical Monadology (Metaphysicae cum geometrica iunctae usus in philosophin naturali, cuius specimen I. continet monadologiam physicam, abbreviated as Monadologia Physica (thesis as a prerequisite of associate professorship))[169]
+(1762) The False Subtlety of the Four Syllogistic Figures (Die falsche Spitzfindigkeit der vier syllogistischen Figuren)
+(1763) The Only Possible Argument in Support of a Demonstration of the Existence of God (Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes)
+(1763) Attempt to Introduce the Concept of Negative Magnitudes into Philosophy (Versuch den Begriff der negativen Größen in die Weltweisheit einzuführen)
+(1764) Observations on the Feeling of the Beautiful and Sublime (Beobachtungen über das Gefühl des Schönen und Erhabenen)
+(1764) Essay on the Illness of the Head (Über die Krankheit des Kopfes)
+(1764) Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality (the Prize Essay) (Untersuchungen über die Deutlichkeit der Grundsätze der natürlichen Theologie und der Moral)
+(1766) Dreams of a Spirit-Seer (Träume eines Geistersehers)[170]
+(1768) On the Ultimate Ground of the Differentiation of Regions in Space (Von dem ersten Grunde des Unterschiedes der Gegenden im Raume)[171]
+(August 1770) Dissertation on the Form and Principles of the Sensible and the Intelligible World (De mundi sensibilis atque intelligibilis forma et principiis (doctoral thesis))[172][173][174][1]
+(1775) On the Different Races of Man (Über die verschiedenen Rassen der Menschen)
+(1781) First edition of the Critique of Pure Reason[175] (Kritik der reinen Vernunft)[176]
+(1783) Prolegomena to any Future Metaphysics (Prolegomena zu einer jeden künftigen Metaphysik)
+(1784) "An Answer to the Question: What Is Enlightenment?" ("Beantwortung der Frage: Was ist Aufklärung?")[177]
+(1784) "Idea for a Universal History with a Cosmopolitan Purpose" ("Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht")
+(1785) Groundwork of the Metaphysics of Morals (Grundlegung zur Metaphysik der Sitten)
+(1786) Metaphysical Foundations of Natural Science (Metaphysische Anfangsgründe der Naturwissenschaft)
+(1786) "What does it mean to orient oneself in thinking?" ("Was heißt: sich im Denken orientieren?")
+(1786) Conjectural Beginning of Human History (Mutmaßlicher Anfang der Menschengeschichte)
+(1787) Second edition of the Critique of Pure Reason[178] (Kritik der reinen Vernunft)[179]
+(1788) Critique of Practical Reason (Kritik der praktischen Vernunft)[180]
+(1790) Critique of Judgment (Kritik der Urteilskraft)[181]
+(1793) Religion within the Limits of Reason Alone (Die Religion innerhalb der Grenzen der bloßen Vernunft)[182]
+(1793) On the Old Saw: That May be Right in Theory But It Won't Work in Practice (Über den Gemeinspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis)
+(1795) Perpetual Peace: A Philosophical Sketch[183] ("Zum ewigen Frieden")[184]
+(1797) Metaphysics of Morals (Metaphysik der Sitten). First part is The Doctrine of Right, which has often been published separately as The Science of Right.
+(1798) Anthropology from a Pragmatic Point of View (Anthropologie in pragmatischer Hinsicht)
+(1798) The Contest of Faculties[185] (Der Streit der Fakultäten)[186]
+(1800) Logic (Logik)
+(1803) On Pedagogy (Über Pädagogik)[187]
+(1804) Opus Postumum
+(1817) Lectures on Philosophical Theology (Immanuel Kants Vorlesungen über die philosophische Religionslehre edited by K.H.L. Pölitz) [The English edition of A.W. Wood & G.M. Clark (Cornell, 1978) is based on Pölitz' second edition, 1830, of these lectures.][188]
+Collected works in German
+Wilhelm Dilthey inaugurated the Academy edition (the Akademie-Ausgabe abbreviated as AA or Ak) of Kant's writings (Gesammelte Schriften, Königlich-Preußische Akademie der Wissenschaften, Berlin, 1902–38) in 1895,[189] and served as its first editor. The volumes are grouped into four sections:
+
+I. Kant's published writings (vols. 1–9),
+II. Kant's correspondence (vols. 10–13),
+III. Kant's literary remains, or Nachlass (vols. 14–23), and
+IV. Student notes from Kant's lectures (vols. 24–29).
+See also
+	Philosophy portal
+	Immanuel Kant portal
+Aenesidemus
+Agnosticism
+Arthur Schopenhauer's criticism of Immanuel Kant's schemata
+Kant Russian State University
+List of liberal theorists
+On the Basis of Morality
+On Vision and Colors
+Political philosophy of Immanuel Kant
+Schopenhauer's criticism of the Kantian philosophy
+Notes
+ Nietzsche wrote that "Kant wanted to prove, in a way that would dumbfound the common man, that the common man was right: that was the secret joke of this soul."[27]
+ Kant himself seems to have found his contribution not significant enough that he published his arguments in a newspaper commentary on the prize question and did not submit them to the Academy. The prize was instead awarded in 1756 to P. Frisi, who incorrectly argued against the slowing down of the spin.[54]
+ See Englefield's article, Kant as Defender of the Faith in Nineteenth-century England", Question, 12, 16–27, (Pemberton, London) reprinted in Critique of Pure Verbiage, Essays on Abuses of Language in Literary, Religious, and Philosophical Writings, edited by G.A. Wells and D.R. Oppenheimer, Open Court, 1990.
+ For a review of this problem and the relevant literature see The Thing in Itself and the Problem of Affection in the revised edition of Henry Allison's Kant's Transcendental Idealism.
+References and footnotes
+ Since he had written his last habilitation thesis 14 years earlier, a new habilitation thesis was required (see S.J. McGrath, Joseph Carew (eds.), Rethinking German Idealism, Palgrave Macmillan, 2016, p. 24).
+ Frederick C. Beiser, German Idealism: The Struggle Against Subjectivism, 1781-1801, Harvard University Press, 2002, part I.
+ Tom Rockmore, On Foundationalism: A Strategy for Metaphysical Realism, Rowman & Littlefield, 2004, p. 65.
+ Oberst, Michael. 2015. "Kant on Universals." History of Philosophy Quarterly 32(4):335–52.
+ Robert Hanna, "Kantian non-conceptualism", Philosophical Studies 137(1):41–64 (2008).
+ The application of the term "perceptual non-conceptualism" to Kant's philosophy of perception is debatable (see "The Togetherness Principle, Kant’s Conceptualism, and Kant’s Non-Conceptualism" (Stanford Encyclopedia of Philosophy)).
+ The Correspondence Theory of Truth (Stanford Encyclopedia of Philosophy)
+ Hanna, Robert, Kant, Science, and Human Nature. Clarendon Press, 2006, p. 16.
+ Biographies: Königsberg Professors – Manchester University: "His lectures on logic and metaphysics were quite popular, and he still taught theology, philosophy, and mathematics when Kant studied at the university. The only textbook found in Kant's library that stems from his student years was Marquardt's book on astronomy."
+ KrV A51/B75–6. See also: Edward Willatt, Kant, Deleuze and Architectonics, Continuum, 2010 p. 17: "Kant argues that cognition can only come about as a result of the union of the abstract work of the understanding and the concrete input of sensation."
+ "Immanuel Kant: Aesthetics – Internet Encyclopedia of Philosophy". www.iep.utm.edu.
+ KpV 101–02 (=Ak V, 121–22). See also: Paul Saurette, The Kantian Imperative: Humiliation, Common Sense, Politics, University of Toronto Press, 2005, p. 255 n. 32.
+ Kuehn 2001, p. 251.
+ Josephson-Storm, Jason (2017). The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences. Chicago: University of Chicago Press. pp. 185–86. ISBN 978-0-226-40336-6.
+ "Kant". Random House Webster's Unabridged Dictionary.
+ "Duden | Immanuel | Rechtschreibung, Bedeutung, Definition". Duden (in German). Retrieved 20 October 2018.
+ "Duden | Kant | Rechtschreibung, Bedeutung, Definition". Duden (in German). Retrieved 20 October 2018.
+ McCormick, Matt. "Immanuel Kant: Metaphysics". Internet Encyclopedia of Philosophy. Retrieved 20 February 2019.
+ Durant, Will; Durant, Ariel (1967). The Story of Civilization: Rousseau and Revolution. MJF Books. pp. 571, 574. ISBN 978-1-56731-021-4.
+ Nigel Warburton (2011). "Chapter 19: Rose-tinted reality: Immanuel Kant". A little history of philosophy. Yale University Press. p. 134. ISBN 978-0-300-15208-1.
+ "We here propose to do just what Copernicus did in attempting to explain the celestial movements. When he found that he could make no progress by assuming that all the heavenly bodies revolved round the spectator, he reversed the process, and tried the experiment of assuming that the spectator revolved.... We may make the same experiment with regard to the intuition of objects. If the intuition must conform to the nature of the objects, I do not see how we can know anything of them a priori. If, on the other hand, the object conforms to the nature of our faculty of intuition, I can then easily conceive the possibility of such an a priori knowledge." Kant, Immanuel. Translated by J.M.D. Meiklejohn, Critique of Pure Reason.
+ Kant, Immanuel; Kitcher, Patricia (intro.); Pluhar, W. (trans.) (1996). Critique of Pure Reason. Indianapolis: Hackett. xxviii.
+ Vanzo, Alberto (January 2013). "Kant on Empiricism and Rationalism". History of Philosophy Quarterly. 30 (1): 53–74.
+ "Immanuel Kant". Stanford Encyclopedia of Philosophy. 20 May 2010. Retrieved 6 October 2015.
+ Idea for a Universal History with a Cosmopolitan Purpose.
+ Friedrich Nietzsche, The Anti-Christ (1895), para. 10.
+ Friedrich Nietzsche (trans. Walter Arnold Kaufmann), The Portable Nietzsche, 1976, p. 96.
+ "Cosmopolis". Koenigsberg-is-dead.de. 23 April 2001. Retrieved 24 July 2009.
+ Mortensen, Hans and Gertrud, Kants väterliche Ahnen und ihre Umwelt, Rede von 1952 in Jahrbuch der Albertus-Universität zu Königsberg, Pr., Holzner-Verlag, Kitzingen, Main 1953, Vol. 3, p. 26.
+ R.K. Murray, "The Origin of Immanuel Kant's Family Name", Kantian Review 13(1), March 2008, pp. 190-93.
+ Rosa Kohlheim, Volker Kohlheim, Duden – Familiennamen: Herkunft und Bedeutung von 20.000 Nachnamen, Bibliographisches Institut & F.A. Brockhaus AG, Mannheim 2005, p. 365.
+ freunde-kants.com Archived 25 September 2015 at the Wayback Machine
+ Kuehn 2001, p. 26.
+ Kuehn 2001, p. 47.
+ "Immanuel Kant: Philosophy of Religion – Internet Encyclopedia of Philosophy". www.iep.utm.edu.
+ Metaphysics, p. 131
+ "Immanuel Kant". Christian Research Institute.
+ "While this sounds skeptical, Kant is only agnostic about our knowledge of metaphysical objects such as God. And, as noted above, Kant's agnosticism leads to the conclusion that we can neither affirm nor deny claims made by traditional metaphysics." Andrew Fiala, J.M.D. Meiklejohn, Critique of Pure Reason – Introduction, p. xi.
+ Edward J. Verstraete (2008). "The Popular Encyclopedia of Apologetics". In Ed Hindson; Ergun Caner. The Popular Encyclopedia of Apologetics: Surveying the Evidence for the Truth of Christianity. Harvest House Publishers. p. 82. ISBN 978-0-7369-2084-1. It is in this sense that modern atheism rests heavily upon the skepticism of David Hume and the agnosticism of Immanuel Kant.
+ Norman L. Geisler; Frank Turek (2004). "Kant's Agnosticism: Should We Be Agnostic About It?". I Don't Have Enough Faith to Be an Atheist. Crossway. pp. 59–60. ISBN 978-1-58134-561-2. Immanuel Kant's impact has been even more devastating to the Christian worldview than David Hume's. For if Kant's philosophy is right, then there is no way to know anything about the real world, even empirically verifiable things!
+ Gary D. Badcock (1997). Light of Truth and Fire of Love: A Theology of the Holy Spirit. Wm. B. Eerdmans Publishing. p. 113. ISBN 978-0-8028-4288-6. Kant has no interest in prayer or worship, and is in fact agnostic when it comes to such classical theological questions as the doctrine of God or of the Holy Spirit.
+ Norman L. Geisler, Paul K. Hoffman, ed. (2006). "The Agnosticism of Immanuel Kant". Why I Am a Christian: Leading Thinkers Explain Why They Believe. Baker Books. p. 45. ISBN 978-0-8010-6712-9.
+ Frank K. Flinn (2007). Encyclopedia of Catholicism. Infobase Publishing. p. 10. ISBN 978-0-8160-7565-2. Following Locke, the classic agnostic claims not to accept more propositions than are warranted by empirical evidence. In this sense an agnostic appeals to Immanuel Kant (1724–1804), who claims in his Critique of Pure Reason that since God, freedom, immortality, and the soul can be both proved and disproved by theoretical reason, we ought to suspend judgement about them.
+ Kant, Immanuel. Observations on the Feeling of the Beautiful and Sublime. Trans. John T. Goldthwait. University of California Press, 1961, 2003. ISBN 0-520-24078-2
+ Lewis, Rick. 2005. 'Kant 200 Years On'. Philosophy Now. No. 49.
+ Vorländer, Karl. "Immanuel Kant: Bei Pfarrer Andersch in Judtschen".
+ Vorländer, Karl. "Immanuel Kant: Bei Major von Hülsen in Arnsdorf".
+ The American International Encyclopedia (New York: J.J. Little & Ives, 1954), Vol. IX.
+ Porter, Burton (2010). What the Tortoise Taught Us: The Story of Philosophy. Rowman & Littlefield Publishers. p. 133.
+ Kuehn 2001, p. 94.
+ Kuehn 2001, p. 98.
+ Eric Watkins (ed.), Immanuel Kant: Natural Science, Cambridge University Press, 2012: "Thoughts on the true estimation...". Stefano Veneroni (ed.), Pensieri sulla vera valutazione delle forze vive e critica delle dimostrazioni delle quali il Signor Leibniz ed altri studiosi di Meccanica si sono avvalsi in questa controversia, insieme ad alcune considerazioni preliminari riguardanti la forza dei corpi in generale, Milano-Udine, Mimesis Edizioni, 2019, 4 vol., 1567 p.
+ "Immanuel Kant: Metaphysics – Internet Encyclopedia of Philosophy". www.iep.utm.edu. Retrieved 6 February 2015.
+ Schönfeld, Martin. The Philosophy of the Young Kant: The Precritical Project. Oxford University Press. p. 84. ISBN 0-19-513218-1.
+ Brush, Stephen G. (2014). A History of Modern Planetary Physics: Nebulous Earth. p. 7. ISBN 978-0-521-44171-1.
+ Bertrand Russell, Review of Kant's Cosmogony, Mind, n.s. 10, no. 39 (Jul 1901), 405-7.
+ Gamow, George (1947). One Two Three... Infinity. New York: Viking P. pp. 300ff.
+ Cf., for example, Susan Shell, The Embodiment of Reason (Chicago, 1996)
+ Immanuel Kant, Prolegomena to Any Future Metaphysics, p. 57 (Ak. 4:260)
+ Christopher Kul-Want and Andrzej Klimowski, Introducing Kant (Cambridge: Icon Books, 2005).[page needed] ISBN 1-84046-664-2
+ Copleston, Frederick Charles. The Enlightenment: Voltaire to Kant. 2003. p. 146.
+ Sassen, Brigitte. Kant's Early Critics: The Empiricist Critique of the Theoretical Philosophy. 2000.
+ Ein Jahrhundert deutscher Literaturkritik, vol. III, Der Aufstieg zur Klassik in der Kritik der Zeit (Berlin, 1959), p. 315; as quoted in Gulyga, Arsenij. Immanuel Kant: His Life and Thought. Trans., Marijan Despaltović. Boston: Birkhäuser, 1987.
+ Gulyga, Arsenij. Immanuel Kant: His Life and Thought. Trans., Marijan Despaltović. Boston: Birkhäuser, 1987 pp. 28–29.
+ Gulyga, Arsenij. Immanuel Kant: His Life and Thought. Trans., Marijan Despaltović. Boston: Birkhäuser, 1987, p. 62.
+ Wolfram, Stephen (2002). A New Kind of Science. Wolfram Media, Inc. p. 861. ISBN 978-1-57955-008-0.
+ Derrida Vacant Chair p. 44.
+ "Open letter by Kant denouncing Fichte's Philosophy (in German)". Korpora.org. Retrieved 24 July 2009.
+ Peirce, C.S., Collected Papers of Charles Sanders Peirce, v. 1, (HUP, 1960), 'Kant and his Refutation of Idealism' p. 15
+ Kant, Immanuel, Logic, G.B. Jäsche (ed), R.S. Hartman, W. Schwarz (translators), Indianapolis, 1984, p. xv.
+ Karl Vorländer, Immanuel Kant: Der Mann und das Werk, Hamburg: Meiner, 1992, p. II 332.
+ McAleer, Sean. "Kant's Theory of Virtue: The Value of Autocracy. Ethics". Heythrop Journal.
+ Critique of Pure Reason, A801.
+ The Science of Right, Conclusion.
+ Critique of Pure Reason, A811.
+ Tom Rockmore, Marx After Marxism: The Philosophy of Karl Marx (2002), p. 184.
+ In the first edition of the Critique of Pure Reason Kant refers to space as "no discursive or...general conception of the relation of things, but a pure intuition" and maintained that "We can only represent to ourselves one space". The "general notion of spaces...depends solely upon limitations" (Meikeljohn trans., A25). In the second edition of the CPR, Kant adds, "The original representation of space is an a priori intuition, not a concept" (Kemp Smith trans., B40). In regard to time, Kant states that "Time is not a discursive, or what is called a general concept, but a pure form of sensible intuition. Different times are but parts of one and the same time; and the representation which can be given only through a single object is intuition" (A31/B47). For the differences in the discursive use of reason according to concepts and its intuitive use through the construction of concepts, see Critique of Pure Reason (A719/B747 ff. and A837/B865). On "One and the same thing in space and time" and the mathematical construction of concepts, see A724/B752.
+ "Kant, Immanuel definition of Kant, Immanuel in the Free Online Encyclopedia". Encyclopedia2.thefreedictionary.com. Retrieved 26 February 2014.
+ The German word Anschauung, which Kant used, literally means 'looking at' and generally means what in philosophy in English is called "perception". However it sometimes is rendered as "intuition": not, however, with the vernacular meaning of an indescribable or mystical experience or sixth sense, but rather with the meaning of the direct perception or grasping of sensory phenomena. In this article, both terms, "perception" and "intuition" are used to stand for Kant's Anschauung.
+ Immanuel Kant, Critique of Pure Reason [1781], trans. Norman Kemp Smith (N.Y.: St. Martins, 1965), A 51/B 75.
+ Kant, Immanuel. Critique of Pure Reason. Ed. Paul Guyer and Allen W. Wood. Cambridge: Cambridge UP, 1998. p. 248.
+ Immanuel Kant, Prolegomena to Any Future Metaphysics, pp. 35–43.
+ Deleuze on Kant Archived 14 November 2007 at the Wayback Machine, from where the definitions of a priori and a posteriori were obtained.
+ Immanuel Kant, Critique of Judgment, the Introduction to the Hackett edition.
+ The distinction between rational and philosophical knowledge is given in the Preface to the Groundwork, 1785.
+ Kant, Foundations, p. 421.
+ Critique of Pure Reason, A806/B834.
+ Kant, Foundations, p. 408.
+ Kant, Foundations, pp. 420–21.
+ Kant, Foundations, p. 436.
+ Kant, Immanuel (1993) [1785]. Grounding for the Metaphysics of Morals. Translated by Ellington, James W. (3rd ed.). Hackett. p. 30. ISBN 978-0-87220-166-8.. It is standard to also reference the Akademie Ausgabe of Kant's works. The Groundwork occurs in the fourth volume.The above citation is taken from 4:421.
+ Millennium Ecosystem Assessment (2003) Ecosystems and Well-being: A Framework for Assessment. Washington DC: Island Press, p. 142.
+ "Perpetual Peace: A Philosophical Sketch: Appendix 1". Constitution.org. Retrieved 24 July 2009.
+ Kant, Immanuel (1796). Project for a Perpetual Peace, p. 61. Retrieved 24 July 2009.
+ Kant, Immanuel (1838). Immanuel Kant's Werke, revidirte Gesammtausg, p. 456. Retrieved 24 July 2009.
+ Kant, Foundations, p. 437.
+ "Kant and the German Enlightenment" in "History of Ethics". Encyclopedia of Philosophy, Vol. 3, pp. 95–96. MacMillan, 1973.
+ Kant, Foundations, pp. 400, 429.
+ Kant, Foundations, pp. 437–38.
+ Kant, Foundations, pp. 438–39. See also Kingdom of Ends
+ Karl Leonhard Reinhold, Letters on the Kantian Philosophy (1786), 3rd Letter
+ Johann Schultz, Exposition of Kant's Critique of Pure Reason (1784), 141.
+ "The Protestant pastor is the grandfather of German philosophy...German philosophy is at bottom – a cunning theology...Why the rejoicing heard through the German academic world – three-quarters composed of the sons of pastors and teachers-at the appearance of Kant? Why the Germans' conviction, which still find echo even today, that with Kant things were taking a turn of the better? Kant's success is merely a theologian's success". Nietzsche, The Antichrist, 10
+ Immanuel Kant. Religion within the Limits of Reason Alone (1793), Book IV, Part 1, Section 1, "The Christian religion as a natural religion."
+ "Kant's Philosophy of Religion (Stanford Encyclopedia of Philosophy)". Plato.stanford.edu. Retrieved 24 July 2009.
+ For example Peter Byrne, who wrote about Kant's relationship with deism. Byrne, Peter (2007), Kant on God, London: Ashgate, p. 159.
+ Wood, Allen W. (1970), Kant's moral religion, London and Ithaca: Cornell University Press, p. 16.
+ Westphal, Merold (2010),The Emerge of Modern Philosophy of Religion, in Taliaferro, Charles, Draper, Paul and Quinn, Philip (editors), A Companion to Philosophy of Religion, Oxford: Blackwell, p. 135.
+ Iţu, Mircia (2004), Dumnezeu şi religia în concepţia lui Immanuel Kant din Religia în limitele raţiunii, in Boboc, Alexandru and Mariş, N.I. (editors), Studii de istoria filosofiei universale, volume 12, Bucharest: Romanian Academy.
+ The Norman Kemp Smith translation has been used for this section, with citation noting the pagination of the first and second editions.
+ Kant, Critique of Pure Reason, A448/B476.
+ Kant, Critique of Pure Reason, A534/B562.
+ the same distinction of transcendental and practical meaning can be applied to the idea of God, with the proviso that the practical concept of freedom can be experienced (Critique of Pure Reason, A801-804/B829-832).
+ Kant, Critique of Pure Reason, A800–2/B828–30.
+ The concept of freedom is also handled in the third section of the Foundations of the Metaphysics of Morals. In the Critique of Practical Reason see § VII and § VIII.
+ 5:65–67
+ Susanne Bobzien, 'Die Kategorien der Freiheit bei Kant', in Kant: Analysen, Probleme, Kritik Vol. 1, 1988, 193–220.
+ Critique of Judgment in "Kant, Immanuel" Encyclopedia of Philosophy. Vol 4. Macmillan, 1973.
+ Kant, Critique of Pure Reason, A22/B36.
+ Beardsley, Monroe. "History of Aesthetics". Encyclopedia of Philosophy. Vol. 1, section on "Toward a unified aesthetics", p. 25, Macmillan 1973. Baumgarten coined the term "aesthetics" and expanded, clarified, and unified Wolffian aesthetic theory, but had left the Aesthetica unfinished (See also: Tonelli, Giorgio. "Alexander Gottlieb Baumgarten". Encyclopedia of Philosophy. Vol. 1, Macmillan 1973). In Bernard's translation of the Critique of Judgment he indicates in the notes that Kant's reference in § 15 in regard to the identification of perfection and beauty is probably a reference to Baumgarten.
+ German Idealism in "History of Aesthetics" Encyclopedia of Philosophy. Vol 1. Macmillan, 1973.
+ Kant's general discussions of the distinction between "cognition" and "conscious of" are also given in the Critique of Pure Reason (notably A320/B376), and section V and the conclusion of section VIII of his Introduction in Logic.
+ Clewis, Robert (2009). "The Kantian Sublime and the Revelation of Freedom". Cambridge: Cambridge University Press.
+ Kant, Immanuel. Idea for a Universal History. Trans. Lewis White Beck (20, 22).
+ Kant, Immanuel. Idea for a Universal History. Trans. Lewis White Beck (26).
+ Kant, Immanuel. Perpetual Peace: A Philosophical Sketch (1795)
+ Kant, Immanuel. Perpetual Peace. Trans. Lewis White Beck (377).
+ Manfred Riedel Between Tradition and Revolution: The Hegelian Transformation of Political Philosophy, Cambridge 1984
+ On History, (ed. L.W. Beck, New York: Bobbs Merill, 1963, p. 106).
+ History of Political Philosophy, edited by Leo Strauss and Joseph Cropsey, The University of Chicago Press, 1987, pp. 581–82, 603
+ Kant, Immanuel. Perpetual Peace. Trans. Lewis White Beck (352).
+ Thomas Sturm, Kant und die Wissenschaften vom Menschen (Paderborn: Mentis Verlag, 2009).
+ Anthropology from a Pragmatic Point of View, ed. Robert B. Louden, introduction by Manfred Kuehn, Cambridge University Press, 2006
+ Gregor, Brian. "Anthropology from a Pragmatic Point of View. By Immanuel Kant. Translated and edited by Robert B. Louden". Heythrop.
+ Prof. Oliver A. Johnson claims that, "With the possible exception of Plato's Republic, (Critique of Pure Reason) is the most important philosophical book ever written." Article on Kant within the collection "Great thinkers of the Western World", Ian P. McGreal, Ed., HarperCollins, 1992.
+ See Stephen Palmquist, "The Architectonic Form of Kant's Copernican Logic", Metaphilosophy 17:4 (October 1986), pp. 266–88; revised and reprinted as Chapter III of Kant's System of Perspectives: An architectonic interpretation of the Critical philosophy (Lanham: University Press of America, 1993).
+ There is much debate in the recent scholarship about the extent to which Fichte and Schelling actually overstep the boundaries of Kant's critical philosophy, thus entering the realm of dogmatic or pre-Critical philosophy. Beiser's German Idealism discusses some of these issues. Beiser, Frederick C. German Idealism: The Struggle against Subjectivism, 1781–1801. Cambridge, Massachusetts: Harvard University Press, 2002.
+ Georg Wilhelm Friedrich Hegel, Natural Law: The Scientific Ways of Treating Natural Law, Its Place in Moral Philosophy, and Its Relation to the Positive Sciences. trans. T.M. Knox. Philadelphia, PA: University of Pennsylvania Press, 1975. Hegel's mature view and his concept of "ethical life" is elaborated in his Philosophy of Right. Hegel, Philosophy of Right. trans. T.M. Knox. Oxford University Press, 1967.
+ Robert Pippin's Hegel's Idealism (Cambridge: Cambridge University Press, 1989) emphasizes the continuity of Hegel's concerns with Kant's. Robert Wallace, Hegel's Philosophy of Reality, Freedom, and God (Cambridge: Cambridge University Press, 2005) explains how Hegel's Science of Logic defends Kant's idea of freedom as going beyond finite "inclinations", contra skeptics such as David Hume.
+ Beck, Lewis White. "Neo-Kantianism". In Encyclopedia of Philosophy. Vol. 5–6. Macmillan, 1973. Article on Neo-Kantianism by a translator and scholar of Kant.
+ Cerf, Walter. "Nicolai Hartmann". In Encyclopedia of Philosophy. Vol. 3–4. Macmillan, 1973. Nicolai was a realist who later rejected the idealism of Neo-Kantianism, his anti-Neo-Kantian views emerging with the publication of the second volume of Hegel (1929).
+ Schlegel, Friedrich. "Athenaeum Fragments", in Philosophical Fragments. Trans. Peter Firchow. Minneapolis, MN: University of Minnesota Press, 1991. See especially fragments Nos. 1, 43, 44.
+ Greenberg, Clement. "Modernist Painting", in The Philosophy of Art, ed. Alex Neill and Aaron Ridley, McGraw-Hill, 1995.
+ See "Essential Works of Foucault: 1954–1984 vol. 2: Aesthetics, Method, and Epistemology." Ed. by James Faubion, Trans. Robert Hurley et al. New York City: The New Press, 1998 (2010 reprint). See "Foucault, Michel, 1926 –" entry by Maurice Florence.
+ For a discussion and qualified defense of this position, see Stephen Palmquist, "A Priori Knowledge in Perspective: (I) Mathematics, Method and Pure Intuition", The Review of Metaphysics 41:1 (September 1987), pp. 3–22.
+ Körner, Stephan, The Philosophy of Mathematics, Dover, 1986. For an analysis of Kant's writings on mathematics see, Friedman, Michael, Kant and the Exact Sciences, Cambridge, Massachusetts: Harvard University Press, 1992.
+ Ray, James Lee. "Does Democracy Cause Peace?" Archived 17 February 2008 at the Wayback Machine Annual Review of Political Science 1998. 1:27–46.
+ Strawson, P.F., The Bounds of Sense: An Essay on Kant's Critique of Pure Reason. Routledge: 2004. When first published in 1966, this book forced many Anglo-American philosophers to reconsider Kant's Critique of Pure Reason.
+ Aridi, Sara (March 14, 2017). "Onora O'Neill Wins Holberg Prize for Academic Research". The New York Times.
+ Cassam, Q., "The Possibility of Knowledge" Oxford: 2009
+ Sellars, Wilfrid, Science and Metaphysics: Variations on Kantian Themes. Ridgeview Publishing Company, 1967
+ Korsgaard, Christine. Creating the Kingdom of Ends. Cambridge; New York: Cambridge University Press, 1996. ISBN 0-521-49644-6, 0-521-49962-3 Not a commentary, but a defense of a broadly Kantian approach to ethics
+ Brook, Andrew. Kant and the Mind. Cambridge: Cambridge University Press, 1994. See also, Meerbote, R. "Kant's Functionalism". In: J.C. Smith, ed. Historical Foundations of Cognitive Science. Dordrecht, Holland: Reidel, 1991. Brook has an article on Kant's View of the Mind in the Stanford Encyclopedia
+ See Habermas, J. Moral Consciousness and Communicative Action. Trans. Christian Lenhardt and Shierry Weber Nicholsen. Cambridge, Massachusetts: MIT Press, 1996. For Rawls see, Rawls, John. Theory of Justice Cambridge, Massachusetts: Harvard University Press, 1971. Rawls has a well-known essay on Kant's concept of good. See, Rawls, "Themes in Kant's Moral Philosophy" in Kant's Transcendental Deductions. Ed. Eckart Förster. Stanford, CA: Stanford University Press, 1989.
+ Habermas, J. (1994): The Unity of Reason in the Diversity of Its Voices. In: Habermas, J. (Eds.): Postmetaphysical Thinking. Political Essays, Cambridge, Massachusetts: 115–48.
+ Rorty, R. (2984) Habermas and Lyotard on postmodernity. Praxis International (32–44)
+ Issacson, Walter. "Einstein: His Life and Universe." p. 20.
+ "Heine on Immanuel Kant" (PDF). Retrieved 10 July 2015.
+ Examined Lives, From Socrates to Nietzsche, James Miller p. 284
+ Immanuel Kant and the Bo(a)rders of Art History Mark Cheetham, in The Subjects of Art History: Historical Objects in Contemporary Perspectives, p. 16
+ Beyer, Susanne (2014-07-25). "Resurrecting Königsberg: Russian City Looks to German Roots". Spiegel Online. Retrieved 2018-02-03.
+ Kishkovsky, Sophia (28 November 2018). "Kant monument splashed with pink paint in Kaliningrad". The Art Newspaper. Retrieved 3 December 2018.
+ The thesis was submitted on 17 April 1755. "The public examination was held four weeks later on 13 May, and the degree was formally awarded on 12 June" (Eric Watkins, Kant: Natural Science, Cambridge University Press, 2012, p. 309).
+ Eric Watkins (ed.), Kant and the Sciences, Oxford University Press, 2001, p. 27.
+ Martin Schonfeld, The Philosophy of the Young Kant: The Precritical Project, Oxford University Press, 2000, p. 74.
+ Available online at Bonner Kant-Korpus.
+ The thesis was publicly disputed on 27 September 1755 (Kuehn 2001, p. 100).
+ Available online at Bonner Kant-Korpus.
+ Kant's application for the position was unsuccessful. He defended it on 10 April 1756 (Kuehn 2001, p. 102).
+ Available online at Archive.org.
+ Immanuel Kant, "Concerning the ultimate ground of the differentiation of directions in space".
+ The thesis was publicly disputed on 21 August 1770 (Kuehn 2001, p. 189).
+ Available online at Google Books.
+ English translation available online at Wikisource.
+ Immanuel Kant. "The Critique of Pure Reason". Etext.library.adelaide.edu.au. Archived from the original on 2 December 2008. Retrieved 24 July 2009.
+ Immanuel Kant (20 July 2009). "Projekt Gutenberg-DE – Spiegel Online – Nachrichten – Kultur". Gutenberg.spiegel.de. Retrieved 24 July 2009.
+ Frank-Christian Lilienweihs (10 June 1999). "Immanuel Kant: Beantwortung der Frage: Was ist Aufklaerung?". Prometheusonline.de. Retrieved 24 July 2009.
+ "Critique of Pure Reason". Hkbu.edu.hk. 31 October 2003. Retrieved 24 July 2009.
+ "Projekt Gutenberg-DE – Spiegel Online – Nachrichten – Kultur". Gutenberg.spiegel.de. 20 July 2009. Retrieved 24 July 2009.
+ Immanuel Kant (20 July 2009). "Projekt Gutenberg-DE – Spiegel Online – Nachrichten – Kultur". Gutenberg.spiegel.de. Retrieved 24 July 2009.
+ s:The Critique of Judgment
+ Immanuel Kant. "Religion within the Limits of Reason Alone by Immanuel Kant 1793". Marxists.org. Retrieved 24 July 2009.
+ "Immanuel Kant, "Perpetual Peace"". Mtholyoke.edu. Retrieved 24 July 2009.
+ "Immanuel Kant: Zum ewigen Frieden, 12.02.2004 (Friedensratschlag)". Uni-kassel.de. Retrieved 24 July 2009.
+ "Kant, The Contest of Faculties". Chnm.gmu.edu. Retrieved 24 July 2009.
+ Immanuel Kant (20 July 2009). "Projekt Gutenberg-DE – Spiegel Online – Nachrichten – Kultur". Gutenberg.spiegel.de. Retrieved 24 July 2009.
+ Available online at DeutschesTextArchiv.de.
+ As noted by Allen W. Wood in his Introduction, p. 12. Wood further speculates that the lectures themselves were delivered in the Winter of 1783–84.
+ Immanuel Kant, Notes and Fragments, Cambridge University Press, 2005, p. xvi.
+Works cited
+Kant, Immanuel. Foundations of the Metaphysics of Morals. Trans. Lewis White Beck, Indianapolis, Bobbs-Merrill, 1969. Page numbers citing this work are Beck's marginal numbers that refer to the page numbers of the standard edition of Königlich-Preußische Akademie der Wissenschaften (Berlin, 1902–38).
+Kuehn, Manfred. Kant: a Biography. Cambridge University Press, 2001. ISBN 0-521-49704-3.
+Further reading
+
+This article's further reading may not follow Wikipedia's content policies or guidelines. Please improve this article by removing less relevant or redundant publications with the same point of view; or by incorporating the relevant publications into the body of the article through appropriate citations. (February 2017) (Learn how and when to remove this template message)
+In Germany, one important contemporary interpreter of Kant and the movement of German Idealism he began is Dieter Henrich, who has some work available in English. P.F. Strawson's The Bounds of Sense (1966) played a significant role in determining the contemporary reception of Kant in England and America. More recent interpreters of note in the English-speaking world include Lewis White Beck, Jonathan Bennett, Henry Allison, Paul Guyer, Christine Korsgaard, Stephen Palmquist, Robert B. Pippin, Roger Scruton, Rudolf Makkreel, and Béatrice Longuenesse.
+
+General introductions to his thought
+
+Broad, C.D. Kant: An Introduction. Cambridge University Press, 1978. ISBN 0-521-21755-5, 0-521-29265-4
+Gardner, Sebastian. Kant and the Critique of Pure Reason. Routledge, 1999. ISBN 0-415-11909-X
+Martin, Gottfried. Kant's Metaphysics and Theory of Science. Greenwood Press, 1955 ISBN 978-0-8371-7154-8 (elucidates Kant's most fundamental concepts in their historical context)
+Palmquist, Stephen. Kant's System of Perspectives: an architectonic interpretation of the Critical philosophy. Lanham, MD: University Press of America, 1993. ISBN 0-8191-8927-8
+Seung, T.K. 2007. Kant: a Guide for the Perplexed. London: Continuum. ISBN 0-8264-8580-4
+Satyananda Giri. Kant. Durham, CT: Strategic Publishing Group, 2010. ISBN 978-1-60911-686-6
+Scruton, Roger. Kant: a Very Short Introduction. Oxford University Press, 2001. ISBN 0-19-280199-6 (provides a brief account of his life, and a lucid introduction to the three major critiques)
+Uleman, Jennifer. An Introduction to Kant's Moral Philosophy. Cambridge University Press, 2010. ISBN 978-0-521-13644-0
+Luchte, James. Kant's Critique of Pure Reason. Bloomsbury Publishing, 2007. ISBN 978-0-8264-9322-4
+Deleuze, Gilles. Kant's Critical Philosophy: The Doctrine of the Faculties. The Athlone Press, 1983. ISBN 0-485-11249-3
+Biography and historical context
+
+Bader, Ralph (2008). "Kant, Immanuel (1724–1804)". In Hamowy, Ronald. The Encyclopedia of Libertarianism. Thousand Oaks, CA: Sage; Cato Institute. pp. 269–71. doi:10.4135/9781412965811.n161. ISBN 978-1-4129-6580-4. LCCN 2008009151. OCLC 750831024.
+Beck, Lewis White. Early German Philosophy: Kant and his Predecessors. Harvard University Press, 1969. (a survey of Kant's intellectual background)
+Beiser, Frederick C. The Fate of Reason: German Philosophy from Kant to Fichte. Harvard University Press, 1987.
+Beiser, Frederick C. German Idealism: the Struggle against Subjectivism, 1781–1801. Harvard University Press, 2002
+Cassirer, Ernst. Kant's Life and Thought. Translation of Kants Leben und Lehre. Trans., Jame S. Haden, intr. Stephan Körner. New Haven, CT: Yale University Press, 1981.
+Chamberlain, Houston Stewart. Immanuel Kant – a study and a comparison with Goethe, Leonardo da Vinci, Bruno, Plato and Descartes, the authorised translation from the German by Lord Redesdale, with his 'Introduction', The Bodley Head, London, 1914, (2 volumes).
+Gulyga, Arsenij. Immanuel Kant: His Life and Thought. Trans., Marijan Despaltović. Boston: Birkhäuser, 1987.
+Johnson, G.R. (ed.). Kant on Swedenborg. Dreams of a Spirit-Seer and Other Writings. Swedenborg Foundation, 2002. (new translation and analysis, many supplementary texts)
+Lehner, Ulrich L., Kants Vorsehungskonzept auf dem Hintergrund der deutschen Schulphilosophie und –theologie (Leiden: 2007) (Kant's concept of Providence and its background in German school philosophy and theology)
+Pinkard, Terry. German Philosophy, 1760–1860: the Legacy of Idealism. Cambridge, 2002.
+Pippin, Robert. Idealism as Modernism. Cambridge University Press, 1996.
+Sassen, Brigitte (ed.). Kant's Early Critics: the Empiricist Critique of the Theoretical Philosophy, Cambridge, 2000.
+Schabert, Joseph A. "Kant's Influence on his Successors", The American Catholic Quarterly Review, Vol. XLVII, January 1922.
+Collections of essays
+
+Firestone, Chris L. and Palmquist, Stephen (eds.). Kant and the New Philosophy of Religion. Notre Dame: Indiana University Press, 2006. ISBN 0-253-21800-4
+Förster, Eckart (ed.). Kant's Transcendental Deductions:. The Three 'Critiques' and the 'Opus Postumum' Stanford: Stanford University Press, 1989. Includes an important essay by Dieter Henrich.
+Guyer, Paul (ed.). The Cambridge Companion to Kant, Cambridge: Cambridge University Press, 1992. ISBN 0-521-36587-2, 0-521-36768-9. Excellent collection of papers that covers most areas of Kant's thought.
+Mohanty, J.N. and Shahan, Robert W. (eds.). Essays on Kant's Critique of Pure Reason. Norman: University of Oklahoma Press, 1982. ISBN 0-8061-1782-6
+Phillips, Dewi et al. (eds.). Kant and Kierkegaard on Religion. New York: Palgrave Macmillian, 2000, ISBN 0-312-23234-9 Collection of essays about Kantian religion and its influence on Kierkegaardian and contemporary philosophy of religion.
+Proceedings of the International Kant Congresses. Several Congresses (numbered) edited by various publishers.
+Theoretical philosophy
+
+Allison, Henry. Kant's Transcendental Idealism. New Haven: Yale University Press, 1983, 2004. ISBN 0-300-03629-9, 0-300-03002-9 (a very influential defense of Kant's idealism, recently revised).
+Ameriks, Karl. Kant's Theory of Mind: An Analysis of the Paralogisms of Pure Reason. Oxford: Clarendon Press, 1982 (one of the first detailed studies of the Dialectic in English).
+Banham, Gary. Kant's Transcendental Imagination. London and New York: Palgrave Macmillan, 2006.
+Deleuze, Gilles. Kant's Critical Philosophy. Trans., Hugh Tomlinson and Barbara Habberjam. University of Minnesota Press, 1984. ISBN 0-8166-1341-9, 0-8166-1436-9
+Gram, Moltke S. The Transcendental Turn: The Foundation of Kant's Idealism. Gainesville: University Presses of Florida, 1984. ISBN 0-8130-0787-9
+Greenberg, Robert. Kant's Theory of A Priori Knowledge. Penn State Press, 2001 ISBN 0-271-02083-0
+Guyer, Paul. Kant and the Claims of Knowledge. Cambridge: Cambridge University Press, 1987 (modern defense of the view that Kant's theoretical philosophy is a "patchwork" of ill-fitting arguments).
+Heidegger, Martin. Kant and the Problem of Metaphysics. Trans., Richard Taft. Bloomington: Indiana University Press, 1997. ISBN 0-253-21067-4
+Henrich, Dieter. The Unity of Reason: Essays on Kant's Philosophy. Ed. with introduction by Richard L. Velkley; trans. Jeffrey Edwards et al. Harvard University Press, 1994. ISBN 0-674-92905-5
+Kemp Smith, Norman. A Commentary to Kant's 'Critique of Pure Reason. London: Macmillan, 1930 (influential commentary on the first Critique, recently reprinted).
+Kitcher, Patricia. Kant's Transcendental Psychology. New York: Oxford University Press, 1990.
+Longuenesse, Béatrice. Kant and the Capacity to Judge. Princeton University Press, 1998. ISBN 0-691-04348-5. (argues that the notion of judgment provides the key to understanding the overall argument of the first Critique)
+Melnick, Arthur. Kant's Analogies of Experience. Chicago: University of Chicago Press, 1973. (important study of Kant's Analogies, including his defense of the principle of causality)
+Paton, H.J. Kant's Metaphysic of Experience: a Commentary on the First Half of the Kritik der reinen Vernunft. Two volumes. London: Macmillan, 1936. (extensive study of Kant's theoretical philosophy)
+Pippin, Robert B.. Kant's Theory of Form: An Essay on the Critique of Pure Reason. New Haven: Yale University Press, 1982. (influential examination of the formal character of Kant's work)
+Schopenhauer, Arthur. Die Welt als Wille und Vorstellung. Erster Band. Anhang. Kritik der Kantischen Philosophie. F.A. Brockhaus, Leipzig 1859 (In English: Arthur Schopenhauer, New York: Dover Press, Volume I, Appendix, "Criticism of the Kantian Philosophy", ISBN 0-486-21761-2)
+Schott, Robin May (1997). Feminist interpretations of Immanuel Kant. University Park, Pennsylvania: Pennsylvania State University Press. ISBN 978-0-271-01676-4.
+Seung, T.K. Kant's Transcendental Logic. New Haven: Yale University Press, 1969.
+Strawson, P.F. The Bounds of Sense: An Essay on Kant's Critique of Pure Reason. Routledge, 1989 (the work that revitalized the interest of contemporary analytic philosophers in Kant).
+Sturm, Thomas, Kant und die Wissenschaften vom Menschen. Paderborn: Mentis Verlag, 2009. ISBN 3-89785-608-5, 978-3-89785-608-0. review (Treats Kant's anthropology and his views on psychology and history in relation to his philosophy of science.)
+Tonelli, Giorgio. Kant's Critique of Pure Reason within the Tradition of Modern Logic. A Commentary on its History. Hildesheim, Olms 1994
+Werkmeister, W.H., Kant: The Architectonic and Development of His Philosophy, Open Court Publishing Co., La Salle, Ill.; 1980 ISBN 0-87548-345-3 (it treats, as a whole, the architectonic and development of Kant's philosophy from 1755 through the Opus postumum.)
+Wolff, Robert Paul. Kant's Theory of Mental Activity: A Commentary on the Transcendental Analytic of the Critique of Pure Reason. Cambridge, Massachusetts: Harvard University Press, 1963. (detailed and influential commentary on the first part of the Critique of Pure Reason)
+Yovel, Yirmiahu. Kant and the Philosophy of History. Princeton: Princeton University Press, 1980. (review)
+Practical philosophy
+
+Allison, Henry. Kant's Theory of Freedom. Cambridge University Press 1990.
+Banham, Gary. Kant's Practical Philosophy: From Critique to Doctrine. Palgrave Macmillan, 2003.
+Dorschel, Andreas. Die idealistische Kritik des Willens: Versuch über die Theorie der praktischen Subjektivität bei Kant und Hegel. Hamburg: Felix Meiner, 1992 (Schriften zur Transzendentalphilosophie 10) ISBN 3-7873-1046-0.
+Friedman, Michael (June 1998). "Kantian themes in contemporary philosophy". Proceedings of the Aristotelian Society, Supplementary Volumes. 72 (1): 111–30. doi:10.1111/1467-8349.00038. JSTOR 4107015.
+Koorsgaard, Christine M. The Sources of Normativity. Cambridge University Press, 1996.
+Michalson, Gordon E. Fallen Freedom: Kant on Radical Evil and Moral Regeneration. Cambridge University Press, 1990.
+Michalson, Gordon E. Kant and the Problem of God. Blackwell Publishers, 1999.
+Paton, H.J. The Categorical Imperative: A Study in Kant's Moral Philosophy. University of Pennsylvania Press 1971.
+Rawls, John. Lectures on the History of Moral Philosophy. Cambridge, 2000.
+Seung, T.K. Kant's Platonic Revolution in Moral and Political Philosophy. Johns Hopkins, 1994.
+Wolff, Robert Paul. The Autonomy of Reason: A Commentary on Kant's Groundwork of the Metaphysic of Morals. New York: HarperCollins, 1974. ISBN 0-06-131792-6.
+Wood, Allen. Kant's Ethical Thought. New York: Cambridge University Press, 1999.
+Aesthetics
+
+Allison, Henry. Kant's Theory of Taste: A Reading of the Critique of Aesthetic Judgment. Cambridge, UK: Cambridge University Press, 2001.
+Banham, Gary. Kant and the Ends of Aesthetics. London and New York: Macmillan Press, 2000.
+Clewis, Robert. The Kantian Sublime and the Revelation of Freedom. Cambridge, UK: Cambridge University Press, 2009.
+Crawford, Donald. Kant's Aesthetic Theory. Wisconsin, 1974.
+Doran, Robert. The Theory of the Sublime from Longinus to Kant. Cambridge, UK: Cambridge University Press, 2015.
+Guyer, Paul. Kant and the Claims of Taste. Cambridge, Massachusetts and London, 1979.
+Hammermeister, Kai. The German Aesthetic Tradition. Cambridge University Press, 2002.
+Immanuel Kant entry in Kelly, Michael (Editor in Chief) (1998) Encyclopedia of Aesthetics. New York, Oxford, Oxford University Press.
+Kaplama, Erman. Cosmological Aesthetics through the Kantian Sublime and Nietzschean Dionysian. Lanham: UPA, Rowman & Littlefield, 2014.
+Makkreel, Rudolf, Imagination and Interpretation in Kant. Chicago, 1990.
+McCloskey, Mary. Kant's Aesthetic. SUNY, 1987.
+Schaper, Eva. Studies in Kant's Aesthetics. Edinburgh, 1979.
+Zammito, John H. The Genesis of Kant's Critique of Judgment. Chicago and London: Chicago University Press, 1992.
+Zupancic, Alenka. Ethics of the Real: Kant and Lacan. Verso, 2000.
+Philosophy of religion
+
+Palmquist, Stephen. Kant's Critical Religion: Volume Two of Kant's System of Perspectives. Ashgate, 2000. ISBN 0-7546-1333-X
+Perez, Daniel Omar. "Religión, Política y Medicina en Kant: El Conflicto de las Proposiciones". Cinta de Moebio. Revista de Epistemologia de Ciencias Sociales, v. 28, p. 91–103, 2007. Uchile.cl (Spanish)
+Perpetual peace and international relations
+
+Sir Harry Hinsley, Power and the Pursuit of Peace, Cambridge University Press, 1962.
+Martin Wight, Four Seminal Thinkers in International Theory: Machiavelli, Grotius, Kant and Mazzini ed. Gabriele Wight & Brian Porter (Oxford: Oxford University Press, 2005).
+Bennington, Geoffrey (December 2011). "Kant's open secret". Theory, Culture & Society. 28 (7–8): 26–40. doi:10.1177/0263276411423036.
+Other works
+
+Botul, Jean-Baptiste. La vie sexuelle d'Emmanuel Kant. Paris, FR; Éd. Mille et une Nuits, 2008. ISBN 978-2-84205-424-3
+Caygill, Howard. A Kant Dictionary. Oxford, UK; Cambridge, Massachusetts, US: Blackwell Reference, 1995. ISBN 0-631-17534-2, 0-631-17535-0
+Derrida, Jacques. Mochlos; or, The Conflict of the Faculties. Columbia University, 1980.
+Kelly, Michael. Kant's Ethics and Schopenhauer's Criticism, London: Swan Sonnenschein 1910. [Reprinted 2010 Nabu Press, ISBN 978-1-171-70795-0]
+Mosser, Kurt. Necessity and Possibility; The Logical Strategy of Kant's Critique of Pure Reason. Catholic University of America Press, 2008. ISBN 978-0-8132-1532-7
+White, Mark D. Kantian Ethics and Economics: Autonomy, Dignity, and Character. Stanford University Press, 2011. ISBN 978-0-8047-6894-8. (Reviewed in The Montreal Review)
+Contemporary philosophy with a Kantian influence
+
+Assiter, Alison (July 2013). Kant and Kierkegaard on freedom and evil. Royal Institute of Philosophy Supplement. 72. pp. 275–96. Bibcode:1995kppp.book.....O. doi:10.1017/S1358246113000155.
+Bird, Graham (June 1998). "Kantian themes in contemporary philosophy". Proceedings of the Aristotelian Society, Supplementary Volumes. 72 (1): 131–52. doi:10.1111/1467-8349.00039. JSTOR 4107015.
+Guyer, Paul. Knowledge, Reason, and Taste: Kant's Response to Hume. Princeton University Press, 2008.
+Hanna, Robert, Kant and the Foundations of Analytic Philosophy. Clarendon Press, 2004.
+Hanna, Robert, Kant, Science, and Human Nature. Clarendon Press, 2006.
+Herman, Barbara. The Practice of Moral Judgement. Harvard University Press, 1993.
+Hill, Judith M. (June 1987). "Pornography and degradation". Hypatia: A Journal of Feminist Philosophy. 2 (2): 39–54. doi:10.1111/j.1527-2001.1987.tb01064.x. JSTOR 3810015. (A Kantian approach to the issue of pornography and degradation.)
+Korsgaard, Christine. Creating the Kingdom of Ends. Cambridge, New York: Cambridge University Press, 1996. ISBN 0-521-49644-6, 0-521-49962-3 (not a commentary, but a defense of a broadly Kantian approach to ethics)
+McDowell, John. Mind and World. Harvard University Press, 1994. ISBN 0-674-57609-8. (offers a Kantian solution to a dilemma in contemporary epistemology regarding the relation between mind and world)
+O'Neill, Onora (June 1998). "Kant on duties regarding nonrational nature". Proceedings of the Aristotelian Society, Supplementary Volumes. 72 (1): 211–28. doi:10.1111/1467-8349.00043. JSTOR 4107017.
+Parfit, Derek. On What Matters (2 vols.). New York: Oxford University Press, 2011. ISBN 978-0-19-926592-3
+Pinker, Steven. The Stuff of Thought. Viking Press, 2007. ISBN 978-0-670-06327-7. (Chapter 4 "Cleaving the Air" discusses Kant's anticipation of modern cognitive science)
+Wood, Allen W.. Kant's Ethical Thought. Cambridge, New York: Cambridge University Press, 1999. ISBN 0-521-64836-X. (comprehensive, in-depth study of Kant's ethics, with emphasis on formula of humanity as most accurate formulation of the categorical imperative)
+Wood, Allen W. (June 1998). "Kant on duties regarding nonrational nature". Proceedings of the Aristotelian Society, Supplementary Volumes. 72 (1): 189–210. doi:10.1111/1467-8349.00042. JSTOR 4107017.
+External links
+Immanuel Kant
+at Wikipedia's sister projects
+Definitions from Wiktionary
+Media from Wikimedia Commons
+Quotations from Wikiquote
+Texts from Wikisource
+Data from Wikidata
+Works by Immanuel Kant at Project Gutenberg
+Works by or about Immanuel Kant at Internet Archive
+Works by Immanuel Kant at LibriVox (public domain audiobooks) 
+KantPapers, authors and papers database powered by PhilPapers, focused on Kant, and located at Cornell University
+Immanuel Kant at the Encyclopædia Britannica
+Immanuel Kant in the Christian Cyclopedia
+Works by Immanuel Kant at Duisburg-Essen University
+Stephen Palmquist's Glossary of Kantian Terminology
+Kant's Ethical Theory – Kantian ethics explained, applied and evaluated
+Notes on Utilitarianism – A conveniently brief survey of Kant's Utilitarianism
+Internet Encyclopedia of Philosophy: Immanuel Kant: An Overview
+The Stanford Encyclopedia of Philosophy: Immanuel Kant
+Articles related to Immanuel Kant
+Authority control Edit this at Wikidata	
+BIBSYS: 90066754 BNE: XX1002482 BNF: cb11909393p (data) GND: 118559796 ISNI: 0000 0001 2282 4025 LCCN: n79021614 MusicBrainz: 871df78f-da37-417c-a898-a5de1f9a7ef0 MGP: 106921 NDL: 00445131 NKC: jn19990004171 NLA: 35259064 RKD: 447563 ICCU: IT\ICCU\CFIV\000707 SELIBR: 192570 SNAC: w62r3q53 SUDOC: 02694507X ULAN: 500107055 VIAF: 82088490 WorldCat Identities (via VIAF): 82088490
+Categories: Immanuel Kant1724 births1804 deaths18th-century German philosophers18th-century German writers18th-century philosophers18th-century Prussian peopleAge of EnlightenmentContinental philosophersEarly Modern philosophersEnlightenment philosophersEpistemologistsEthicistsGerman agnosticsGerman anthropologistsGerman classical liberalsGerman ethicistsGerman idealismGerman logiciansGerman LutheransGerman nationalistsGerman philosophersGerman political theoristsIdealistsKantianismKantian philosophersLogiciansMembers of the Prussian Academy of SciencesMetaphysiciansMoral philosophersNatural philosophersOntologistsPeople from KönigsbergPeople of the Age of EnlightenmentPhilosophers of artPhilosophers of educationPhilosophers of ethics and moralityPhilosophers of lawPhilosophers of literaturePhilosophers of logicPhilosophers of mindPhilosophers of religionPhilosophers of sciencePhilosophers of sexualityPhilosophers of social sciencePhilosophy writersPolitical liberals (international relations)RationalistsUniversity of Königsberg alumniUniversity of Königsberg faculty
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+Wikisource
+
+Languages
+Башҡортса
+Беларуская
+Deutsch
+Français
+Latina
+Lietuvių
+Polski
+Русский
+Українська
+141 more
+Edit links
+This page was last edited on 16 March 2019, at 15:34 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

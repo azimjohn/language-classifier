@@ -1,0 +1,1269 @@
+
+Georg Wilhelm Friedrich Hegel
+(Weitergeleitet von Hegel)
+Zur Navigation springenZur Suche springen
+	Hegel ist eine Weiterleitung auf diesen Artikel. Weitere Bedeutungen sind unter Hegel (Begriffsklärung) aufgeführt.
+
+Georg Wilhelm Friedrich Hegel,
+porträtiert von Jakob Schlesinger, 1831 Hegels Unterschrift 1802
+Georg Wilhelm Friedrich Hegel (* 27. August 1770 in Stuttgart; † 14. November 1831 in Berlin) war ein deutscher Philosoph, der als wichtigster Vertreter des deutschen Idealismus gilt.
+
+Hegels Philosophie erhebt den Anspruch, die gesamte Wirklichkeit in der Vielfalt ihrer Erscheinungsformen einschließlich ihrer geschichtlichen Entwicklung zusammenhängend, systematisch und definitiv zu deuten. Sein philosophisches Werk zählt zu den wirkmächtigsten Werken der neueren Philosophiegeschichte. Es gliedert sich in „Logik“, „Naturphilosophie“ und „Philosophie des Geistes“, die unter anderem auch eine Geschichtsphilosophie umfasst. Sein Denken wurde außerdem zum Ausgangspunkt zahlreicher anderer Strömungen in Wissenschaftstheorie, Soziologie, Historie, Theologie, Politik, Jurisprudenz und Kunsttheorie und prägte vielfach auch weitere Bereiche der Kultur und des Geisteslebens.
+
+Nach Hegels Tod kam es zu einer Aufspaltung seiner Anhänger in eine „rechte“ und eine „linke“ Gruppierung. Die Rechts- oder Althegelianer wie Eduard Gans und Karl Rosenkranz verfolgten einen konservativen Interpretationsansatz im Sinne eines „preußischen Staatsphilosophen“, zu dem Hegel im Vormärz erklärt worden war, während die Links- oder Junghegelianer wie Ludwig Feuerbach oder Karl Marx einen progressiven gesellschaftskritischen Ansatz aus der Philosophie Hegels ableiteten und weiterentwickelten. Insbesondere Karl Marx wurde durch Hegels Philosophie geprägt, die ihm durch die Vorlesungen Eduard Gans’ bekannt wurde. Hegels Philosophie wurde daher einer der zentralen Ausgangspunkte für den Dialektischen Materialismus, der zum Wissenschaftlichen Sozialismus führte. Hegel übte auch entscheidenden Einfluss auf Søren Kierkegaard und die Existenzphilosophie, später vor allem auf Jean-Paul Sartre, aus. Die Methode Hegels, den Gegenstand dadurch zu begreifen, dass alle seine Ansichten zur Darstellung gebracht werden, erlaubte es, dass sich die gegensätzlichsten Vertreter auf Hegel beriefen und noch heute berufen.[1]
+
+
+Georg Wilhelm Friedrich Hegel, Lithografie von Ludwig Sebbers
+
+Inhaltsverzeichnis
+1	Leben
+1.1	Frühe Zeit (1770–1800)
+1.1.1	Schul- und Studienzeit
+1.1.2	„Hofmeister“ in Bern und Frankfurt
+1.2	Jena: Beginn der Universitätskarriere (1801–1807)
+1.3	Zeit in Bamberg (1807–1808)
+1.4	Nürnberg (1808–1816)
+1.5	Heidelberg (1816–1818)
+1.6	Berlin (1818–1831)
+2	Gedenk- und Wirkungsstätten
+3	Einteilung des Werks
+4	Grundzüge der hegelschen Philosophie
+4.1	Historischer Ausgangspunkt
+4.2	„Das Wahre ist das Ganze“: Idee, Natur und Geist
+4.3	Die Dialektik
+4.4	Der Begriff
+4.5	Aufgabe und Charakter der Philosophie
+5	Das hegelsche System
+5.1	Grundlegung der Philosophie
+5.1.1	Der Weg zum wissenschaftlichen Standpunkt
+5.2	Logik
+5.2.1	Lehre vom Sein
+5.2.1.1	Qualität
+5.2.1.2	Quantität
+5.2.1.3	Maß
+5.2.2	Lehre vom Wesen
+5.2.2.1	Der Begriff des Wesens
+5.2.2.2	Der Widerspruch
+5.2.2.3	Die Erscheinung
+5.2.2.4	Die Wirklichkeit
+5.2.3	Lehre vom Begriff
+5.2.3.1	Die Subjektivität
+5.2.3.2	Die Objektivität
+5.2.3.3	Die Idee
+5.3	Naturphilosophie
+5.3.1	Natur und Philosophie der Natur
+5.3.1.1	Der Übergang von der Idee zur Natur
+5.3.1.2	Der Begriff der Natur
+5.3.1.3	Naturphilosophie
+5.3.2	Mechanik und Physik
+5.3.2.1	Raum und Zeit
+5.3.2.2	Materie und Bewegung
+5.3.3	Organik
+5.3.3.1	Die „vegetabilische Natur“
+5.3.3.2	Der „tierische Organismus“
+5.4	Philosophie des Geistes
+5.4.1	Der Begriff des Geistes
+5.4.2	Subjektiver Geist
+5.4.2.1	Seele
+5.4.2.2	Bewusstsein
+5.4.2.3	Geist
+5.4.2.3.1	Theoretischer und praktischer Geist
+5.4.2.3.2	Die Sprache
+5.4.2.3.3	Trieb, Neigung, Leidenschaft
+5.4.3	Objektiver Geist
+5.4.3.1	Recht
+5.4.3.1.1	Naturrecht und positives Recht
+5.4.3.1.2	Freiheit und Recht
+5.4.3.1.3	Die Person
+5.4.3.1.4	Eigentum und Vertrag
+5.4.3.1.5	Unrecht
+5.4.3.2	Moralität
+5.4.3.2.1	Vorsatz und Schuld
+5.4.3.2.2	Absicht und Wohl
+5.4.3.2.3	Das Gute und das Gewissen
+5.4.3.3	Sittlichkeit
+5.4.3.3.1	Die Familie
+5.4.3.4	Die bürgerliche Gesellschaft
+5.4.3.5	Der Staat
+5.4.3.6	Die Weltgeschichte
+5.4.4	Absoluter Geist
+5.4.4.1	Kunst
+5.4.4.1.1	Kunstformenlehre
+5.4.4.1.2	Das System der Künste
+5.4.4.2	Religion
+5.4.4.2.1	Grundbestimmungen der Religion
+5.4.4.2.2	Erscheinungsformen der Religionen und das Christentum
+5.4.4.3	Philosophie
+5.4.4.3.1	Philosophie als „Begriff“ des absoluten Geistes
+5.4.4.3.2	Geschichte der Philosophie
+5.5	Übersicht des philosophischen Systems
+6	Rezeption
+6.1	Politische Philosophie
+6.2	Soziologie
+6.3	Kulturgeschichte
+6.4	Naturphilosophie
+6.5	Einzelne Rezipienten
+6.5.1	Karl Marx
+6.5.2	Karl Popper
+6.5.3	Bertrand Russell
+7	Schriften
+8	Ausgaben
+9	Literatur
+9.1	Zum Gesamtwerk und zur Person
+9.1.1	Einführungen und Handbücher
+9.1.2	Weiterführendes
+9.1.3	Biographien
+9.1.4	Rezeption
+9.2	Zu Einzelaspekten der hegelschen Philosophie
+9.2.1	Logik
+9.2.2	Naturphilosophie
+9.2.3	Dialektik
+9.2.4	Ästhetik
+9.2.5	Praktische Philosophie
+9.2.6	Religionsphilosophie
+9.2.7	Geschichte der Philosophie
+9.3	Zeitschriften
+10	Weblinks
+11	Einzelnachweise
+Leben
+Frühe Zeit (1770–1800)
+Schul- und Studienzeit
+Georg Wilhelm Friedrich Hegel (seine Familie nannte ihn Wilhelm) wurde am 27. August 1770 in Stuttgart geboren und wuchs in einem pietistischen Elternhaus auf. Der Vater Georg Ludwig (1733–1799), geboren in Tübingen, war Rentkammersekretär in Stuttgart und entstammte einer Familie von Beamten und Pfarrern. Hegels Mutter, Maria Magdalena Louisa Hegel (geborene Fromm, 1741–1783), stammte aus einer wohlhabenden Stuttgarter Familie. Die zwei jüngern Geschwister Christiane Luise Hegel (1773–1832) und Georg Ludwig (1776–1812) wuchsen gemeinsam mit ihm auf. Der namensgebende Vorfahr der Familie Hegel, die im Herzogtum Württemberg zur traditionellen „Ehrbarkeit“ gehörte, war im 16. Jahrhundert als evangelischer Glaubensflüchtling aus Kärnten nach Württemberg gekommen.
+
+Vermutlich seit 1776 besuchte Hegel das Gymnasium illustre Stuttgarts, das seit 1686 ein Ausbildungszug am Eberhard-Ludwigs-Gymnasium Stuttgarts war. Hegels Interessen waren breit gestreut. Besonderes Augenmerk widmete er der Geschichte, insbesondere der Antike und den alten Sprachen. Ein weiteres frühes Interesse bildete die Mathematik. Er besaß Kenntnisse der damals vorherrschenden wolffschen Philosophie. Die überlieferten Texte aus dieser Zeit weisen den Einfluss der Spätaufklärung auf.[2]
+
+Zum Wintersemester 1788/89 nahm Hegel in Tübingen an der Eberhard Karls Universität das Studium der Evangelischen Theologie und Philosophie auf.[3] Er wurde in das Tübinger Stift aufgenommen, wo die zukünftigen Theologen neben der wissenschaftlichen Ausbildung eine auch zu Hegels Zeit als bedrückend empfundene Erziehung erhielten.
+
+
+Georg Wilhelm Friedrich Hegel
+Nach zwei Jahren erhielt Hegel im September 1790 den Grad eines Magisters der Philosophie, 1793 wurde ihm das theologische Lizenziat verliehen. Hegels Abschlussbescheinigung besagt, dass er gute Fähigkeiten und vielfältige Kenntnisse gehabt habe.
+
+Hegel profitierte viel von dem intellektuellen Austausch mit seinen später berühmten (zeitweiligen) Zimmergenossen Hölderlin und Schelling. Durch Hölderlin begeisterte er sich für Schiller und die alten Griechen, während die pseudo-kantianische Theologie seiner Lehrer ihn mehr und mehr abstieß. Schelling teilte diese Ideen. Sie alle protestierten gegen die politischen und kirchlichen Zustände in ihrem Heimatstaat und formulierten neue Prinzipien von Vernunft und Freiheit.
+
+Im Sommer 1792 nahm Hegel an den Versammlungen eines revolutionär-patriotischen Studentenclubs teil, der Ideen aus Frankreich nach Tübingen brachte. Seine Mitglieder lasen mit großem Interesse französische Zeitungen; Hegel und Hölderlin wurden als Jakobiner bezeichnet. Hegel soll dabei „der enthusiastische Fürsprecher von Freiheit und Gleichheit“ gewesen sein.[4]
+
+„Hofmeister“ in Bern und Frankfurt
+Nachdem Hegel die Hochschule verlassen hatte, erhielt er 1793 eine Anstellung als Hauslehrer in Bern, wo er den Kindern des Kapitäns Karl Friedrich von Steiger Privatunterricht geben sollte. Die vergleichsweise liberalen Ideen der Steigers fielen bei Hegel auf fruchtbaren Boden. Die Steigers führten Hegel auch in die damalige soziale und politische Situation in Bern ein.
+
+Hegel verbrachte die Sommer mit den Steigers auf ihrem Weingut in Tschugg bei Erlach, wo ihm die Privatbibliothek der Steigers zur Verfügung stand. Er studierte dort die Werke von Montesquieu (Esprit des Lois), Hugo Grotius, Thomas Hobbes, David Hume, Gottfried Wilhelm Leibniz, John Locke, Niccolò Machiavelli, Jean-Jacques Rousseau, Anthony Ashley-Cooper, 3. Earl of Shaftesbury, Baruch Spinoza, Thukydides und Voltaire. Hegel legte so in seiner Berner Periode die Grundlage für sein breites Wissen in Philosophie, Sozialwissenschaften, Politik, Volkswirtschaft und politischer Ökonomie.
+
+In Bern hielt Hegel sein Interesse an den revolutionären politischen Ereignissen in Frankreich aufrecht. Seine Sympathie galt bald der „Girondisten“-Fraktion, weil er zunehmend ernüchtert wurde durch die übermäßige Brutalität der jakobinischen Schreckensherrschaft. Er gab allerdings nie sein früheres positives Urteil über die Ergebnisse der Französischen Revolution auf.
+
+Ein anderer Faktor in seiner philosophischen Entwicklung kam aus seinem Studium des Christentums. Unter dem Einfluss von Gotthold Ephraim Lessing und Kant bemühte er sich, aus den Berichten des Neuen Testaments die wirkliche Bedeutung Christi zu analysieren und das spezifisch Neue des Christentums zu erfassen. Die Aufsätze, die er nur für sich selbst schrieb, wurden erst postum 1907 von dem Dilthey-Schüler Herman Nohl unter dem Titel ‚Hegels theologische Jugendschriften‘ veröffentlicht (und lösten damit ein erneuertes Interesse an Hegel aus).
+
+Zum Ende seines Vertrags in Bern erwirkte Hölderlin, jetzt in Frankfurt, eine Hauslehrerstellung für seinen Freund Hegel in der Familie von Herrn Johann Noe Gogel, einem Wein-Großhändler im Zentrum Frankfurts.
+
+Hegel setzte in Frankfurt seine Studien der Volkswirtschaft und Politik kontinuierlich fort; so befasste er sich mit Edward Gibbons Untergang des Römischen Reiches, mit Schriften von Hume und Montesquieus Der Geist der Gesetze. Hegel begann sich für Fragen der Wirtschaft und der täglichen Politik zu interessieren. Dabei waren es hauptsächlich die Entwicklungen in Großbritannien, die er durch regelmäßige Lektüre der englischen Zeitungen verfolgte. Er folgte mit geschärftem Interesse den parlamentarischen Debatten über den „Bill von 1796“, die so genannten Armenrechte über die öffentliche Sozialfürsorge, wie auch den Nachrichten über die Reform des preußischen Zivilrechts („Landrecht“).
+
+Jena: Beginn der Universitätskarriere (1801–1807)
+Als im Januar 1799 sein Vater starb, empfing Hegel ein bescheidenes Erbe, das es ihm aber ermöglichte, wieder an eine akademische Karriere zu denken. Im Januar 1801 erreichte Hegel Jena, das zu dieser Zeit stark durch die Philosophie Schellings geprägt war. In der ersten Veröffentlichung Hegels, einem Aufsatz über den Unterschied der Philosophischen Systeme Fichtes und Schellings (1801), stellte sich Hegel, bei allen sich schon andeutenden Differenzen, in der Hauptsache hinter Schelling und gegen Johann Gottlieb Fichte.
+
+Zusammen mit Schelling gab Hegel 1802–1803 das Kritische Journal der Philosophie heraus. Die Artikel, die Hegel in dieser Zeitschrift schrieb, umfassen solch wichtige wie „Glauben und Wissen“ (Juli 1802, eine Kritik von Kant, Jacobi und Fichte) oder „Über die wissenschaftlichen Behandlungsarten des Naturrechtes“ (November 1802).[5]
+
+Das Thema der Doktorarbeit („Habilitationsdissertion“), durch die sich Hegel für die Stellung als Privatdozent qualifizierte (Dissertatio Philosophica De orbitis planetarum, 1801), war unter dem Einfluss der Naturphilosophie Schellings gewählt. In dieser Arbeit beschäftigt sich Hegel hauptsächlich mit den Gesetzen der Planetenbewegung von Johannes Kepler und der Himmelsmechanik von Isaac Newton. Er gelangt zu einer scharfen Ablehnung von Newtons Vorgehen, stützt sich dabei allerdings auf gravierende Missverständnisse.[6] Im letzten Abschnitt diskutiert er kritisch das Titius-Bode-„Gesetz“ der Planetenabstände (welches a priori einen Planeten zwischen Mars und Jupiter deduziert) und konstruiert dann (unter Umformung einer Zahlenreihe aus Platos Timaeus) eine andere Zahlenfolge, welche die Lücke in den Abständen zwischen Mars und Jupiter besser abbildet. Da in der Lücke im selben Jahr 1801 der Kleinplanet Ceres gefunden wurde als scheinbare Bestätigung der Titius-Bode-Reihe diente dieser Anhang zu Hegels Dissertation häufig dazu, Hegel lächerlich zu machen, er ist aber später von Historikern der Astronomie in Schutz genommen worden.[7][8]
+
+
+Hegel (rechts) und Napoleon in Jena 1806, Illustration aus Harper’s Magazine, 1895
+Hegels erste Jenaer Vorlesung über „Logik und Metaphysik“ im Winter 1801/1802 wurde von elf Studenten besucht. Nachdem Schelling Mitte 1803 Jena in Richtung Würzburg verlassen hatte, arbeitete Hegel nun seine eigenen Ansichten aus. Außer philosophischen Studien von Platon und Aristoteles las er Homer und griechische Tragödien, machte Exzerpte aus Büchern, besuchte Vorlesungen über Physiologie und befasste sich mit Mineralogie und anderen Naturwissenschaften.
+
+Ab 1804 hielt Hegel Vorlesungen über seine theoretischen Vorstellungen vor einer Klasse von ungefähr dreißig Schülern. Darüber hinaus hielt er Vorlesungen über Mathematik. Während er unterrichtete, verbesserte er ständig sein ursprüngliches System. Jedes Jahr versprach er seinen Studenten aufs Neue ein eigenes Lehrbuch der Philosophie – das immer wieder verschoben wurde. Nach Empfehlung durch Johann Wolfgang Goethe und Schelling wurde Hegel im Februar 1805 zum a. o. Professor ernannt.
+
+Im Oktober 1806 hatte Hegel gerade die letzten Seiten seiner Phänomenologie des Geistes niedergeschrieben, als die Vorboten der Schlachten von Jena und Auerstedt aufzogen. In einem Brief an den mit ihm befreundeten Friedrich Immanuel Niethammer schrieb Hegel am 13. Oktober 1806:
+
+„Den Kaiser – diese Weltseele – sah ich durch die Stadt zum Rekognizieren hinausreiten; – es ist in der Tat eine wunderbare Empfindung, ein solches Individuum zu sehen, das hier auf einen Punkt konzentriert, auf einem Pferde sitzend, über die Welt übergreift und sie beherrscht.“[9]
+
+Hegel erlebte kurz zuvor den Einzug Napoleons in die Stadt und war als Anhänger der Französischen Revolution begeistert, die „Weltseele zu Pferde“ – später oft verändert in „Weltgeist zu Pferde“ – gesehen zu haben. In Napoleon sah Hegel die Weltseele respektive den Weltgeist exemplarisch verkörpert; die Idee des Weltgeistes wurde als metaphysisches Prinzip zum Zentralbegriff der spekulativen Philosophie Hegels: Für ihn war die gesamte historische Wirklichkeit, die Totalität, der Prozess des Weltgeistes. Dadurch realisiere sich der „Endzweck“ der Weltgeschichte, und zwar die „Vernunft in der Geschichte“[10]. Mit dieser These knüpfte er an die von Schelling erstmals publizierte Weltgeisttheorie an. Infolge der Besetzung Jenas durch französische Truppen war Hegel gezwungen, die Stadt zu verlassen, nachdem sich französische Offiziere und Soldaten in seinem Haus einquartiert hatten und ihm seine finanziellen Mittel ausgingen. Er wechselte nach Bamberg und wurde dort Redakteur der Bamberger Zeitung.
+
+Zeit in Bamberg (1807–1808)
+Hegel fand in Bamberg 1807 einen Verleger für sein Werk Phänomenologie des Geistes. Er wurde Chefredakteur der Bamberger Zeitung, geriet dort jedoch bald in Konflikt mit dem bayerischen Pressegesetz. Schließlich verließ Hegel 1808 ernüchtert die Stadt in Richtung Nürnberg. Sein journalistisches Engagement sollte eine Episode in seiner Biografie bleiben. Im Jahr 1810 übernahm einer seiner Nachfolger, Karl Friedrich Gottlob Wetzel (1779–1819), die Rolle des Chefredakteurs der in Fränkischer Merkur umbenannten Zeitung.
+
+Den zu dieser Zeit verstärkt auftretenden Massenmedien blieb er jedoch treu: „Die regelmäßige Lektüre der Morgenzeitung bezeichnete er als realistischen Morgensegen.“[11]
+
+Nürnberg (1808–1816)
+Im November 1808 wurde Hegel auf Vermittlung seines Freundes Friedrich Immanuel Niethammer zum Professor der Vorbereitungswissenschaften und Rektor des Egidiengymnasiums Nürnberg neben St. Egidien ernannt. Hegel unterrichtete dort Philosophie, Germanistik, Griechisch und höhere Mathematik. Er gliederte den Unterricht in diktierte Paragraphen; einen großen Teil der Unterrichtszeit nahmen die von Hegel erwünschten Zwischenfragen und die anschließenden Erklärungen in Anspruch. Das so in die Hefte gebrachte philosophische Wissen wurde später von Karl Rosenkranz aus den Schülermitschriften kompiliert und als Philosophische Propädeutik herausgegeben.
+
+Die erhoffte Ordnung der finanziellen Verhältnisse stellte sich allerdings nicht ein. Monatelange Gehaltsrückstände brachten Hegel erneut in finanzielle Schwierigkeiten.
+
+Im September 1811 heiratete Hegel die gerade zwanzigjährige Marie von Tucher. Sie gebar bald eine Tochter, die allerdings kurz nach der Geburt starb. Der darauf folgende Sohn wurde nach Hegels Großvater Karl benannt. Karl Hegel war zeitlebens bemüht, auf wissenschaftlichem Gebiet aus dem Schatten des als übermächtig empfundenen Vaters herauszutreten.[12] Zunächst studierte er wie sein Vater Philosophie und wollte in dessen Fußstapfen treten.[13] Mit der Zeit emanzipierte er sich allerdings und wurde zu einem der führenden Historiker des 19. Jahrhunderts, der vor allem auf dem Gebiet der Stadt- und Verfassungsgeschichte in ausgewiesener Weise wirkte.[14] Außerdem fungierte er zeit seines Lebens als Herausgeber väterlicher Briefe, Schriften und Vorlesungen.[15] Der zweite Sohn Hegels erhielt nach seinem Paten Niethammer den Namen Immanuel und brachte es zum Konsistorialpräsidenten der Provinz Brandenburg. Der dritte Sohn Ludwig (1807–1831) schließlich war ein uneheliches Kind, das zunächst von Johanna Frommann[16], einer Schwester des Verlegers Carl Friedrich Ernst Frommann, in Jena aufgezogen und erst 1817 in die Familie Hegel aufgenommen wurde.[17] Von seinem Vater und den beiden Halbbrüdern wurde er nicht respektiert. Hegel entzog ihm sogar den Namen, so dass er den Geburtsnamen seiner Mutter Christiane Charlotte Burckhardt annehmen musste und sich Ludwig Fischer nannte. Seit 1825 für sechs Jahre als Soldat der holländischen Armee verpflichtet, starb er im Sommer[18] 1831 am damals weit verbreiteten Tropenfieber in Batavia.[19][20]
+
+Kurz nach der Eheschließung begann Hegel an seiner Wissenschaft der Logik zu schreiben. 1813 wurde er dann zum Schulrat ernannt, womit sich seine materielle Situation etwas verbesserte.
+
+Heidelberg (1816–1818)
+1816 nahm Hegel eine Professur für Philosophie an der Universität Heidelberg an. Am 28. Oktober hielt er seine Antrittsvorlesung. Als Vorlesungsleitfaden erschien im Mai 1817 die erste Auflage der Enzyklopädie der philosophischen Wissenschaften.
+
+Er arbeitete in der Redaktion der Heidelberger Jahrbücher für Literatur mit. Dort erschien seine Schrift über die Verhandlungen der Landstände des Königreiches Württemberg.
+
+Am 26. Dezember 1817 erhielt Hegel das Angebot von zum Altenstein, dem ersten preußischen Kultusminister, an die Berliner Universität zu kommen.
+
+Sein Nachfolger in Heidelberg wurde für kurze Zeit Joseph Hillebrand.
+
+Berlin (1818–1831)
+
+Hegel mit Berliner Studenten
+Lithographie F. Kugler
+
+Gedenktafel für Georg Wilhelm Friedrich Hegel, Am Kupfergraben, Berlin-Mitte, gestiftet von Dr. Silvio Bianchi
+
+Grabmal auf dem Ehrengrab von Georg Wilhelm Friedrich Hegel auf dem Dorotheenstädtischen Friedhof in Berlin-Mitte gelegen
+1818 folgte Hegel dem Ruf an die Universität von Berlin, deren Rektor zu dieser Zeit der Theologe Philipp Konrad Marheineke war.[21] Hier wurde er Nachfolger auf dem Lehrstuhl von Johann Gottlieb Fichte. Am 22. Oktober 1818 hielt Hegel seine Antrittsvorlesung. Von da an las er in der Regel wöchentlich zehn Stunden. Seine Vorlesungen wurden schnell populär und ihre Hörerschaft vergrößerte sich weit über das universitäre Umfeld, denn auch Kollegen und Staatsbeamte suchten nun seine Lehrveranstaltungen auf. 1821 erschien sein letztes von ihm persönlich gefertigtes Werk Grundlinien der Philosophie des Rechts. Hegel wurde 1829 selbst Rektor der Universität. Bei einer Tafel mit dem Kronprinzen, dem späteren König Friedrich Wilhelm IV., sagte dieser: „Es ist ein Skandal, daß der Professor Gans uns alle Studenten zu Republikanern macht. Seine Vorlesungen über Ihre Rechtsphilosophie, Herr Professor, sind immer von vielen Hunderten besucht, und es ist bekannt genug, daß er Ihrer Darstellung eine vollkommen liberale, ja republikanische Färbung gibt.“[22] Daraufhin übernahm Hegel wiederum die Vorlesung, was das Verhältnis zu seinem engsten Schüler eintrübte.
+
+Hegel starb 1831. Es werden zwei Todesursachen genannt: Mehrheitlich heißt es, er sei an der in Berlin wütenden Cholera-Epidemie gestorben. Jüngere Forschungen vertreten jedoch auch die Ansicht, Hegel „starb […] wahrscheinlich an einem chronischen Magenleiden und nicht an Cholera, wie die offizielle Diagnose lautete“.[23][24] Er wurde auf dem Dorotheenstädtischen Friedhof begraben.[25] Die Grabstätte, als Ehrengrab der Stadt Berlin, befindet sich in der Abteilung CH, G1.
+
+Hegel war in den Berliner Jahren ein Anhänger der konstitutionellen Monarchie Preußens. Nach seiner Begeisterung für den revolutionären Aufbruch 1789, dem Erschrecken über den Menschen „in seinem Wahn“ (Schiller) und dem Scheitern Napoleons hatte bei Hegel eine politische Neuorientierung stattgefunden. Er söhnte sich mit den politischen Gegebenheiten aus und galt als ein bürgerlicher Philosoph und trat der Gesetzlosen Gesellschaft zu Berlin bei. Durch Minister Altenstein wurde Hegels Philosophie in Preußen begünstigt.[26]
+
+Hegels Popularität und Wirkung weit über seinen Tod hinaus ist vor allem auf die Berliner Zeit zurückzuführen. Die Universität war ein wissenschaftliches Zentrum jener Zeit und wurde nach Hegels Tod über Jahrzehnte von den Hegelianern dominiert. Konnte Hegels Lehre den Geisteswissenschaften wertvolle Impulse geben, erschien sie den Naturwissenschaften lange Zeit als Hemmschuh oder wurde bestenfalls ignoriert. Eine ganzheitliche Betrachtungsweise der natürlichen und geistigen Phänomene macht Hegels Naturphilosophie jedoch wieder zunehmend populär. Seine Schüler stellten nach dem Tod Hegels aus seinem Nachlass und aus den Mitschriften einzelner Hörer Texte zusammen, die sie als Bücher veröffentlichten.
+
+Im europäischen Ausland wurde man erst nach seinem Tod auf Hegel aufmerksam. So erwähnte ihn die Londoner Times erstmals 1838 in einer Rezension russischer Zeitschriften, wovon sich eine in „metaphysischen Spekulationen“ „deutscher Ideen“ aale, allen voran denen von Kant, Fichte und Schelling und „nicht zuletzt Hegel, dessen Ideen überall in Europa auf Zustimmung zu stoßen beginnen.“[27]
+
+Gedenk- und Wirkungsstätten
+Im Hegelhaus Stuttgart befindet sich eine Dauerausstellung über den Lebensweg Hegels. Ihm zu Ehren verleiht die Stadt Stuttgart alle drei Jahre den internationalen Hegel-Preis. Die älteste und bedeutendste Vereinigung, die sich der hegelschen Philosophie widmet, ist die Internationale Hegel-Gesellschaft.
+
+In zahlreichen Städten wurden Straßen oder Plätze nach dem Philosophen benannt. Starken Bezug auf den Bildungspionier nimmt u. a. die Wiener Hegelgasse im 1. Bezirk, mit mehreren bekannten Schulen und bedeutsamer Architektur, wo auch durch die Frauenpolitikerin Marianne Hainisch das weltweit erste Mädchengymnasium errichtet wurde.
+
+Einteilung des Werks
+Die hegelschen Schriften werden in der Hegelforschung in vierzehn Sektoren eingeteilt, die teils chronologischen, teils systematischen Kriterien entsprechen:[28]
+
+Frühe Schriften (Jugendschriften)
+Jenaer kritische Schriften
+Jenaer Systementwürfe
+Phänomenologie des Geistes
+Logik (kleine und große)
+Naturphilosophie
+Subjektiver Geist
+Objektiver Geist (Grundlinien der Philosophie des Rechts)
+Philosophie der Geschichte
+Tagespolitische Schriften
+Philosophie der Kunst
+Religionsphilosophie
+Philosophie und Geschichte der Philosophie
+Enzyklopädie der philosophischen Wissenschaften
+Die Texte lassen sich weiterhin in drei Gruppen einteilen:
+
+Texte, die von Hegel verfasst und zu seinen Lebzeiten zur Veröffentlichung gebracht worden sind
+Texte, die zwar von ihm verfasst, aber zu seinen Lebzeiten nicht veröffentlicht worden sind
+Texte, die weder von ihm verfasst, noch zu seinen Lebzeiten veröffentlicht wurden
+Zur ersten Textgruppe gehören die Schriften aus dem Anfang der Jenaer Zeit Hegels sowie seine Arbeiten in der gemeinsam mit Schelling herausgegebenen Zeitschrift Kritisches Journal der Philosophie. Weiterhin zählen dazu seine Hauptwerke Phänomenologie des Geistes, die Wissenschaft der Logik, die Enzyklopädie der philosophischen Wissenschaften und die Grundlinien der Philosophie des Rechts. Weiterhin veröffentlichte Hegel nur noch einige kleinere Arbeiten aus aktuellen Anlässen und für die Jahrbücher für wissenschaftliche Kritik.
+
+Fast alle Schriften der zweiten Textgruppe wurden erst im 20. Jahrhundert in einer authentischen Fassung herausgegeben. Sie umfassen die in Tübingen und Jena erstellten Manuskripte Hegels, die Jenaer Systementwürfe, die Arbeiten aus der Nürnberger Zeit und die Manuskripte und Notizen aus der Heidelberger und Berliner Vorlesungstätigkeit.
+
+Die Gruppe der von Hegel weder verfassten, noch publizierten Texte macht fast die Hälfte der Hegel zugeschriebenen Texte aus. Zu ihnen gehören die für die Wirkung Hegels sehr wichtigen Vorlesungen über Ästhetik, Geschichtsphilosophie, Religionsphilosophie und Geschichte der Philosophie. Diese Texte sind Schülerprodukte, die zum größten Teil das Ergebnis der Kompilation von Nachschriften hegelscher Vorlesungen darstellen.[29]
+
+Grundzüge der hegelschen Philosophie
+Historischer Ausgangspunkt
+Der Ausgangspunkt der hegelschen Philosophie wie des Deutschen Idealismus überhaupt ist das von Kant aufgeworfenene Problem der synthetischen Urteile a priori. Diese sind für Kant nur für die Mathematik, die Naturwissenschaften und mit Bezug auf die Möglichkeit empirischer Erfahrung möglich. Deren Sätze beruhen auf den Anschauungsformen Raum und Zeit, die die Wahrnehmung erst strukturieren, und den Kategorien, die sie zu einer synthetischen Einheit verbinden.
+
+Für den Bereich der theoretischen Philosophie verwirft Kant die Möglichkeit synthetischer Urteile a priori, da deren Sätze und Schlüsse die Sphäre möglicher Erfahrung überstiegen. Dies führt ihn zu einer Ablehnung klassischer philosophischer Disziplinen wie der rationalen Psychologie, Kosmologie und Theologie.
+
+Eine besondere Stellung nimmt dabei das denkende Ich („Ich denke“) ein. Zwar garantiert erst dieses die Einheit der Wahrnehmung, doch können wir für Kant davon „niemals den geringsten Begriff haben“ (KrV, Immanuel Kant: AA III, 265[30]). Die Frage nach der Fundierung der Einheit der Wahrnehmung durch das Ich und nach dessen Bewusstsein seiner selbst ist eins der zentralen philosophischen Probleme bzw. Motive des Deutschen Idealismus, wobei Hegel die Kant-Rezeptionen von Johann Gottlieb Fichte und Friedrich Schelling verarbeitet.
+
+„Das Wahre ist das Ganze“: Idee, Natur und Geist
+Hegels Anspruch ist es, die Bewegung des Begriffes selbst – die Selbstentfaltung der logischen und realen Kategorien – in systematischer, wissenschaftlicher Form darzustellen. Sein System resultiert dabei aus dem Grundsatz:
+
+„Das Wahre ist das Ganze. Das Ganze aber ist nur das durch seine Entwicklung sich vollendende Wesen. Es ist von dem Absoluten zu sagen, dass es wesentlich Resultat, dass es erst am Ende das ist, was es in Wahrheit ist; und hierin eben besteht seine Natur, Wirkliches, Subjekt oder Sichselbstwerden zu sein.“
+
+– PG 24
+Dieses Ganze ist in sich unterschieden und kann als eine Einheit von drei Sphären begriffen werden:
+
+Idee,
+Natur und
+Geist.
+Die Idee ist der Begriff (Logos) schlechthin, aus dem sich die objektiven, ewigen Grundstrukturen der Wirklichkeit[31] ableiten lassen. Damit nimmt er indirekt Bezug auf einen Ideenbegriff, wie Platon ihn verstand.[32] Die Logik bestimmt den Inhalt dieses prinzipiellen Begriffes in der Form des Gedankens. Der Versuch, mit einem Schlag unmittelbar zu beantworten, was die Idee sei, muss notwendigerweise scheitern, da der erste Schritt einer jeden Definition nur das reine Sein des betreffenden, noch unbestimmten Begriffes aussagen kann: „Die Idee ist.“ Die Bestimmung ist also am Anfang noch völlig inhaltslos, abstrakt und leer, und daher gleichbedeutend mit dem Satz: „Die Idee ist Nichts.“ Hegel folgert daraus, dass nichts so genommen werden kann, wie es unmittelbar als Moment ist, sondern immer in seiner Vermittlung zu betrachten ist: in seiner Abgrenzung (Negation) von anderem, in seiner steten Veränderung und in seinem Verhältnis zum Ganzen, sowie im Unterscheiden von Schein und Wesen. Alles Konkrete ist im Werden begriffen. Ebenso durchläuft die Idee in der Logik als dem „Reich des reinen Gedankens“ (L I 44) einen Prozess der Selbstbestimmung, der den Inhalt und Umfang durch sich scheinbar ausschließende, einander entgegengesetzte Begriffe ständig erweitert. Durch eine Reihe von Übergängen, deren „härtester“ von der Notwendigkeit zur Freiheit führt, bringt diese Selbstbewegung die Idee schließlich zu dem Begriff als Begriff, in dessen „Reich der Freiheit“ (L II 240) sie ihre äußerste Vollendung in der absoluten Idee erreicht. Ihre absolute Freiheit realisiert diese, indem sie sich „entschließt“, sich selbst zu entäußern (E I 393) – diese Entäußerung ist die geschaffene Natur, die Idee „in der Form des Andersseins“.
+
+In der Natur ist die Idee „außer sich gekommen“ und hat ihre absolute Einheit verloren – die Natur ist zersplittert in die Äußerlichkeit der Materie in Raum und Zeit (E II 24). Dennoch wirkt die Idee in der Natur weiter und versucht, ihr eigenes Produkt „wieder in sich zurückzunehmen“ (E II 24) – die Naturkräfte, wie die Gravitation, versetzen die Materie in Bewegung, um ihre ideelle Einheit wiederherzustellen. Dies bleibt jedoch innerhalb der Natur selbst letztendlich zum Scheitern verurteilt, da diese als „das Verharren im Anderssein“ (E II 25) bestimmt ist. Die höchste Gestalt in der Natur ist der tierische Organismus, in dem zwar die lebendige Einheit der Idee objektiv angeschaut werden kann, dem aber das subjektive Bewusstsein seiner selbst fehlt.
+
+Was dem Tier versagt bleibt, offenbart sich jedoch dem Geist: der endliche Geist wird sich im einzelnen Menschen seiner Freiheit bewusst (E III 29). Die Idee kann nun durch den Geist zu sich selbst zurückkehren, indem dieser die Natur (durch Arbeit) wie sich selbst (in Staat, Kunst, Religion und Philosophie) nach der Idee formt bzw. bildet. Im Staat wird die Freiheit zum allgemeinen Gut aller Individuen. Deren Beschränktheit hindert aber diese daran, die unendliche, absolute Freiheit zu erlangen. Damit das Ganze vollkommen wird, schafft sich also der unendliche, absolute Geist im Endlichen sein Reich, in dem die Schranken des Begrenzten überwunden werden: die Kunst stellt die Wahrheit der Idee für die sinnliche Anschauung dar. Die Religion offenbart dem endlichen Geist in der Vorstellung den Begriff von Gott. In der Philosophie schließlich entsteht das Gebäude der Vernunft-geleiteten Wissenschaft, in dem das selbstbewusste Denken die ewige Wahrheit der Idee (in der Logik) begreift und in allem wiedererkennt. Das Absolute wird sich dadurch seiner selbst bewusst als der ewigen, unzerstörbaren Idee, als des Schöpfers der Natur und aller endlichen Geister (E III 394). Außerhalb seiner Totalität kann es nichts weiter geben – im Begriff des absoluten Geistes sind auch die extremsten Gegensätze und alle Widersprüche aufgehoben – sie sind alle miteinander versöhnt.
+
+Die Dialektik
+Das treibende Moment in der Bewegung des Begriffs[33] stellt die Dialektik dar. Sie ist sowohl Methode als auch das Prinzip der Dinge selbst. Die Dialektik umfasst dabei wesentlich drei Momente, die nicht voneinander abgesondert betrachtet werden können (E I § 79):
+
+die abstrakte oder verständige Seite
+Der endliche Verstand bestimmt etwas als seiend: „Das Denken als Verstand bleibt bei der festen Bestimmtheit und der Unterschiedenheit derselben gegen andere stehen; ein solches beschränktes Abstraktes gilt ihm als für sich bestehend und seiend.“ (E I § 80)
+die dialektische oder negativ-vernünftige Seite
+Die unendliche (negative) Vernunft erkennt die Einseitigkeit dieser Bestimmung und verneint sie. Es entsteht so ein Widerspruch. Die begrifflichen Gegensätze negieren einander, d. h. sie heben sich gegenseitig auf: „Das dialektische Moment ist das eigene Sichaufheben solcher endlichen Bestimmungen und ihr Übergehen in ihre entgegengesetzten.“ (E I § 81)
+die spekulative oder positiv-vernünftige Seite
+Die positive Vernunft erkennt in sich selbst die Einheit der widersprüchlichen Bestimmungen und führt alle vorherigen Momente zu einem positiven Resultat zusammen, die dadurch in ihr aufgehoben (aufbewahrt) werden: „Das Spekulative oder Positiv-Vernünftige fasst die Einheit der Bestimmungen in ihrer Entgegensetzung auf, das Affirmative, das in ihrer Auflösung und ihrem Übergehen enthalten ist.“ (E I § 82)
+Dialektik als Bewegung der Dinge selbst
+Dialektik ist nicht nur die Darstellung der Vereinigung der Gegensätze, sondern ist die konstitutive Bewegung der Dinge selbst. Die unendliche Vernunft entzweit sich, so Hegel, permanent neu. Das Bestehende nimmt sie in einem unendlichen Prozess in sich auf und bringt es erneut aus sich heraus. Im Grunde vereint sie sich dabei mit sich selbst (GP 20). Hegel verdeutlicht diese Entwicklung (hier die der Idee des Geistes) anhand einer Samenkornmetapher:
+
+„Die Pflanze verliert sich nicht in der bloßen Veränderung. So im Keim der Pflanze. Es ist dem Keim nichts anzusehen. Er hat den Trieb, sich zu entwickeln; er kann es nicht aushalten nur an sich zu sein. Der Trieb ist der Widerspruch, dass er nur an sich ist und es doch nicht sein soll. Der Trieb setzt in die Existenz heraus. Es kommt vielfaches hervor; das ist aber alles im Keime schon enthalten, freilich nicht entwickelt, sondern eingehüllt und ideell. Die Vollendung dieses Heraussetzens tritt ein, es setzt sich ein Ziel. Das höchste Außersichkommen ist die Frucht, d. h. die Hervorbringung des Keims, die Rückkehr zum ersten Zustande.“
+
+– GP I 41
+Existenz ist immer auch Veränderung. Der Zustand eines Dinges, sein „Sein“ ist nur ein Moment seines ganzen Begriffs. Um ihn völlig zu erfassen, muss der Begriff zu sich selbst zurückkehren, so wie das Samenkorn wieder zu seinem „ersten Zustand“ zurückkehrt. Die „Aufhebung“ eines Moments kommt hier doppelt zum Tragen. Einmal zerstört die Aufhebung die alte Form (das Samenkorn) und zum anderen bewahrt sie sie in ihrer Entwicklung auf. Der Entwicklungsgedanke in dieser Konzeption vollzieht sich als Fortschritt, als ein Überschreiten zu einer neuen Form. In der Natur fällt der Begriff allerdings wieder in sich zurück (die Rückkehr zum Samenkorn), so dass für Hegel die Natur nur ein ewiger Kreislauf desselben ist. Eine echte Entwicklung gibt es erst, wenn die Aufhebung nicht nur Rückkehr in sich selbst bedeutet, sondern auch der Aufhebungsprozess – in seiner Doppelfunktion – zu sich selbst gelangt. Ein wahrer Fortschritt ist daher nur im Reiche des Geistes möglich, d. h. wenn der Begriff von sich selbst weiß, wenn er sich selbst bewusst ist.
+
+Der Begriff
+Der Begriff ist bei Hegel der Unterschied der Dinge selbst. Der Begriff ist Negation und Hegel drückt es auch noch plastischer aus: der Begriff ist die Zeit. In der Philosophie der Natur kommen daher keine neuen Bestimmungen hinzu. Erst in der Philosophie des Geistes kann es einen Fortschritt, ein Über-Sich-Selbst-Hinausgehen geben. Das endliche Moment wird aufgehoben; es geht zugrunde, wird negiert, aber findet in der Einheit seines Begriffs seine Bestimmung. So stirbt der einzelne Mensch, sein Tod erhält aber im Erhalt der Gattung seine Bestimmung. Im Reiche des Geistes löst eine Figur des Geistes die vorige ab, z. B. folgt der Gotik die Renaissance. Die Grenze setzt der neue Stil, der einen Bruch im alten Stil darstellt. Hegel nennt diese Brüche auch qualitative Sprünge. In der Natur gibt es für Hegel allerdings keine solchen Sprünge; sie kehrt nur ewig in sich selbst zurück.
+
+Die abstrakte Bewegung der doppelten Negation, der Negation der Negation, lässt sich als Auflösung des Negativen bestimmen: das Negative wendet sich gegen sich selbst, die Negation setzt sich selbst als Unterschied. Die Bestimmung dieser Selbstauflösung ist ihre höhere Einheit – es ist der affirmative Charakter des Negativen. In der Natur kommt das Negative nicht über sich selbst hinaus, sondern bleibt im Endlichen gefangen. Das Samenkorn geht auf, wächst zu einem Baum, der Baum stirbt und hinterlässt das Samenkorn; Anfang und Ende fallen zusammen. In der Philosophie des Geistes gibt es eine Entwicklung des Begriffs – die Geschichte. Der Begriff kommt zu sich selbst. Die Negation ist hier nicht zirkulär, sondern treibt den Fortschritt spiralförmig in eine Richtung. Die Negation ist der Motor und das Prinzip der Geschichte, aber sie enthält nicht das Ziel ihrer Entwicklung. Die Negation erhält in der Philosophie des Geistes einen radikal dynamischen Aspekt. In der Philosophie des Geistes fallen Anfang und Resultat auseinander. Die Aufhebung ist ein zentraler Terminus bei Hegel. Er enthält drei Momente: Aufhebung im Sinne von negare (verneinen), conservare (bewahren) und elevare (emporheben). Das Geistige stellt – von seinem Ergebnis aus betrachtet und indem es sich auf seinen Ausgangspunkt bezieht – eine Bewegung dar, die einheitlich als Figur erfasst wird.
+
+Für Hegel ist wahres Denken das Erkennen von Gegensätzen und die Notwendigkeit, diese in ihrer Einheit zusammenzufassen. Der Begriff ist der Ausdruck für diese Bewegung. Diese Art der Philosophie bezeichnet Hegel als spekulative (Rel I 30).
+
+Aufgabe und Charakter der Philosophie
+Hegel wendet sich gegen die „Erbauungsphilosophie“ seiner Zeit, die „sich zu gut für den Begriff und durch dessen Mangel für ein anschauendes und poetisches Denken hält“ (PG 64). Der Gegenstand der Philosophie ist für ihn zwar das Erhabenste überhaupt; sie muss sich aber „hüten, erbaulich sein zu wollen“ (PG 17). Um „Wissenschaft“ zu werden, muss sie bereit sein, die „Anstrengung des Begriffs“ (PG 56) auf sich zu nehmen. Die Philosophie realisiert sich im „System“, denn nur das Ganze ist das Wahre (PG 24). Sie betrachtet in einem dialektischen Prozess den „Begriff des Geistes in seiner immanenten, notwendigen Entwicklung“.[34]
+
+Für den gesunden Menschenverstand ist die Philosophie eine „verkehrte Welt“ (JS 182), da sie auf „die Idee oder das Absolute“ (E I 60) als den Grund aller Dinge zielt. Sie hat somit „mit Kunst und Religion denselben Inhalt“, aber eben in der Weise des Begriffs.
+
+Logik, Naturphilosophie und die Philosophie des Geistes sind nicht nur die Grunddisziplinen der Philosophie; in ihnen drückt sich auch „die ungeheure Arbeit der Weltgeschichte“ (PG 34) aus, die vom „Weltgeist“ verrichtet wurde. Das Ziel der Philosophie kann daher nur erreicht werden, wenn sie die Weltgeschichte und die Geschichte der Philosophie begreift und damit auch „ihre Zeit in Gedanken erfaßt“ (R 26).
+
+Die Aufgabe der Philosophie ist es, das „was ist zu begreifen […], denn das was ist, ist die Vernunft“ (R 26). Ihre Aufgabe ist es nicht, die Welt darüber zu belehren, wie sie sein soll; denn dazu kommt sie „ohnehin […] immer zu spät“: „Als der Gedanke der Welt erscheint sie erst in der Zeit, nachdem die Wirklichkeit ihren Bildungsprozeß vollendet und sich fertig gemacht hat. […] die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug“ (R 27–28).
+
+Das hegelsche System
+Grundlegung der Philosophie
+In der Phänomenologie des Geistes, dem ersten typischen Werk des reifen Hegel, formuliert Hegel als Voraussetzung für alles wahrhafte Philosophieren, den „wissenschaftlichen Standpunkt“ zu gewinnen. Er bezeichnet diesen auch als das „absolute Wissen“. Um diesen zu erreichen, muss ein Weg gegangen werden, der für den dann gewonnenen Standpunkt nicht gleichgültig ist: nicht „das Resultat [ist] das wirkliche Ganze, sondern es zusammen mit seinem Werden“ (PG 13).
+
+Der Weg zum „absoluten Wissen“ ist dabei für Hegel das Begreifen des Absoluten selbst. Auch für das Absolute ist die Zugangsweise zu ihm nicht gleichgültig. Es umschließt auch den Prozess seiner Erkenntnis. Der Zugang zum Absoluten ist zugleich dessen Selbstäußerung. Wahre Wissenschaft ist letztlich nur in dieser Perspektive des Absoluten möglich.
+
+Der Weg zum wissenschaftlichen Standpunkt
+Stufen des Wissens
+Sinnliche Gewissheit
+
+↓
+
+Wahrnehmung
+
+↓
+
+Selbstbewusstsein
+
+↓
+
+Vernunft
+
+↓
+
+Geist
+
+↓
+
+absolutes Wissen
+
+Hegel beginnt mit einer Analyse des „natürlichen Bewusstseins“. Die eigentliche Wirklichkeit (die „Substanz“) ist für das natürliche Bewusstsein in seiner elementarsten Stufe das, was es unmittelbar vorfindet: die „sinnliche Gewissheit“. Dies entspreche philosophisch der Position des Empirismus. Hegel zeigt auf, dass der empirische Wirklichkeitsbegriff notwendig ein Selbstbewusstsein voraussetzt, dass das sinnlich Wahrgenommene als solches interpretiert.
+
+Aber auch das Selbstbewusstsein ist nicht das eigentlich Wirkliche. Es kann sein eigenes Bei-sich-sein nur im Unterschied zu einer natürlichen Wirklichkeit bestimmen; seine Substantialität ist daher notwendig von dieser natürlichen Wirklichkeit abhängig.
+
+In der dritten Form des natürlichen Bewusstseins, der Vernunft, kommt die Bestimmung der Substanz des Bewusstseins und des Selbstbewusstseins zu einer Synthese. Das zur Vernunft entwickelte Selbstbewusstsein beharrt auf seiner eigenen Substantialität, erkennt aber zugleich, dass es sich zu einer natürlichen Wirklichkeit verhält, die ebenfalls substantiell ist. Dies lässt sich nur miteinander versöhnen, wenn das Selbstbewusstsein seine Substantialität in der Substantialität der natürlichen Wirklichkeit wiedererkennt. Nur dann lässt sich der Widerspruch, den zwei Substanzen mit sich bringen, vermeiden.
+
+Hegel bestimmt im weiteren Verlauf der Phänomenologie die Vernunft als „sittliche Vernunft“. Als solche ist sie nicht nur Produkt des Selbstbewusstseins, sondern bezieht sich immer schon auf eine äußere Wirklichkeit, die ihr vorausgeht. Die Vernunft kann nur als die sittliche Substanz einer wirklichen Gesellschaft existieren; in dieser Form ist sie (objektiver) Geist.
+
+Der Geist ist seinerseits wiederum vom Selbstbewusstsein abhängig. Dieses hat die Freiheit, sich dem herrschenden Gesetz nicht zu fügen, was sich historisch z. B. in der Französischen Revolution zeigt. Seine Freiheit gründet letztlich auf dem absoluten Geist.
+
+Der absolute Geist zeigt sich zunächst in der Religion. In der „Naturreligion“ deutet das Selbstbewusstsein noch die natürliche Wirklichkeit als Selbstausdruck eines absoluten Wesens, während in der „offenbaren Religion“ die menschliche Freiheit die zentrale Rolle spielt. Der Begriff des absoluten Geistes lässt sich als der Begriff der Wirklichkeit selbst verstehen, so dass die Religion in das absolute Wissen übergeht. Damit ist der Standpunkt gewonnen, von dem aus erst Wissenschaft im eigentlichen Sinn betrieben werden kann. Der ganze Inhalt der Erfahrung des Bewusstseins ist neu zu entfalten, aber nicht mehr aus der Perspektive des sich zu sich selbst und seinem Gegenstand erst durchringenden Bewusstseins, sondern systematisch, d. h. aus der Perspektive des „Begriffs“.
+
+Logik
+→ Hauptartikel: Wissenschaft der Logik
+Hegel setzt in der Logik den in der Phänomenologie gewonnenen „wissenschaftlichen Standpunkt“ voraus. Dieser hatte gezeigt, dass die logischen Bestimmungen (Kategorien) weder als bloße Bestimmungen einer subjektunabhängigen Wirklichkeit aufgefasst werden können wie in der klassischen Metaphysik, noch als bloße Bestimmungen des Subjektes wie in der Philosophie Kants. Sie müssen vielmehr aus der Einheit von Subjekt und Objekt begriffen werden.
+
+Die Aufgabe der Logik ist es, das reine Denken in seiner spezifischen Bedeutung darzustellen. Sie soll die klassischen Disziplinen der Philosophie, Logik und Metaphysik, ersetzen, indem sie die beiden Programme, die Darstellung des reinen Denkens und der Idee des Absoluten, miteinander vereint.
+
+Die logischen Bestimmungen haben Hegel zufolge zugleich ontologischen Charakter. Sie sind nicht lediglich als Bewusstseinsinhalte, sondern zugleich als „das Innere der Welt“ zu verstehen (E I 81, Z 1).
+
+Hegels Anliegen ist es, eine systematische Herleitung der Kategorien durchzuführen und ihre Notwendigkeit darzulegen. Das entscheidende Mittel dafür stellt das Prinzip der Dialektik dar, das Hegel zufolge in der Natur logischen Bestimmens selbst gründet. Daher ist er der Überzeugung, dass auf diese Weise sämtliche Kategorien „als ein System der Totalität“ (L I 569) vollständig herleitbar sind.
+
+Die Logik gliedert sich in eine „objektive Logik“ – die Lehren von Sein und Wesen – und eine „subjektive Logik“ – die Lehre vom Begriff.
+
+Lehre vom Sein
+Qualität
+Begriffe der Qualität
+(Sein ↔ Nichts) → Werden →
+Dasein →
+
+Den Anfang der Logik muss für Hegel ein Begriff machen, der sich durch „reine Unmittelbarkeit“ auszeichnet. Dies wird im Begriff des Seins ausgedrückt, der keinerlei Bestimmungen aufweist. Doch der Verzicht auf jede weitere Differenzierung macht die Bestimmung „Sein“ völlig inhaltsleer. Somit ergibt sich für das Sein immerhin die Bestimmung des „Nichts und nicht mehr noch weniger als Nichts“ (L I 83). Nicht „weniger als Nichts“ heißt, dass dieses „Nichts“ immerhin eine Denkbestimmung, ein Gedachtes ist.
+
+Die reine Unmittelbarkeit des Anfangs lässt sich so nur in den zwei gegensätzlichen Bestimmungen „Sein“ und „Nichts“ zum Ausdruck bringen. Die beiden Begriffe „gehen“ ineinander „über“. Dieses „Übergehen“ beider ineinander stellt selbst eine neue Kategorie dar, das „Werden“ (L I 83f.). Im „Werden“ sind beide Bestimmungen, „Sein“ und „Nichts“, enthalten und zwar in ihrem wechselseitigen ineinander Übergehen.
+
+Wird nun ein durch diese Einheit des Werdens vermitteltes Sein gedacht, dann ergibt sich die Bestimmung des gewordenen Seins, des „Daseins“ (L I 113ff.). Seine Genese verlangt aber, dass auch das „Nichts“ an ihm erkennbar ist. Nach dieser Seite hin zeigt sich das „Dasein“ als ein „Etwas“, das dem „Anderen“ gegenübersteht. Ein Etwas kann nur erfasst werden, wenn es von Anderem unterschieden wird – gemäß dem von Hegel zitierten Satz des Spinoza: „Omnis determinatio est negatio“ (Jede Bestimmung ist eine Verneinung) (L I 121).
+
+Jede Bestimmung ist eine Grenzziehung, wobei zu jeder Grenze auch etwas gehört, was jenseits von ihr vorhanden ist (vgl. L I 145). Eine Grenze als solche zu denken heißt auch, das Grenzenlose zu denken. Ebenso ist mit dem Gedanken des „Endlichen“ der des „Unendlichen“ gegeben (L I 139ff.). Das Unendliche ist das „Andere“ des Endlichen, wie auch umgekehrt das Endliche das „Andere“ des Unendlichen ist.
+
+Doch für Hegel kann das Unendliche dem Endlichen nicht einfach gegenübergestellt werden. Das Unendliche würde sonst an das Endliche „grenzen“ und wäre damit begrenzt und endlich. Das „wahrhaft Unendliche“ muss vielmehr so gedacht werden, dass es das Endliche mit umgreift, als die „Einheit des Endlichen und Unendlichen, die Einheit, die selbst das Unendliche ist, welches sich selbst und die Endlichkeit in sich begreift“ (L I 158).
+
+Hegel will diese Einheit nicht pantheistisch verstanden wissen, da es sich bei ihr um keine differenzlose Einheit handelt, sondern um eine solche, in der das Unendliche das Endliche durchaus bestehen lässt. Er nennt diese die „wahrhafte“ oder „affirmative Unendlichkeit“ (L I 156). Sie unterscheidet sich von der „schlechten Unendlichkeit“ (L I 149), die nur durch ein bloßes Weiterschreiten von Grenze zu Grenze in einem unendlichen Progress zustande kommt und der der Rückbezug durch das Jenseits der Grenze fehlt.
+
+Dieser Rückbezug charakterisiert auch das Endliche; er ist das Ergebnis seiner Vermittlung mit dem Unendlichen und macht das „Fürsichsein“ des Endlichen aus (L I 166). Aus der Kategorie des „Fürsichseins“ entwickelt Hegel im weiteren Verlauf des Abschnitts über die „Qualität“ noch andere Bestimmungen. Wenn etwas „für sich“ ist, ist es „Eines“. Ist dieses „Eine“ vermittelt durch „Andere“, so sind diese ebenfalls jeweils als „Eines“ zu betrachten. Aus dem „Eins“ ergibt sich so die Pluralität von „Eins“. Sie unterscheiden sich voneinander, sind aber ebenso aufeinander bezogen, was Hegel als „Repulsion“ und „Attraktion“ (L I 190ff.) bezeichnet. Ihre gleichförmige Pluralität führt zum Begriff der „Quantität“.
+
+Quantität
+Begriffe der Quantität
+Trennung ↔ Kontinuität
+Intensive Größe ↔ Extensive Größe
+Der entscheidende Unterschied der Quantität zur Qualität besteht darin, dass durch die Veränderung der Quantität die Identität dessen, was verändert wird, bestehen bleibt. Ein Ding bleibt, was es ist, egal ob es größer oder kleiner gemacht wird.
+
+Hegel unterscheidet zwischen der reinen, unbestimmten Quantität und der bestimmten Quantität (dem Quantum). So ist der Raum als solcher eine Instanz der reinen Quantität. Spricht man dagegen von einem bestimmten Raum, so ist er eine Instanz der bestimmten Quantität.
+
+Die beiden Begriffe „Anziehung“ und „Abstoßung“, die in der Kategorie der Quantität aufgehoben sind, werden hier zu den Momenten der Kontinuität und Trennung (Diskretion). Auch diese beiden Begriffe setzen einander voraus. Kontinuität bedeutet, dass ein kontinuierlich fortsetzendes „Etwas“ da ist. Dieses „Etwas“ ist notwendigerweise ein von einem „Anderen“ getrenntes „Etwas“. Umgekehrt setzt auch der Begriff der Trennung den der Kontinuität voraus; man kann nur trennen unter der Voraussetzung, dass etwas da ist, was nicht getrennt ist und wovon das Getrennte getrennt ist.
+
+Ein Quantum ist von einer bestimmten Größe, die sich immer durch eine Zahl ausdrücken lässt. Der Begriff der Zahl gehört darum unter die Kategorie des Quantums. Eine Zahl hat zwei Momente: sie ist als Anzahl und als Einheit bestimmt. Der Begriff der Anzahl als eine Summe von Einheiten schließt den Begriff der Trennung, der Begriff der Einheit dagegen schließt Kontinuität ein.
+
+Ein Quantum kann eine „intensive“ oder „extensive“ Größe sein. Eine intensive Größe (z. B. Farbempfindung, Wärmegefühl) lässt sich mit Hilfe des Begriffs Grad charakterisieren – eines Grades, der je nach Größe mehr oder weniger Intensität hat. Extensive Größen (z. B. Länge oder Volumen) haben weder Grad noch Intensität. Über extensive Größe wird vermittels eines angelegten Maßstabs entschieden. Intensive Größen dagegen können durch keinen außerhalb von ihnen liegenden Maßstab bestimmt werden. Die physikalistische Theorie, jede intensive Größe lasse sich auf eine extensive Größe reduzieren, wird von Hegel verworfen.[35]
+
+Maß
+Der Lehre vom „Maß“ handelt von der Einheit von „Qualität“ und „Quantität“. An anschaulichen Beispielen erläutert Hegel den Charakter dieser Einheit. So führt etwa die quantitative Veränderung der Temperatur des Wassers zu einer qualitativen Änderung seines Zustandes. Es gefriert oder wird zu Dampf (L I 440). Damit entsteht die Bestimmung eines zugrundeliegenden, indifferent bleibenden „Substrates“, dessen „Zustände“ sich entsprechend den Maßverhältnissen ändern. Der Gedanke eines Etwas, das in dieser Weise nach „Substrat“ und „Zuständen“ in sich unterschieden ist, führt zum zweiten Teil der Logik, der „Lehre vom Wesen“.
+
+Lehre vom Wesen
+Die Lehre vom Wesen gilt als der schwierigste Teil der Logik und wurde von Hegel mehrfach modifiziert. Hegel konnte sich hier nicht in gleichem Maße wie in den anderen beiden Büchern (Lehre vom Sein, Lehre vom Begriff) an die philosophische Tradition anlehnen. Den größten Einfluss übte die „transzendentale Logik“ Kants aus, deren Theorieelemente (Modal- und Relationskategorien, Reflexionsbegriffe und Antinomien) Hegel in einem neuen Zusammenhang begrifflich konsistent abzuleiten versuchte.
+
+Der Begriff des Wesens
+Hegel umschreibt den Begriff des Wesens durch den der „Erinnerung“, den er im wörtlichen Sinne versteht als „Innerlichwerden“ und „Insichgehen“.[36] Er bezeichnet eine Sphäre, die tiefer liegt als die äußerliche Unmittelbarkeit des Seins, dessen Oberfläche erst „durchstoßen“ werden muss, um zum Wesen zu gelangen. Die logischen Bestimmungen des Wesens sind von der des Seins unterschieden. Im Unterschied zu den seinslogischen Kategorien treten sie vorzugsweise paarweise auf und erhalten ihre Bestimmtheit aus dem Bezug auf ihr jeweils Anderes: Wesentliches und Unwesentliches, Identität und Unterschied, Positives und Negatives, Grund und Begründetes, Form und Materie, Form und Inhalt, Bedingtes und Unbedingtes usw.
+
+Der Widerspruch
+Hegel beginnt mit der Abhandlung der „Reflexionsbestimmungen“, „Identität“, „Unterschied“, „Widerspruch“ und „Grund“. Er analysiert die Reflexionsbestimmungen in ihrem Verhältnis zueinander und zeigt auf, dass ihnen in ihrer Isolierung gegeneinander keine Wahrheit zukommt. Die bedeutendste Reflexionsbestimmung ist die des „Widerspruchs“. Hegel legt großen Wert darauf, dass der Widerspruch nicht wie bei Kant „in die subjektive Reflexion geschoben“ werden dürfe (L II 75). Dies würde eine „zu große Zärtlichkeit“ (L I 276) zu den Dingen bedeuten. Vielmehr kommt der Widerspruch den Dingen selbst zu. Er ist „das Prinzip aller Selbstbewegung“ (L II 76) und deshalb auch in aller Bewegung vorhanden.
+
+Das Prinzip des Widerspruchs gilt nicht allein für die äußerliche Bewegung, sondern ist das Grundprinzip alles Lebendigen: „Etwas ist also lebendig, nur insofern es den Widerspruch in sich enthält, und zwar diese Kraft ist, den Widerspruch in sich zu fassen und auszuhalten“ – anderenfalls geht es „in dem Widerspruch zu Grunde“. In ganz besonderem Maße gilt dieses Prinzip für die Sphäre des Denkens: „Das spekulative Denken besteht nur darin, daß das Denken den Widerspruch und in ihm sich selbst festhält“ (L II 76). Der Widerspruch ist so für Hegel die Struktur von logischer, natürlicher und geistiger Wirklichkeit überhaupt.
+
+Die Erscheinung
+Im zweiten Abschnitt der Wesenslogik, „Die Erscheinung“, setzt sich Hegel explizit mit Kant und dem Problem des „Ding an sich“ auseinander. Seine Absicht ist es nicht nur, die Differenz von „Ding an sich“ und „Erscheinung“ zu eliminieren, sondern darüber hinaus die „Erscheinung“ zur Wahrheit des „Ding an sich“ zu erklären: „Die Erscheinung ist das, was das Ding an sich ist, oder seine Wahrheit“ (L II 124–125).
+
+Was etwas an sich ist, zeigt sich für Hegel nirgends als in seiner Erscheinung und es ist daher sinnlos, „dahinter“ noch ein Reich des „Ansich“ aufzubauen. Die „Erscheinung“ ist die „höhere Wahrheit“ sowohl gegen das „Ding an sich“ als auch gegen die unmittelbare Existenz, da sie die „wesentliche, dahingegen die [unmittelbare] Existenz die noch wesenlose Erscheinung ist“ (L II 148).
+
+Die Wirklichkeit
+Im dritten Abschnitt, „Die Wirklichkeit“, erörtert Hegel zentrale Lehrstücke der logischen und metaphysischen Tradition. Ein zentrales Thema ist dabei die Auseinandersetzung mit Spinozas Begriff des Absoluten.
+
+Hegel sieht im Absoluten einerseits „alle Bestimmtheit des Wesens und der Existenz oder des Seins überhaupt sowohl als der Reflexion aufgelöst“ (L II 187), da es sonst nicht als das schlechthin Unbedingte verstanden werden könnte. Würde es aber bloß als die Negation aller Prädikate gedacht, so wäre es lediglich das Leere – obschon es doch als dessen Gegenteil, nämlich als die Fülle schlechthin gedacht sein soll. Diesem Absoluten kann nun aber nicht das Denken als äußere Reflexion gegenüberstehen, denn hierdurch würde der Begriff des Absoluten aufgehoben. Die Auslegung des Absoluten kann daher nicht in eine ihm äußere Reflexion fallen, sondern muss vielmehr seine eigene Auslegung sein: „In der Tat aber ist das Auslegen des Absoluten sein eigenes Tun, und das bei sich anfängt, wie es bei sich ankommt“ (L II 190).
+
+Lehre vom Begriff
+Das dritte Buch der Wissenschaft der Logik entwickelt eine Logik des „Begriffs“, die sich in die drei Abschnitte „Subjektivität“, „Objektivität“ und „Idee“ unterteilt.
+
+Die Subjektivität
+Im Abschnitt „Subjektivität“ handelt Hegel die klassische Lehre von Begriff, Urteil und Schluss ab.
+
+Zur Erläuterung des „Begriffs des Begriffs“ erinnert Hegel an die „Natur des Ich“. Zwischen dem Begriff und dem Ich besteht eine Strukturanalogie: Wie der Begriff, so ist auch das Ich „sich auf sich beziehende Einheit, und dies nicht unmittelbar, sondern indem es von aller Bestimmtheit und Inhalt abstrahiert und in die Freiheit der schrankenlosen Gleichheit mit sich selbst zurückgeht“ (L II 253).
+
+Hegels Verwendung des Terminus „Begriff“ unterscheidet sich von dem, was man gewöhnlich unter einem Begriff versteht. Für ihn ist der Begriff keine vom empirischen lnhalt absehende Abstraktion, sondern das Konkrete. Ein wesentliches Moment des Begriffs stellt seine „Negativität“ dar. Hegel lehnt das dem gewöhnlichen Begriffsverständnis zugrundeliegende Konzept einer absoluten Identität ab, da der Begriff der Identität für ihn notwendigerweise den Begriff des Unterschieds mit einschließt.
+
+Hegels „Begriff“ hat drei Momente: Allgemeinheit, Besonderheit (Getrenntsein) und Einzelheit (Individualität). Negieren heißt zu bestimmen und zu begrenzen. Das Ergebnis der Negation des Allgemeinen ist das Getrennte (Besonderheit), das als Ergebnis der Negation dieser Negation (also der Negation der Besonderheit) mit dem Allgemeinen identisch ist, da die Besonderheit zu der ursprünglichen Einheit zurückkehrt und zur Individualität wird.
+
+Der Begriff ist für Hegel die Einheit von Allgemeinem und Individuellem. Diese Einheit wird im Urteil „S ist P“ expliziert, wo „S“ das Subjekt, das Individuelle, und „P“ das Prädikat, das Allgemeine ist.
+
+Ein Satz kann dabei nach Hegel sehr wohl die grammatische Form eines Urteils haben, ohne ein Urteil zu sein. So ist der Satz „Aristoteles ist im 73. Jahre seines Alters, in dem 4. Jahr der 115. Olympiade gestorben“ (L II 305) kein Urteil. Er zeigt zwar die Syntax des Urteils, verbindet aber keinen Allgemeinbegriff mit dem Individuellen und erfüllt somit nicht die logischen Forderungen des Urteils. Dennoch kann der obige Satz ein Urteil sein, nämlich dann, wenn der Satz in einer Situation benutzt wird, in der man bezweifelte, in welchem Jahr Aristoteles starb oder wie alt er war, und das Beenden des Zweifels in dem hier behandelten Satz ausgedrückt wird.
+
+Für Justus Hartnack bedeutet dies, dass Hegel damit faktisch – „ohne es so zu formulieren – die analytische Unterscheidung zwischen einem Satz und seinem Gebrauch einführt. Ein und derselbe Satz kann als Imperativ verwandt werden, als Warnung oder Drohung, als ein Ersuchen usw.“.[37]
+
+Im Schluss findet eine Einheit von Urteil und Begriff statt. Hegel betrachtet folgendes Beispiel (aus L II 383):
+
+Alle Menschen sind sterblich
+Nun ist Cajus ein Mensch
+Ergo ist Cajus sterblich
+Der besondere Begriff (das Besondere) sind hier „Menschen“, das Individuelle (das Einzelne) ist Cajus, und der Begriff „sterblich“ ist das Allgemeine. Das Resultat ist eine Einheit des individuellen Subjekts und des allgemeinen oder universalen Prädikats, also des Prädikats in dem Urteil „Cajus ist sterblich“.
+
+Die Objektivität
+Der Begriff des Objekts lässt sich für Hegel nur insofern verstehen, als er eine notwendige Verbindung zum Begriff des Subjekts hat. Insofern ist er auch Gegenstand der „Wissenschaft der Logik“. Hegels philosophische Analyse führt schrittweise von einer „mechanischen“ über eine „chemische“ zu einer „teleologischen“ Betrachtungsweise des Objekts. Im teleologischen Objekt können die Prozesse, die zum Zweck führen, und der Zweck selbst nicht mehr voneinander verschieden werden. In ihm objektiviert sich die Subjektivität selbst. Diese Einheit von Subjektivität und Objektivität nennt Hegel die Idee.
+
+Die Idee
+Im Begriff der Idee sind alle Bestimmungen der Seins- und Wesenslogik wie die der Logik des Begriffs „aufgehoben“. Die Idee ist das Wahre (L II 367); sie ist damit identisch mit allem, was die Wissenschaft der Logik in Bezug auf die logische Struktur des Seins darlegt. Alle Kategorien sind in der Idee integriert; mit ihr endet die sogenannte Bewegung des Begriffs.
+
+Hegel unterscheidet drei Aspekte der Idee: Leben, Erkenntnis und die absolute Idee.
+
+Im Leben kann die Idee als Einheit von Seele und Körper verstanden werden. Die Seele macht einen Organismus erst zu einem solchen. Die verschiedenen Teile eines Organismus sind, was sie sind, ausschließlich aufgrund ihres Verhältnisses zur Einheit des Organismus.
+
+In der Erkenntnis (des Wahren und des Guten) strebt das erkennende Subjekt nach Wissen über ein gegebenes Objekt. Das Objekt der Erkenntnis ist dabei vom Subjekt zugleich unterschieden und mit ihm identisch.
+
+In der absoluten Idee schließlich – als der Kulmination des philosophischen Denkens – sieht das Bewusstsein die Identität von Subjektivem und Objektivem – von Ansich und Fürsich – ein. Das Subjekt erkennt sich selbst als Objekt und das Objekt ist darum das Subjekt.
+
+Naturphilosophie
+Natur und Philosophie der Natur
+Der Übergang von der Idee zur Natur
+Der Übergang von der Idee zur Natur gehört nach Wandschneider zu den dunkelsten Passagen in Hegels Werk.[38] Es geht an dieser Stelle um das „notorische Problem der Metaphysik […] welchen Grund ein göttliches Absolutes wohl haben könnte, sich in der Schöpfung einer unvollkommenen Welt zu verendlichen“.[39]
+
+Hegel bemerkt am Ende der Logik, dass die absolute Idee als letzte „logische“ Bestimmung noch „in den reinen Gedanken eingeschlossen, die Wissenschaft nur des göttlichen Begriffs“ ist. Indem sie solchermaßen noch „in die Subjektivität eingeschlossen ist, ist sie Trieb, diese aufzuheben“ (L II 572) und „entschließt“ sich darum, „sich als Natur frei aus sich zu entlassen“ (E I 393).
+
+Das Logische muss aufgrund des ihm eigenen dialektischen Charakters aus sich heraustreten und sich sein Anderes, die Natur, entgegensetzen, die sich durch Begriffslosigkeit und Vereinzelung auszeichnet. Diese Entäußerung des Logischen geschieht letztlich zu seiner eigenen Vollendung.
+
+Der Begriff der Natur
+Hegel definiert die Natur als „die Idee in der Form des Andersseins“ (E II 24). Die Natur als das Nicht-Logische bleibt bei Hegel dialektisch an das Logische zurückgebunden. Als das Andere des Logischen ist sie im Grunde selbst noch von diesem her bestimmt, d. h. die Natur ist nur ihrer äußeren Erscheinung nach ein Nichtlogisches; ihrem Wesen nach ist sie „an sich die Vernunft“. Das an sich logische Wesen der Natur drückt sich in den Naturgesetzen aus. Diese liegen den „Naturdingen“ zugrunde und bestimmen ihr Verhalten, ohne jedoch selbst ein „Naturding“ zu sein. Naturgesetze sind nicht sinnlich wahrnehmbar, sondern haben ihrerseits eine logische Existenz; sie existieren im Denken des die Natur erkennenden Geistes.
+
+Im Unterschied zur frühen Naturphilosophie Schellings sieht Hegel das Verhältnis zwischen Idee und Natur nicht als gleichgewichtig an; vielmehr steht für ihn die Natur unter dem Primat der Idee. Die Natur ist nicht schlechthin „Idee“ oder „Geist“, sondern das „Andere“. In der Natur ist die Idee „sich äußerlich“, jedoch nicht etwa umgekehrt die Natur sich äußerlich in der Idee.
+
+Da das Geistige für Hegel insgesamt einer höheren Stufe angehört als das bloß Natürliche, ist für ihn selbst das Böse noch höher einzustufen als die Natur. Der Mangel der Natur zeigt sich gleichsam darin, dass sie nicht einmal böse sein kann: „Wenn aber die geistige Zufälligkeit, die Willkür, bis zum Bösen fortgeht, so ist dies selbst noch ein unendlich Höheres als das gesetzmäßige Wandeln der Gestirne oder als die Unschuld der Pflanze; denn was sich so verirrt, ist noch Geist“ (E II 29).
+
+Ganz im Sinne der Transzendentalphilosophie Kants versteht auch Hegel die Natur nicht als etwas bloß „Objektives“ und „Unmittelbares“. Sie ist dem Bewusstsein nicht einfach nur von außen her gegeben, sondern ein immer schon geistig Erfasstes. Gleichwohl spielt Hegel nie diese gewusste, immer auch durch Leistungen der Subjektivität konstituierte Natur gegen eine „Natur an sich“ aus. Es ist für Hegel sinnlos, der Natur ein über das Bewusstsein hinaus bestehendes, „wahres“, jedoch nicht erkennbares Sein zuzusprechen.
+
+Hegel betrachtet die Natur „als ein System von Stufen […], deren eine aus der andern notwendig hervorgeht und die nächste Wahrheit derjenigen ist, aus welcher sie resultiert“ (E II 31). Die Naturphänomene zeigen dabei „eine Tendenz zunehmender Kohärenz und Idealität [.] – vom elementaren Außereinandersein bis zur Idealität des Psychischen“.[40]
+
+Das hegelsche Stufenkonzept der Natur ist allerdings nicht als Evolutionstheorie misszuverstehen.[41] Die Aufeinanderfolge der Stufen ergibt sich für Hegel „nicht so, daß die eine aus der andern natürlich erzeugt würde, sondern in der inneren, den Grund der Natur ausmachenden Idee. Die Metamorphose kommt nur dem Begriffe als solchem zu, da dessen Veränderung allein Entwicklung ist“ (E II 31).
+
+Naturphilosophie
+Hegel versteht die Naturphilosophie als eine „materiale“ Disziplin, nicht als bloße Wissenschaftstheorie. Wie die Naturwissenschaft thematisiert sie die Natur, hat jedoch eine von ihr unterschiedene Fragestellung. Es geht nicht um ein bloß theoretisches Verständnis irgendeines Gegenstands oder Phänomens der „Natur“, sondern um ihre Stellung auf dem Weg des Geistes zu sich selbst. „Natur“ ist für Hegel nichts bloß „Objektives“. Sie zu begreifen schließt immer ein Sichselbstbegreifen des Geistes ein.
+
+Hegel unterscheidet in seiner Naturphilosophie – wie in der Mitte des 19. Jahrhunderts üblich – die drei Disziplinen, Mechanik, Physik und Organische Physik. Als Mechanik wird dabei der mathematisierbare Teil der Physik – insbesondere die Ortsveränderungen – betrachtet, der sich seit dem 18. Jh. aus der traditionellen aristotelischen Physik abgetrennt und zunehmend verselbständigt hatte. Die Physik dagegen beschreibt alle anderen Phänomene, die der Veränderung unterworfen sind: die Umwandlungsprozesse der Materie und des Organischen. Die Organische Physik betrachtet ihre Gegenstände, Erde, Pflanzen und Tiere, als einen Organismus.
+
+Mechanik und Physik
+Raum und Zeit
+Kategorien der Mechanik und Physik
+Raum → Zeit →
+Bewegung → Masse
+
+Im Unterschied zu Kant versteht Hegel Raum und Zeit nicht als bloße der subjektiven Erkenntnis angehörende Formen der Anschauung. Sie haben vielmehr auch Realität, da sie durch die absolute Idee konstituiert sind.
+
+Raum und Zeit sind für Hegel nichts völlig Verschiedenes, sondern eng miteinander verzahnt: „Der Raum ist sich selbst widersprechend und macht sich zur Zeit“. „Das eine ist das Erzeugen des Anderen“. Nur „in unserer Vorstellung lassen wir dies auseinander fallen“.[42] In seiner frühen, noch stark von Schelling beeinflussten Naturphilosophie (Jenaer Periode) hatte Hegel den Raumbegriff selbst aus einem noch ursprünglicheren Konzept des Äthers abgeleitet; erst seine nach-Jenaer Naturphilosophie hat Hegel dann gleich mit dem Raumbegriff beginnen lassen.[43]
+
+Für Hegel ist die Dreidimensionalität des Raumes a priori herleitbar. Die Kategorie des Raumes muss zunächst einmal als das „abstrakte Außereinander“ (E II 41) bestimmt werden. Dieses ist in seiner Abstraktheit mit völliger Unterschiedslosigkeit gleichbedeutend. Als solches ist es aber gar kein „Auseinander“ mehr, denn auseinander kann nur sein, was unterscheidbar ist. Die Kategorie reinen Auseinanders schlägt damit dialektisch in die des Punktes um, der als „Nicht-Auseinander“ bestimmt ist. Gleichwohl bleibt der Punkt, seiner „Herkunft“ aus dem reinen Auseinander entsprechend, auf dieses bezogen. Das heißt, der Punkt ist bezogen auf andere Punkte, die ihrerseits auf Punkte bezogen sind. Dieses wechselseitige Bezogensein von Punkten ist die Linie, die sich so zugleich als Synthese von Auseinander und Nicht-Auseinander darstellt. Dieser noch „punktartige“ Charakter der Linie hat analog die Aufhebung dieser Form von Nicht-Auseinander zur Folge und damit die „Dehnung“ der Linie zur Fläche. Die zweidimensionale Fläche, als vollendete Form des Nicht-Auseinanders, stellt die Grenze des dreidimensionalen Raums dar, der somit als die eigentliche Form des Auseinanders gelten muss.
+
+Hegels Zeitbegriff knüpft unmittelbar an den zuvor entwickelten Raumbegriff an. Der Raum ist wesentlich dadurch bestimmt, dass er gegen einen anderen Raum abgegrenzt ist, in den er „übergeht“. Diese Negativität, die im Raumbegriff schon enthalten, aber noch nicht explizit ist, repräsentiert einen „Mangel des Raums“ (E II 47 Z), der nun die Einführung des Zeitbegriffs motiviert.
+
+Zeit ist für Hegel überhaupt nur dadurch feststellbar, dass etwas Dauer haben kann, d. h. im Wechsel zugleich auch erhalten bleibt und so das „Jetzt als seiend fixiert“ (E II 51). Eine solche Fixierung ist aber nur in räumlicher Form möglich. Insofern bleibt der Zeitbegriff essentiell auf den Raumbegriff zurückbezogen.
+
+Die Dauer schließt andererseits Veränderung ein: „Dauern Dinge auch, so vergeht die Zeit doch und ruht nicht; hier erscheint die Zeit als unabhängig und unterschieden von den Dingen“ (E II 49 Z). Indem sich aber unterdessen andere Dinge verändern, lassen sie die Zeit sichtbar werden, der letztlich alles anheimfallen muss: Weil nämlich „die Dinge endlich sind, darum sind sie in der Zeit; nicht, weil sie in der Zeit sind, darum gehen sie unter, sondern die Dinge selbst sind das Zeitliche; so zu sein ist ihre objektive Bestimmung. Der Prozeß der wirklichen Dinge selbst macht also die Zeit“.
+
+Die drei Zeitmodi, Vergangenheit, Gegenwart und Zukunft, nennt Hegel „Dimensionen der Zeit“ (E II 50). Im eigentlichen Sinne seiend ist davon nur das Jetzt der Gegenwart, das allerdings ständig zum Nichtsein wird. Vergangenheit und Zukunft haben dagegen überhaupt kein Bestehen. Sie sind nur in der subjektiven Erinnerung bzw. in Furcht und Hoffnung (E II 51).
+
+Von der Zeit als Totalität von Vergangenheit, Gegenwart und Zukunft muss die Ewigkeit unterschieden werden. Hegel fasst die Ewigkeit nicht als etwas Jenseitiges auf, das nach der Zeit kommen müsste; denn auf diese Weise „würde die Ewigkeit zur Zukunft, einem Momente der Zeit, gemacht“ (E II 49): „Die Ewigkeit ist nicht vor oder nach der Zeit, nicht vor der Erschaffung der Welt, noch wenn sie untergeht; sondern die Ewigkeit ist absolute Gegenwart, das Jetzt ohne Vor und Nach“ (E II 25).
+
+Materie und Bewegung
+Mit den Kategorien des Raums und der Zeit ist nach Hegel zunächst weiter die Kategorie der Bewegung involviert. Nun hat Bewegung aber nur Sinn relativ zu einem Nicht-Bewegten, d. h. mit der Kategorie der Bewegung ist so immer auch die der Ruhe impliziert. Ruhend kann aber nur etwas sein, das in der Bewegung identisch erhalten ist und dadurch einen bestimmten, einzelnen Ort als Bezugsinstanz von Bewegung definiert. Ein solches in der Bewegung identisch erhaltenes Einzelnes ist nun nach Hegel die Masse. Die „Logik“ des Bewegungsbegriffs fordert so auch die Kategorie der Masse.
+
+Relativ zu einer anderen Masse kann eine Masse selbst auch bewegt sein. In diesem Fall ist die Bewegungsrelation symmetrisch: Jede der beiden Massen kann gleichermaßen als ruhend oder bewegt betrachtet werden, womit das Relativitätsprinzip der Bewegung formuliert ist.
+
+Entsprechend dem Relativitätsprinzip der Bewegung kann eine Masse entweder als ruhend, nämlich in Bezug auf sich selbst, oder als bewegt, nämlich in Bezug auf eine andere (relativ zu ihr bewegte) Masse betrachtet werden. Die Masse kann somit prinzipiell beides sein, ruhend oder bewegt. Sie sei darum, so Hegel, „gleichgültig gegen beides“ und in diesem Sinn träge: „Insofern sie ruht, ruht sie und geht nicht durch sich selbst in Bewegung über; ist sie in Bewegung, so ist sie eben in Bewegung und geht nicht für sich selbst in Ruhe über“ (E II 65 Z). Das Dynamische ist eine in der Materie selbst liegende Möglichkeit; es ist das „eigene Wesen der Materie, das selbst zugleich ihrer Innerlichkeit angehört“ (E II 68 Z).
+
+Organik
+Die „Organik“ beinhaltet Hegels Theorie des Lebens. Das Leben hat nach Hegel die chemischen Prozesse zur Voraussetzung und ist zugleich deren „Wahrheit“. In den chemischen Prozessen fallen Vereinigung und Trennung der Stoffe noch auseinander, in den organischen Prozessen sind beide Seiten untrennbar verbunden. Die einzelnen anorganischen Prozesse sind voneinander unabhängig – im Organismus folgt ein Prozess auf den anderen. Darüber hinaus ist der Organismus grundsätzlich reflexiv strukturiert, während in den chemischen Reaktionen eine bloße Wechselwirkung stattfindet. Hegel hält diese reflexive Struktur für das entscheidende Kriterium des Lebens: „Wenn die Produkte des chemischen Prozesses selbst wieder die Tätigkeit anfingen, so wären sie das Leben“ (E II 333 Z).
+
+Die „vegetabilische Natur“
+Das Charakteristikum der Pflanze ist für Hegel ihre nur „formelle Subjektivität“ (E II 337). Sie ist nicht in sich zentriert, ihre Glieder sind daher relativ selbständig: „der Teil – die Knospe, Zweig usf. – Ist auch die ganze Pflanze“ (E II 371). Dieser Mangel an konkreter Subjektivität ist nach Hegel der Grund für die unmittelbare Einheit der Pflanze mit ihrer Umwelt, die sich in der ununterbrochenen Aufnahme nicht individualisierter Nahrung, im Fehlen von Ortsbewegung, animalischer Wärme und Gefühl zeigt (E II 373 f.). Die Pflanze ist zudem auf das Licht angewiesen, das Hegel als „ihr äußerliches Selbst“ bezeichnet (E II 412).
+
+Der „tierische Organismus“
+Das Tier oder der animalische Organismus stellt die höchste Realisationsstufe des Organischen dar. Es ist der „wahrhafte Organismus“ (E II 429). Sein Hauptcharakteristikum besteht darin, dass seine Glieder ihre Selbständigkeit verlieren und es damit zum konkreten Subjekt wird (E II 337).
+
+Das Verhältnis des Tieres gegenüber seiner Umwelt ist im Vergleich zur Pflanze durch eine größere Selbstständigkeit geprägt, was sich in seiner Fähigkeit zur Ortsveränderung und zur Unterbrechung der Nahrungsaufnahme ausdrückt. Das Tier hat ferner eine Stimme, mit der es seine Innerlichkeit ausdrücken kann, Wärme und Empfindung (E II 431 Z).
+
+Mit der Fortpflanzung der Individuen „ist die Gattung als solche für sich in die Realität getreten, und ein Höheres, als die Natur, geworden“.[44] Das Allgemeine erweist sich als die Wahrheit der Einzelheit. Allerdings ist dieses Allgemeine mit dem Tode des einzelnen Organismus verbunden. Auch der neue Organismus ist ein einzelner, der daher ebenfalls sterben muss. Nur im Geiste wird das Allgemeine mit dem Einzelnen positiv vereint und d. h. von ihm als solches gewusst: „Im Tiere existiert die Gattung aber nicht, sondern ist nur an sich; erst im Geiste ist sie an und für sich in seiner Ewigkeit“ (E II 520).
+
+Das Tier erreicht in der Fortpflanzung seinen höchsten Punkt – gerade deswegen muss es sterben: „Niedrige tierische Organismen, z. B. Schmetterlinge, sterben daher unmittelbar nach der Begattung, denn sie haben ihre Einzelheit in der Gattung aufgehoben, und ihre Einzelheit ist ihr Leben“ (E II 518 f. Z).
+
+Für den einzelnen Organismus ist „seine Unangemessenheit zur Allgemeinheit […] seine ursprüngliche Krankheit und (der) angeborene Keim des Todes“ (E II 535). Im Tod wird der höchste Punkt der Natur, und damit diese als Ganze, negiert – freilich nur auf abstrakte Weise. „Der Tod ist nur die abstrakte Negation des an sich Negativen; er ist selbst ein Nichtiges, die offenbare Nichtigkeit. Aber die gesetzte Nichtigkeit ist zugleich die aufgehobene und die Rückkehr zum Positiven“ (Rel I 175f.). Ebendiese zugleich affirmative Negation der Natur, die auch als Organismus keine Wahrheit hat, ist nach Hegel der Geist: „das letzte Außersichsein der Natur ist aufgehoben, und der in ihr nur an sich seiende Begriff ist damit für sich geworden“ (E II 537).
+
+Philosophie des Geistes
+Der Begriff des Geistes
+Der Geist ist für Hegel die Wahrheit und das „absolut Erste“ der Natur (E III 16). In ihm wird die Entäußerung des Begriffs wieder aufgehoben, die Idee gelangt „zu ihrem Fürsichsein“ (E III 16).
+
+Während die Natur auch als denkend durchdrungene immer etwas vom Geiste Unterschiedenes, Unmittelbares bleibt, auf das „der Begriff“ gerichtet ist, fallen im Geist Gegenstand und Begriff in eins. „Geist“ ist das Begreifende und das Begriffene; er hat „den Begriff zu seinem Dasein“ (E II 537).
+
+Der Geist, der auf Geistiges gerichtet ist, ist bei sich und somit frei. Alle Gestalten des Geistes weisen eine grundlegend selbstbezügliche Struktur auf. Sie tritt bereits bei den Formen des subjektiven Geistes auf, findet ihre charakteristische Gestalt jedoch erst dort, wo sich der Geist „objektiviert“ und zum „objektiven Geist“ wird. In der Gestalt des „absoluten Geistes“ schließlich fallen Wissen und Gegenstand des Geistes zur „an und für sich seienden […] Einheit der Objektivität des Geistes“ (E III 32) zusammen.
+
+Subjektiver Geist
+Seele
+Stufen der seelischen Entwicklung
+natürliche Seele → fühlende Seele → wirkliche Seele
+
+Den systematisch gesehen ersten Teil der Philosophie des subjektiven Geistes stellt die von Hegel so genannte „Anthropologie“ dar. Ihr Thema ist nicht der Mensch schlechthin, sondern die Seele, welche Hegel von Bewusstsein und Geist unterscheidet. Der subjektive Geist ist hier „an sich oder unmittelbar“, wohingegen er im Bewusstsein als „für sich vermittelt“ und im Geist als „sich in sich bestimmend“ erscheint (E III 38).
+
+Hegel wendet sich dezidiert gegen den neuzeitlichen Dualismus von Leib und Seele. Für ihn ist die Seele zwar immateriell, steht aber nicht im Gegensatz zur Natur. Sie ist vielmehr „die allgemeine Immaterialität der Natur, deren einfaches ideelles Leben“ (E III 43). Als solche ist sie stets auf „Natur“ bezogen. Die Seele ist nur dort, wo Leiblichkeit ist; sie stellt das Prinzip der Bewegung dar, die Leiblichkeit in Richtung auf das Bewusstsein zu transzendieren.
+
+Die Entwicklung der Seele durchläuft dabei die drei Stufen einer „natürlichen“, einer „fühlenden“ und einer „wirklichen Seele“ (E III 49).
+
+Die „natürliche Seele“ ist noch völlig mit der Natur verwoben und noch nicht einmal in unmittelbarer Weise in sich reflektiert. Die Welt, die noch nicht durch eine Tat der Abstraktion zu sich gekommen ist, ist von ihr nicht ablösbar, sondern bildet einen Teil von ihr.
+
+Die „fühlende Seele“ unterscheidet sich von der „natürlichen“ durch das stärkere Moment der Reflexivität. Hegel behandelt in diesem Zusammenhang im Wesentlichen parapsychologische Phänomene, psychische Krankheiten und das Phänomen der Gewohnheit.
+
+Hegel hält Phänomene wie den „animalischen Magnetismus“ (Mesmer) und den „künstlichen Somnambulismus“ (Puységur) für einen Beweis der ideellen Natur der Seele. Im Gegensatz zu Mesmer deutet Hegel diese Phänomene wie Puységur und später auch James Braid bereits psychologisch.[45][46] Ihre Verbindung des Natürlichen mit dem Geistigen bildet für ihn die allgemeine Grundlage der Geisteskrankheiten. Der „reine Geist“ kann nicht krank sein; nur durch das Beharren in der Besonderheit seines Selbstgefühls, durch seine „partikuläre Verleiblichung“ ist das „zum verständigen Bewußtsein gebildete Subjekt noch der Krankheit fähig“ (E III 161). Der Wahnsinn enthält „wesentlich den Widerspruch eines leiblich, seiend gewordenen Gefühls gegen die Totalität der Vermittlungen, welche das konkrete Bewußtsein ist“ (E III 162 A). Geisteskrankheiten sind insofern für Hegel immer psychosomatischer Natur. Zu ihrer Heilung empfiehlt Hegel, der Arzt solle auf die Wahnvorstellungen seines Patienten eingehen und diese dann durch Hinweis auf ihre unmöglichen Konsequenzen ad absurdum führen (E III 181f. Z).
+
+Durch die Gewohnheit werden die verschiedenen Gefühle zu einer „zweiten Natur“, d. h. zu einer „von der Seele gesetzten Unmittelbarkeit“ (E III 184 A). Das Moment ihrer Natürlichkeit bedeutet zwar eine Unfreiheit; gleichzeitig entlastet sie jedoch von unmittelbaren Empfindungen öffnet die Seele „für die weitere Tätigkeit und Beschäftigung – der Empfindung sowie des Bewußtseins des Geistes überhaupt“ (E III 184).
+
+Die „wirkliche Seele“ entsteht im Prozess der Befreiung des Geistes von der Natürlichkeit. In ihm wird die Leiblichkeit schließlich zur bloßen „Äußerlichkeit […], in welchem das Subjekt sich nur auf sich bezieht“ (E III 192). Das Geistige steht dabei für Hegel nicht abstrakt neben der Leiblichkeit, sondern es durchdringt sie. Hegel spricht in diesem Zusammenhang von einem „über das Ganze ausgegossenen geistigen Ton, welcher den Körper unmittelbar als Äußerlichkeit einer höheren Natur kundgibt“ (E III 192).
+
+Bewusstsein
+Der mittlere Abschnitt der Philosophie des subjektiven Geistes hat das Bewusstsein bzw. dessen „Subjekt“ (E III 202), das Ich, zum Gegenstand. Die Seele wird zum Ich, indem sie in sich reflektiert und eine Grenze zwischen sich und dem Gegenstand zieht. Während die Seele noch nicht in der Lage ist, sich aus ihren Inhalten, den Empfindungen, herauszureflektieren, ist das Ich gerade durch das „Sich-von-sich-Unterscheiden“ (E III 199 Z) definiert.
+
+Aufgrund dieser Abstraktionsfähigkeit ist das Ich leer und einsam – denn jeder objektive Inhalt ist außerhalb seiner. Doch das Ich bezieht sich zugleich auf das, was es ausschließt, indem der Verstand „die Unterschiede als selbständig annimmt und zugleich auch ihre Relativität setzt“, aber „diese Gedanken nicht zusammenbringt, sie nicht zum Begriffe vereint“ (E I 236 A). Das Bewusstsein ist daher „der Widerspruch der Selbständigkeit beider Seiten und ihrer Identität, in welcher sie aufgehoben sind“ (E III 201).
+
+Die Angewiesenheit des Ich auf sein Objekt beruht gerade darauf, dass es das Objekt von sich „abstoßen“ muss, um Ich zu sein. Dies zeigt sich in der Entwicklung des Bewusstseins darin, dass einer Änderung seines Objekts eine Änderung seiner selbst – und umgekehrt – entspricht (E III 202). Das Ziel der Entwicklung ist, dass das Ich den an sich immer schon mit ihm identischen Gegenstand auch ausdrücklich als solchen erkennt – dass es auch in dem Inhalt des Gegenstandes, der ihm zunächst fremd ist, sich selbst begreift.
+
+Die abschließende Stufe des Bewusstseins, in der eine „Identität der Subjektivität des Begriffs und seiner Objektivität“ (E III 228) erreicht ist, ist die Vernunft – der „Begriff des Geistes“ (E III 204), der zur Psychologie überleitet.
+
+Geist
+Formen des (subjektiven) Geistes
+subjektiver Geist
+│
+├── theoretischer Geist
+│  ├── Anschauung
+│  │  ├── Gefühl
+│  │  ├── Aufmerksamkeit
+│  │  └── eigentliche Anschauung
+│  ├── Vorstellung
+│  └── Denken
+│
+├── praktischer Geist
+│  ├── praktisches Gefühl
+│  ├── Triebe und Willkür
+│  └── Glückseligkeit
+│
+└── freier Geist
+Das Thema von Hegels „Psychologie“ ist der Geist im eigentlichen Sinne. Während die Seele noch an die Natur, das Bewusstsein an ein ihm äußerliches Objekt gebunden war, unterliegt der Geist keinen ihm fremden Bindungen mehr. Es geht ab jetzt in Hegels System nicht mehr um das Wissen eines „Gegenstandes“, sondern um das Wissen des Geistes von sich selbst: „Der Geist fängt daher nur von seinem eigenen Sein an und verhält sich nur zu seinen eigenen Bestimmungen“ (E III 229). Er wird zunächst zum theoretischen, praktischen und freien Geist, später schließlich zum objektiven und absoluten Geist.
+
+Theoretischer und praktischer Geist
+Hegels Bestimmung des Verhältnisses von theoretischem und praktischem Geist ist ambivalent. Zum einen sieht er eine Priorität des theoretischen Geistes, da der „Wille“ (praktischer Geist) gegenüber der „Intelligenz“ (theoretischer Geist) das Beschränktere sei. Während der Wille „sich mit der äußerlichen, widerstandleistenden Materie, mit der ausschließenden Einzelheit des Wirklichen, in Kampf einläßt und zugleich anderen menschlichen Willen sich gegenüber hat“, geht die Intelligenz „in ihrer Äußerung nur bis zum Worte – dieser flüchtigen, verschwindenden, in einem widerstandslosen Element erfolgenden, ganz ideellen Realisation“, bleibt also „in ihrer Äußerung vollkommen bei sich“ und „in sich selber befriedigt“ (E III 239 Z). Die Auseinandersetzung mit der materiellen Realität wird von Hegel als anstrengend und mühsam beschrieben – der praktische Geist gegenüber dem theoretischen daher abgewertet. Der theoretische Geist ist dagegen bei sich bleibender Selbstzweck.
+
+Andererseits bewertet Hegel den praktischen Geist als Fortschritt gegenüber dem theoretischen und macht ihn sogar zum realphilosophischen Pendant seiner höchsten logischen Kategorie, der Idee: „Der praktische Geist hat nicht nur Ideen, sondern ist die lebendige Idee selbst. Er ist der sich aus sich selbst bestimmende und seinen Bestimmungen äußerliche Realität gebende Geist. Es ist zu unterscheiden zwischen dem Ich, wie es nur theoretisch oder ideell und wie es praktisch oder reell sich zum Gegenstande, zur Objektivität macht“ (NS 57).
+
+Die Sprache
+Ein wesentliches Element des theoretischen Geistes stellt die Sprache dar. Sie ist die Tätigkeit der „Zeichen machenden Phantasie“ (E III 268). Die Sprache hat für Hegel im Wesentlichen eine Bezeichnungsfunktion. Mit ihr gibt der Geist den aus den Bildern der Anschauung gebildeten Vorstellungen „ein zweites, höheres […] Dasein“ (E III 271). Die Sprache ist für das Denken unerlässlich. Das Gedächtnis ist nach Hegel sprachliche Erinnerung; in ihm werden nicht Bilder, sondern Namen aufbewahrt, in denen Bedeutung und Zeichen zusammenfallen (E III 277f.). Das reproduzierende Gedächtnis erkennt ohne Anschauung und Bild, allein anhand der Namen und ermöglicht somit das Denken: „Bei dem Namen Löwe bedürfen wir weder der Anschauung eines solchen Tieres noch auch selbst des Bildes, sondern der Name, indem wir ihn verstehen, ist die bildlose einfache Vorstellung. Es ist in Namen, daß wir denken“ (E III 278).
+
+Hegel betont immer wieder, dass es unmöglich ist, in der Sprache die Einzelheit eines Dinges zu fixieren. Die Sprache verwandelt – gegen die innere Intention des Sprechers – alle sinnlichen Bestimmungen unweigerlich in ein Allgemeines und ist insofern klüger als unsere eigene Meinung (PG 85). Darüber hinaus überschreitet die Sprache auch die Vereinzelung des Ichs, indem sie meine bloß subjektive Meinung von der Einzelheit aufhebt: „Indem die Sprache das Werk des Gedankens ist, so kann auch in ihr nichts gesagt werden, was nicht allgemein ist. Was ich nur meine, ist mein, gehört mir als diesem besonderen Individuum an; wenn aber die Sprache nur Allgemeines ausdrückt, so kann ich nicht sagen, was ich nur meine“ (E I 74).
+
+Obwohl Hegel die Sprachlichkeit des Denkens anerkennt, hat für ihn das Denken dennoch eine der Sprache gegenüber primäre Existenz. Nicht das Denken hängt von der Sprache, sondern umgekehrt die Sprache vom Denken ab (E III 272). Die in der Sprache geronnene Vernunft gilt es – analog zur Vernunft im Mythos – zu entdecken. Die Philosophie hat für Hegel dabei eine sprachnormierende Funktion (L II 407).
+
+Trieb, Neigung, Leidenschaft
+Hegel betont die „vernünftige Natur“ der Triebe, Neigungen und Leidenschaften, die er als eine Form des praktischen Geistes betrachtet. Sie haben „die vernünftige Natur des Geistes einerseits zu ihrer Grundlage“, sind aber andererseits „mit Zufälligkeit behaftet“. Sie beschränken den Willen auf eine Bestimmung unter vielen, in die das „Subjekt das ganze lebendige Interesse seines Geistes, Talentes, Charakters, Genusses“ legt. Doch ist für Hegel „nichts Großes ohne Leidenschaft vollbracht worden, noch kann es ohne solche vollbracht werden. Es ist nur eine tote, ja zu oft heuchlerische Moralität, welche gegen die Form der Leidenschaft als solche loszieht“ (E III 296).
+
+Hegel wehrt sich gegen jegliche moralische Bewertung von Leidenschaft und Neigungen. Für ihn kommt generell keine Tätigkeit „ohne Interesse zustande“. Hegel spricht daher den Leidenschaften eine „ formelle Vernünftigkeit“ zu; sie haben die Tendenz, „durch die Tätigkeit des Subjekts selbst die Subjektivität aufzuheben“ und somit „realisiert zu werden“ (E III 297).
+
+Objektiver Geist
+Das bekannteste Gebiet der hegelschen Philosophie stellt seine Philosophie des objektiven Geistes dar. Im „objektiven Geist“ wird der „subjektive Geist“ sich gegenständlich. Hegel betrachtet hier „Recht“, „Moralität“ und „Sittlichkeit“ als Formen gesellschaftlichen Lebens.
+
+Recht
+Naturrecht und positives Recht
+Hegel steht der naturrechtlichen Tradition nahe. Der Begriff „Naturrecht“ ist für ihn allerdings verfehlt, da er die Zweideutigkeit enthält, „daß darunter 1) das Wesen und der Begriff von etwas verstanden wird und 2) die bewußtlose unmittelbare Natur als solche“.[47] Der Geltungsgrund von Normen kann für Hegel nicht die Natur, sondern nur die Vernunft sein.
+
+Naturrecht und positives Recht sind für Hegel komplementär. Das positive Recht ist konkreter als das Naturrecht, da es in Beziehung gebracht werden muss zu empirischen Rahmenbedingungen. Die Fundierung des positiven Rechts kann aber nur mittels des Naturrechts erfolgen.
+
+Freiheit und Recht
+Das konstituierende Prinzip naturrechtlicher Normen ist der freie Wille (R 46). Der Wille kann nur dann frei sein, wenn er sich selbst zum Inhalt hat: Erst „der freie Wille, der den freien Willen will“ (R 79), ist wahrhaft autonom, da in ihm der Inhalt durch das Denken gesetzt ist. Dieser Wille bezieht sich auf nichts Fremdes mehr; er ist zugleich subjektiv und objektiv (R 76f.). Das Recht ist nach Hegel identisch mit dem freien Willen. Es ist daher keine Schranke der Freiheit, sondern deren Vollendung. Die Negation der Willkür durch das Recht ist in Wahrheit eine Befreiung. Hegel kritisiert in diesem Zusammenhang die Rechtsauffassung Rousseaus und Kants, die das Recht als etwas Sekundäres gedeutet hätten und kritisiert deren „Seichtigkeit der Gedanken“ (vgl. R 80f.).
+
+Die Person
+Der Grundbegriff des abstrakten Rechts ist die Person. In der Person ist von aller Besonderheit abstrahiert; sie ist allgemeiner, formeller Selbstbezug. Diese Abstraktheit ist einerseits Voraussetzung für die Gleichheit unter den Menschen, andererseits der Grund, dass der Geist als Person „seine Besonderheit und Erfüllung noch nicht an ihm selbst, sondern an einer äußerlichen Sache hat“ (E III 306).
+
+Eigentum und Vertrag
+Hegel rechtfertigt die Notwendigkeit des Eigentums damit, dass die Person, „um als Idee zu sein“ (R 102), ein äußerliches Dasein haben müsse. Die Natur ist für Hegel kein direktes Rechtssubjekt. Alles Natürliche kann Eigentum des Menschen werden – gegenüber seinem Willen ist die Natur rechtlos: Die Tiere „haben kein Recht auf ihr Leben, weil sie es nicht wollen“ (R 11 Z). Das Eigentum ist nicht bloß Mittel zur Bedürfnisbefriedigung, sondern Selbstzweck, da es eine Form der Freiheit darstellt.
+
+Die Entäußerung des Eigentums geschieht im Vertrag. Veräußert werden können auch Arbeitsleistungen und geistige Produkte. Unveräußerlich sind für Hegel Güter, „welche meine eigenste Person und das allgemeine Wesen meines Selbstbewußtseins ausmachen, wie meine Persönlichkeit überhaupt, meine allgemeine Willensfreiheit, Sittlichkeit, Religion“ (R 141); ebenso „das Recht zu leben“ (R 144 Z).
+
+Der Vertrag ist die Wahrheit des Eigentums; in ihm drückt sich der intersubjektive Bezug des Eigentums aus. Das Wesen des Vertrages besteht in der Übereinkunft zweier Personen zur Bildung eines gemeinsamen Willens. In ihm wird der Widerspruch „vermittelt“, „daß Ich für mich seiender, den anderen Willen ausschließender Eigentümer insofern bin und bleibe, als Ich in einem mit dem anderen identischen Willen aufhöre, Eigentümer zu sein“ (R 155).
+
+Unrecht
+Im Anschluss an Kant vertritt Hegel eine „absolute“ Straftheorie: Gestraft wird, weil ein Unrecht geschehen ist („quia peccatum est“) und nicht – wie in der zeitgenössischen relativen Straftheorie üblich –, damit nicht weiteres Unrecht geschehe („ne peccetur“). Hegel begründet seinen Ansatz mit der Notwendigkeit der Restitution des verletzten Rechts. Verletztes Recht muss wiederhergestellt werden, denn sonst wäre das Recht aufgehoben und statt seiner würde das Verbrechen gelten (R 187 f.). Die erforderliche Wiederherstellung des verletzten Rechts kann nur durch Negation seiner Verletzung, die Strafe, erfolgen.
+
+Die Wiederherstellung des Rechts durch die Strafe ist nichts, das bloß gegen den Willen des Verbrechers geschehen würde. Der vom Verbrecher verletzte an sich seiende Wille ist auch sein eigener, vernünftiger Wille: „Die Verletzung, die dem Verbrecher widerfährt, ist nicht nur an sich gerecht – als gerecht ist sie zugleich sein an sich seiender Wille, ein Dasein seiner Freiheit, sein Recht“ (R 190).
+
+Moralität
+Hegel hat keine eigene Ethik entwickelt. Seine Ausführungen über die „Moralität“ beinhalten kritische Überlegungen zur ethischen Tradition und Elemente einer Handlungstheorie.
+
+Hegel unterscheidet zwischen einem an sich seienden, allgemeinen Rechtswillen und dem für sich seienden, subjektiven Willen. Diese beiden Willen können in einem Gegensatz zueinander stehen, was einen Bruch des Rechts zur Folge hat. Zur Vermittlung ihres Gegensatzes ist ein „moralischer Wille“ erforderlich, der beide Willensformen miteinander vermittelt.
+
+Da der (subjektive) Wille stets auf einen Inhalt oder Zweck gerichtet ist, kann er nicht für sich alleine betrachtet werden. Die Beziehung auf seinen äußeren Inhalt ermöglicht erst die Selbstbeziehung des Willens. Durch den äußeren Inhalt ist der Wille „für mich als der meinige so bestimmt, daß er in seiner Identität nicht nur als mein innerer Zweck, sondern auch, insofern er die äußerliche Objektivität erhalten hat, meine Subjektivität für mich enthalte“ (R 208).
+
+Vorsatz und Schuld
+In der Analyse von „Vorsatz“ und „Schuld“ behandelt Hegel die unterschiedlichen Dimensionen des Problems der Zurechnung. Hegel vertritt einen weiten Verschuldensbegriff, der sich auch auf solche Fälle erstreckt, die nicht durch meine „Tat“, sondern etwa durch mein Eigentum verursacht sind. Hegel nimmt damit die Konzeption der Gefährdungshaftung vorweg, die erst Ende des 19. Jhd. entwickelt wurde und im heutigen Zivilrecht eine bedeutende Rolle spielt.[48]
+
+Das Moment des Vorsatzes trennt den Handlungsbegriff von dem der Tat. Dennoch fasst Hegel den Begriff des Vorsatzes nicht bloß subjektiv. Er schließt in ihn auch die Folgen ein, die mit dem Zweck der Handlung unmittelbar zusammenhängen. Für den Bereich des Strafrechts fordert Hegel daher, dass der Erfolg einer vorsätzlichen Handlung bei der Strafzumessung mit zu berücksichtigen sei (R 218f. A).
+
+Absicht und Wohl
+Hegel wendet sich gegen die Tendenz seiner Zeit, einen Bruch zwischen dem „Objektiven der Handlungen“ und dem „Subjektiven der Beweggründe, des Inneren“ vorauszusetzen.[49] An und für sich geltende Zwecke und subjektive Befriedigung sind für ihn nicht zu trennen. Es gibt ein Recht des Individuums, die Bedürfnisse, die es als organisches Wesen hat, zu befriedigen: „Es ist nichts Herabwürdigendes darin, daß jemand lebt, und ihm steht keine höhere Geistigkeit gegenüber, in der man existieren könnte“ (R 232 Z).
+
+Das Gute und das Gewissen
+Hegel kritisiert den kategorischen Imperativ Kants als inhaltslos. Es lasse sich mit ihm alles und nichts begründen – alles, wenn man bestimmte Voraussetzungen mache, nichts, wenn man diese nicht mache. So sei es selbstverständlich ein Widerspruch, zu stehlen, wenn Eigentum bestehen solle; werde diese Voraussetzung nicht gemacht, so sei Stehlen nicht widersprüchlich: „Daß kein Eigentum stattfindet, enthält für sich ebensowenig einen Widerspruch, als daß dieses oder jenes einzelne Volk, Familie usf. nicht existiere oder daß überhaupt keine Menschen leben.“ (R 252 A).
+
+Die Entscheidung über das, was konkret gelten solle, fällt in das subjektive Gewissen. Dieses hat jedoch keine festen Bestimmungen, da diese erst auf dem Standpunkt der Sittlichkeit gegeben werden können. Nur das wahre Gewissen, als Einheit von subjektivem Wissen und objektiver Norm, achtet Hegel als „Heiligtum, welches anzutasten Frevel wäre“. Das Gewissen muss dem Urteil unterworfen werden, „ob es wahrhaft ist oder nicht“. Der Staat „kann deswegen das Gewissen in seiner eigentümlichen Form, d. i. als subjektives Wissen nicht anerkennen, sowenig als in der Wissenschaft die subjektive Meinung, die Versicherung und Berufung auf eine subjektive Meinung, eine Gültigkeit hat“ (R 254 A).
+
+Das Böse ist für Hegel das rein subjektive Gewissen, in dem sich der eigene, partikulare Wille zum Prinzip des Handelns macht. Es stellt eine Zwischenform zwischen Natürlichkeit und Geistigkeit dar. Einerseits ist das Böse nicht mehr Natur; denn der bloß natürliche Wille ist „nicht gut noch böse“ (R 262 A), da er noch nicht in sich reflektiert ist. Andererseits ist das Böse auch kein Akt wahrer Geistigkeit, da der böse Wille die natürlichen Triebe und Neigungen mit aller Kraft der Subjektivität festhält: „Der Mensch ist daher zugleich sowohl an sich oder von Natur als durch seine Reflexion in sich böse, so daß weder die Natur als solche, d. i. wenn sie nicht Natürlichkeit des in ihrem besonderen Inhalte bleibenden Willens wäre, noch die in sich gehende Reflexion, das Erkennen überhaupt, wenn es sich nicht in jenem Gegensatz hielte, für sich das Böse ist“ (R 260 f. A).
+
+Sittlichkeit
+Den dritten und gewichtigsten Teil der Philosophie des objektiven Geistes macht bei Hegel die „Sittlichkeit“ aus. Sie ist der „zur vorhandenen Welt und zur Natur des Selbstbewußtseins gewordene Begriff der Freiheit“ (R 142). Ihre Institutionen sind die Familie, die bürgerliche Gesellschaft und der Staat.
+
+Die Sittlichkeit hat eine widersprüchliche Struktur. Ihre „Gesetze und Gewalten“ haben für das einzelne Subjekt zunächst nicht den Charakter von Freiheit, sondern sind „eine absolute, unendlich festere Autorität und Macht als das Sein der Natur“ (R 295). Andererseits sind sie das ureigene Produkt des Willens selbst. Die Formen des Willens (Familie, Gesellschaft, Staat) unterliegen dabei zwar einer geschichtlichen Entwicklung; sie sind aber für Hegel nicht willkürlich entstanden, sondern machen die „Substanz“ des Willens aus. Hegel ist somit ein Gegner der seit der frühen Neuzeit üblichen vertragstheoretischen Gesellschaftsmodelle.
+
+Die Familie
+Die Grundlage der Familie ist die Empfindung der Liebe (R 307). Hegel hebt den widersprüchlichen Charakter der Liebe hervor: sie ist der „ungeheuerste Widerspruch, den der Verstand nicht lösen kann, indem es nichts Härteres gibt als diese Punktualität des Selbstbewußtseins, die negiert wird und die ich doch als affirmativ haben soll“ (R 307 Z). In der Familie hat man Rechte nur hinsichtlich ihrer äußerlichen Seite (Vermögen) oder wenn sie sie aufgelöst wird (R 308); die Liebe selbst kann nicht Gegenstand des Rechts sein (vgl. R 366 Z).
+
+Die Ehe hat ihren Ausgangspunkt in der Sexualität, den sie aber zu einer geistigen Einheit umzugestalten hat (R 309f.). Hegel wendet sich sowohl gegen eine vertragstheoretische als auch gegen eine naturalistische Reduktion der Ehe. Beide Deutungen verkennen den Zwischencharakter der Ehe, einerseits durch einen Willensakt konstituiert zu werden und doch kein beliebiges Vertragsverhältnis zu sein, andererseits nicht bloße Natur zu sein, aber doch ein natürliches Moment in sich zu haben.
+
+Die Liebe als Beziehung zwischen den Ehegatten objektiviert sich in den Kindern und wird selbst zur Person (R 325). Erst mit ihnen vollendet sich die Ehe und wird zur Familie im eigentlichen Sinne. Die Kinder sind nach Hegel Rechtssubjekte; sie haben das Recht „ernährt und erzogen zu werden“ (R 326). Sie sind „an sich Freie“ und „gehören daher weder anderen noch den Eltern als Sachen an“ (R 327).
+
+Der Bezug des Kindes zur Welt ist immer schon durch die Traditionen der Eltern vermittelt: „Die Welt kommt nicht an dies Bewußtsein als ein Werdendes wie bisher in der absoluten Form eines Äußern, sondern durchgegangen durch die Form des Bewußtseins; seine unorganische Natur ist das Wissen der Eltern, die Welt ist eine schon zubereitete; und die Form der Idealität ist es, was an das Kind kommt“.[50] Für Hösle nimmt Hegel hiermit schon „den Grundgedanken der (transzendentalen) Hermeneutik eines Peirce und Royce“ vorweg: „Es gibt keine unmittelbare Subjekt-Objekt-Relation; diese Relation ist vielmehr verwoben und durchsetzt durch den Subjekt-Subjekt-Bezug der Tradition“.[51]
+
+Hegel hält zwar die Ehe nicht für unauflöslich (R 313); dennoch dürfe sie nur durch eine sittliche Autorität – wie dem Staat oder der Kirche – geschieden werden. Wenn die Ehescheidung allzu leicht sei, sei ein Moment der „Auflösung des Staates“ gegeben (R 321). Hegel geht daher von einem Recht der Institutionen aus, auch dann noch an der Ehe festzuhalten, wenn die Ehegatten dies nicht mehr wollen: das Recht gegen ihre Auflösung sei ein „Recht der Ehe selbst, nicht der individuellen Person als solcher“ (R 308).
+
+Die bürgerliche Gesellschaft
+Hegel gilt als derjenige, der den Begriff der bürgerlichen Gesellschaft „erstmals prinzipiell thematisiert und zum begrifflichen Bewußtsein ihrer selbst“ erhoben hat".[52] Er thematisiert die Gesellschaft als einen Bereich des Sozialen, der gegenüber Familie und Staat eine eigene Realität darstellt. Die bürgerliche Gesellschaft wird bei Hegel zum „Boden der Vermittlung“[53] zwischen Individuum und Staat. Diese Vermittlung wird in erster Linie vom sog. „System der Bedürfnisse“ (R 346) geleistet, worunter Hegel das System der bürgerlichen Ökonomie versteht.
+
+Das „System der Bedürfnisse“
+Hegel stellt den entfremdeten Charakter der modernen Produktion und des modernen Konsums heraus. Er führt dies auf die zunehmende Bildung in der bürgerlichen Gesellschaft zurück, in der die natürlichen Grundbedürfnisse des Menschen und damit die Mittel zu ihrer Befriedigung immer weiter differenziert und verfeinert werden (R 347 ff.). Als Folge davon erfolgt eine immer weitere Partikularisierung der Arbeit (R 351), die eine immer stärkere Arbeitsteilung notwendig macht und schließlich den Menschen durch die Maschine ersetzt (R 352 f.). Diese Ablösung der menschlichen Arbeit durch die Maschine stellt zwar einerseits eine Erleichterung dar, bedeutet aber andererseits, dass der Mensch, indem er die Natur unterwirft, auch sich selbst erniedrigt: „Aber jeder Betrug, den er gegen die Natur ausübt, und mit dem er innerhalb ihrer Einzelnheit stehen bleibt, rächt sich gegen ihn selbst; was er ihr abgewinnt, je mehr er sie unterjocht, desto niedriger wird er selbst“ (GW 6, 321).
+
+Mit der zunehmenden Arbeitsteilung wird die Arbeit „immer mehr mechanisch“ (R. 353); sie richtet sich nicht mehr auf die lebendige Natur; Arbeit und Produkt haben nichts mehr miteinander zu tun. Die Abhängigkeit der Menschen voneinander erhöht sich (R 352); denn der „Mensch erarbeitet sich nicht mehr das was er braucht, oder braucht nicht mehr, was er sich erarbeitet hat“ (GW 6, 321 f.).
+
+Trotz dieser Entfremdungskritik kann für Hegel erst im System der modernen Ökonomie der Geist zu sich selbst kommen. Durch die Arbeit kann er sich von seiner unmittelbaren Abhängigkeit von der Natur befreien (vgl. R 344 f. A). Auch der Autonomieverlust der Menschen durch ihre wechselseitige Abhängigkeit voneinander hat die positive Seite, dass damit „die subjektive Selbstsucht in den Beitrag zur Befriedigung der Bedürfnisse aller anderen“ umschlägt, indem „jeder für sich erwirbt, produziert und genießt, er eben damit für den Genuß der Übrigen produziert und erwirbt“ (R 353).
+
+Prozess- und Polizeirecht
+Hegel vertritt die allgemeine Rechtsgleichheit aller Bürger (R 360 A). Das Recht muss in Form von Gesetzen gefasst sein, weil nur so Allgemeinheit und Bestimmtheit zu erreichen ist (R 361 f.). Hegel lehnt das englische Gewohnheitsrecht mit dem Argument ab, dass auf diese Weise die Richter zu Gesetzgebern würden (R 363).
+
+Das Recht ist nur dann etwas Wirkliches, wenn es vor Gericht einklagbar ist. Es ist daher Pflicht und Recht des Staates und der Bürger, Gerichte einzuführen und sich vor ihnen zu verantworten.
+
+Hegel erkennt die große Bedeutung des Prozessrechtes, das für ihn den gleichen Stellenwert hat wie die materialen Gesetze (GW 8, 248). Er tritt für den zivilrechtlichen Prozessvergleich (R 375 f.), die Öffentlichkeit der Rechtspflege (R 376) und die Einrichtung von Geschworenengerichten (R 380 f.) ein.
+
+Die Polizei hat innerhalb des Rechts das Wohl des Einzelnen zu befördern. (R 381 Z). Sie hat sicherheits-, ordnungs-, sozial-, wirtschafts- und gesundheitspolitische Aufgaben wahrzunehmen (R 385 Z). Die Polizei hat auch das Recht, Handlungen zu verbieten, die nur möglicherweise schädlich sind und die Hegel klar von Verbrechen unterscheidet (R 383). Grundsätzlich fordert Hegel jedoch einen liberalen Staat, der darauf vertraut, dass der Bürger „nicht erst durch einen Begriff und vermöge eines Gesetzes beschränkt werden müsse, des Anderen modifikable Materie nicht zu modifizieren“ (JS 86).
+
+Der Wirtschaftsliberalismus und der „Pöbel“
+Trotz aller polizeilicher Regelungen bleibt die bürgerliche Gesellschaft und die Teilhabe an ihr „Zufälligkeiten unterworfen“, umso stärker, je mehr sie die „Bedingungen der Geschicklichkeit, Gesundheit, Kapital usw. voraussetzt“ (R § 200). Hegel konstatiert, dass die bürgerliche Gesellschaft zwar auf der einen Seite den Reichtum vermehrt, aber andererseits „die Vereinzelung und Beschränktheit der besonderen Arbeit und damit die Abhängigkeit und Not der an diese Arbeit gebundenen Klasse“ vergrößert (R § 242). Die bürgerliche Gesellschaft reißt die Einzelnen aus ihren familiären Bindungen (R 386). Die zunehmende Arbeitsteilung und die ständige Überproduktion zieht Arbeitslosigkeit und eine weitere Steigerung der Armut nach sich. Dies führt zur Bildung des „Pöbels“, einer desintegrierten Gesellschaftsklasse, die durch „die innere Empörung gegen die Reichen, gegen die Gesellschaft, die Regierung“ gekennzeichnet ist, „leichtsinnig und arbeitsscheu“ wird: „Somit entsteht im Pöbel das Böse, daß er die Ehre nicht hat, seine Subsistenz durch seine Arbeit zu finden, und doch seine Subsistenz zu finden als sein Recht anspricht“ (R § 242+Zusatz). Es sei daher „eine vorzüglich die modernen Gesellschaften bewegende und quälende“ Frage, „wie der Armut abzuhelfen sei“ (R 389f. Z).
+
+Zur Lösung der von ihm aufgeworfenen sozialen Frage deutet Hegel nur zwei Lösungswege an: die Ausweitung der bürgerlichen Gesellschaft durch die Erschließung neuer Absatzmärkte (R 391) und die Einrichtung von Korporationen, d. h. berufsständischen, genossenschaftlichen Organisationen. Als letztes Mittel empfiehlt Hegel, „die Armen ihrem Schicksal zu überlassen und sie auf den öffentlichen Bettel anzuweisen“ (R 390 Z).
+
+Der Staat
+Hegel schreibt dem Staat einen gottgleichen Charakter zu: „es ist der Gang Gottes in der Welt, daß der Staat ist, sein Grund ist die Gewalt der sich als Wille verwirklichenden Vernunft“ (R 403 Z). Hegel geht es dabei primär um die Idee des Staates, nicht um real existierende Staaten.
+
+Der Staat stellt die Wirklichkeit des Rechts dar. In ihm realisiert und vollendet sich die Freiheit. Eben deswegen ist es für die Einzelnen „höchste Pflicht […], Mitglieder des Staats zu sein“ (R 399), weswegen es „nicht von der Willkür der Einzelnen abhängig“ sein darf, den Staat wieder zu verlassen (R 159 Z).
+
+Recht und Staat stehen dabei in einem doppelten Verhältnis: einerseits stellt das Recht die Grundlage des Staates dar, andererseits kann das Recht erst im Staat zu einer Realität werden und so ein Wandel von bloßer Moralität zur Sittlichkeit stattfinden.
+
+Der Staat hat für Hegel einen Selbstzweck. Es muss eine Institution geben, in der „das Interesse der Einzelnen als solcher“ nicht der „letzte Zweck“ ist (R 399 A). In ihm durchdringen sich objektive und subjektive Freiheit. Das oberste Prinzip des Staates soll ein objektiver Wille sein, dessen Geltungsanspruch nicht davon abhängt, ob das Vernünftige „ von Einzelnen erkannt und von ihrem Belieben gewollt werde oder nicht“ (R 401).
+
+Der wohlgeordnete Staat bringt das Interesse des Einzelnen und das Allgemeininteresse in Einklang. In ihm verwirklicht sich die konkrete Freiheit, in der „weder das Allgemeine ohne das besondere Interesse, Wissen und Wollen gelte und vollbracht werde, noch die Individuen bloß für das letztere als Privatpersonen leben und nicht zugleich in und für das Allgemeine wollen“ (R 407).
+
+Die Staatsgewalten
+Hegel legt großen Wert darauf, dass zu den Voraussetzungen eines guten Staates neben einer entsprechenden Gesinnung der Bürger v. a. die Einrichtung effizienter Institutionen gehört. So zeige etwa das Beispiel des Mark Aurel, dass durch einen moralisch vorbildlichen Herrscher („Philosoph auf dem Throne“, GP II 35) der schlechte Zustand des Römischen Reichs nicht verändert werden konnte (GP II 295).
+
+Die ideale Staatsform stellt für Hegel die konstitutionelle Monarchie dar. In ihr soll es eine gesetzgebende, eine Regierungs- und eine „fürstliche Gewalt“ geben (R 435).
+
+Der Fürst repräsentiert die Einheit des Staates. Er muss mit seiner Unterschrift letztlich alle Entscheidungen der gesetzgebenden Gewalt bekräftigen. Hegel tritt für eine Erbmonarchie ein, weil dadurch einerseits zum Ausdruck komme, dass es gleichgültig ist, wer zum Monarchen wird, und andererseits seine Ernennung der menschlichen Willkür entzogen ist (R 451 f.).
+
+Die Regierungsgewalt steht zwischen der fürstlichen und der gesetzgebenden Gewalt. Sie hat die fürstlichen Einzelentscheidungen auszuführen und anzuwenden. Hegel ordnet darüber hinaus auch die „richterlichen und polizeilichen Gewalten“ (R 457) unmittelbar der Regierungsgewalt unter. Hegel plädiert für ein Berufsbeamtentum, das aber nicht aufgrund der Geburt, sondern ausschließlich aufgrund der Befähigung rekrutiert werden dürfe (R 460f.).
+
+Die gesetzgebende Gewalt soll nach Hegel im Rahmen einer ständischen Repräsentation ausgeübt werden. Hegel befürwortet ein Zweikammersystem. Die erste Kammer soll durch den „Stand der natürlichen Sittlichkeit“ (R 474f.), also adlige Gutsbesitzer, gebildet werden, die durch die Geburt zu ihrer Aufgabe berufen werden. Die zweite Kammer setzt sich aus der „beweglichen Seite der bürgerlichen Gesellschaft“ (R 476) zusammen. Ihre Mitglieder sind Repräsentanten bestimmter „Sphären“ der bürgerlichen Gesellschaft, die von ihren Korporationen ernannt werden. Insofern Hegels Stände damit aber prinzipiell nichts anderes als Organisationsformen verschiedener ökonomischer und gesellschaftlicher Großanliegen darstellen, könnte man bei dem Versuch, die Hegels Formulierungen zugrunde liegenden Vorstellungen und Ideale in heute besser verständliche Begriffe zu übersetzen, durchaus auch an die politischen Parteien denken, denen im demokratischen Verfassungsstaat die Funktion der Repräsentation und Vermittlung von gesellschaftlichem Interessenpluralismus und staatlicher Handlungseinheit in erster Linie zukommt. Vor diesem Hintergrund ist Hegel jüngst als eine Art „kritischer Freund der Parteien“ neu interpretiert worden.[54]
+
+Das äußere Staatsrecht
+Zu den am heftigsten kritisierten Teilen in Hegels Werk gehören seine Reflexionen zum „äußeren Staatsrecht“.[55] Hegel geht davon aus, dass es aus ontologischen Gründen notwendig mehrere Staaten geben müsse. Der Staat ist ein für sich seiender „Organismus“ und steht als solcher in einem Verhältnis zu anderen Staaten (R 490f.). Es ergibt sich so notwendig eine Vielheit von Staaten; ihr Verhältnis zueinander kann nach Hegel am besten durch den Begriff des Naturzustands gekennzeichnet werden. Es gibt keine die Staaten übergreifende machthabende und rechtsetzende Instanz. Sie stehen daher auch in keinem Rechtsverhältnis zueinander und können einander auch nicht Unrecht tun. Ihre Streitigkeiten können daher „nur durch Krieg entschieden werden“; die kantische Idee einer vorausgehenden Schlichtung durch einen Staatenbund hält Hegel für absurd (R 500).
+
+Hegel hält darüber hinaus den Krieg nicht für ein „absolutes Übel“, sondern erkennt darin ein „sittliches Moment“ (R 492). Er gibt den Regierungen den Ratschlag, von Zeit zu Zeit Kriege zu entfachen: Um die isolierten Gemeinwesen innerhalb des Staates nicht „festwerden, hier durch das Ganze auseinanderfallen und den Geist verfliegen zu lassen, hat die Regierung sie in ihrem Innern von Zeit zu Zeit durch die Kriege zu erschüttern, ihre sich zurechtgemachte Ordnung und Recht der Selbständigkeit dadurch zu verletzen und zu verwirren, den Individuen aber, die sich darin vertiefend vom Ganzen losreißen und dem unverletzbaren Fürsichsein und der Sicherheit der Person zustreben, in jener auferlegten Arbeit ihren Herrn, den Tod, zu fühlen zu geben“ (PG 335).
+
+Die Weltgeschichte
+Die höchste Stufe des objektiven Geistes stellt die Weltgeschichte dar. Sie ist „die geistige Wirklichkeit in ihrem ganzen Umfange von Innerlichkeit und Äußerlichkeit“ (R 503).
+
+In der Weltgeschichte und dem Aufkommen und Untergehen einzelner Staaten wird der objektive Geist zum allgemeinen „Weltgeist“ (R 508). Er benutzt dazu die endlichen Gestalten des subjektiven und objektiven Geistes als Werkzeuge seiner eigenen Verwirklichung. Diesen Prozess bezeichnet Hegel als das „Weltgericht“ (R 503), das das höchste und absolute Recht darstellt.
+
+Der Endzweck der Weltgeschichte ist die endgültige Versöhnung von Natur und Geist (VPhW 12, 56).[56] Damit verbunden ist die Herstellung eines „ewigen Friedens“, in dem alle Völker als besondere Staaten ihre Erfüllung finden können. In diesem Frieden ist das Gericht der Geschichte vorbei; „denn nur das geht ins Gericht, das dem Begriff nicht gemäß ist“ (VPhW 12, 56).
+
+„Das Prinzip der Entwicklung beginnt mit der Geschichte Persiens, und darum macht diese den eigentlichen Anfang der Weltgeschichte.“[57]
+
+Die großen Ereignisse und Entwicklungslinien der Weltgeschichte können nur im Lichte der Idee der Freiheit verstanden werden, deren Entwicklung notwendig für die Erreichung des ewigen Friedens ist. Die wesentlichen Merkmale des Geistes einer bestimmten geschichtlichen Epoche offenbaren sich in den großen Ereignissen, die wichtige Fortschritte hinsichtlich der größeren Freiheitsentfaltung der Völker darstellen.
+
+Hegel unterscheidet „vier Reiche“ oder Welten, welche aufeinander folgen wie die Lebensperioden eines Menschen. Die orientalische Welt wird verglichen mit dem Kindes- und Knabenalter, die griechische mit der Jünglingszeit, die römische mit dem Mannes- und die germanische – womit Westeuropa gemeint ist – mit dem Greisenalter.
+
+Europa selbst hat wiederum drei Teile: das Gebiet um das Mittelmeer, das seine Jugend darstellt; das Herz (Westeuropa) mit Frankreich, England und Deutschland als die wichtigsten weltgeschichtlichen Staaten und das nordöstliche Europa, das sich erst spät entwickelt hat und noch stark mit dem prähistorischen Asien verbunden ist.
+
+Die Geschichte der Völker läuft üblicherweise in drei verschiedenen Perioden ab:
+
+die Periode des „Hervorbringens“. In ihr lebt „ein Volk für sein Werk“ und bringt das hervor, „was sein inneres Prinzip ist“ (VPhW 12, 45). Es ist eine Periode von großer Tätigkeit, ohne Zwiespalt, in der die Individuen ganz im gemeinschaftlichen Werk aufgehen.
+die Periode, wo „der Geist hat, was er will“ und „seine Tätigkeit nicht mehr braucht“ (VPhW 12, 46). Das Volk lebt hier „im Übergang des Mannesalters zu seinem Greisenalter, im Genusse des Erreichten […] in der Gewohnheit seines Seins“ (VPhW 12, 46). Das unveränderte Weiterleben eines Volkes in dieser Periode der bedürfnislosen Fortsetzung der Gewohnheit kommt einem „natürlichen Tod“ gleich.
+die Periode der „Reflexion“ und „Subjektivität“ (VPhW 12, 50f.). Sie wird von Völkern mit einer weltgeschichtlichen Rolle durchlebt. Die bestehenden Tugend- und Moralvorstellungen werden in Frage gestellt; es wird nach allgemein gültigen Begründungen für sie gesucht. Es ist die Zeit des Aufblühens von Wissenschaft und Philosophie. Diese Suche nach ideeller Befriedigung ist „der Weg, auf welchem aus dem Tiefsten heraus der Volksgeist sich den Untergang bereitet“ (VPhW 12, 51).
+Ein Volk kann nur einmal eine weltgeschichtliche Rolle einnehmen, weil es nur einmal diese dritte Periode durchlaufen kann. Die höhere Stufe, welche danach folgt, ist „wieder ein Natürliches, erscheint so als ein neues Volk“ (VPhW 12, 55).
+
+Absoluter Geist
+Hegels Philosophie des „absoluten Geistes“ umfasst seine Theorie der Kunst, der Religion und der Philosophie. Sie wurde in den von ihm selbst publizierten Werken kaum ausgearbeitet und findet sich überwiegend in den Vorlesungsmitschriften.
+
+Der Geist wird sich erst als absoluter Geist des Prinzips der Welt, d. h. der absoluten Idee, bewusst (E III 366). Der absolute Geist ist dabei in Kunst, Religion und Philosophie präsent – allerdings in jeweils anderer Form. Während in der Kunst das Absolute angeschaut wird, wird es in der Religion vorgestellt und in der Philosophie gedacht.
+
+In der Kunst fallen Subjekt und Objekt auseinander. Das Kunstwerk ist ein „ganz gemein äußerlicher Gegenstand, der sich nicht selbst empfindet und sich nicht selbst weiß“; das Bewusstsein seiner Schönheit fällt in das anschauende Subjekt (Rel I 137). Das Absolute erscheint außerdem in der Kunst nur in der Gestalt seiner Schönheit und kann daher nur „angeschaut“ werden.
+
+Der Gegenstand der Religion hat dagegen nichts Natürliches mehr an sich. Das Absolute ist in ihr nicht mehr als äußeres Objekt, sondern als Vorstellung im religiösen Subjekt präsent; es wird „aus der Gegenständlichkeit der Kunst in die Innerlichkeit des Subjekts hineinverlegt“ (Ä I 142). Die religiöse Vorstellung nimmt allerdings noch eine Zwischenstellung zwischen Sinnlichkeit und Begriff ein, zu denen sie „in beständiger Unruhe“ steht. Diese Zwischenstellung zeigt sich für Hegel u. a. darin, dass für die Religion Geschichten, z. B. „die Geschichte Jesu Christi“, von großer Bedeutung sind, obgleich in ihnen ein „zeitloses Geschehen“ gemeint ist (Rel I 141f.).
+
+In der Philosophie dagegen wird das Absolute als das erkannt, was es eigentlich ist. Sie begreift die innere Einheit der mannigfachen religiösen Vorstellungen auf rein begriffliche Weise und eignet sich „durch systematisches Denken“ dasjenige an, „was sonst nur Inhalt subjektiver Empfindung oder Vorstellung ist“. Die Philosophie stellt insofern auch die Synthese von Kunst und Religion dar; in ihr sind „die beiden Seiten der Kunst und Religion vereinigt: die Objektivität der Kunst, welche hier zwar die äußere Sinnlichkeit verloren, aber deshalb mit der höchsten Form des Objektiven, mit der Form des Gedankens vertauscht hat, und die Subjektivität der Religion, welche zur Subjektivität des Denkens gereinigt ist“ (Ä I 143f.).
+
+Kunst
+Der spezifische Gegenstand der Kunst ist die Schönheit. Das Schöne ist „das sinnliche Scheinen der Idee“ (Ä I 151). Die Kunst hat insofern ebenso wie Religion und Philosophie einen Bezug zur Wahrheit – der Idee. Schönheit und Wahrheit sind für Hegel „einerseits dasselbe“, da das Schöne „wahr an sich selbst“ sein muss. Allerdings wird im Schönen die Idee nicht so gedacht, wie sie in „ihrem Ansich und allgemeinen Prinzip nach ist“. Vielmehr soll sich im Schönen die Idee „äußerlich realisieren“ und „natürliche und geistige Objektivität gewinnen“ (Ä I 51).
+
+Hegel lehnt die aufklärerische Auffassung ab, dass die Ästhetik primär die Natur nachzuahmen habe: „Die Wahrheit der Kunst darf also keine bloße Richtigkeit sein, worauf sich die sogenannte Nachahmung der Natur beschränkt, sondern das Äußere muß mit einem Inneren zusammenstimmen, das in sich selbst zusammenstimmt und eben dadurch sich als sich selbst im Äußeren offenbaren kann“ (Ä I 205). Aufgabe der Kunst sei es vielmehr, das Wesen der Wirklichkeit zur Erscheinung zu bringen.
+
+Im Unterschied zur Auffassung Platons sei die Kunst keine bloße Täuschung. Gegenüber der empirischen Wirklichkeit hat sie vielmehr „die höhere Realität und das wahrhaftigere Dasein“. Indem sie ihr „den Schein und die Täuschung“ nimmt, enthüllt sie den „wahrhaften Gehalt der Erscheinungen“ und gibt ihnen so „eine höhere, geistgeborene Wirklichkeit“ (Ä I 22).
+
+Kunstformenlehre
+Hegel unterscheidet drei verschiedene Weisen, in denen in der Kunst die Idee zur Darstellung kommt: die symbolische, klassische und romantische „Kunstform“. Diese entsprechen den drei Grundepochen der orientalischen, der griechisch-römischen und der christlichen Kunst.
+
+Die Kunstformen unterscheiden sich dabei in der Weise der Darstellung der „verschiedenen Verhältnisse von Inhalt und Gestalt“ (Ä I 107). Hegel geht davon aus, dass sie sich mit einer inneren Notwendigkeit entwickelt haben und sich ihnen jeweils spezifische Charakteristika zuordnen lassen.
+
+In der symbolischen Kunst, der eine Naturreligion zugrunde liegt, wird das Absolute noch nicht als konkrete Gestalt, sondern nur als vage Abstraktion vorgestellt. Sie ist daher „mehr ein bloßes Suchen der Verbildlichung als ein Vermögen wahrhafter Darstellung. Die Idee hat die Form noch in sich selber nicht gefunden und bleibt somit nur das Ringen und Streben danach“ (Ä I 107).
+
+In der klassischen Kunstform dagegen kommt die Idee zu einer „ihrem Begriff nach zugehörigen Gestalt“. In ihr drückt sich die Idee nicht in etwas Fremdem aus, sondern ist vielmehr „das sich selbst Bedeutende und damit auch sich selber Deutende“ (Ä II 13). Die klassische Kunstform stellt die „Vollendung“ der Kunst dar (NS 364). Wenn an ihr „etwas mangelhaft ist, so ist es nur die Kunst selber und die Beschränktheit der Kunstsphäre“ (Ä I 111). Ihre Endlichkeit besteht darin, dass der Geist in seinem notwendig besonderen und natürlichem Leib aufgeht und nicht zugleich über ihm steht (Ä I 391f.).
+
+In der romantischen Kunstform fallen Inhalt und Gestalt, die in der klassischen Kunst zu einer Einheit gelangt waren, wieder auseinander, allerdings auf einer höheren Ebene. Die romantische Kunstform betreibt „das Hinausgehen der Kunst über sich selbst“, jedoch paradoxerweise „innerhalb ihres eigenen Gebiets in Form der Kunst selber“ (Ä I 113).
+
+Das System der Künste
+Hegel unterscheidet fünf Künste: Architektur, Plastik, Malerei, Musik und Poesie. Sie lassen sich den drei Kunstformen zuordnen und unterscheiden sich nach dem Maß der Verfeinerung der Sinnlichkeit und ihrer Befreiung von ihrem zugrunde liegenden Material.
+
+In der Architektur, die Hegel der symbolischen Kunstform zuordnet, wird die Idee nur „als Äußeres“ dargestellt und bleibt somit „undurchdrungen“ (Ä I 117). Das Material der Architektur ist „die schwere und nur nach den Gesetzen der Schwere gestaltbare Materie“ (Ä II 259). Sie hat unter den Künsten noch am ehesten mit einem praktischen Bedürfnis zu tun (Ä II 268).
+
+Die Plastik, die zur klassischen Kunstform gehört, teilt zwar mit der Architektur das Material, nicht aber die Form und den Gegenstand, der in der Mehrzahl der Fälle der Mensch ist. Insofern spielt in ihr das Geistige eine größere Rolle. Sie zieht sich aus dem „Unorganischen“ in das „Innere zurück, das nun in seiner höheren Wahrheit, unvermischt mit dem Unorganischen, für sich auftritt“ (Ä II 351). Allerdings bleibt sie auf die Architektur bezogen, in der sie allein ihren Platz hat (Ä II 352f.)
+
+In Malerei, Musik und Poesie schließlich, den romantischen Kunstformen, überwiegt das Subjektive und Individuelle „auf Kosten der objektiven Allgemeinheit des Gehaltes wie der Verschmelzung mit dem unmittelbar Sinnlichen“ (Ä I 120).
+
+Die Malerei entfernt sich von den Materialien von Architektur und Skulptur. Sie reduziert die „Dreiheit der Raumdimensionen“ auf die „Fläche“ und „stellt die räumlichen Entfernungen und Gestalten durch das Scheinen der Farbe dar“ (Ä II 260).
+
+In der Musik ist der Bezug auf eine Objektivität vollständig aufgehoben. Sie ist die subjektivste der Künste; wie keine andere Kunst vermag sie auf den Einzelnen einzuwirken. Sie hebt selbst die flächenhafte Räumlichkeit der Malerei auf (Ä III 133) und bearbeitet den in der Zeit sich erstreckenden Klang (Ä III 134).
+
+Die Poesie weist einerseits insofern einen noch geistigeren Charakter als die Musik auf, als sie noch schwächer an das Material gebunden ist, in dem sie sich ausdrückt: es hat für sie „nur noch den Wert eines wenn auch künstlerisch behandelten Mittels für die Äußerung des Geistes an den Geist“ (Ä II 261); es sind die geistigen Formen des inneren Vorstellens und Anschauens selbst, die „sich an die Stelle des Sinnlichen setzen und das zu gestaltende Material […] abgeben“ (Ä III 229). Andererseits kehrt die Poesie, was ihren Inhalt anbelangt, zu einer höheren Objektivität zurück. Sie breitet sich „im Felde des inneren Vorstellens, Anschauens und Empfindens selber zu einer objektiven Welt aus“, weil sie „die Totalität einer Begebenheit, eine Reihenfolge, einen Wechsel von Gemütsbewegungen, Leidenschaften, Vorstellungen und den abgeschlossenen Verlauf einer Handlung vollständiger als irgendeine andere Kunst zu entfalten befähigt ist“ (Ä III 224).
+
+Religion
+Die vielgestaltige Auseinandersetzung mit dem Thema Religion und besonders mit dem Christentum begleitet Hegels gesamtes philosophisches Denken. Die Aufgabe der ganzen Philosophie ist nach ihm keine andere als Gott zu begreifen: „der Gegenstand der Religion wie der Philosophie ist die ewige Wahrheit in ihrer Objektivität selbst, Gott und nichts als Gott und die Explikation Gottes“ (Rel I 28). Insofern ist für Hegel die ganze Philosophie selbst Theologie: „In der Philosophie, welche Theologie ist, ist es einzig nur darum zu tun, die Vernunft der Religion zu zeigen“ (Rel II 341).
+
+Grundbestimmungen der Religion
+Die Religion ist „das Selbstbewußtsein des absoluten Geistes“ (Rel I 197f.). Gott wirkt im religiösen Glauben selbst, der Glaubende hat umgekehrt im Glauben an Gott teil. Gott ist nicht nur als Objekt des Glaubens, sondern v. a. in dessen Vollzug präsent. Das Wissen von Gott muss zu einem Sich-Wissen in Gott werden. Der „Mensch weiß nur von Gott, insofern Gott im Menschen von sich selbst weiß“ (Rel I 480). Ebenso ist aber auch umgekehrt Gott „nur Gott, insofern er sich selber weiß“. Sein Sichwissen ist „sein Selbstbewußtsein im Menschen und das Wissen des Menschen von Gott, das fortgeht zum Sichwissen des Menschen in Gott“ (E III 374 A).
+
+Erscheinungsformen der Religionen und das Christentum
+Der Entwicklungsgang der Religion in ihren verschiedenen geschichtlichen Gestaltungen wird bestimmt durch die verschiedene Vorstellung des Absoluten, die ihr jeweils zugrunde liegt. Die Geschichte der Religionen stellt für Hegel eine Lerngeschichte dar, an deren Abschluss das Christentum steht. Er unterscheidet drei Grundformen von Religion: Naturreligionen, „Religionen der geistigen Individualität“ und die „vollendete Religion“.
+
+In den Naturreligionen wird Gott in unmittelbarer Einheit mit der Natur gedacht. Es stehen zunächst Zauberei, Geister- und Totenkulte im Vordergrund (Naturvölker, China). Eine weitere Entwicklungsstufe stellen die „Religion der Phantasie“ (Indien) und die „Religion des Lichts“ (parsische Religion) dar.
+
+In den „Religionen der geistigen Individualität“ wird Gott als primär geistiges Wesen aufgefasst, das nicht Natur ist, sondern über die Natur herrscht und sie bestimmt. Diesen Religionen ordnet Hegel die jüdische, griechische und römische Religion zu.
+
+Das Christentum schließlich ist für Hegel die „vollendete Religion“. In ihm wird Gott als trinitarische Einheit von Vater, Sohn und Geist vorgestellt. Das Christentum ist sich der in Gott selbst immanenten Differenzierung bewusst, weshalb es für Hegel den entscheidenden Schritt über die anderen Religionen hinaus leistet.
+
+In der Person des „Vaters“ betrachten die Christen Gott „sozusagen vor oder außer Erschaffung der Welt“ (Rel II 218), d. h. als reinen Gedanken und göttliches Prinzip. Gott wird als Allgemeines verstanden, das auch die Unterscheidung, das Setzen seines Anderen, des „Sohnes“ und die Aufhebung der Differenz beinhaltet (vgl. Rel II 223).
+
+Die Menschwerdung ist für Hegel notwendiger Teil des Göttlichen. Wesentlicher Teil der menschlichen Erscheinung Gottes ist dabei der Tod Jesu, für Hegel der „höchste Beweis der Menschlichkeit“ (Rel II 289) des Gottessohnes. Dieser erscheint für ihn wiederum nicht denkbar ohne die „Auferstehung“. Mit der Überwindung der Endlichkeit erfolgt die Negation der Negation Gottes. Am auferstandenen Christus zeigt sich, „daß Gott es ist, der den Tod getötet hat“ (R II 292), einen Tod, der Ausdruck seines radikal Anderen, des Endlichen ist.
+
+Philosophie
+Philosophie als „Begriff“ des absoluten Geistes
+Die Philosophie ist die letzte Gestalt des absoluten Geistes. Hegel nennt sie den „denkend erkannten Begriff der Kunst und Religion“ (E III 378). Philosophie ist das in die Begriffsform erhobene Wissen von Kunst und Religion. Im Unterschied zu deren Erkenntnisformen, Anschauung und Vorstellung, ist die Philosophie als begriffliches Erkennen ein Erkennen der Notwendigkeit des absoluten Inhalts selbst. Das Denken produziert nicht erst diesen Inhalt; es ist „selbst nur das Formelle des absoluten Inhalts“ (E III 378). Es produziert im Begriff „zwar die Wahrheit“, aber es „erkennt diese Wahrheit als ein zugleich nicht Produziertes, als an und für sich seiendes Wahres an“.[58]
+
+Geschichte der Philosophie
+Die Geschichte der Philosophie ist für Hegel „etwas Vernünftiges“ und „muß selbst philosophisch sein“.[59] Sie kann keine „Sammlung zufälliger Meinungen“ (GP I 15) sein, weil der Begriff „philosophische Meinung“ selbstwidersprüchlich ist: „Die Philosophie aber enthält keine Meinungen; es gibt keine philosophischen Meinungen.“ (GP I 30). Eine bloß philologische Philosophiehistorie ist für Hegel sinnlos (GP I 33). Die Philosophiehistorie setzt immer schon die Erkenntnis der Wahrheit durch die Philosophie voraus, um irgendeine Bedeutung beanspruchen zu können. Außerdem ist die Forderung, „die Tatsachen ohne Parteilichkeit, ohne ein besonderes Interesse und Zweck“ zu erzählen, illusorisch. Erzählen kann man nur das, was man verstanden hat; die Geschichte der Philosophie kann daher nur der verstehen, der verstanden hat, was Philosophie ist: Ohne einen Begriff von Philosophie wird „notwendig die Geschichte selbst überhaupt etwas Schwankendes sein“ (GP I 16f.).
+
+Die Geschichte der Philosophie durchschreitet die entgegengesetztesten Positionen, stellt aber zugleich eine Einheit dar. Insofern ist die Geschichte der Philosophie „nicht eine Veränderung, ein Werden zu einem Anderen, sondern ebenso ein Insichhineingehen, ein Sichinsichvertiefen“ (GP I 47). Der tiefere Grund für die Geschichtlichkeit der Philosophie liegt darin, dass der Geist selbst eine Geschichte hat. Als Formen des Geistes können sich die einzelnen Philosophien daher auch nicht grundsätzlich widersprechen, sondern integrieren sich „zur ganzen Form“ (GP I 53f.). Daraus folgt, dass „das Ganze der Geschichte der Philosophie ein in sich notwendiger, konsequenter Fortgang ist; er ist in sich vernünftig, durch seine Idee bestimmt. Die Zufälligkeit muß man mit dem Eintritt in die Philosophie aufgeben. Wie die Entwicklung der Begriffe in der Philosophie notwendig ist, so ist es auch ihre Geschichte“ (GP I 55 f.)
+
+Übersicht des philosophischen Systems
+Logik	die Idee an und für sich
+Sein	Begriff an sich
+Bestimmtheit (Qualität)	innere Bestimmtheit
+Größe (Quantität)	äußerliche Bestimmtheit
+Maß (qualitative Quantität)	größenabhängiges Sein
+Wesen	Begriff für sich
+Reflexion in sich	
+Erscheinung	
+Wirklichkeit	
+Begriff	Begriff an und für sich
+Subjektivität	
+Objektivität	
+Idee	
+Natur	die Idee in ihrem Anderssein
+Mechanik	Materie überhaupt
+Raum und Zeit	
+Materie und Bewegung	
+Absolute Mechanik	
+Physik	spezifische Materie
+Physik der allgemeinen Individualität	
+Physik der besonderen Individualität	
+Physik der totalen Individualität	
+Organik	lebendige Materie
+geologische Natur	„der Grund und Boden des Lebens“ (E II 340)
+vegetabilische Natur	Individuen, die mit ihren Organen auf ein gemeinsames äußeres Zentrum bezogen sind (Pflanzen)
+tierischer Organismus	Individuen, die mit ihren Organen auf ein gemeinsames Zentrum in ihnen selbst bezogen sind (Tiere)
+Geist	die Idee, die aus ihrem Anderssein in sich zurückkehrt
+Subjektiver Geist	 
+Seele	die einfache geistige Substanz; der Geist in seiner Unmittelbarkeit
+Bewusstsein	der erscheinende Geist im Fremd- und Selbstbezug
+Geist	der Geist in seiner Wahrheit
+Objektiver Geist	 
+Recht	
+Moralität	
+Sittlichkeit	 
+Familie
+Bürgerliche Gesellschaft
+Staat
+Absoluter Geist	 
+Kunst	das unmittelbare, sinnliche Wissen des absoluten Geistes
+Religion	das vorstellende Wissen des absoluten Geistes
+Philosophie	das freie Denken des absoluten Geistes
+Rezeption
+→ Hauptartikel: Hegelianismus
+
+Briefmarke 1948 aus der Serie Persönlichkeiten aus Politik, Kunst und Wissenschaft
+
+Briefmarke 1970
+Ab Beginn seiner Berliner Jahre gab es vehemente Kritik an Hegels Philosophie. Diese Kritik hat sich teils aus verschiedenen Motiven akademischer, schulmäßiger und ideologischer Rivalität (vor allem im Fall Schopenhauers) gespeist. Sie brachte Hegel den despektierlichen Titel des „preußischen Staatsphilosophen“ ein. Hegel und seine Ideen waren auch Ziel von Invektiven. Bekanntes Beispiel ist Joseph Victor von Scheffels Gedicht Guano, in dem Hegel mit kotenden Vögeln in Verbindung gebracht wird.[60]
+
+Politische Philosophie
+Als politischer Philosoph wurde Hegel für seinen Staat, und als vernünftig-optimistischer Geschichtsphilosoph für die Geschichte dieses Staates, im Nachhinein haftbar gemacht[61]; d. h. die persönliche Enttäuschung über die politische Entwicklung Preußens und darauf Deutschlands wurden mit Vorliebe Hegels Philosophie angelastet. Hiergegen wird eingewandt, dass „die blinde Formel vom ‚preußischen Staatsphilosophen‘ […] die selbst stets umstrittene Politik des Ministeriums Altenstein mit dem ‚preußischem Staat‘“ identifiziert und so „die unterschiedlichen, ja gegensätzlichen politischen Gruppierungen und Bestrebungen dieser Jahre“ ignoriert.[62] Eine vergleichbare Kritik kommt 1946 von Reinhold Schneider, der eine deutliche Verbindung zwischen Hegels Konzeptionen in seiner ‚Philosophie der Weltgeschichte‘ und dem während der Zeit des Nationalsozialismus beschworenen „Volksgeist“ sieht: „Dieses Reich der Germanen wäre nichts anderes als die diesseitige Vollendung der Geschichte, das Gottesreich auf Erden — eine Konzeption, der, sofern wir die Sprache des seither abgelaufenen Jahrhunderts verstehen, die Geschichte mit einem entsetzlichen Hohne geantwortet hat.“[63] Schneider nennt Friedrich Nietzsche einen „armen Knecht des Hegelschen Weltgeistes“.
+
+Die politische Philosophie der englischen Idealisten (Thomas Hill Green, Bernard Bosanquet) griff vor allem die antiliberalen Tendenzen der hegelschen Rechtsphilosophie auf: das unabhängige Prinzip des Staates, die Vorherrschaft des Allgemeinen.[64]
+
+In Italien (Benedetto Croce, Giovanni Gentile, Sergio Panuncio) wurde Hegels organische Staatsauffassung benutzt, um den im Lande recht schwach entwickelten Liberalismus niederzuhalten; das begünstigte die Annäherung an den Faschismus.[65] Von den geistigen Vertretern des Nationalsozialismus in Deutschland indessen wurde Hegel wegen des Waltens der Vernunft in der Politik und des Prinzips der Rechtsstaatlichkeit schärfstens bekämpft und insofern waren rechtshegelianische Annäherungsversuche wenig von Erfolg gekrönt.[66]
+
+Soziologie
+„Die Theorie der bürgerlichen Gesellschaft und Hegel, das sind die beiden Hauptwurzeln der deutschen Soziologie; was an älteren sozialwissenschaftlichen Bemühungen in den Staatswissenschaften, der Kameralistik, der Naturrechtslehre usw. auf sie eingewirkt hat, ist durch diese beiden Filter erst hindurchgegangen.“
+
+– Helmut Schelsky[67]
+In seiner Geschichte der sozialen Bewegung in Frankreich von 1789 bis auf unsre Tage (Leipz. 1850, 3 Bde.) hat Lorenz von Stein Hegels Dialektik für die Soziologie fruchtbar gemacht. Doch schon 1852 hat er den Versuch, die Gesellschaftstheorie auf ökonomische Widersprüche zu gründen, widerrufen.[68]
+
+Eine auf Hegels und Marx’ Lehre gründende dialektische Gesellschaftstheorie entwarf vor allem der Philosoph Theodor W. Adorno.
+
+Die deutsche Kultursoziologie von Georg Simmel, Ernst Troeltsch, Alfred Weber bis Karl Mannheim integrierte Hegels Volksgeist in eine Lebensphilosophie. Zwar verstand sie sich als empirisch basiert, in polemischer Abgrenzung zu Hegels Verwirklichung der Vernunft in der Geschichte, begriff indessen als das „Gegebene“ eine Metaphysik, die Gedanken Schopenhauers, Nietzsches und des Historismus verwertete.[69]
+
+Kulturgeschichte
+Die kulturgeschichtlichen Studien erhielten einen gewaltigen Auftrieb durch Hegel, der eine Generation deutscher Gelehrter in der historischen Betrachtungsweise von Philosophie und Literatur, Religion und Kunst unterwies; und seine Schüler wurden die Lehrer nicht nur Deutschlands, sondern der westlichen Welt.[70]
+
+„Hegels Verständnis der griechischen Tragödie übertraf das der meisten seiner Verleumder bei weitem. Er erkannte, dass im Zentrum der größten Tragödien von Aischylos und Sophokles wir nicht einen tragischen Helden, sondern eine tragische Kollision finden und dass der Konflikt nicht zwischen Gut und Böse besteht, sondern zwischen einseitigen Positionen, von denen jede etwas Gutes enthält.“
+
+– Walter Kaufmann[71]
+Beim Thema Musik geriet Hegel in Kritik. Der Musikkritiker Eduard Hanslick warf ihm vor, in Besprechung der Tonkunst oft irregeführt zu haben, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt mit dem rein ästhetischen verwechselt und das historische Begreifen dabei nicht berücksichtigt. Er habe versucht, in der Musik Bestimmtheiten nachzuweisen, die sie an sich niemals hatte.[72]
+
+Naturphilosophie
+Bei den materialistisch eingestellten Naturwissenschaftlern angefangen bis hin zu einzelnen Vertretern des Neukantianismus[73] geriet Hegel in Verruf, weil er bestimmte Ergebnisse, die dem Stand der Wissenschaft entsprachen, ignoriert hatte.[74] Oder es wird ihm auf dem Gebiet der formalen Logik und der Mathematik vorgeworfen, dass er bestimmte Verfahren nie richtig verstanden hätte, vor allem durch seine Ansicht, dass es die Mathematik nur mit Quantitäten zu tun habe.[75] Während Hegel unter „spekulativ“ noch die vorzüglichste Methode philosophischen Erkennens und Beweisens verstand, wurde daraus im Gemeinverständnis schnell ein empirisch haltloses, abstraktes Begriffsdenken über Gott und die Welt.
+
+Exemplarisch ist die frühe, fundierte Polemik des Naturwissenschaftlers Matthias Jacob Schleiden von 1844.[76] Darin zitiert Schleiden Beispiele aus Hegels Enzyklopädie der philosophischen Wissenschaften unter anderen diese Definition:
+
+„Das Blut, als die axendrehende, sich um sich selbst jagende Bewegung (!), dies absolute In-sich-Erzittern ist das individuelle Leben des Ganzen, in welchem nichts unterschieden ist – die animalische Zeit. Alsdann entzweit sich diese axendrehende Bewegung in den kometarischen und atmosphärischen und in den vulkanischen Process. Die Lunge ist das animalische Blatt, welches sich zur Atmosphäre verhält, und diesen sich unterbrechenden und herstellenden, aus- und einathmenden Process macht. Die Leber dagegen ist das aus dem kometarischen in das Fürsichseyn, in das lunarische Zurückkehren, es ist das seinen Mittelpunkt suchende Fürsichseyn, die Hitze des Fürsichseyns, der Zorn gegen das Andersseyn und das Verbrennen desselben.“[77]
+
+Schleiden kommentiert dies süffisant: „Ich möchte wohl wissen, was eine Examinationscommission dazu sagen würde, wenn der Candidat des medicinischen Staatsexamens auf die Frage: was ist die Leber? die obige Definition zur Antwort gäbe.“ Hegels auch nach dem damaligen Stand der Wissenschaften von Miß- und Unverständnis geprägtes Verhältnis zur Naturwissenschaft attackiert er: „Das klingt alles recht ungemein und hoch, aber wär’s nicht besser, Ihr guten Kinderchen gingt erst in die Schule und lerntet etwas Ordentliches, ehe ihr Naturphilosophien zusammenschreibt über Dinge, von denen Ihr noch nicht die leiseste Ahnung habt?“[78] Schleiden äußert damit eine ähnliche Kritik wie später Bertrand Russell (siehe unten). Der Hegel-Forscher Wolfgang Neuser urteilt: „Schleidens Argumente zählen zu den schärfsten und umfassendsten Kritiken an Hegel und Schelling. Er sammelt und pointiert die Einwande, die vor ihm formuliert wurden; in der Substanz seiner Kritik ist auch später niemand mehr über Schleiden hinausgegangen.“[79]
+
+Einzelne Rezipienten
+Karl Marx
+Hegels Philosophie ist (neben dem französischen Materialismus und Sozialismus und der englischen Nationalökonomie) eine der drei Hauptquellen der von Karl Marx entwickelten politischen Ökonomie und des Historischen Materialismus.[80]
+
+„Ohne Vorausgang der deutschen Philosophie, namentlich Hegels, wäre der deutsche wissenschaftliche Sozialismus – der einzige wissenschaftliche Sozialismus, der je existiert hat – nie zustande gekommen.“
+
+– Wladimir Iljitsch Lenin[81]
+Vor allem die Auseinandersetzung mit Hegels Dialektik hat Marx’ Denken geprägt (Dialektik bei Marx und Engels). Besondere Bedeutung für Marx hat das Thema Herrschaft und Knechtschaft in der Phänomenologie des Geistes und das System der Bedürfnisse. Daran anknüpfend entwickelte Marx in Umstülpung des Idealismus Hegels seine materialistische Weltanschauung, wobei er jedoch an der von Hegel entwickelten dialektischen Methode festhielt. Fasziniert durch Ludwig Feuerbach ist Marx von der idealistischen Dialektik Hegels zum Materialismus übergegangen, der im Gegensatz zum Idealismus alle Ideen, Vorstellungen, Gedanken, Empfindungen usw. auf Entwicklungsweisen der Materie und auf materielle Praxis zurückführt.
+
+„Die Philosophen haben die Welt nur verschieden interpretiert; es kommt aber darauf an, sie zu verändern.“
+
+– Karl Marx[82]
+Marx stellt die hegelsche Dialektik „vom Kopf auf die Füße“: Denn er nimmt zum Ausgangspunkt, dass sich die objektive Wirklichkeit aus ihrer materiellen Existenz und deren Entwicklung erklären lässt, nicht etwa als Verwirklichung einer absoluten Idee oder als Produkt menschlichen Denkens. So richtet er seine Aufmerksamkeit nicht auf die Entfaltung der Idee, sondern auf die sogenannten „materiellen Verhältnisse“, die es in Form ökonomischer Gesetze zu erkennen, also bewusst zu machen gilt. Diese bestimmen die Gesellschaftsformationen in ihren wesentlichen Funktionen.
+
+„Es ist nicht das Bewusstsein der Menschen, das ihr Sein, sondern umgekehrt ihr gesellschaftliches Sein, das ihr Bewusstsein bestimmt.“
+
+– Karl Marx[83]
+Daraus wird eine umfassende Kritik an Religion, Recht und Moral abgeleitet. Letztere begreift Marx als Produkte der jeweiligen materiellen Verhältnisse, deren Wandel sie untergeordnet sind. Religion, Recht und Moral haben demnach nicht die universelle Gültigkeit, welchen Anspruch sie stets geltend machen. Marx versteht die im Idealismus bloß geistigen Gegensätze als Abbild und Ausdruck realer, materieller Gegensätze: Auch diese hängen gegenseitig voneinander ab und befinden sich in ständiger wechselseitiger Bewegung.
+
+Karl Popper
+Für Karl Popper ist für die Wahrheit einer Aussage ihre Herkunft, also wer sie behauptet, nicht ausschlaggebend; im Falle von Hegel machte er von dieser Regel jedoch eine Ausnahme.[84] Hegel verstoße mit seiner Dialektik in systematischer Absicht gegen den Satz vom ausgeschlossenen Widerspruch; durch diesen „doppelt verschanzten Dogmatismus“ sei eine rationale Auseinandersetzung mit seinen einzelnen Argumenten unmöglich.[85] Popper kritisiert derartige Regeln wie: Contra principia negantem disputari non potest als „Mythos des Rahmenwerks“; denn eine Argumentation zwischen unterschiedlichen Auffassungen sei grundsätzlich immer und über alles möglich. Doch das Aufwachsen in einer Tradition des Hegelianismus zerstöre Intelligenz und kritisches Denken.[86] Popper beruft sich sogar auf Marx, der mit den Mystifikationen der Hegelei scharf ins Gericht gegangen war. Hegel ist nach Popper sowohl Absolutist als auch Relativist; den Relativismus habe er auf die Wissenssoziologie vererbt. Poppers Kritik selbst war heftigen Angriffen ausgesetzt. So wurden ihm „ungenaues Lesen“,[87] „Totalitarismus“[88] und „Aussage(n), die an Verleumdung grenzen“[89] vorgeworfen. Popper betonte zwar in seinem Spätwerk, dass seine Theorie der Drei-Welten-Lehre viel mit Hegels Objektivem Geist „gemeinsam“ hätte, sich die Theorien aber „in einigen entscheidenden Punkten“ unterscheiden würden. Hegel lehnte laut Popper die bewusstseinsunabhängige platonische „Welt 3“ ab: „Er vermengte Denkprozesse und Gegenstände des Denkens. So schrieb er – was verheerende Folgen hatte – dem objektiven Geist Bewußtsein zu und vergöttlichte ihn.“[90] Popper äußerte später zwar so etwas wie Bedauern darüber, Hegel so hart beurteilt zu haben[91], blieb allerdings auch in seinem Spätwerk bei seiner „negativen Einstellung“ gegenüber Hegel[92] und hielt bis zu seinem Tode an seiner Fundamentalkritik an Hegel fest, die er vor allem im zweiten Band von Die offene Gesellschaft und ihre Feinde zum Ausdruck brachte.
+
+Bertrand Russell
+Bertrand Russell[93] bezeichnete Hegels Philosophie als „absurd“, seine Anhänger würden das jedoch nicht erkennen, weil Hegel sich so dunkel und verschwommen ausdrücke, dass man sie für tiefgründig halten müsse. Hegels Definition der „absoluten Idee“ fasst Russell zusammen als: „Die absolute Idee ist reines Denken über reines Denken.“
+
+Weiter kritisiert Russell, Hegel habe nicht begründet, warum die menschliche Geschichte dem rein logischen „dialektischen“ Prozess folge und warum dieser Prozess auf unseren Planeten und die überlieferte Geschichte beschränkt sei. Sowohl Karl Marx als auch die Nationalsozialisten hätten von Hegel den Glauben übernommen, die Geschichte sei ein logischer Prozess, der in ihrem Sinne wirke, und da man mit kosmischen Kräften im Bunde sei, sei gegen Gegner jedes Zwangsmittel recht. Eine starke Regierung könne laut Hegel, im Gegensatz zur Demokratie, die Menschen zwingen, für das Allgemeinwohl zu handeln.
+
+Weiterhin spottete Russell, Hegel sei überzeugt gewesen, der Philosoph in der Studierstube könne mehr von der wirklichen Welt wissen als der Politiker oder Naturwissenschaftler. Angeblich habe Hegel einen Beweis, dass es genau sieben Planeten geben müsse, eine Woche vor der Entdeckung des achten veröffentlicht. Hegel ist in seinen Vorlesungen über die Geschichte der Philosophie auch über zweihundert Jahre nach der Veröffentlichung der Streitschrift Discorso intorno all'opere di messer Gioseffo Zarlino („Abhandlung über die Werke des Herrn Gioseffo Zarlino“) vom Musiktheoretiker Vincenzo Galilei wie Zarlino fälschlich davon ausgegangen, dass die Legende von Pythagoras in der Schmiede physikalisch und historisch auf Wahrheiten beruhe.[94]
+
+Schriften
+Das zusammenfassende Werk des gesamten Systems Hegels ist die Enzyklopädie der philosophischen Wissenschaften (ab 1816). Daraus ergibt sich folgende Gliederung des systematischen Gesamtwerkes:
+
+I. Wissenschaft der Logik (1812–1816, überarbeitet 1831)
+
+II. Naturphilosophie
+
+III. Philosophie des Geistes
+
+Phänomenologie des Geistes (1806/07; ursprünglich als erster Teil eines unvollendeten früheren Systems)
+Grundlinien der Philosophie des Rechts (1821)
+Vorlesungen über die Philosophie der Geschichte (gehalten 1822–1831, aus Notizen und Mitschriften 1837 postum herausgegeben von Eduard Gans)
+Vorlesungen über die Philosophie der Religion (gehalten 1821–1831, aus Notizen und Mitschriften 1832 postum herausgegeben von Philipp Konrad Marheineke)
+Vorlesungen über die Ästhetik (gehalten 1820–1829, aus Notizen und Mitschriften 1835–1838 postum herausgegeben von Heinrich Gustav Hotho)
+Vorlesungen über die Geschichte der Philosophie (gehalten 1805/06 in Jena, 1816–1818 in Heidelberg und 1819–1831 in Berlin, aus Notizen und Mitschriften 1833–1836 postum herausgegeben von Karl Ludwig Michelet)
+Schriften außerhalb des Systems:
+
+Die Positivität der christlichen Religion (1795/96)
+Das älteste Systemprogramm des deutschen Idealismus (1796/97, fragmentarisch)
+Der Geist des Christentums und sein Schicksal (1799/1800)
+Die Verfassung Deutschlands (1800–1802)
+Mancherlei Formen die beim jetzigen Philosophieren vorkommen (1801)
+Die Differenz des Fichteschen und Schellingschen Systems der Philosophie (1801)
+Über das Wesen der philosophischen Kritik (1802)
+Wie der gemeine Menschenverstand die Philosophie nehme (1802)
+Verhältnis des Skeptizismus zur Philosophie (1802)
+Glauben und Wissen oder Reflexionsphilosophie der Subjektivität in der Vollständigkeit ihrer Formen als Kantische, Jacobische und Fichtesche Philosophie (1803)
+Über die wissenschaftlichen Behandlungsarten des Naturrechts (1803)
+Wer denkt abstrakt? (1807)
+Friedrich Heinrich Jacobis Werke (1817)
+Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816 (1817)
+Solgers nachgelassene Schriften und Briefwechsel (1828)
+Hamanns Schriften (1828)
+Über Grundlage, Gliederung und Zeitenfolge der Weltgeschichte. Von Joseph von Görres (1830)
+Über die englische Reformbill (1831)
+Ausgaben
+Einige der nach Hegels Tod in der ersten Werkausgabe von 1832–1845 erschienene „Werke“ waren von den Herausgebern stark überarbeitete Vorlesungsmitschriften und Notizen. Die „Akademieausgabe“ (ab 1968) veröffentlicht stattdessen die unbearbeiteten Vorlesungsmitschriften und Notizen, soweit sie erhalten sind.
+
+Werke. Vollständige Ausgabe durch einen Verein von Freunden des Verewigten. 18 Bände. Berlin 1832–1845.
+Sämtliche Werke. Jubiläumsausgabe in zwanzig Bänden. Neu herausgegeben von Hermann Glockner. Stuttgart 1927–1940; Nachdruck in 4. Auflage 1961–1968
+Sämtliche Werke. Herausgegeben von Georg Lasson, später von Johannes Hoffmeister, Leipzig 1911 ff. (unvollständig geblieben)
+Werke in 20 Bänden. Auf der Grundlage der Werke von 1832 bis 1845 neu ediert. Redaktion: Eva Moldenhauer, Karl Markus Michel. Suhrkamp, Frankfurt/M. 1969–1971
+Gesammelte Werke (Akademieausgabe; GW). Herausgegeben von der Rheinisch-Westfälischen Akademie der Wissenschaften. Meiner, Hamburg 1968
+Literatur
+Philosophiebibliographie: Georg Wilhelm Friedrich Hegel – Zusätzliche Literaturhinweise zum Thema
+
+Zum Gesamtwerk und zur Person
+Einführungen und Handbücher
+Paul Cobben u. a. (Hrsg.): Hegel-Lexikon. Wissenschaftliche Buchgesellschaft, Darmstadt 2006, ISBN 3-534-16895-X.
+Dina Emundts, Rolf-Peter Horstmann: G.W.F. Hegel. Eine Einführung (= Reclams Universal-Bibliothek 18167). Reclam, Stuttgart 2002, ISBN 3-15-018167-4.
+Hans Friedrich Fulda: Georg Wilhelm Friedrich Hegel. Beck, München 2003, ISBN 3-406-49445-5.
+Thomas Sören Hoffmann: Georg Wilhelm Friedrich Hegel. Eine Propädeutik. Marix, Wiesbaden 2004, ISBN 3-937715-01-0.
+Walter Jaeschke: Hegel-Handbuch. Leben – Werk – Wirkung. Metzler, Stuttgart 2003, ISBN 3-476-01705-2.
+Alexandre Kojève: Hegel. Eine Vergegenwärtigung seines Denkens. Suhrkamp, Frankfurt a. M. 1975, ISBN 3-518-27697-2.
+Georg Römpp: Hegel leicht gemacht. UTB, Stuttgart 2008, ISBN 3-412-20179-0.
+Herbert Schnädelbach: G.W.F. Hegel zur Einführung. 4, ergänzte Auflage, Junius, Hamburg 2011, ISBN 978-3-88506-352-0.
+Charles Taylor: Hegel (= Suhrkamp Taschenbuch Wissenschaft, Band 416). Suhrkamp, Frankfurt am Main 1983, ISBN=978-3-518-28016-4
+Dieter Henrich: Hegel im Kontext. Suhrkamp, Berlin 2010, ISBN 978-3-518-29538-0.
+Weiterführendes
+Nicolai Hartmann: Die Philosophie des deutschen Idealismus. De Gruyter, Berlin 1929 (Nachdruck 2010) ISBN 978-3-11-083038-5.
+Vittorio Hösle: Hegels System. Der Idealismus der Subjektivität und das Problem der Intersubjektivität. Meiner, Hamburg 1998, ISBN 3-7873-1336-2.
+Herbert Schnädelbach (Hrsg.): Hegels Philosophie. Kommentare zu den Hauptwerken. 3 Bände,[95] Suhrkamp, Frankfurt am Main 2000, ISBN 3-518-06587-4.
+Pirmin Stekeler-Weithofer: Philosophie des Selbstbewußtseins. Hegels System als Formanalyse von Wissen und Autonomie. Suhrkamp, Frankfurt am Main 2005, ISBN 3-518-29349-4.
+Biographien
+Karl Rosenkranz: Georg Wilhelm Friedrich Hegels Leben. Wissenschaftliche Buchgesellschaft, Darmstadt 1977 (Nachdruck der Ausgabe Berlin 1844)
+Kuno Fischer: Hegels Leben, Werke und Lehre. Kraus, Nendeln 1973 (Nachdruck der Ausgabe Berlin 1911)
+Franz Wiedmann: Hegel. 20. Auflage, Rowohlt, Reinbek 2003, ISBN 3-499-50110-4.
+Arseni Gulyga: Georg Wilhelm Friedrich Hegel. Reclam, Leipzig 1974
+Christoph Helferich: Georg Wilhelm Friedrich Hegel. Metzler, Stuttgart 1979
+Mechthild Lemcke, Christa Hackenesch (Hrsg.): Hegel in Tübingen. Konkursbuch, Tübingen 1986, ISBN 3-88769-021-4.
+Rezeption
+Christoph Halbig, Michael Quante, Ludwig Siep (Hrsg.): Hegels Erbe. Suhrkamp, Frankfurt am Main 2004, ISBN 3-518-29299-4.
+Zu Einzelaspekten der hegelschen Philosophie
+Logik
+Michael Theunissen, Sein und Schein: die kritische Funktion der Hegelschen Logik. Frankfurt am Main: Suhrkamp 1978 ISBN 3-518-07209-9.
+Pirmin Stekeler-Weithofer: Hegels Analytische Philosophie. Ein Kommentar zu Hegels „Logik der Wissenschaft“. Mentis, Paderborn 1992, ISBN 3-89785-025-7.
+Frank-Peter Hansen: G.W.F. Hegel: „Wissenschaft der Logik“. Ein Kommentar. Schöningh, Paderborn 1994
+Justus Hartnack: Hegels Logik. Eine Einführung. Lang, Frankfurt am Main 1995
+Klaus Hartmann: Hegels Logik. De Gruyter, Berlin 1999, ISBN 3-11-013763-1.
+Rainer Schäfer: Die Dialektik und ihre besonderen Formen in Hegels Logik. Meiner, Hamburg, 2001, ISBN 3-7873-1585-3.
+Anton Friedrich Koch, Friedrike Schick (Hrsg.): G.W.F. Hegel. Wissenschaft der Logik. Akademie Verlag, Berlin 2002, ISBN 3-05-003711-3.
+Andreas Roser: Ordnung und Chaos in Hegels Logik (= Wiener Arbeiten zur Philosophie. Band 19). 2 Teile. Lang, Frankfurt am Main 2009, ISBN 978-3-631-58109-4.
+Annette Sell: Der lebendige Begriff. Leben und Logik bei G.W.F. Hegel. 2. Auflage. Alber, Freiburg im Breisgau 2014, ISBN 978-3-495-48606-1.
+Naturphilosophie
+Stefan Gruner: Hegels Ätherlehre, VDM, 2010, ISBN 978-3-639-28451-5.
+Thomas Kalenberg: Die Befreiung der Natur. Natur und Selbstbewusstsein in der Philosophie Hegels. Meiner, Hamburg 1997, ISBN 3-7873-1347-8.
+Stascha Rohmer, Die Idee des Lebens. Zum Begriff der Grenze bei Hegel und Plessner. Alber, Freiburg/München 2016, ISBN 978-3-495-48768-6.
+Christian Spahn: Lebendiger Begriff – Begriffenes Leben. Zur Grundlegung der Philosophie des Organischen bei G.W.F. Hegel. Königshausen & Neumann, Würzburg 2007, ISBN 978-3-8260-3573-9.
+Ferdinand Tönnies, Hegels Naturrecht, [1932], in: Ferdinand Tönnies Gesamtausgabe, Band 22, Walter de Gruyter, Berlin/New York 1998, S. 247–265, ISBN 3-11-015348-3.
+Klaus Vieweg (Hrsg.): Hegels Jenaer Naturphilosophie, Reihe jena-sophia, Abteilung II (Studien), Band 1, Wilhelm Fink, 1998, ISBN 3-7705-3251-1.
+Dieter Wandschneider: Raum, Zeit, Relativität. Grundbestimmungen der Physik in der Perspektive der Hegelschen Naturphilosophie. Klostermann, Frankfurt am Main 1982, ISBN 3-465-01471-5.
+Dialektik
+Thomas Collmer: Hegels Dialektik der Negativität – Untersuchungen für eine selbst-kritische Theorie der Dialektik: „selbst“ als ‚absoluter‘ Formausdruck, Identitätskritik, Negationslehre, Zeichen und ‚Ansichsein’, Focus Verlag, Gießen 2002; ISBN 3-88349-501-8.
+Tilman Wegerhoff: Hegels Dialektik. Eine Theorie der positionalen Differenz. Vandenhoeck & Ruprecht, Göttingen 2008, ISBN 3-525-30161-8.
+Bernhard Lakebrink: Hegels dialektische Ontologie und die Thomistische Analektik, Köln 1955, 2. Auflage 1968
+Ästhetik
+Brigitte Hilmer: Scheinen des Begriffs. Hegels Logik der Kunst. Meiner, Hamburg 1997
+Annemarie Gethmann-Siefert: Einführung in Hegels Ästhetik. Fink/UTB, München 2005, ISBN 3-8252-2646-8.
+Chup Friemert: Hegel. Philosophie der Kunst. Bearbeitete Mitschriften. Materialverlag, Hamburg 2012, ISBN 978-3-938158-87-6.
+Romano Pocai: Philosophie, Kunst und Moderne. Überlegungen mit Hegel und Adorno, Berlin: Xenomoi Verlag 2014; ISBN 3-942106-20-5.
+Praktische Philosophie
+Dieter Wolf: Hegels Theorie der bürgerlichen Gesellschaft. Hamburg 1980
+Andreas Dorschel: Die idealistische Kritik des Willens: Versuch über die Theorie der praktischen Subjektivität bei Kant und Hegel (= Schriften zur Transzendentalphilosophie 10). Meiner, Hamburg 1992, ISBN 3-7873-1046-0.
+Christoph Binkelmann: Theorie der praktischen Freiheit. Fichte – Hegel. De Gruyter, Berlin 2007, ISBN 3-11-020098-8.
+Ina Schildbach: Armut als Unrecht. Zur Aktualität von Hegels Perspektive auf Selbstverwirklichung, Armut und Sozialstaat. Zugleich Dissertation Universität Erlangen 2017. Transcript, Bielefeld 2018, ISBN 978-3-8376-4443-2.
+Religionsphilosophie
+Walter Jaeschke: Die Religionsphilosophie Hegels. Wissenschaftliche Buchgesellschaft, Darmstadt 1983
+Herta Nagl-Docekal, Wolfgang Kaltenbacher, Ludwig Nagl (Hrsg.): Viele Religionen – eine Vernunft? Ein Disput zu Hegel (= Wiener Reihe. Themen der Philosophie, Band 14). Böhlau, Wien und Akademie Verlag, Berlin 2008, ISBN 978-3-05-004526-9.
+Geschichte der Philosophie
+Christoph Asmuth: Interpretation – Transformation. Das Platonbild bei Fichte, Schelling, Hegel, Schleiermacher und Schopenhauer und das Legitimationsproblem der Philosophiegeschichte. Vandenhoeck & Ruprecht, Göttingen 2006, ISBN 978-3-525-30152-4.
+Klaus Düsing: Hegel und die Geschichte der Philosophie. Ontologie und Dialektik in Antike und Neuzeit. Wissenschaftliche Buchgesellschaft, Darmstadt 1983
+Dietmar H. Heidemann, Christian Krijnen (Hrsg.): Hegel und die Geschichte der Philosophie. Wissenschaftliche Buchgesellschaft, Darmstadt 2007, ISBN 3-534-18560-9.
+Thomas Sören Hoffmann: Die absolute Form: Modalität, Individualität und das Prinzip der Philosophie nach Kant und Hegel. James Bennett Pty 1991, ISBN 978-3-11-012875-8.
+Zeitschriften
+Bulletin of the Hegel Society of Great Britain, 1980-2012
+Hegel-Archiv, 1912–1916
+Hegel Bulletin, seit 2013
+Hegel-Jahrbuch, seit 1961
+Hegel-Studien, seit 1965
+Jahrbuch für Hegelforschung, seit 1995
+Weblinks
+ Commons: Georg Wilhelm Friedrich Hegel – Sammlung von Bildern, Videos und Audiodateien
+ Wikisource: Georg Wilhelm Friedrich Hegel – Quellen und Volltexte
+ Wikiquote: Georg Wilhelm Friedrich Hegel – Zitate
+Lebensdaten, Publikationen und Akademischer Stammbaum von Georg Wilhelm Hegel bei academictree.org
+Primärtexte
+Werke von Georg Wilhelm Friedrich Hegel. Bei Zeno.org.
+Vom Hegel-Institut Berlin hrsg. Werke mit freiem Zugang zur Enzyklopädie der philosophischen Wissenschaften (mit mündlichen Zusätzen)
+Werke von Georg Wilhelm Friedrich Hegel im Project Gutenberg
+Werke von Georg Wilhelm Friedrich Hegel im Projekt Gutenberg-DE
+Scan von Hegels zu Lebzeiten erschienenen Büchern und die ersten zwei Auflagen der Hegelwerke als PDFs
+Hegel, Georg Wilhelm Friedrich: System der Wissenschaft. Erster Theil: Die Phänomenologie des Geistes. Bamberg u. a., 1807. Digitalisat und Volltext im Deutschen Textarchiv
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 1,1. Nürnberg, 1812. Digitalisat und Volltext im Deutschen Textarchiv
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 1,2. Nürnberg, 1813. Digitalisat und Volltext im Deutschen Textarchiv
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 2. Nürnberg, 1816. Digitalisat und Volltext im Deutschen Textarchiv
+Hegels Vorlesungen über die Ästhetik
+Hegel: Die lyrische Poesie, 1838; im Projekt „Lyriktheorie“
+Verzeichnis Digitalisierte Drucke online
+Sekundärtexte
+Paul Redding: Eintrag in Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.
+Johann Eduard Erdmann: Hegel, Georg Wilhelm Friedrich. In: Allgemeine Deutsche Biographie (ADB). Band 11, Duncker & Humblot, Leipzig 1880, S. 254–274.
+Iring Fetscher: Georg Wilhelm Friedrich Hegel. In: Neue Deutsche Biographie (NDB). Band 8, Duncker & Humblot, Berlin 1969, ISBN 3-428-00189-3, S. 207–222 (Digitalisat).
+Johann Eduard Erdmann: Geschichte der Philosophie der Neuzeit von Descartes bis ins 19. Jahrhundert, 1853.
+Andreas Arndt: Artikel „Georg Wilhelm Friedrich Hegel“ im UTB-Online-Wörterbuch Philosophie
+Überblick über Hegels System
+David A. Duquette: G.W.F. Hegel (1770–1831) – Social and Political Thought. In: Internet Encyclopedia of Philosophy.
+Hegel und Ceres
+Dieter Wolf: Hegels Theorie der bürgerlichen Gesellschaft. Eine materialistische Kritik Hamburg 1980 (PDF)
+Dieter Wolf: ('Hegel und Marx. Zur Bewegungsstruktur des absoluten Geistes und des Kapitals (PDF; 1374 kB). VSA Hamburg 1979)
+Dieter Wolf (2010): Ende oder Wendepunkt der Geschichte. Zur Einheit von Darstellung und Kritik bei Hegel und Marx. (PDF; 176 kB)
+Jean-Luc Gouin: Hegel ou de la Raison intégrale (integraler Grund). Suivi de « Aimer Penser Mourir. Hegel, Nietzsche, Freud en miroirs (H. N. F. in Spiegeln) », Montréal (Québec), Éditions Bellarmin, 2000. doi:10.1522/030141323
+„Hegel, Bildung, Wikipedia“ von Herbert Hrachovec (pdf) (139 kB)
+Paul Redding: Hegel’s Philosophy of Religion (Memento vom 13. Juni 2007 im Internet Archive), erscheint in: Graham Oppy / Nick Trakakis (Hgg.): History of Western Philosophy of Religion, Bd. 4: Nineteenth-Century Philosophy & Religion, Chesam: Acumen 2007.
+Stephen Houlgate: Hegel’s Aesthetics. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.
+Hermann Schmitz: Hegels Logik (PDF; 683 kB), Bouvier, Bonn 1992
+Foren und Gesellschaften
+Internationale Hegel-Gesellschaft
+Discussion, Interpretations and Questions about Hegel
+Hegel-Archiv der Ruhr-Universität Bochum
+Hegel Society of Great Britain
+The Hegel Society of America
+Hegel-Wiki und Hegel-Projekt von Kai Froeb
+Literaturverzeichnisse
+Literatur von und über Georg Wilhelm Friedrich Hegel im Katalog der Deutschen Nationalbibliothek
+Werke von und über Georg Wilhelm Friedrich Hegel in der Deutschen Digitalen Bibliothek
+Kommentierte Literaturhinweise aus „Kais Hegel-Werkstatt“
+Audios und Videos
+Mitschnitte zur Vorlesung „Hegel denken“ von Prof. Petra Gehring (WS 06/07) (Memento vom 11. Oktober 2010 im Internet Archive) (mp3)
+Einzelnachweise
+Hegel wird zitiert – sofern nicht anders angegeben – auf Grundlage der Theorie-Werkausgabe von Eva Moldenhauer und Karl Markus Michel, Suhrkamp, Frankfurt am Main 1979. Die Ergänzungen „A“ bzw. „Z“ beziehen sich auf den Anmerkungs- bzw. Zusatzteil der entsprechenden Textstelle.
+
+Abkürzung	Band	Werk
+FS	1	Frühe Schriften
+JS	2	Jenaer Schriften
+PG	3	Phänomenologie des Geistes
+NS	4	Nürnberger und Heidelberger Schriften
+L I	5	Wissenschaft der Logik I
+L II	6	Wissenschaft der Logik II
+R	7	Grundlinien der Philosophie des Rechts
+E I	8	Enzyklopädie der philosophischen Wissenschaften I
+E II	9	Enzyklopädie der philosophischen Wissenschaften II
+E III	10	Enzyklopädie der philosophischen Wissenschaften III
+BS	11	Berliner Schriften 1818–1831
+PGh	12	Vorlesungen über die Philosophie der Geschichte
+Ä I	13	Vorlesungen über die Ästhetik I
+Ä II	14	Vorlesungen über die Ästhetik II
+Ä III	15	Vorlesungen über die Ästhetik III
+Rel I	16	Vorlesungen über die Philosophie der Religion I
+Rel II	17	Vorlesungen über die Philosophie der Religion II
+GP I	18	Vorlesungen über die Geschichte der Philosophie I
+GP II	19	Vorlesungen über die Geschichte der Philosophie II
+GP III	20	Vorlesungen über die Geschichte der Philosophie III
+ Vgl. Johannes Hirschberger: Geschichte der Philosophie. Band 2, S. 798. In: Bertram, M. (Hrsg.). Digitale Bibliothek Band 3: Geschichte der Philosophie. Directmedia, Berlin 2000. S. 10521.
+ Walter Jaeschke: Hegel-Handbuch, Stuttgart 2003, S. 1 f.
+ Dietrich von Engelhardt: Hegel, Georg Wilhelm Friedrich. In: Werner E. Gerabek, Bernhard D. Haage, Gundolf Keil, Wolfgang Wegner (Hrsg.): Enzyklopädie Medizingeschichte. De Gruyter, Berlin/New York 2005, ISBN 3-11-015714-4, S. 544 f.; hier: S. 544.
+ Rückblick seines ehemaligen Mitstudenten Christian Philipp Friedrich Leutwein.
+ Vgl. Ferdinand Tönnies, Hegels Naturrecht, [1932], in: Ferdinand Tönnies Gesamtausgabe, Band 22, Berlin/New York 1998, S. 247–265.
+ Georg Wilhelm Friedrich Hegel: Dissertatio Philosophica de orbitis planetarum. Philosophische Erörterung über die Planetenbahnen. Übersetzt, eingeleitet u. kommentiert v. W. Neuser. Weinheim 1986.
+ E. Craig, M. Hoskin, Hegel and the seven planets, Journal of the History of Astronomy, Band 23, 1992, S. XXIII, Online
+ Dieter B. Herrmann, Hegels Dissertation und die Siebenzahl der Planeten, Sterne und Weltraum. Kontroversen und Legenden um einen vermeintlichen Irrtum. Sterne und Weltraum, Band 31, 1992, S. 688–691
+ Zitiert nach Walter Jaeschke, Hegel Handbuch, Leben – Werk – Wirken, Stuttgart 2003, S. 24.
+ Vgl. P. Prechtl (Hg.): Philosophie, Stuttgart 2005, S. 218.
+ Anton Hügli und Poul Lübcke (Hrsg.): Philosophie-Lexikon, Rowohlt Taschenbuch Verlag, 4. Aufl. 2001 Hamburg, S. 259.
+ Vgl. dazu Helmut Neuhaus: Im Schatten des Vaters. Der Historiker Karl Hegel (1813–1901) und die Geschichtswissenschaft im 19. Jahrhundert. In: Historische Zeitschrift, Bd. 286 (2008), S. 63–89, Marion Kreis: Karl Hegel. Geschichtswissenschaftliche Bedeutung und wissenschaftsgeschichtlicher Standort (= Schriftenreihe der Historischen Kommission bei der Bayerischen Akademie der Wissenschaften. Bd. 84). Vandenhoeck & Ruprecht, Göttingen u. a. 2012, besonders S. 25–95 sowie Helmut Neuhaus (Hrsg.): Karl Hegel – Historiker im 19. Jahrhundert. Unter Mitarbeit von Katja Dotzler, Christoph Hübner, Thomas Joswiak, Marion Kreis, Bruno Kuntke, Jörg Sandreuther und Christian Schöffel (= Erlanger Studien zur Geschichte. Band 7). Palm und Enke, Erlangen u. a. 2001, vor allem S. 23–40.
+ Ebd.
+ Vgl. dazu zuletzt Marion Kreis: Karl Hegel. Geschichtswissenschaftliche Bedeutung und wissenschaftsgeschichtlicher Standort (= Schriftenreihe der Historischen Kommission bei der Bayerischen Akademie der Wissenschaften. Bd. 84). Vandenhoeck & Ruprecht, Göttingen u. a. 2012, ISBN 978-3-525-36077-4. (Vgl. dazu E-Book und Leseprobe)
+ Marion Kreis: Karl Hegel. Geschichtswissenschaftliche Bedeutung und wissenschaftsgeschichtlicher Standort (= Schriftenreihe der Historischen Kommission bei der Bayerischen Akademie der Wissenschaften. Bd. 84). Vandenhoeck & Ruprecht, Göttingen u. a. 2012, S. 43–50.
+ Werner Kraft: Zeit aus den Fugen. Aufzeichnungen. S. Fischer Verlag, Frankfurt am Main 1968, S. 191–198, hier S. 194 f.
+ Werner Kraft, Zeit aus den Fugen, S. 191 f.
+ Werner Kraft, Zeit aus den Fugen, S. 197.
+ Detlef Berentzen: Hegel – Der Philosoph als Erzieher (PDF; 140 kB), Sendung des SWR2 vom 20. Mai 2011, Sendemanuskript S. 8, abgerufen am 22. April 2013.
+ Vgl. Wiedmann, Franz (1965): Hegel. Hamburg. S. 45 f.
+ hu-berlin.de
+ Frankfurter Allgemeine Zeitung, 3. März 2006, S. 37.
+ So das „Philosophie-Lexikon“, herausgegeben von Anton Hügli und Poul Lübcke, 4. Aufl. 2001, Rowohlt Taschenbuch Verlag, Hamburg, S. 259.
+ Eine ähnliche Meinung vertritt z. B. Holger Althaus, „Hegel und Die heroischen Jahre der Philosophie“. München: Carl Hanser Verlag, ISBN 3-446-16556-8, S. 579-581. Demzufolge starb Hegel an einem akuten Ausbruch einer chronischen Magenerkrankung.
+ Zur Reaktion der Familie auf seinen Tod vgl. vor allem Helmut Neuhaus (Hrsg.): Karl Hegel – Historiker im 19. Jahrhundert. Unter Mitarbeit von Katja Dotzler, Christoph Hübner, Thomas Joswiak, Marion Kreis, Bruno Kuntke, Jörg Sandreuther und Christian Schöffel (= Erlanger Studien zur Geschichte. Band 7). Palm und Enke, Erlangen u. a. 2001, ISBN 3-7896-0660-X, S. 23–40.
+ Friedrich Engels: „Schelling und die Offenbarung“. MEW, EB2, S. 177.
+ The Times vom 24. Dezember 1838, S. 4. Die erwähnte Zeitschrift wird hier Son of the Country genannt und war möglicherweise in englischer Sprache verfasst.
+ Zur Gliederung vgl. Paul Cobben (Hg.): Hegel-Lexikon, S. 7 f.
+ Vgl. Dina Emundts, Rolf-Peter Horstmann: G.W.F. Hegel. Eine Einführung, S. 16–19.
+ Kant, Ausgabe der Preußischen Akademie der Wissenschaften, Berlin 1900 ff., AA III, 265.
+ Herbert Schnädelbach: Hegel zur Einführung. Junius Verlag, Hamburg, 1. Aufl. 1999, S. 85.
+ Taylor, Charles: Hegel. Suhrkamp 1978, S. 156.
+ B. Greuter: Hegels Philosophie als Denken des Begriffs in seiner Entwicklung
+ Historisches Wörterbuch der Philosophie, Philosophie. Bd. 7, S. 718.
+ Vgl. Hartnack: Hegels Logik, S. 31 f.
+ Zum folgenden vgl. Jaeschke: Hegel-Handbuch, S. 238 ff.
+ Hartnack: Hegels Logik. Eine Einführung, S. 86.
+ Zum folgenden vgl. Dieter Wandschneider: Die Stellung der Natur im Gesamtentwurf der hegelschen Philosophie, in Michael John Petry (Hg.): Hegel und die Naturwissenschaften, frommann-holzboog 1987, S. 33–64.
+ Wandschneider: Die Stellung der Natur im Gesamtentwurf der hegelschen Philosophie, S. 43.
+ Wandschneider: Hegels naturontologischer Entwurf – heute, Hegel Studien 36 (2001), S. 160.
+ Vgl. Jaeschke: Hegel-Handbuch, S. 336.
+ Hegel: Vorlesungen: Ausgewählte Nachschriften und Manuskripte, Bd. 16, S. 205.
+ Stefan Gruner: Hegels Ätherlehre. VDM Verlag, Saarbrücken 2010, ISBN 978-3-639-28451-5.
+ Enzyklopädie der philosophischen Wissenschaften im Grundrisse (1817) § 291.
+ „Das kranke Subjekt kommt daher und steht nach diesem Zustande unter der Macht eines anderen, des Magnetiseurs, so daß in diesem psychischen Zusammenhange beider das selbstlose, nicht als persönlich wirkliche Individuum zu seinem subjektiven Bewußtsein das Bewußtsein jenes besonnenen Individuums hat, daß dies andere dessen gegenwärtige subjektive Seele, dessen Genius ist, der es auch mit Inhalt erfüllen kann.“(E III 136)
+ Dirk Stederoth: Hegels Philosophie des subjektiven Geistes, Akademie-Verlag, Berlin 2001, S. 252 (google books)
+ Hegel: Vorlesungen: Ausgewählte Nachschriften und Manuskripte, Bd. 1, S. 6
+ Vgl. Hösle, Hegels System, S. 513.
+ Hegel: Vorlesungen über die Rechtsphilosophie, Bd. 3, S. 378.
+ Hegel: Jenaer Schriften, S. 304
+ Hösle: Hegels System, S. 536.
+ Manfred Riedel: Bürgerliche Gesellschaft und Staat. Neuwied/Berlin 1970, S. 67. Ähnlich argumentieren Herbert Marcuse (Vernunft und Revolution. Hegel und die Entstehung der Gesellschaftstheorie. Darmstadt/Neuwied 1976) und George Lukács (Der junge Hegel und die Probleme der kapitalistischen Gesellschaft. Berlin 1986 [1948])
+ Hegel: Vorlesungen über Rechtsphilosophie. Hrsg. von K.-H. Ilting. Bd. 3. Stuttgart-Bad Cannstatt 1974, S. 567.
+ Philipp Erbentraut: Ein kritischer Freund der Parteien. Hegels Auffassung der politischen Partei war differenzierter als bislang angenommen, in: Hegel-Studien 48 (2014), S. 95–123.
+ Vgl. z. B. Hubert Kieswetter: Von Hegel zu Hitler, Hamburg 1974.
+ Hegel: Vorlesungen über die Philosophie der Weltgeschichte, Ausgabe Felix Meiner (blaue Reihe)
+ Hegel G.W.F.; Vorlesungen über die Philosophie der Weltgeschichte, Band II, Meiner 1919, S. 416.
+ Hegel: Vorlesungen. Ausgewählte Manuskripte und Nachschriften, hg. v. Walter Jaeschke, Bd. 5: Über die Philosophie der Religion, S. 268.
+ Hegel: Vorlesungen: Ausgewählte Nachschriften und Manuskripte, Bd. 6, S. 14.
+ Heinz Dieter Kittsteiner: Deutscher Idealismus. In: Etienne François, Hagen Schulze (Hrsg.): Deutsche Erinnerungsorte. Band 1. C. H. Beck, München 2009, ISBN 978-3-406-59141-9, S. 175 (eingeschränkte Vorschau in der Google-Buchsuche).
+ So von Rudolf Haym: Hegel und seine Zeit. Vorlesungen über Entstehung und Entwicklung, Wesen und Werth der Hegel’schen Philosophie. Berlin 1857; zu Rosenzweigs Abkehr vom Hegelianismus nach dem Erste-Weltkrieg-Erleben vgl. Paul-Laurent Assoun: Vorwort zu Franz Rosenzweig: Hegel et l’État. Presses Universitaires de France, Paris 1991, ISBN 2-13-043504-1; zuerst: München 1920.
+ Walter Jaeschke: Hegel-Handbuch. Stuttgart 2003, S. 46.
+ Reinhold Schneider: Die Heimkehr des deutschen Geistes. Über das Bild Christi in der deutschen Philosophie des 19. Jahrhunderts, Verlag Hans Bühler jr., Baden-Baden 1946 (Memento vom 20. März 2014 im Internet Archive).
+ Herbert Marcuse: Vernunft und Revolution. Schriften, Bd. 4. Suhrkamp Frankfurt/M. 1. Aufl. 1989, S. 344 ff.
+ Herbert Marcuse: Vernunft und Revolution. Schriften, Bd. 4. Suhrkamp Frankfurt/M. 1. Aufl. 1989, S. 354 ff.
+ Ein anderes Geschichtsbild und eine andere Abstammungslinie werden aufgestellt von Hubert Kiesewetter: Von Hegel zu Hitler. Eine Analyse der hegelschen Machtstaatsideologie und der politischen Wirkungsgeschichte des Rechtshegelianismus. Mit einem Vorwort von Ernst Topitsch, Hamburg 1974.
+ Helmut Schelsky: Ortsbestimmung der deutschen Soziologie. Köln 3. Aufl. 1967 (zuerst 1959), S. 12.
+ Herbert Marcuse: Vernunft und Revolution. Schriften, Bd. 4. Suhrkamp Frankfurt/M. 1. Aufl. 1989, S. 330 ff.
+ Kurt Lenk: Marx in der Wissenssoziologie. Studien zur Rezeption der Marxschen Ideologiekritik. Neuwied Berlin 1972.
+ Walter Kaufmann: Tragödie und Philosophie. J.C.B. Mohr (Paul Siebeck) Tübingen 1980, S. 100. ISBN 3-16-942682-6 (zuerst New York 1969)
+ Walter Kaufmann: Tragödie und Philosophie. J.C.B. Mohr (Paul Siebeck) Tübingen 1980, S. 223. ISBN 3-16-942682-6 (zuerst New York 1969)
+ Eduard Hanslick: Vom Musikalisch-Schönen – Ein Beitrag zur Revision der Ästhetik der Tonkunst. Kapitel III: Das Musikalisch-Schöne. Seite 49, Breitkopf und Härtel, Leipzig, 13. bis 15. Auflage (1922), 1. Auflage von 1851.
+ Manfred Pascher: Einführung in den Neukantianismus. München 1997. UTB 1962.
+ Renate Wahsner: Zur Kritik der Hegelschen Naturphilosophie. Über ihren Sinn im Lichte der heutigen Naturerkenntnis. Frankfurt 1996; Horst-Heino v. Borzeszkowski, Renate Wahsner: Physikalischer Dualismus und dialektischer Widerspruch. Studien zum physikalischen Bewegungsbegriff. Darmstadt 1989; D. Lamb (ed.): Hegel and Modern Science. Manchester 1987.
+ Georg Klaus: Rationalität – Integration – Information. VEB Dt. Verlag der Wissenschaften, Berlin 1974, S. 42.
+ Matthias Jacob Schleiden: Schellings und Hegels Verhältnis zur Naturwissenschaft: Zum Verhältnis der physikalistischen Naturwissenschaft zur spekulativen Naturphilosophie. 1844; Nachdrucke u. a. Severus-Verlag 2012, ISBN 978-3-86347-298-6).
+ Hegel: Enzyklopädie der philosophischen Wissenschaften, S. 573.
+ Matthias Jacob Schleiden: Schellings und Hegels Verhältnis zur Naturwissenschaft: Zum Verhältnis der physikalistischen Naturwissenschaft zur spekulativen Naturphilosophie, 1844, S. 60 f. Alle Zitate in Original-Orthographie. Das „(!)“ im Hegel-Zitat ist von Schleiden.
+ Wolfgang Neuser: Die Erkenntnismethode der mathematischen Naturphilosophie. Schleidens Kritik an Schellings und Hegels Verhältnis zur Naturwissenschaft. In: Neuser, Wolfgang: Natur und Begriff. Studien zur Theoriekonstitution und Begriffsgeschichte von Newton bis Hegel. Verlag J.B. Metzler, Stuttgart/Weimar 1995, ISBN 3-476-01281-6; Neuauflage: Natur und Begriff. Studien zur Theoriekonstitution und Begriffsgeschichte von Newton bis Hegel. 2. Auflage, Springer Verlag, Wiesbaden 2017, ISBN 978-3-658-15142-3, S. 200; Walentin Kanawrow: Schleidens Kritik der Schellingschen und Hegelschen Naturphilosophie. Warum entfremden sich Philosophie und Naturphilosophie immer weiter? Forschungsschwerpunkt Wissenschaftsgeschichte und Wissenschaftstheorie der Förderungsgesellschaft Wissenschaftliche Neuvorhaben mbH, München 1995.
+ Lenin: Drei Quellen und drei Bestandteile des Marxismus., März 1913.
+ Lenin: Was tun? Brennende Fragen unserer Bewegung., Berlin 1962, S. 57.
+ Karl Marx: Thesen über Feuerbach. In: Marx-Engels-Werke, Band 3, Dietz Verlag, Berlin 1969, S. 533 ff. (Digitalisat).
+ Karl Marx: Zur Kritik der Politischen Ökonomie (Vorwort). Zitiert nach: Marx-Engels-Werke, Band 13, Dietz Verlag, Berlin 1961, S. 9 ff. (Digitalisat).
+ „Nun glaube ich nicht, dass die Klassifikation eines Werkes als einer bestimmten Schule zugehörig schon seine Erledigung bedeutet; im Falle des hegelschen Historizismus scheint mir aber dieses Vorgehen erlaubt zu sein; die Gründe dafür werden im zweiten Band dieses Werkes diskutiert werden.“ (Karl R. Popper: Die offene Gesellschaft und ihre Feinde. Bd1: Der Zauber Platons. München 6. Aufl. 1980, zuerst: 1944, S. 285)
+ Karl Popper: Was ist Dialektik? (PDF; 325 kB), in: Ernst Topitsch (Hrsg.): Logik der Sozialwissenschaften, Band 5, 1958, S. 262–290.
+ Karl Popper: The Myth of the Framework. London New York 1994, S. 70.
+ Edna Kryger: Das System der Dialektik bei Hegel (laut Kojeve und Popper) (PDF; 3,5 MB), in: Hegel-Jahrbuch, 1972, S. 162.
+ Reinhart Maurer: Popper und die totalitäre Demokratie (PDF; 907 kB), in: Der Staat, Berlin 1964, S. 477.
+ Walter Kaufmann: Hegel – Legende und Wirklichkeit (PDF; 2,2 MB). in: Zeitschrift für philosophische Forschung 10, 1956, S. 191.
+ Karl R. Popper: Objektive Erkenntnis (1. Auflage, Hoffmann und Campe, 1993. Original 1973), S. 110 und S. 159.
+ Joseph Agassi: A Philosopher’s Apprentice (1993), S. 185.
+ Karl R. Popper: Objektive Erkenntnis (1. Auflage, Hoffmann und Campe, 1993. Original 1973), S. 109.
+ Bertrand Russell: Unpopular Essays. George Allen & Unwin, London, 1950. Kapitel 1: Philosophy and Politics und Kapitel 4: Philosophy’s Ulterior Motives.
+ Werner Keil: Basistexte Musikästhetik und Musiktheorie, Basiswissen Musik, Band 8359, UTB, Paderborn (2007), S. 343, ISBN 978-3-8252-8359-9.
+ Der zweite Band ist im Urteil von Jürgen Habermas eines der wichtigsten Werke seit 1950 leiterreports.typepad.com.
+Normdaten (Person): GND: 118547739 | LCCN: n79021767 | NDL: 00442872 | VIAF: 89774942 | Wikipedia-Personensuche
+Kategorien: Philosoph (19. Jahrhundert)Vertreter des Deutschen IdealismusPolitischer PhilosophRechtsphilosoph (19. Jahrhundert)ErkenntnistheoretikerPädagoge (19. Jahrhundert)Hochschullehrer (Friedrich-Schiller-Universität Jena)Hochschullehrer (Humboldt-Universität zu Berlin)Rektor (Humboldt-Universität zu Berlin)Georg Wilhelm Friedrich HegelGeschichtsphilosophPhilosophiehistorikerReichspublizistikSachliteratur (Philosophie)Schulleiter am Melanchthon-Gymnasium NürnbergPerson (Stuttgart)Person (Württemberg bis 1803)Namensgeber für einen AsteroidenDeutscherGeboren 1770Gestorben 1831MannÄsthetikerTräger des Roten Adlerordens 3. KlasseEhrengrab in BerlinAutor
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+Wikiquote
+Wikisource
+
+In anderen Sprachen
+Беларуская
+English
+हिन्दी
+Lietuvių
+Polski
+Русский
+Українська
+اردو
+中文
+105 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 18. März 2019 um 19:14 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki

@@ -1,0 +1,162 @@
+
+Verwaltung
+Zur Navigation springenZur Suche springen
+	Dieser Artikel behandelt die Administrationsorganisation. Zur Fachzeitschrift für Verwaltungsrecht und Verwaltungswissenschaft siehe Die Verwaltung.
+Unter Verwaltung versteht man allgemein administrative Tätigkeiten, die mit der Besorgung eigener oder fremder Angelegenheiten zusammenhängen und meist in einem institutionellen Rahmen wie Behörden, öffentlichen Einrichtungen, Unternehmen oder sonstigen Personenvereinigungen stattfinden.
+
+
+Inhaltsverzeichnis
+1	Allgemeines
+2	Soziologische Grundlagen
+3	Öffentliche Verwaltung
+4	Unternehmen
+4.1	Immobilienverwaltung
+4.1.1	Mietobjekte
+4.1.2	Wohnungseigentum
+4.1.3	Gewerbliche Objekte
+4.2	Vermögensverwaltung
+5	Datenverwaltung
+6	DDR-Verwaltung
+6.1	Nationale Volksarmee
+6.2	Ministerium für Staatssicherheit
+7	Sonstige Verwaltungstätigkeiten
+8	Siehe auch
+9	Literatur
+10	Weblinks
+11	Einzelnachweise
+Allgemeines
+Der Begriff der Verwaltung wird in vielen Fachgebieten uneinheitlich verwendet, so dass eine Trennung in öffentliche Verwaltung und private Verwaltung sinnvoll erscheint.[1] Die öffentliche Verwaltung kann in der Form des öffentlichen Rechts handeln, dann liegt hoheitliche Verwaltung vor. Handelt sie im Privatrecht, spricht man von fiskalischer Verwaltung.[2] Hartmut Maurer definiert die öffentliche Verwaltung als die am öffentlichen Interesse orientierte, aus gesetzlicher und Eigeninitiative erfolgende, zukunftsgerichtete und überwiegend einzelfallorientierte Sozialgestaltung.[3] Meist wird mit dem Begriff Verwaltung die öffentliche Verwaltung assoziiert, deren Haupttätigkeit in der Besorgung fremder Angelegenheiten besteht. Bei Unternehmen dagegen nimmt die Verwaltung Querschnitts- oder Servicefunktionen wahr und besorgt weitgehend eigene Angelegenheiten des Unternehmens. Der Auftrag des organisierten Verwaltens besteht aus einem Aufgabenkomplex, der das zeitnahe, aufgabenbezogene Erfassen, Betreuen, Leiten, Lenken und das Verantworten dynamischer Systeme nach stabilen Vorschriften verwirklicht. In diesem Sinne betreiben alle bürokratisch strukturierten Betriebe in Politik, Religion, Wirtschaft und Kultur Verwaltungen. Die Wissenschaft, welche sich interdisziplinär mit der Verwaltung als Erkenntnisobjekt auseinandersetzt, ist die Verwaltungswissenschaft.
+
+Soziologische Grundlagen
+Der kulturelle Stil einer Verwaltung hängt von ihrer Spitze und im weiteren Sinne vom jeweiligen Staat und dessen Gesellschaft ab. So hatten und haben die Höfe von Monarchien (wenn es Erbmonarchien sind) oft Erbämter. Kirchenverwaltungen setzten oft die Priesterweihe voraus. Der Eintritt in die Verwaltung des chinesischen Kaiserreiches war nur nach schwierigen (auch literarischen und kalligraphischen) Prüfungen möglich. Während der Aufklärung (z. B. in Frankreich, im Rheinland, in Bayern, Preußen und Württemberg) wurden eigene Stile der „rationalen“ Verwaltung geschaffen. Diktaturen bevorzugen Verwaltungen mit weitgehenden Kontrollaufgaben („Kaderverwaltung“) zum Machterhalt und gefügigem Personal.
+
+Fachverwaltungen – etwa eines Krankenhauses oder das Inspektorensystem einer Gutsverwaltung – setzen stets auch speziell geschultes Personal (Sachbearbeiter) voraus.
+
+Öffentliche Verwaltung
+→ Hauptartikel: Öffentliche Verwaltung
+Die öffentliche Verwaltung umfasst alle Tätigkeiten, die der Staat oder ein anderes öffentlich-rechtliches Gemeinwesen zur Erreichung seiner Zwecke unter eigener Rechtsordnung entfaltet und die weder Gesetzgebung (Legislative) noch Rechtsprechung (Judikative) oder Regierung (Gubernative) sind.[4] Deshalb ist die Regierungstätigkeit (Regierungsgewalt) nicht Teil der Verwaltung im engeren Sinn. Übrig bleibt mithin aus der Gewaltenteilung die mit Verwaltungsaufgaben betraute Exekutive, deren Verwaltungshandeln vor allem durch Behörden oder sonstige öffentliche Einrichtungen zum Ausdruck kommt. Das Verwaltungsverfahrensgesetz (VwVfG) definiert die Behörde als eine Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt (§ 1 Abs. 4 VwVfG). Das Verwaltungsverfahren ist die nach außen wirkende Tätigkeit der Behörden, die auf die Prüfung der Voraussetzungen, die Vorbereitung und den Erlass eines Verwaltungsaktes oder auf den Abschluss eines öffentlich-rechtlichen Vertrags gerichtet ist; es schließt den Erlass des Verwaltungsaktes oder den Abschluss des öffentlich-rechtlichen Vertrags ein (§ 9 VwVfG). Die Handlungsformen der Verwaltung umfassen (sichtbare) Verwaltungsleistungen, indem die Verwaltung Zahlungen leistet, Warnungen, Sanktionen, Verbote oder Genehmigungen ausspricht oder Rechtsnormen setzt.[5]
+
+Selbstverwaltung liegt vor, wenn staatliche Verwaltungsaufgaben an rechtlich verselbständigte Organisationen (juristische Person des öffentlichen Rechts) übertragen werden. Diese Selbstverwaltung besteht auf Bundesebene (Bundeseigenverwaltung, Bundeswehrverwaltung), bei den Ländern (Landesverwaltung) und bei Gemeinden (Kommunalverwaltung). Die Verwaltungskompetenz dieser Verwaltungsträger besteht darin, dass die Verwaltung als Exekutive die ihr vorgegebenen Gesetze durch Verwaltungshandeln ausführt.
+
+Verwaltung ist ein unerlässlicher Bestandteil der gewaltenteiligen Organisation des modernen Verfassungsstaates (Konstitutionalismus). Die Verwaltung ist im Rechtsstaat in ihrer Tätigkeit an Recht und Gesetz gebunden (vgl. Art. 1 Abs. 3 Grundgesetz). Hauptproblem für erfolgreiches Verwaltungshandeln ist die Vielzahl an Zielen, die Verwaltungshandeln gleichzeitig erfüllen soll (Zielkonflikte). Verwaltung sieht sich einer Reihe von Dilemmata gegenüber, wie etwa dem von geforderter Beteiligungsoffenheit und Effizienz, die nicht durch die Verwaltung, sondern nur durch politische Entscheidungen bearbeitbar sind.
+
+Unter Frequenzverwaltung versteht man jede staatliche Dienststelle (Hoheitsträger), die für die Maßnahmen zur Erfüllung der Verpflichtungen aus der Konstitution und Konvention der Internationalen Fernmeldeunion (ITU) sowie dem Internationalen Fernmeldevertrag und den Vollzugsordnungen für den Funkdienst (VO-Funk) verantwortlich ist.
+
+Zentraler Inhalt der Verwaltung des Staatsgebietes ist die innerstaatliche Verwaltungsgliederung, die Umfang und Kompetenz der Gebietskörperschaften umfasst. Daneben ist die Verwaltung von Grund und Boden als privates, rechtspersönliches oder öffentliches Eigentum im Kataster und Grundbuch geregelt.
+
+Unternehmen
+Die privatwirtschaftliche Verwaltung ist ein Teil der Aufbauorganisation von Unternehmen oder sonstigen Personenvereinigungen. Die Verwaltung stellt in Unternehmen eine Querschnitts- oder Servicefunktion innerhalb der betrieblichen Funktionen dar, wobei die funktionale Tätigkeit einer Verwaltungsabteilung ein Arbeitsgebiet mit sämtlichen Aufgaben umfasst, die anderen betrieblichen Funktionen nicht sachgerecht zugeordnet werden können. Diese Verwaltungsaufgaben sind meist einer Abteilung, der Verwaltungsabteilung, übertragen. Sie ist eine Dienstleistungsstelle, die zentrale Unterstützungsaufgaben für alle Leitungsstellen im Unternehmen wahrnimmt. Zu den Verwaltungsaufgaben gehören im Regelfall alle Aufgaben, die meist nicht als betriebstypisch anzusehen und in allen Wirtschaftszweigen anzutreffen sind wie Archiv, Druckerei, Empfang, Fuhrparkmanagement, Kantine, Materialverwaltung (Beschaffung von Arbeitsmitteln wie Büromaterial, Maschinen), Personalverwaltung des gewerblichen Personals (Hausmeister, Haustechniker, Reinigungskräfte) oder Poststelle (Posteingang, Postverteilung, Postausgang). Die Verwaltung ist in der Kostenstellenrechnung eine Hilfskostenstelle, die Verwaltungskosten verursacht.
+
+Einige Unternehmen nehmen als Betriebszweck bestimmte Verwaltungstätigkeiten für ihre Kunden wahr und bieten als Dienstleistung beispielsweise Immobilienverwaltung oder Vermögensverwaltung an. Sie besorgen in diesem Fall überwiegend Verwaltungstätigkeiten für fremde Angelegenheiten.
+
+Immobilienverwaltung
+Mietobjekte
+→ Hauptartikel: Hausverwaltung
+Die Hausverwaltung ist zumeist ein Unternehmen, das Verwaltungsaufgaben wie Abwicklung des Zahlungsverkehrs, Kontakt zu Mietern, Service und Erhaltung einer Immobilie im Auftrag des Eigentümers ausführt.
+
+Wohnungseigentum
+→ Hauptartikel: Wohnungseigentumsverwaltung
+Die Wohnungseigentumsverwaltung ist einerseits eine Aufgabe (die Verwaltung des gemeinschaftlichen Eigentums), zum anderen ein Organ, welches die vorgenannte Aufgabe erfüllt. Sie unterliegt dem Wohnungseigentumsgesetz und besorgt sämtliche zur ordnungsgemäßen Bewirtschaftung der Immobilie erforderlichen Geschäfte, die aber nur das gemeinschaftliche Eigentum umfassen dürfen. Darunter fallen z. B. Abschluss von Versicherungsverträgen, Wartungsverträge, Energieeinkauf und Besorgung von Hausmeisterpersonal. Im Rahmen der ordnungsgemäßen Verwaltung werden zudem ein jährlicher Wirtschaftsplan und die Jahresabrechnung erstellt und zumindest einmal jährlich eine Eigentümerversammlung einberufen.
+
+Die Vorschriften für eine Hausverwaltung werden durch den oder die Eigentümer, Gesetze und andere Vertragspartner (Hausmeister, Müllabfuhr, Wartungsunternehmen usw.) vorgegeben.
+
+Gewerbliche Objekte
+→ Hauptartikel: Facilitymanagement
+Ab einer bestimmten Komplexität werden Gewerbeimmobilien nicht mehr durch Hausverwaltungen betreut, sondern durch ein Facilitymanagement, worunter die Verwaltung und Bewirtschaftung von Gebäuden, Anlagen und Einrichtungen verstanden wird (englisch facilities). Dieser Begriff ist durch Aufnahme in die DIN EN 15221-1 auch zur Verwendung im Deutschen genormt. Das Facilitymanagement umfasst die professionelle Abwicklung von technischen, infrastrukturellen und kaufmännischen Aufgaben, die nicht in das Kerngeschäft einer Organisation fallen, sondern dieses unterstützen.
+
+Vermögensverwaltung
+→ Hauptartikel: Vermögensverwaltung
+Die Vermögensverwaltung (auch englisch Asset-Management) befasst sich als Finanzdienstleistung mit dem Management fremder Vermögen. In diesem Sektor gibt es der Bankenaufsicht unterliegende Vermögensverwaltungsgesellschaften (sie heißen bankaufsichtsrechtlich korrekt „Finanzportfolioverwaltung“) gemäß § 1 Abs. 1a Nr. 3 KWG und nicht regulierte Unternehmen. Das Management beschränkt sich nicht nur auf die Anlageberatung der Kunden, sondern auch Anlageentscheidungen werden eigenständig durch den Vermögensverwalter getroffen.
+
+Datenverwaltung
+Die Datenverwaltung (englisch data management) hat insbesondere bei Einsatz von Mikroprozessoren und Mikrocontrollern außerordentlich komplexe Aufgaben und entscheidenden Einfluss auf ihre Leistung bei der Datenverarbeitung.
+
+DDR-Verwaltung
+In der DDR gab es auf Ressort-Ebene die Verwaltung und die Hauptverwaltung im Sinne einer ansonsten in Deutschland üblichen Stabsabteilung oder Hauptabteilung. Die Namensgebung leitete sich von den Übersetzungen der russisch управление uprawlenie für „Verwaltung“ bzw. russisch главное управление glawnoe uprawlenie für „Hauptverwaltung“ ab.
+
+Nationale Volksarmee
+Bei der Nationalen Volksarmee (NVA) der DDR gab es militärische Verwaltungen im Ministerium für Nationale Verteidigung. Die Verwaltung war eine der Stabsabteilung oder Hauptabteilung Rüstung im BMVg bzw. dem Chief oder Main Directorate der NATO vergleichbare Führungs- oder Leitungsebene und wurde durch einen Berufssoldaten der Dienstgradgruppe der Generale, in der Regel Generalmajor oder Generalleutnant/Konteradmiral oder Vizeadmiral, geführt.
+
+Zudem gab es speziell im MfNV die Politische Hauptverwaltung, die von einem Generaloberst bzw. Admiral geführt wurde. In den Kommandos der drei Teilstreitkräfte gab es jeweils eine eigenständige Politische Verwaltung, die von einem Generalleutnant / Vizeadmiral geführt wurde.
+
+Ministerium für Staatssicherheit
+Im Ministerium für Staatssicherheit (MfS) gab es die Hauptabteilung oder Linie in der Spitzen-Organisationsstruktur auf Ressort-Ebene.
+
+Siehe auch: Verwaltung 2000
+Sonstige Verwaltungstätigkeiten
+Das Aktienrecht versteht unter der Verwaltung die Organe des Vorstands und Aufsichtsrats der Gesellschaft (vgl. § 120 Abs. 2 AktG für die Entlastung). Die Hauptversammlung darf der Verwaltung zwecks Wahrnehmung des Informationsrechts Fragen stellen.
+
+Die Zwangsverwaltung ist eine Art der Zwangsvollstreckung zur gerichtlichen Durchsetzung von Ansprüchen von Gläubigern gegenüber dem Schuldner, bei denen ein Zwangsverwalter den Ertrag betroffener Immobilien des Schuldners (Mietertrag, Pachtertrag) dem Schuldner entzieht und dessen Gläubiger zur Befriedigung seiner Forderungen überweist. Durch die Beschlagnahme wird dem Schuldner die Verwaltung und Benutzung des Grundstücks entzogen (§ 148 Abs. 2 ZVG).
+
+Der Insolvenzverwalter hat die gesetzliche Aufgabe, das Insolvenzverfahren durchzuführen, wobei die Verwaltung und Verwertung der Insolvenzmasse im Vordergrund steht. Dabei geht die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Schuldners auf den (vorläufigen) Insolvenzverwalter über (§ 22 Abas. 1 InsO). Um die Insolvenzmasse verwalten zu können, muss der Insolvenzverwalter diese umfänglich und tatsächlich in Besitz nehmen.
+
+Siehe auch
+Administration
+Polizeiliches Handeln
+Verwaltungskooperation
+Verwaltungsrecht
+Master of Public Administration (MPA)
+Verwaltungsreform
+Verwaltungsethik
+Organisationssoziologie
+Verwaltungstyp
+Literatur
+Bogumil/Jann: Verwaltung und Verwaltungswissenschaft in Deutschland. Einführung in die Verwaltungswissenschaft. Wiesbaden 2005, ISBN 3-531-14415-4
+Renate Mayntz: Soziologie der öffentlichen Verwaltung. 4. Aufl., 1997, ISBN 3-8252-0765-X
+Gunnar Folke Schuppert: Verwaltungswissenschaft. Baden-Baden 2000, ISBN 3-7890-6763-6
+Hans-Ulrich Derlien/Doris Böhme/Markus Heindl: Bürokratietheorie. Einführung in eine Theorie der Verwaltung. Wiesbaden 2011, ISBN 3-531-17816-4
+Wolfgang Seibel: Verwaltung verstehen: eine theoriegeschichtliche Einführung. Suhrkamp, Berlin 2016, ISBN 978-3-518-29800-8.
+Weblinks
+ Wiktionary: Verwaltung – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Literatur zur Verwaltung im Katalog der Deutschen Nationalbibliothek
+Online-Verwaltungslexikon
+Weitere Informationen zum Thema Verwaltung auf bund.de (Memento vom 11. März 2007 im Internet Archive)
+Einzelnachweise
+ Frank Puchert: Entscheidungsfaktoren in der öffentlichen Verwaltung am Beispiel der Windenergie im Landkreis Aurich. 2010, S. 21
+ Raban Graf von Westphalen (Hrsg.): Deutsches Regierungssystem. 2001, S. 443
+ Hartmut Maurer: Allgemeines Verwaltungsrecht, 2006, § 1 Rn. 9-11
+ Otto Model, Carl Creifelds: Staatsbürger-Taschenbuch: Alles Wissenswerte über Europa, Staat, Verwaltung, Recht und Wirtschaft mit zahlreichen Schaubildern. 2003, S. 229
+ Dirk Ehlers, Martin Burgi: Allgemeines Verwaltungsrecht. 2010, S. 586
+Rechtshinweis	Bitte den Hinweis zu Rechtsthemen beachten!
+Normdaten (Sachbegriff): GND: 4063317-2
+Kategorien: VerwaltungHerrschaftssoziologieVerwaltungswissenschaft
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+
+In anderen Sprachen
+Esperanto
+Norsk
+Polski
+Srpskohrvatski / српскохрватски
+Svenska
+Links bearbeiten
+Diese Seite wurde zuletzt am 28. Januar 2019 um 11:53 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki

@@ -1,0 +1,89 @@
+
+Eingabe und Ausgabe
+Zur Navigation springenZur Suche springen
+Mit Ein-/Ausgabe (abgekürzt E/A; englisch input/output, kurz I/O) bezeichnet man – als Begriff aus der EDV bzw. der Informatik – die Kommunikation / Interaktion eines Informationssystems mit seiner 'Außenwelt', z. B. seinen Benutzern oder anderen Informationssystemen, und Aktionen zum Lesen und Schreiben von Daten. Eingaben sind Signale (z. B. Kommandozeilen) oder Daten, die das System empfängt, Ausgaben werden vom System gesendet.
+
+Was die ‚Außenwelt‘ ist, hängt von der jeweiligen Betrachtung ab: Aus Sicht des Computers als ausführender Prozessor sind z. B. auch die Programme ‚Eingaben‘. In einem Programm (dies ist im Allgemeinen der Betrachtungsgegenstand) sind Anwendungsdaten von/für Benutzer(n) oder andere(n) Systeme(n) die wichtigsten Ein- oder Ausgaben; für Unterprogramme sind es u. a. auch die Aufruf- und Rückgabewerte (Parameter) korrespondierender Programme/-Teile, für einen Drucker sind es die zu druckenden Texte/Grafiken etc. inkl. dazugehörender Steuerkommandos.
+
+
+Inhaltsverzeichnis
+1	Grundlagen
+2	Hardware
+3	Software
+4	Siehe auch
+Grundlagen
+
+Eingaben, Funktionen, Daten, Ergebnisse
+Eingabe und Ausgabe sind wichtig, um den auf dem Computer laufenden Programmen eine Schnittstelle zur ‚Außenwelt‘ zu ermöglichen. Dadurch wird erst eine vernünftige Benutzung des Systems möglich.
+
+Zur Interaktion zwischen dem Benutzer und dem Programm stehen externe Peripheriegeräte zur Verfügung, die über das Betriebssystem (z. B. den Systembus oder / und Gerätetreiber) und mechanische bzw. andere elektronische Kommunikationsverbindungen betrieben und angesteuert werden. Dies ist nötig, da es viele unterschiedliche Protokolle gibt und sich die Geräte bezüglich Wortlänge und Verarbeitungsgeschwindigkeit unterscheiden können.
+
+In der Methodik zur Softwareentwicklung wird im Zusammenhang mit Ein- und Ausgaben danach unterschieden, ob Daten von außen (z. B. von Benutzern) an das System (oder umgekehrt) fließen oder ob Daten im System gespeichert bzw. gelesen, geändert oder gelöscht werden sollen (create, read, update, delete = CRUD).
+
+Hardware
+Der Prozessor spricht die externen Geräte über I/O-Controller (leistungsschwächer aber günstiger) oder I/O-Prozessoren (sehr leistungsstark aber teurer) an. Diese dienen als Abstraktionsschicht und werden von der CPU mit einfachen LESEN- (READ) und SCHREIBEN- (WRITE) Befehlen gesteuert. Die Geräte selbst sind direkt über Daten-, Steuer- und Adressbusse angeschlossen. Sie enthalten Puffer um Anfragen und Antworten zwischenzuspeichern.
+
+Um diese Kommunikation durchzuführen, stehen Programmed Input/Output, Interrupt-Driven I/O sowie DMA zur Verfügung.
+
+Für Benutzer sind die Eingabegeräte in der Regel Tastatur, Maus und Joystick, Ausgabegeräte sind meist Bildschirm, Drucker oder portable Speichermedien wie CDs usw.
+
+Auf die Umgebung bezogen kann die Eingabe auch Sensoren (für Temperatur, Drehzahl, Druck...) bedeuten. Die Ausgabe wären dann z. B. Leistungsregler, Ventilsteuerungen usw. Im Bereich der Regel- und Messtechnik wird so etwas verwendet.
+
+Software
+Im Softwarebereich kann man die Eingabe in Kommandozeile, Eingabe innerhalb des Programms aus Tastatur-, Maus- oder Joystick-Abfrage, lesenden Zugriff auf ein Speichermedium oder direkten lesenden Zugriff auf einen A/D-Wandler oder Ähnliches unterscheiden.
+
+Die softwareseitige Ausgabe läuft generell nicht über die Kommandozeile, sondern ausschließlich im Programm als schreibender Zugriff auf Bildschirm, Drucker, Speicher oder einen A/D-Wandler oder Ähnliches.
+
+Siehe auch: Kommandozeileninterpreter
+Siehe auch
+Eingabe (Computer)
+Ausgabe (Computer)
+EVA-Prinzip
+Kategorie: Informatik
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+العربية
+English
+Español
+हिन्दी
+Bahasa Indonesia
+Polski
+Русский
+Українська
+中文
+39 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 11. Dezember 2018 um 09:04 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki

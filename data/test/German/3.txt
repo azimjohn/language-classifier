@@ -1,0 +1,262 @@
+
+Thales
+Zur Navigation springenZur Suche springen
+	Der Titel dieses Artikels ist mehrdeutig. Weitere Bedeutungen sind unter Thales (Begriffsklärung) aufgeführt.
+
+Darstellung des Thales aus einem schwedischen Lexikon 1875
+Thales von Milet (griechisch Θαλῆς ὁ Μιλήσιος (Thalḗs ho Milḗsios)); * wahrscheinlich um 624/23 v. Chr.; † zwischen 548 und 544 v. Chr. war ein vorsokratischer Naturphilosoph, Geometer und Astronom des archaischen Griechenlands.
+
+Thales hat wahrscheinlich keine Schriften hinterlassen. Die Überlieferung fand durch andere Autoren der Antike statt. Da sich schon früh Legenden um ihn gebildet haben, kann man sich auf über ihn bekannte Details meist nicht verlassen. Es lässt sich jedoch ein grobes Bild zeichnen.
+
+Demnach hat er sich in seiner Heimatstadt Milet politisch betätigt und war einer, der für seine große Weisheit bewundert wurde. So erachtete man ihn als einen der Sieben Weisen und als Begründer der griechischen Naturphilosophie, Astronomie und Geometrie.
+
+
+Inhaltsverzeichnis
+1	Leben
+2	Politisches Wirken
+3	(Vor-)Wissenschaftliche Leistungen
+3.1	Naturphilosophie
+3.1.1	Wasser als archḗ
+3.1.2	Sonstiges
+3.2	Mathematik
+3.3	Astronomie
+3.4	Technik
+4	Anekdoten
+5	Überlieferung
+6	Quellensammlungen
+7	Literatur
+8	Weblinks
+9	Fußnoten
+Leben
+Thales, dessen Vater und Mutter Examyes und Kleobuline hießen, war in der Stadt Milet an der Westküste Kleinasiens beheimatet. Ob er phönizischer Herkunft war oder nicht, ist umstritten. Er (oder wenigstens seine Mutter) entstammte laut Diogenes Laertios dem hochadeligen Geschlecht der Theliden.[1][2]
+
+Wahrscheinlich ist Thales, wie durch die Chronika Apollodors von Athen (etwa 180–110 v. Chr.[3]) überliefert, in der 39. Olympiade, um das Jahr 624/623 v. Chr. geboren worden und starb im Alter von 78 Jahren in der 58. Olympiade, also zwischen 548 und 544.[4]
+
+Über Thales’ Familiensituation gibt es widersprüchliche Informationen. Möglicherweise hatte er eine Frau und ein Kind, nach anderen Aussagen war er unverheiratet und hat den Sohn seiner Schwester adoptiert.[5]
+
+Diogenes Laertios berichtet, Thales sei von niemandem angeleitet worden, abgesehen von den Ägyptern und den Priestern.[6] Er zitiert Pamphile, Thales habe von den Ägyptern die Geometrie gelernt.[7] Vermutlich hielt er sich eine Zeit lang zu Forschungszwecken in Ägypten (und auch Kreta) auf und lernte dort von Priestern und Astronomen auf den Gebieten der Mathematik und Astronomie.[8]
+
+Politisches Wirken
+Es gibt verschiedene Hinweise darauf, dass Thales in Milet einen gewissen politischen Einfluss hatte.
+
+Spätestens seit Platon[9] wurde meist Thales als Erster der Sieben Weisen genannt,[10] zu denen sonst vor allem Staatsmänner wie der berühmte athenische Gesetzgeber Solon zählten.
+
+Es gibt auch Berichte darüber, dass Thales als politischer Berater hervortrat:
+
+Herodot berichtete etwa, Thales habe den Ioniern den guten Rat gegeben, „ein gemeinsames Versammlungshaus zu errichten, und zwar in Teos, denn Teos sei der Mittelpunkt Ioniens, die anderen Städte sollten aber nach wie vor als eigenständige Kommunen gelten […].“[11] Dies erscheint unplausibel, da dieser zentralistische Gedanke eher in Perikles’ als in Thales’ Zeit gehört.[12]
+
+Außerdem erzählt Diogenes Laertios, er habe den Milesiern abgeraten, ein Bündnis mit Kroisos, dem Lyder­könig einzugehen, was die Milesier angesichts des Sieges Kyros’, des Perser­königs, später gerettet habe.[13] Dies ist ein Widerspruch zu der Anekdote bei Herodot, Thales habe den Fluss Halys umgeleitet, damit Kroisos’ Heer ihn habe überqueren können.[14]
+
+Im Einzelnen mögen die Berichte erdichtet sein. Im Ganzen erscheint es jedoch plausibel, dass Thales eine Rolle in der milesischen Politik spielte.
+
+(Vor-)Wissenschaftliche Leistungen
+Naturphilosophie
+Wasser als archḗ
+Einklappen
+Textstellen zur Philosophie des Thales
+„Thales lehrte, […] der Kosmos sei beseelt und voller Gottheiten.“
+
+– Diogenes Laertios: I,27
+„Thales glaubte, dass alles von Göttern voll sei.“
+
+– Aristoteles: De anima 411a8f.
+„Von allen Wesenheiten ist Gott die älteste, denn er ist ungeworden. Die schönste der Kosmos, weil Gottes Werk. Die größte der Raum, weil er alles umfasst. Die schnellste der Geist, da er alles durchläuft. Die stärkste die Notwendigkeit, die alles beherrscht. Die weiseste die Zeit, die alles aufdeckt.“
+
+– Diogenes Laertios: I,35
+„Thales sei der erste gewesen, der die Seelen unsterblich genannt habe.“
+
+– Diogenes Laertios: I,24
+„Nach der Überlieferung zu urteilen hat es den Anschein, dass auch Thales die Seele als Bewegungsursache betrachtet hat. Er behauptete jedenfalls, der Magnetstein habe, weil er das Eisen bewege, eine Seele.“
+
+– Aristoteles: De anima 405a19f.
+„Aristoteles und Hippias geben an, er habe unter Hinweis auf Magneteisen und Bernstein auch dem Unbelebten eine Seele zugeschrieben.“
+
+– Diogenes Laertios: I,24
+„Von ihm rührt auch das „Erkenne dich selbst“ her.“
+
+– Diogenes Laertios: I,40[15]
+„Er hat auch behauptet, zwischen Leben und Tod sei kein Unterschied. „Warum stirbst du dann nicht?“ fragte ihn jemand. Und er: „Weil es egal ist!““
+
+– Diogenes Laertios: I,35
+Wasser war neben anderen Begriffen schon lange vor Thales ein Begriff, der in Kosmogonien des Alten Orients dazu benutzt wurde, die Entstehung der Welt zu erklären. Die Vorstellung eines Urozeans oder Urwassers, die vor der Entstehung unserer Welt existiert haben sollen, findet sich sowohl in Babylonien wie im Alten Ägypten. Im 8. Jahrhundert v. Chr. hat der griechische Dichter Homer über den Flussgott Okeanos geschrieben, er sei der „Ursprung der Götter“[16] und der „Ursprung von allem.“[17] Im 7. Jahrhundert v. Chr. schrieb der Dichter Alkman eine Weltentstehungsgeschichte, an deren Anfang die Gewässer stehen.[18] Es kann angenommen werden, dass einige dieser alten Vorstellungen Thales beeinflusst haben. Jedenfalls ist dieser in die Philosophiegeschichte eingegangen, weil er das Wasser als den Anfang oder Urgrund aller Dinge bezeichnet haben soll:
+
+
+Ein Thales-Denkmal in Deggendorf
+„Thales […] bezeichnet als […] Ursprung [archḗ] das Wasser [hýdōr]. Auch das Land, lehrte er deshalb, ruhe auf dem Wasser. Den Anlass zu dieser Ansicht bot ihm wohl die Beobachtung, dass die Nahrung aller Wesen feucht ist, dass die Wärme selber daraus entsteht und davon lebt; woraus aber jegliches wird, das ist der Ursprung von allem. War dies der eine Anlass zu seiner Ansicht, so war ein andrer wohl der Umstand, dass die Samen aller Wesen von feuchter Beschaffenheit sind, das Wasser aber das Prinzip für die Natur des Feuchten ausmacht. Manche nun sind der Meinung, dass schon die Uralten, die lange Zeit vor dem gegenwärtigen Zeitalter gelebt und als die ersten in mythischer Form nachgedacht haben, die gleiche Annahme über die Substanz gehegt hätten. Diese bezeichneten Okeanos und Tethys als die Urheber der Weltentstehung und das Wasser als das, wobei die Götter schwören. […] Ob nun darin wirklich eine so ursprüngliche Ansicht über die Substanz zu finden ist, das mag vielleicht nicht auszumachen sein. Jedenfalls von Thales wird berichtet, dass er diese Ansicht von der obersten Ursache aufgestellt habe.“
+
+– Aristoteles: Metaphysica 983b20f.
+Aristoteles unterscheidet die Ansichten der Vorsokratiker nach Anzahl und Beschaffenheit ihres Ursprungs (archḗ). Thales war einer, der nicht mehrere Ursprünge angenommen habe (wie Empedokles, der die vier Ursprünge Feuer, Wasser, Luft und Erde annahm), sondern bloß einen. Und einer, der einen „materiellen“ Ursprung angenommen habe (keinen „immateriellen“, wie etwa das Unbegrenzte seines Schülers Anaximander).[19] Nach Aristoteles war Thales der erste Philosoph, der die Frage nach einem Urgrund aller Dinge stellte.[20] Ähnliches wie Aristoteles berichten auch Hippolyt von Rom und Diogenes Laertios, wobei Hippolyt von Rom im folgenden Zitat auch die Theologie und Astronomie des Thales, sowie eine Anekdote erwähnt:
+
+„Thales aus Milet, einer der sieben Weisen, soll sich zuerst mit Naturwissenschaft befaßt haben. Er behauptete, Ursprung und Ende des Alls sei das Wasser; denn aus Wasser, sei es in festem, sei es in flüssigem Zustande, bestehe das Universum, und es schwebe auf dem Wasser; hiervon kämen auch die Erdbeben, die Wechsel der Winde und die Bewegungen der Gestirne; alles sei in der Schwebe und im Flusse, wie es die Natur der ersten Werdensursache mit sich bringe; das, was weder Anfang noch Ende habe, sei Gott. Thales widmete sich auch der Lehre und der Forschung über die Gestirne und ist so für die Griechen der erste Begründer der diesbezüglichen Wissenschaft. Da er eines Tages zum Himmel hinaufschaute, um die Dinge oben genau beobachten zu können, wie er sagte, fiel er in einen Brunnen. Eine Magd, namens Thratta, lachte ihn aus und sagte: „Da er die Dinge am Himmel sehen will, übersieht er, was vor seinen Füßen ist.“ Thales lebte zur Zeit des Krösus.“
+
+– Hippolyt von Rom: Refutatio omnium haeresium I,1
+„Thales lehrte, der Ursprung aller Dinge sei das Wasser.“
+
+– Diogenes Laertios: I,27
+Siehe auch: Vier-Elemente-Lehre
+Sonstiges
+Aristoteles berichtet, Thales habe die Ruhelage der Erde damit erklärt, dass die Erde auf Wasser schwimme.[21]
+
+Als Grund für die jährliche Überschwemmung des Nils soll Thales die Etesien genannt haben, denn diese Sommerwinde, die der nördlichen Fließrichtung des Nils entgegengesetzt sind, würden das Abfließen ins Mittelmeer verhindern.[22]
+
+Mathematik
+
+Veranschaulichung des Satz des Thales
+
+Hier steht die Sonne so, dass der Schatten eines Stabes (B) genauso lang ist, wie der Stab selbst (A) und die Länge des Schattens einer Pyramide plus deren halbe Seitenlänge (ergibt C) genauso lang ist, wie die Höhe der Pyramide (D). Thales hat den Schatten und die Seitenlänge der Pyramide abgemessen und so sagen können, wie hoch sie ist.
+Diogenes Laertios hat uns zwei mathematische Erkenntnisse des Thales überliefert. So sage Pamphile, Thales habe „als Erster das rechtwinklige Dreieck in den Kreis eingetragen.“[23] Üblicherweise wird diese Stelle bei Diogenes Laertios so interpretiert, dass hier der Satz des Thales gemeint ist. Der Satz des Thales ist ein mathematischer Lehrsatz, nach dem ein Dreieck, von dem eine Seite ein Durchmesser seines Umkreises ist, ein rechtwinkliges Dreieck ist. Man kann die Stelle aber auch so interpretieren, dass Thales das zum Kreis flächengleiche rechtwinklige Dreieck gezeichnet habe, dabei ergibt sich 3 als Näherung für die Kreiszahl.[24] Die zweite Stelle lautet: „Nach Hieronymos von Rhodos hat er die Höhe der Pyramiden […] gemessen, da auch unsere Schattenlänge der Körpergröße gleich ist.“[6] Dieses Messverfahren kann als früher Vorläufer eines späteren Strahlensatzes angesehen werden, der Wahrheitsgehalt der überlieferten Stelle ist jedoch umstritten. So ist das beschriebene Messverfahren nicht zur Messung der Höhe von jeder Pyramide geeignet (einige haben einen zu flachen Steigungs­winkel), bei einer geeigneten stand auch nur bei günstigem Sonnenstand, also an ein oder zwei Tagen im Jahr, die Spitze des Pyramidenschattens genau senkrecht über einer Pyramidenkante, sodass dieser direkt messbar war.[25] Diese Methode war für die Messung von Pyramidenhöhen also kaum praktisch verwendbar und auch nicht besonders eindrucksvoll, denn die Ägypter konnten die Höhe einer Pyramide ohne Schwierigkeit berechnen.[26]
+
+Weitere mathematische Erkenntnisse des Thales gibt Proklos in seinem Kommentar zu Euklids Elementen an: „Dass der Kreis durch den Durchmesser halbiert wird, soll zuerst Thales bewiesen haben.“[27] Weiter schreibt Proklos: „Es wird gesagt, er habe als erster gewusst und gesagt, dass in jedem gleichschenkligen Dreieck die Winkel an der Grundlinie gleich sind, wobei er in altertümlicher Weise die gleichen [ἴσας, d. h. maßgleich] Winkel ähnlich [ὁμοίας, d. h. gestaltgleich] nannte.“[28] Nach Eudemos soll Thales auch zuerst gefunden haben, dass Scheitelwinkel gleich sind, aber erst Euklid habe einen Beweis für erforderlich gehalten.[29] Eine weitere Stelle lautet: „Eudemos führt in seiner Geschichte der Geometrie diesen Satz [den dritten Kongruenzsatz] auf Thales zurück. Er sagt, die Methode, nach der er die Entfernung der Schiffe auf dem Meer errechnete, müsse notwendig auf Verwendung dieses Satzes beruhen.“[30] Es ist jedoch bis heute unklar, wie Thales dies durchgeführt haben soll, antike Messverfahren waren dafür kaum geeignet.[31] Eudemos nahm zudem nur an, dass Thales diesen Satz kannte.
+
+Astronomie
+Herodot berichtet, Thales habe das Jahr einer Verfinsterung korrekt hervorgesagt, welche plötzlich während einer Schlacht zwischen Lydern und Medern eingetreten sei.[32] Häufig wird dies so gedeutet, dass damit eine totale Sonnenfinsternis gemeint ist. Rückwirkend wurde berechnet, dass am ehesten die Sonnenfinsternis vom 28. Mai 585 v. Chr. zu Herodots wenigen Angaben passe. Herodots Zitat lässt jedoch offen, um was für eine Verfinsterung es sich handelte. Totale Sonnenfinsternisse geschehen äußerst selten, eine atmosphärische Verfinsterung ist viel wahrscheinlicher. Mit dem Kenntnisstand zu Thales’ Zeit war es zudem nicht möglich, den Zeitpunkt einer Sonnenfinsternis im Voraus zu berechnen. Wahrscheinlich ist, dass Thales etwas anderes vorhergesagt hat, das nachträglich von Herodot mit der Verfinsterung bei jener Schlacht identifiziert wurde.[33]
+
+Folgendes hat Diogenes Laertios zur Astronomie des Thales überliefert:
+
+„Manche Autoren geben an, er habe als erster Astronomie getrieben, Sonnenfinsternisse vorhergesagt und die Sonnenwenden festgelegt.“
+
+– Diogenes Laertios: I,23
+„Auch bestimmte er zuerst die Sonnenbahn von Wende zu Wende, nach anderen auch das Verhältnis von Sonnen- und Monddurchmesser zum jeweiligen Bahnumfang als 1:720. Als erster hat er den monatsletzten Tag mit „der Dreißigste“ bezeichnet und naturtheoretische Probleme erörtert.“
+
+– Diogenes Laertios: I,24
+„Er soll die Jahreszeiten eingeführt und das Jahr in 365 Tage geteilt haben.“
+
+– Diogenes Laertios: I,27
+Der Mondkrater Thales ist nach ihm benannt.
+
+Technik
+Auch von einer möglichen Ingenieursleistung des Thales wurde berichtet. So habe er den Fluss Halys zumindest teilweise umgeleitet, damit ihn das Heer des Kroisos habe überqueren können.[34] Herodot bezweifelte dies und ließ das Heer den Fluss auf bestehenden Brücken überqueren.[35]
+
+Anekdoten
+Bekannt geworden sind vor allem zwei Anekdoten über Thales. Nach der ersten soll er aufgrund seiner astronomischen Kenntnisse eine große Olivenernte prognostiziert und daraufhin gewinnbringend in Ölpressen investiert haben:
+
+„Man hielt ihm […] aufgrund seiner Armut vor, dass die Philosophie eine nutzlose Beschäftigung sei. Da er nun infolge seiner Sternbeobachtung erkannt hatte, dass es eine reiche Olivenernte geben werde, soll er noch im Winter […] für alle Ölpressen in Milet und Chios Anzahlungen hinterlegt und sie, da niemand dagegenhielt, für einen geringen Betrag gemietet haben. Als aber der rechte Augenblick gekommen war, und gleichzeitig und plötzlich ein hoher Bedarf an Ölpressen entstand, habe er sie zu seinen Bedingungen vermietet und viel Geld dabei gemacht. Er habe damit bewiesen, dass es für Philosophen leicht sei, reich zu werden, wenn sie nur wollten, es jedoch dies nicht sei, wonach sie strebten.“
+
+– Aristoteles: Politica 1259a[36][37]
+Nach der zweiten soll er von einer Magd verspottet worden sein, weil er beim Sterneschauen in einen Brunnen gefallen sei:
+
+„Thales […] fiel, als er sich mit den Sternen beschäftigte und nach oben blickte, in einen Brunnen. Da soll ihn eine witzige und reizende thrakische Magd verspottet haben, weil er zwar die Dinge am Himmel zu erkennen begehre, ihm aber, was ihm vor den Füßen liege, entgehe.“
+
+– Platon: Theaetetus 174a[38]
+Eine häufig rezipierte Anekdote ist, dass Thales einen Dreifuß erhalten habe, welcher als Preis für den weisesten aller Menschen gedacht gewesen sei. Es existieren einige widersprüchliche Fassungen dieser Geschichte.[39]
+
+Überlieferung
+Fast alle Forscher gehen davon aus, dass Thales kein Schriftsteller war.[40] Was von ihm bekannt ist, wurde durch andere antike Autoren überliefert.[41] Eine der Hauptquellen zu seinem Leben und Werk ist der antike Schriftsteller Diogenes Laertios, der allerdings etwa 800 Jahre nach Thales gelebt hat. Schon dieser war auf manchmal widersprüchliche Quellen angewiesen. Frühere Autoren, die über Thales berichten, sind der Geschichtsschreiber Herodot sowie die Philosophen Platon und vor allem Aristoteles.
+
+Quellensammlungen
+Hermann Diels, Walther Kranz (Hrsg.): Die Fragmente der Vorsokratiker. 6. Auflage. Band 1, Berlin 1951, S. 67–81 (nur teilweise mit deutscher Übersetzung; zahlreiche Neuauflagen).
+M. Laura Gemelli Marciano (Hrsg.): Die Vorsokratiker. Band 1, Artemis & Winkler, Mannheim 2007, ISBN 978-3-7608-1735-4, S. 6–31 (mit deutscher Übersetzung, Erläuterungen sowie Einführung zu Leben und Werk).
+Jaap Mansfeld (Hrsg.): Die Vorsokratiker. Band 1, Reclam, Stuttgart 1983, S. 44–55 (nur deutsche Übersetzung; zahlreiche Neuauflagen).
+Georg Wöhrle (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009 (mit deutscher Übersetzung).
+Literatur
+Übersichtsdarstellungen in Handbüchern
+
+Dmitri Panchenko: Thalès de Milet. In: Richard Goulet (Hrsg.): Dictionnaire des philosophes antiques. Band 6, CNRS Éditions, Paris 2016, ISBN 978-2-271-08989-2, S. 771–793
+Hellmut Flashar u. a. (Hrsg.): Frühgriechische Philosophie (= Grundriss der Geschichte der Philosophie. Die Philosophie der Antike. Band 1). Halbband 1, Schwabe, Basel 2013, ISBN 978-3-7965-2598-8, S. 182–184 (Thomas Schirren: Biographie des Thales) und S. 237–262 (Niels Christian Dührsen: Werk, Lehre, Rezeption).
+Gesamtdarstellungen und Untersuchungen
+
+Hans Blumenberg: Das Lachen der Thrakerin. Eine Urgeschichte der Theorie. Frankfurt 1987.
+Helmuth Gericke: Mathematik in Antike und Orient. Springer, Berlin 1984.
+Willy Hartner: Eclipse Periods and Thales’ Prediction of a Solar Eclipse. Historic Truth and Modern Myth. In: Centaurus. Band 14, 1969, S. 60–71
+Pietro Mazzeo: Talete, il primo filosofo. Editrice Tipografica, Bari 2010.
+Bruno Snell: Die Nachrichten über die Lehren des Thales und die Anfänge der griechischen Philosophie- und Literaturgeschichte. In: Philologus. Band 96, 1944, S. 170 ff. (auch in: Bruno Snell: Gesammelte Schriften. Vandenhoeck und Ruprecht, Göttingen 1966, S. 119–128; sowie in: Carl Joachim Classen (Hrsg.): Sophistik. Wissenschaftliche Buchgesellschaft, Darmstadt 1976, S. 478–490).
+Rezeption
+
+Gero Guttzeit: Thales. In: Peter von Möllendorff, Annette Simonis, Linda Simonis (Hrsg.): Historische Gestalten der Antike. Rezeption in Literatur, Kunst und Musik (= Der Neue Pauly. Supplemente. Band 8). Metzler, Stuttgart/Weimar 2013, ISBN 978-3-476-02468-8, Sp. 971–976.
+Weblinks
+Patricia O’Grady: Thales. In: Internet Encyclopedia of Philosophy.
+John J. O’Connor, Edmund F. Robertson: Thales of Miletus. In: MacTutor History of Mathematics archive..
+Karl Bormann: Thales von Milet. In: UTB-Online-Wörterbuch Philosophie.
+Diogenes Laertios: Leben und Meinungen berühmter Philosophen, übersetzt und erläutert von Otto Apelt, Erster Band Buch I – VI, Leipzig 1921
+Fußnoten
+ Diogenes Laertios I,22.
+ Georg Wöhrle: Thales, ein Phönizier? In: Mnemosyne. Band 68, Nr. 3, 2015, S. 470–478, doi:10.1163/1568525X-12341649.
+ Thomas Schirren, Georg Rechenauer: Biographie. In: Hellmut Flashar u. a. (Hrsg.): Frühgriechische Philosophie (= Die Philosophie der Antike. Band 1). Schwabe Verlag, Basel 2013, ISBN 978-3-7965-2598-8, S. 175.
+ Thomas Schirren, Georg Rechenauer: Biographie. In: Hellmut Flashar u. a. (Hrsg.): Frühgriechische Philosophie (= Die Philosophie der Antike. Band 1). Schwabe Verlag, Basel 2013, ISBN 978-3-7965-2598-8, S. 182 f.
+ Diogenes Laertios I,25 f.
+ Diogenes Laertios I,27.
+ Diogenes Laertios I,24.
+ Diogenes Laertios I,24; I,27; I,43.
+ Platon, Protagoras 342e ff.
+ Georg Wöhrle (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009, S. 17.
+ Herodot, Historiae I,170; deutsche Übersetzung von Georg Wöhrle in: derselbe (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009, S. 35.
+ M. Laura Gemelli Marciano (Hrsg.): Die Vorsokratiker. Band 1, Artemis & Winkler, Mannheim 2007, ISBN 978-3-7608-1735-4, S. 22.
+ Diogenes Laertios I,25.
+ Herodot, Historiae I,75.
+ Vgl. auch Diogenes Laertios I,36.
+ Homer, Ilias 14,201.
+ Homer, Ilias 14,246.
+ Jaap Mansfeld (Hrsg.): Die Vorsokratiker I. Griechisch/Deutsch, Reclam, Stuttgart 1998, S. 40.
+ Aristoteles, Metaphysica 983b; Vgl. auch Physica 184b.
+ Aristoteles, Metaphysica 983b20f.
+ Aristoteles, De caelo II,13,294a28–b6; vgl. Aristoteles, Metaphysica 983b20.
+ Herodot, Historiae II,20 (ohne Nennung Thales’); Diogenes Laertios I,37.
+ Diogenes Laertios I,24; deutsche Übersetzung von Georg Wöhrle in: derselbe (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009, S. 197.
+ Vgl. Fritz Krafft: Geschichte der Naturwissenschaften I, Rombach, Freiburg 1971, S. 90 f.
+ Helmuth Gericke: Mathematik in Antike und Orient. S. 75.
+ Helmuth Gericke: Mathematik in Antike und Orient. S. 60 f.
+ Proklos, In primum Euclidis elementorum librum commentarii 157,10 f. (= Hermann Diels, Walther Kranz (Hrsg.): Die Fragmente der Vorsokratiker 11A20).
+ Proklos, In primum Euclidis elementorum librum commentarii 250,22 f. (= Hermann Diels, Walther Kranz (Hrsg.): Die Fragmente der Vorsokratiker 11A20).
+ Proklos, In primum Euclidis elementorum librum commentarii 299,1 (= Hermann Diels, Walther Kranz (Hrsg.): Die Fragmente der Vorsokratiker 11A20).
+ Proklos, In primum Euclidis elementorum librum commentarii 352,14 f. (= Hermann Diels, Walther Kranz (Hrsg.): Die Fragmente der Vorsokratiker 11A20).
+ Helmuth Gericke: Mathematik in Antike und Orient. S. 76 f.
+ Herodot, Historiae I,74.
+ Otta Wenskus: Die angebliche Vorhersage einer Sonnenfinsternis durch Thales von Milet. Warum sich diese Legende so hartnäckig hält und warum es wichtig ist, ihr nicht zu glauben. In: Hermes. Band 144, Nr. 1, 2016, S. 2–17.
+ Diogenes Laertios I,38.
+ Herodot, Historiae I,75.
+ Deutsche Übersetzung von Georg Wöhrle in: derselbe (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009, S. 49.
+ Vgl. Diogenes Laertios I,26.
+ Deutsche Übersetzung von Georg Wöhrle in: derselbe (Hrsg.): Thales (= Traditio Praesocratica. Die Milesier. Band 1). De Gruyter, Berlin 2009, S. 40.
+ Diogenes Laertios I,27–33.
+ Niels Christian Dührsen: Thales. In: Hellmut Flashar u. a. (Hrsg.): Frühgriechische Philosophie (= Die Philosophie der Antike. Band 1). Schwabe Verlag, Basel 2013, ISBN 978-3-7965-2598-8, S. 239.
+ Niels Christian Dührsen: Thales. In: Hellmut Flashar u. a. (Hrsg.): Frühgriechische Philosophie (= Die Philosophie der Antike. Band 1). Schwabe Verlag, Basel 2013, ISBN 978-3-7965-2598-8, S. 237.
+Normdaten (Person): GND: 118801732 | LCCN: n86024245 | VIAF: 290923996 | Wikipedia-Personensuche
+Kategorien: MannGrieche (Antike)Geboren im 7. Jahrhundert v. Chr.Gestorben im 6. Jahrhundert v. Chr.Astronom der AntikeMathematiker der AntikePolitiker (antikes Griechenland)VorsokratikerUniversalgelehrterPerson (Milet)
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+Wikiquote
+
+In anderen Sprachen
+Беларуская
+English
+Français
+Italiano
+Lietuvių
+Polski
+Русский
+Українська
+中文
+88 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 9. März 2019 um 23:30 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki

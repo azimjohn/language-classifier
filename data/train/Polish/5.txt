@@ -1,0 +1,362 @@
+
+Prawo
+Przejdź do nawigacjiPrzejdź do wyszukiwania
+	Ten artykuł dotyczy definicji prawa (w ujęciu przedmiotowym) . Zobacz też: inne znaczenia.
+REF orange.svg
+Ten artykuł od 2008-01 zawiera treści, przy których brakuje odnośników do źródeł.
+Należy dodać przypisy do treści niemających odnośników do wiarygodnych źródeł.
+(Dodanie listy źródeł bibliograficznych lub linków zewnętrznych nie jest wystarczające).
+Dokładniejsze informacje o tym, co należy poprawić, być może znajdują się w dyskusji tego artykułu.
+Po wyeliminowaniu niedoskonałości należy usunąć szablon {{Dopracować}} z tego artykułu.
+
+Temida symbolizująca bezstronność i sprawiedliwość
+Prawo, a ściślej prawo w ujęciu przedmiotowym – system norm prawnych, czyli ogólnych, abstrakcyjnych i jednoznacznych dyrektyw postępowania, które powstały w związku z istnieniem i funkcjonowaniem państwa lub innego uporządkowanego organizmu społecznego, ustanowionych lub uznanych przez właściwe organy władzy odpowiednio publicznej lub społecznej i przez te organy stosowanych, w tym z użyciem przymusu[1].
+
+Pojęcie prawa jest również używane na oznaczenie prawa w ujęciu podmiotowym (prawo podmiotowe). Tak rozumiane występuje, gdy mówi się, że ma się prawo (jest się uprawnionym) do czegoś. Ten artykuł nie dotyczy tak rozumianego prawa.
+
+
+Spis treści
+1	Spory o istotę prawa
+1.1	Koncepcje podstawowe
+1.2	Przykładowe teorie
+2	Gałęzie prawa
+2.1	Podział ze względu na metodę regulacji
+2.2	Podział ze względu na przedmiot regulacji
+3	Źródła prawa
+4	Interpretacja tekstu prawnego
+5	Nauki prawne
+6	Stosowanie prawa w praktyce
+7	Przypisy
+8	Bibliografia
+9	Linki zewnętrzne
+Spory o istotę prawa
+Prawo, ze względu na wieloznaczność pojmowania, w tym różnice światopoglądowe wydających o nim opinie, jest pojęciem wyjątkowo trudnym do zdefiniowania. Dlatego wszelkie jego definicje są przedmiotem sporów.
+
+Koncepcje podstawowe
+Zygmunt Ziembiński, rozważając problem wielości sposobów pojmowania prawa, wyróżnia spośród nich kilka podstawowych koncepcji i subkoncepcji, w tym:
+
+koncepcje normatywne, zgodnie z którą prawo jest zespołem norm postępowania; w ramach koncepcji normatywnych współistnieją:
+koncepcja pozytywistyczna, zgodnie z którą prawo obejmuje wyłącznie normy, które zostały ważnie ustanowione lub uznane przez kompetentny organ władzy publicznej, natomiast to, czy i jak wspomniane normy mają się do kryteriów pozaprawnych (np. przyjmowanych przez kogoś ocen moralnych), nie jest przedmiotem zainteresowania nauki prawa i nie ma żadnej doniosłości dla ważności i mocy tych norm;
+koncepcja prawnonaturalna, zgodnie z którą prawo obejmuje tylko i wyłącznie te normy prawa pozytywnego, które pozostają w zgodzie z ustanowionymi przez absolutny autorytet (tj. przez Boga, Rozum etc.) normami moralnymi lub innymi, dającymi się wywieść z przyjętych przez ten autorytet ocen;
+koncepcje niepozytywistyczne, zgodnie z którymi prawo obejmuje normy prawa pozytywnego oraz inne elementy, które wyznaczają sposób rozumienia i stosowania norm prawa pozytywnego;
+koncepcje realistyczne, zgodnie z którymi przyjmuje się, że prawem jest zespół faktów społecznych lub psychicznych, związanych ze stanowieniem, obowiązywaniem i stosowaniem norm prawnych.
+Przykładowe teorie
+Tomasz z Akwinu rozumiał prawo (lex) jako pewne promulgowane rozumowe rozporządzenie ustanowione dla dobra wspólnego przez osobę mającą pieczę nad wspólnotą[2].
+
+Marksowsko-leninowska teoria prawa wywodzi, iż prawo, jako tzw. nadbudowa ideologiczna do społeczno-gospodarczej bazy, jest stanowione przez klasę panującą, w interesie tej klasy i w celu utrzymania jej panowania.
+
+Odmienną od leninowskiej teorię prawa przedstawiał Frédéric Bastiat, francuski ekonomista wolnorynkowy, filozof i polityk. Według niego „prawo jest organizacją naturalnych praw dla legalnej obrony, jest stosowaniem wspólnej siły w zastępstwie sił indywidualnych dla legalnej obrony naturalnych praw człowieka: prawa do życia, do wolności i do własności”[3].
+
+Gałęzie prawa
+Gałąź prawa stanowi podzespół norm prawnych, które ze względu na wybrane kryterium konstytuują względnie spójną całość.
+
+Podział ze względu na metodę regulacji
+Jednym z podziałów prawa jest podział na gałęzie przez uwzględnienie metody regulacji.
+
+Prawo wewnętrzne
+Prawo konstytucyjne
+Prawo cywilne reguluje relacje między podmiotami prawa w relacji poziomej, czyli żaden z podmiotów pozostających w stosunku prawnym nie jest władny narzucić swojej woli drugiej stronie (cywilnoprawna metoda regulacji).
+Prawo pracy reguluje stosunki między pracodawcą a pracownikiem, a także organizacjami pracowników (związki zawodowe) metodą w zasadzie cywilnoprawną, jednak z dużym zakresem norm semiimperatywnych służących wyznaczeniu minimalnego poziomu ochrony pracownika. Zobacz też: Kodeks pracy.
+Prawo karne jest zbiorem norm mających na celu eliminację zachowań aspołecznych najcięższej wagi poprzez zastosowanie sankcji kary. (karnoprawna metoda regulacji).
+Prawo administracyjne reguluje relacje między podmiotami w stosunku pionowym, tj. wówczas gdy jeden z podmiotów może władczo kształtować sytuację prawną drugiego podmiotu. (administracyjnoprawna metoda regulacji).
+Prawo rodzinne i opiekuńcze
+Prawo finansowe
+Prawo podatkowe
+Prawo handlowe
+Prawo międzynarodowe
+Podział ze względu na przedmiot regulacji
+Podziału prawa na gałęzie można także dokonać w płaszczyźnie przedmiotu regulacji danego zespołu norm. Jako przykładowe gałęzie wedle tego kryterium wymienia się m.in.:
+
+prawo autorskie
+prawo bankowe
+prawo budowlane
+prawo celne
+prawo człowieka
+prawo dziecka
+prawo energetyczne
+prawo kanoniczne
+prawo konstytucyjne
+prawo konfliktów zbrojnych
+prawo lotnicze
+prawo medyczne
+prawo międzynarodowe
+prawo naukowe
+prawo o ruchu drogowym
+prawo o szkolnictwie wyższym
+prawo ochrony środowiska
+prawo podatkowe
+prawo prasowe
+prawo rolne
+prawo upadłościowe
+prawo wyznaniowe
+Źródła prawa
+Prawo wywodzi się z wielu źródeł. Podstawowym i często mylonym podziałem źródeł prawa jest podział na: źródła prawa sensu stricto (z łac. fontes iuris oriundi) i źródła poznania prawa (z łac. fontes iuris cognoscendi). Pierwszy termin – źródła prawa oznacza akty normatywne, czy też inaczej akty prawne zawierające przepisy prawa oraz tryb tworzenia takich aktów. Natomiast drugi termin – źródła poznania prawa obejmuje wszelkie materiały służące poznaniu prawa oraz wszelkie formy przekazu o prawie (dokumenty, publikacje, nawet Internet).
+
+Ze względu na dopuszczalność istnienia różnych źródeł prawa, można wyróżnić w kulturze zachodniej dwa systemy prawne: anglosaski system common law i kontynentalny system prawa. Podstawową różnicą między nimi (przynajmniej ze względu na źródła prawa) jest to że system common law dopuszcza tworzenie prawa przez sądy w wyniku precedensowych rozstrzygnięć. Pamiętając o tym, że również w wielu kontynentalnych systemach prawnych wyroki sądów (zwłaszcza najwyższych) mają znaczenie przy późniejszych interpretacjach prawa stanowionego (i mogą zapoczątkować jakąś „linię” orzecznictwa), zwrócić należy uwagę że wyroki sądów w kontynentalnych systemach prawa mają jednak o wiele mniejsze znaczenie niż wyroki sądów w systemach common law. Te ostatnie bowiem tworzą prawo, a te pierwsze tylko je interpretują.
+
+Fakt, że w systemach typu common law sądy biorą udział w tworzeniu prawa nie oznacza jednak braku wpływu normalnych demokratycznych władz na tworzenie prawa w państwach stosujących ten system. Bowiem obok prawa precedensowego (czyli właśnie common law) egzystuje również tzw. statute law, czyli prawo stanowione przez organ przedstawicielski (parlament).
+
+Interpretacja tekstu prawnego
+Litera prawa pisanego może być interpretowana w różny sposób, i często prawo de facto zmienia się z czasem, pomimo iż formalnie cały czas ma się do czynienia z tym samym tekstem prawa. Ewolucję taką widać na przykład w przypadku Konstytucji USA, w której wiele przepisów Konstytucji było reinterpretowanych w sposób, który uczynił ich odmiennym od znaczenia jakie miały one w chwili powstania – pomimo iż nie została zmieniona ich treść. Koncepcja dynamicznej (zmieniającej się w czasie) interpretacji prawa znajduje szerokie uznanie w szybko zmieniających się współcześnie realiach, chociaż nie powinna być standardem przy interpretacji tekstu, a jedynie subsydiarną (pomocniczą) formą przy wykładni językowo-gramatycznej oraz systemowej[potrzebny przypis].
+
+Nauki prawne
+ Osobny artykuł: Nauki prawne.
+
+Iustitia – personifikacja sprawiedliwości (Lucas Cranach d. Ä., 1537. Amsterdam, Fridart Stichting)
+Najczęściej wyróżnia się trzy działy nauk prawnych:
+
+Dogmatyka prawa (szczegółowe nauki prawne) – zajmuje się opisem, systematyzacją i wykładnią prawa obowiązującego. W ramach dogmatyki prawa wyróżnia się dyscypliny odpowiadające różnym gałęziom prawa:
+konstytucjonalistyka,
+procesualistyka,
+karnistyka (penalistyka),
+cywilistyka,
+administratywistyka,
+internacjonalistyka,
+Ogólne nauki o prawie – zaliczane są tu dyscypliny zajmujące się ogólnymi zagadnieniami związanymi z prawem:
+filozofia prawa – najstarsza z ogólnych nauk o prawie, zajmująca się filozoficzną refleksją nad prawem, jego istotą i celem,
+teoria prawa – zajmuje się ogólnymi i wspólnymi zagadnieniami nauk dogmatycznoprawnych (problemy stosowania, wykładni, obowiązywania prawa, czy budowy systemu prawnego),
+Nauki historycznoprawne:
+historia państwa i prawa – bada historię ustrojów politycznych oraz systemów prawnych,
+historia doktryn politycznych i prawnych – bada rozwój idei politycznych i prawnych oraz ich wpływ na kształtowanie się instytucji prawnych.
+Wiele innych nauk zalicza się do tzw. nauk pomocniczych prawoznawstwa. Są to m.in. kryminalistyka, kryminologia, medycyna sądowa, informatyka prawnicza, logika prawnicza czy socjologia prawa.
+
+Stosowanie prawa w praktyce
+Wiele norm prawnych nie jest w praktyce przestrzeganych. Wynika to z różnych czynników m.in.:
+
+Przyzwolenie na łamanie normy prawnej – świadomy i celowy brak reakcji ze strony społeczeństwa czy organów mających prawa te egzekwować sprawia, że reguły te nie są prawem obowiązującym w danym społeczeństwie, a ściślej, że zostały uchylone na mocy tzw. desuetudo. Jeżeli brak reakcji organów państwa nie jest świadomy (np. funkcjonariusze publiczni nie wiedzą, że dane zachowanie jest niedozwolone bądź nakazane przez prawo; albo nie podejmują działań nie dlatego, że negatywnie oceniają normę prawną, tylko dlatego, że im się nie chce) mamy do czynienia z „martwym prawem”, które obowiązuje, ale po prostu nie jest przestrzegane. Tak ma się to np. z zakazem homoseksualnych stosunków płciowych w niektórych stanach USA czy zakazem rozpowszechniania utworów które są objęte prawami autorskimi, które nie są już aktywnie egzekwowane (abandonware). Występuje też sytuacja niewielkiej choć niezerowej egzekwowalności – np. w przypadku zakazu czerpania korzyści majątkowej z cudzej prostytucji czy też wymiany plików objętych prawami autorskimi w sieciach P2P.
+
+Lex imperfecta (norma niedoskonała) – istnieje norma sankcjonowana która nakazuje lub zakazuje określonego zachowania, lecz w systemie prawa brak sprzężonej z nią normy sankcjonującej, która przewidywałaby sankcję za niezachowanie się w określony sposób[4].
+
+Przypisy
+ Sławomira Wronkowska: Podstawowe pojęcia prawa i prawoznawstwa, s. 11–20.
+ Summa Theologie, I–II, q. 90, a. 1.
+ Frédéric Bastiat „Prawo” Instytut im. Ludwiga von Misesa 2007, s. 8.
+ Sławomira Wronkowska: Podstawowe pojęcia prawa i prawoznawstwa, s. 19.
+Bibliografia
+Stefan Korycki, Jerzy Kuciński, Zenon Trzciński, Jerzy Zaborowski: Zarys prawa. Wyd. 6. Warszawa: Wydawnictwo Prawnicze „LexisNexis”, 2007. ISBN 978-83-7334-774-8.
+Sławomira Wronkowska: Podstawowe pojęcia prawa i prawoznawstwa. Wydanie 3. Poznań: Wydawnictwo „Ars boni et aequi”, 2005. ​ISBN 83-87148-66-0​.
+Linki zewnętrzne
+Informacje w projektach siostrzanych
+Commons-logo.svg  Multimedia w Wikimedia Commons
+Wikiquote-logo.svg  Cytaty w Wikicytatach
+Wikinews-logo.svg  Wiadomości w Wikinews
+Wikibooks-logo.svg  Podręczniki w Wikibooks
+Internetowy System Aktów Prawnych
+EUR-Lex
+Prawo naturalne, religijne i świeckie
+Polskie Prawo
+Scale of justice gold.png Zapoznaj się z zastrzeżeniami dotyczącymi pojęć prawnych w Wikipedii.
+[ukryj]
+p • d • e
+Nauki społeczne
+nauki społeczne obszar nauk społecznych
+nauki społeczne	
+psychologia pedagogika socjologia politologia nauki o bezpieczeństwie nauki o obronności nauki o polityce nauki o polityce publicznej nauki o mediach nauki o poznaniu i komunikacji społecznej
+nauki ekonomiczne	
+ekonomia finanse towaroznawstwo nauki o zarządzaniu
+nauki prawne	
+nauki o administracji prawo prawo kanoniczne
+nauki interdyscyplinarne	
+geografia społeczna i ekonomiczna
+Kontrola autorytatywna (dyscyplina naukowa):LCCN: sh85075119GND: 4048737-4BNCF: 5750WorldCat
+Kategorie: PrawoTeoria prawa
+Menu nawigacyjne
+Nie jesteś zalogowanyDyskusjaEdycjeUtwórz kontoZaloguj sięArtykułDyskusjaCzytajEdytujEdytuj kod źródłowyHistoria i autorzySzukaj
+Przeszukaj Wikipedię
+Strona główna
+Losuj artykuł
+Kategorie artykułów
+Najlepsze artykuły
+Częste pytania (FAQ)
+Dla czytelników
+O Wikipedii
+Zgłoś błąd
+Kontakt
+Wspomóż Wikipedię
+Dla wikipedystów
+Pierwsze kroki
+Portal wikipedystów
+Ogłoszenia
+Zasady
+Pomoc
+Ostatnie zmiany
+Narzędzia
+Linkujące
+Zmiany w linkowanych
+Prześlij plik
+Strony specjalne
+Link do tej wersji
+Informacje o tej stronie
+Element Wikidanych
+Cytowanie tego artykułu
+Drukuj lub eksportuj
+Utwórz książkę
+Pobierz jako PDF
+Wersja do druku
+W innych projektach
+Wikimedia Commons
+Wikicytaty
+
+W innych językach
+Afrikaans
+Alemannisch
+አማርኛ
+العربية
+Aragonés
+ܐܪܡܝܐ
+Asturianu
+Avañe'ẽ
+Azərbaycanca
+تۆرکجه
+Bamanankan
+বাংলা
+Bân-lâm-gú
+Башҡортса
+Беларуская
+Беларуская (тарашкевіца)‎
+भोजपुरी
+Български
+Boarisch
+བོད་ཡིག
+Bosanski
+Brezhoneg
+Буряад
+Català
+Чӑвашла
+Cebuano
+Čeština
+Chamoru
+Corsu
+Cymraeg
+Dansk
+Deutsch
+Eesti
+Ελληνικά
+English
+Español
+Esperanto
+Estremeñu
+Euskara
+فارسی
+Fiji Hindi
+Français
+Frysk
+Furlan
+Gaeilge
+Gaelg
+Gàidhlig
+Galego
+客家語/Hak-kâ-ngî
+한국어
+Հայերեն
+हिन्दी
+Hrvatski
+Ido
+Ilokano
+Bahasa Indonesia
+Interlingua
+Interlingue
+Ирон
+IsiXhosa
+Íslenska
+Italiano
+עברית
+ಕನ್ನಡ
+Къарачай-малкъар
+ქართული
+Қазақша
+Kiswahili
+Коми
+Kreyòl ayisyen
+Kurdî
+Кыргызча
+Ladino
+ລາວ
+Latina
+Latviešu
+Lëtzebuergesch
+Lietuvių
+Ligure
+Limburgs
+Lingála
+Lingua Franca Nova
+La .lojban.
+Magyar
+मैथिली
+Македонски
+Malagasy
+മലയാളം
+Malti
+Māori
+मराठी
+მარგალური
+مصرى
+Bahasa Melayu
+Mìng-dĕ̤ng-ngṳ̄
+Mirandés
+Монгол
+မြန်မာဘာသာ
+Nederlands
+Nedersaksies
+नेपाली
+日本語
+Нохчийн
+Nordfriisk
+Nouormand
+Occitan
+Oʻzbekcha/ўзбекча
+ਪੰਜਾਬੀ
+پنجابی
+پښتو
+Patois
+ភាសាខ្មែរ
+Piemontèis
+Plattdüütsch
+Português
+Română
+Runa Simi
+Русиньскый
+Русский
+Sardu
+Scots
+Shqip
+Sicilianu
+සිංහල
+Simple English
+سنڌي
+Slovenčina
+Slovenščina
+Soomaaliga
+کوردی
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+தமிழ்
+Татарча/tatarça
+ไทย
+Тоҷикӣ
+ᏣᎳᎩ
+Türkçe
+Українська
+اردو
+Vahcuengh
+Vèneto
+Tiếng Việt
+文言
+Winaray
+吴语
+Xitsonga
+ייִדיש
+Yorùbá
+粵語
+Zazaki
+Zeêuws
+Žemaitėška
+中文
+Edytuj linki
+Tę stronę ostatnio edytowano 15 maj 2018, 16:45.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka ochrony prywatnościO WikipediiKorzystasz z Wikipedii tylko na własną odpowiedzialnośćDla deweloperówKomunikat na temat ciasteczekWersja mobilnaWikimedia Foundation Powered by MediaWiki

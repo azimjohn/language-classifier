@@ -1,0 +1,255 @@
+
+Prawo międzynarodowe
+Przejdź do nawigacjiPrzejdź do wyszukiwania
+	Ten artykuł dotyczy prawa międzynarodowego publicznego. Zobacz też: Prawo prywatne międzynarodowe.
+
+Traktat z Kadesz, XIII wiek p.n.e., najstarszy traktat pokojowy zachowany do naszych czasów, zawarty między Ramzesem II a Hattusilisem III
+Prawo międzynarodowe (dla odróżnienia od prawa prywatnego międzynarodowego zwane też prawem międzynarodowym publicznym) – jedna z gałęzi prawa, obejmująca zespół norm prawnych regulujących stosunki między państwami, organizacjami międzynarodowymi, a także innymi podmiotami prawa międzynarodowego. Jedna z najstarszych dziedzin prawa, znana i rozwijana już w okresie starożytności. Za „konstytucję” współczesnej społeczności międzynarodowej i najważniejszy dokument prawa międzynarodowego uważa się Kartę Narodów Zjednoczonych powołującą do życia ONZ i proklamującą szereg zasad na których opierają się prawo międzynarodowe i stosunki międzynarodowe. Zobowiązania wynikające z Karty Narodów Zjednoczonych (np. zakaz agresji, zakaz grożenia użyciem siły, zakaz mieszania się w sprawy wewnętrzne innych państw, nakaz pokojowego rozwiązywania sporów) mają pierwszeństwo przed innymi zobowiązaniami państw członkowskich ONZ[1].
+
+Znaczenie prawa międzynarodowego we współczesnym świecie znacznie wzrasta. Relacje wewnątrz społeczności międzynarodowej są coraz intensywniejsze, współpraca bezpośrednia między państwami oraz współpraca poprzez organizacje międzynarodowe obejmuje kolejne dziedziny, przez co pojawiają się nowe regulacje prawne. Z prawa międzynarodowego wyrastają kolejne szczególne porządki prawne: prawo Unii Europejskiej, prawo WTO.
+
+Część norm prawa międzynarodowego może być stosowana (powoływana) bezpośrednio w prawie krajowym (wewnętrznym), w tym przed sądami i organami administracyjnymi. Tak jest również w polskim systemie prawnym, na podstawie art. 87 ust. 1 Konstytucji RP ratyfikowane umowy międzynarodowe są źródłami prawa w Polsce[2].
+
+
+Spis treści
+1	Nazwa „prawo międzynarodowe”
+2	Historia prawa międzynarodowego
+2.1	Starożytność – do V w. n.e.
+2.1.1	Charakterystyka okresu
+2.1.2	Pojęcia
+2.1.3	Osoby
+2.2	Średniowiecze – V-XV w.
+2.2.1	Charakterystyka okresu
+2.2.2	Pojęcia
+2.2.3	Osoby
+3	Działy prawa międzynarodowego
+4	Źródła prawa międzynarodowego
+5	Specyfika prawa międzynarodowego
+6	Rozwiązywanie sporów międzynarodowych
+7	Polscy teoretycy prawa międzynarodowego
+8	Zobacz też
+9	Przypisy
+10	Bibliografia
+11	Linki zewnętrzne
+Nazwa „prawo międzynarodowe”
+Termin „prawo międzynarodowe” zaczął być stosowany w XVIII wieku. Przyjmuje się, że po raz pierwszy użył go Jeremy Bentham w 1780 roku, natomiast na grunt języka polskiego trafił za sprawą krakowskiego prawnika Franciszka Kasparka.
+
+Wcześniej powszechnie używano terminu „prawo narodów” (ang. law of nations, fr. droit de gens, niem. Völkerrecht), które pochodziło z czasów cesarstwa rzymskiego i było tłumaczeniem łacińskiego terminu ius gentium – działu prawa rzymskiego regulującego stosunki prawne obywateli Rzymu z cudzoziemcami. Zanim ustalił się termin „prawo międzynarodowe” (ang. international law, fr. droit international; w języku niemieckim nadal używa się terminu Völkerrecht), ów dział prawa próbowano określać różnymi terminami, np. „prawo państw”, „prawo międzypaństwowe”, „prawo międzysuwerenne”, „prawo zewnątrzpaństwowe”[3].
+
+Historia prawa międzynarodowego
+Starożytność – do V w. n.e.
+Charakterystyka okresu
+Okres starożytności charakteryzuje się brakiem społeczności międzynarodowej – jedynie lokalnie można wyróżnić pewne społeczności, np. w Mezopotamii czy Grecji. Rzym jako imperium łączące Europę, Północną Afrykę i Azję Mniejszą, jednoczy te tereny nie na zasadzie równości partnerów, lecz na zasadzie podporządkowania. Pax Romana to doktryna, która w rzeczywistości oznaczała świat spacyfikowany siłą oręża rzymskiego.
+
+Charakterystyczną cechą starożytności jest brak wyodrębnionego prawa międzynarodowego – stosunki między narodami w zasadzie ograniczały się do prowadzenia wojen i zawierania przymierzy, istniały natomiast pewne zalążki norm i instytucji, które można uznać za mające charakter prawnomiędzynarodowy.
+
+Pojęcia
+posłowie (legati) – w imieniu swoich mocodawców zawierali przymierza przeciw wspólnym wrogom lub układali się z wrogiem o warunki pokoju,
+symmachie – przymierza państw-miast greckich (polis) w celach obronnych,
+amfiktionie – związki mające na celu wspólną ochronę miejsc kultu, przewidywały one niekiedy periodyczne spotkania delegatów swych członków dla omawiania wspólnych spraw i podejmowania uchwał,
+izopolitije – umowy o przyznanie obywatelom drugiego państwa na zasadzie wzajemności praw obywatelskich,
+proksenowie – opiekunowie obcych kupców, generalnie cudzoziemców – prototyp opieki konsularnej,
+androlepsje – forma odwetu, polegająca na schwytaniu obywateli drugiego państwa i więzieniu ich do czasu uzyskania odszkodowania z tytułu naruszenia prawa,
+azyl (asylia) – wyjęcie jednostki spod zastosowania do niej represaliów,
+ius gentium – dotyczyło prywatnoprawnych stosunków między przebywającymi w Rzymie cudzoziemcami (których wobec zasięgu ówczesnych praw nie dotyczyło ius civile) a obywatelami rzymskimi.
+W starożytnej praktyce stosunków międzynarodowych przeplatają się z reguły elementy prawne z elementami sakralnymi, charakter religijny mają wówczas normy dotyczące obcych posłów i dotyczące sposobu prowadzenia wojen – przykładowo bóstwa darzą nietykalnością osobę posła, a wypowiedzenie wojny i zawieranie pokoju w starożytnym Rzymie leżało w ręku kapłańskiego kolegium fecjałów (feliates).
+
+Osoby
+Marcus Tulius Cicero (I w. n.e.) – polityk i filozof, jako pierwszy sformułował koncepcję wojny sprawiedliwej (bellum iustum), wojny dopuszczalnej tylko ze słusznej przyczyny, w obronie własnej lub dla dochodzenia naruszonych praw – ale tylko jako środek ostateczny. W przypadku wybuchu wojny Cyceron zaleca umiarkowanie w jej prowadzeniu i stosowanie represji tylko wobec tych, którzy w wojnie zawinili.
+Średniowiecze – V-XV w.
+Charakterystyka okresu
+W okresie średniowiecza następuje wytworzenie się pewnego rodzaju społeczności międzynarodowej, obejmującej przede wszystkim te kraje europejskie, które należą do kościoła zachodniego i uznają prymat papieża. Drugim rodzajem jest społeczność krajów prawosławnych należących do sfery oddziaływania Cesarstwa Bizantyjskiego, a także o społeczności krajów islamskich, przeciwstawnych ideologicznie światu chrześcijańskiemu.
+
+Społeczność międzynarodowa powstała w tym okresie charakteryzuje się mocnym zhierarchizowaniem – z jednej strony władza papieża, z drugiej cesarza rzymskiego narodu niemieckiego, pretendującego do roli nadrzędnej wobec królów i książąt. Między papieżem a cesarzem często dochodziło do konfliktów o prymat nad światem chrześcijańskim. Papież stał na czele Kościoła, zatwierdzał tytuły monarsze, istotną rolę odgrywały również sobory.
+
+W XIII i XIV w. powstają zalążki koncepcji władców udzielnych, nie uznających nad sobą zwierzchnika, a więc w zasięgu swojego władania uważających się za równorzędnych z cesarzem („rex est imperator in regno suo” – „król jest cesarzem w swym królestwie”) – koncepcja ta przekształciła się z czasem w koncepcję suwerenności.
+
+Na okres średniowiecza przypada również powstanie związków miast – np. Wielka Hanza (z głównym ośrodkiem w Lubece) posiadała wysoko rozwiniętą administrację i sądownictwo, a nawet własną armię.
+
+Zasady rządzące stosunkami międzynarodowymi nie stanowiły wyodrębnionej całości a obejmowały bardzo różnorodne elementy: zasady religijno-moralne, prawo kanoniczne, recypowane prawo rzymskie, prawo lenne, kodeksy rycerskie, regulaminy wojskowe, zbiory wyroków, umowy, jednak zakres tematyczny umów międzynarodowych w średniowieczu jest dość ograniczony – są to traktaty przymierza lub pokoju, umowy handlowe i umowy arbitrażowe, dla załatwienia konkretnych spraw wysyłało się posłów, a dla ochrony obcych kupców powoływano w miastach, zwłaszcza portowych, konsulów.
+
+Pojęcia
+Doktryna wojny sprawiedliwej – przedstawiciele: św. Augustyn z Hippony, św. Izydor z Sewilli, św. Rajmund z Pennaforte, św. Tomasz z Akwinu.
+Osoby
+Bartolus de Saxoferrato
+Stanisław ze Skarbimierza
+Paweł Włodkowic
+Działy prawa międzynarodowego
+
+Fundamentalne dzieło Hugo Grocjusza O prawie wojny i pokoju
+Prawo międzynarodowe początkowo obejmowało przede wszystkim zagadnienia prawa wojny, które określało kiedy (ius ad bellum) oraz w jaki sposób (ius in bello) wolno prowadzić wojnę. Inne działania międzynarodowe z reguły także powiązane były z wojnami (zawieranie traktatów przymierza i pokoju, wysyłanie poselstw). Zaczęto je łączyć w zbiorowym określeniu „prawo pokoju”. Dwupodział na prawo wojny i prawo pokoju jest charakterystyczny dla prawa międzynarodowego przez większą część jego historii[4], przy czym z czasem kolejność uległa odwróceniu i prawo międzynarodowe dzielono na prawo pokoju i prawo wojny.
+
+Współcześnie działy prawa międzynarodowego określa się przede wszystkim poprzez dziedzinę regulacji. Do tak wyodrębnianych działów zalicza się:
+
+prawo traktatów, zw. też prawem umów międzynarodowych,
+służba zagraniczna: prawo dyplomatyczne i prawo konsularne,
+prawo dotyczące terytorium: delimitacja, prawo morza, uregulowania dotyczące rzek międzynarodowych, prawo lotnicze,
+prawo dotyczące ludności: ochrona praw człowieka, zagadnienia obywatelstwa, cudzoziemców, ekstradycji, azylu i ochrony uchodźców,
+prawo kosmiczne,
+prawo organizacji międzynarodowych,
+rozwiązywanie sporów międzynarodowych,
+prawo konfliktów zbrojnych, zwane też prawem humanitarnym,
+międzynarodowe prawo karne.
+Poza tym nauka prawa międzynarodowego zajmuje się także teorią prawa międzynarodowego i jego podstawowymi pojęciami, a także historią tej dziedziny prawa.
+
+Źródła prawa międzynarodowego
+ Osobny artykuł: Źródła prawa międzynarodowego.
+Prawo międzynarodowe ma własne źródła prawa, inne niż prawo krajowego (konstytucja, ustawa, rozporządzenie). Tradycyjnie należą do nich:
+
+umowa międzynarodowa, obecnie podstawowe źródło prawa międzynarodowego. Największa liczba norm powstaje poprzez zawieranie umów międzynarodowych.
+zwyczaj międzynarodowy, kiedyś podstawowe źródło prawa międzynarodowego, tworzone poprzez jednolitą praktykę państw, które w podobnych sytuacjach zachowywały się podobnie. Z czasem taka praktyka nabierała charakteru prawnie wiążącego (opinio iuris), państwa jej przestrzegały w przekonaniu, że tego wymaga od nich prawo.
+Do tych dwu podstawowych źródeł prawa międzynarodowego dodaje się czasem ogólne zasady prawa, choć w doktrynie obecnie przyjmuje się, że są one raczej częścią prawa międzynarodowego, a nie jego odrębnym źródłem. Zostały one jednak wymienione jako jedna z podstaw wyrokowania w statucie Stałego Trybunału Sprawiedliwości Międzynarodowej, a później także Międzynarodowego Trybunału Sprawiedliwości[5].
+Do źródeł prawa międzynarodowego od połowy XX wieku zalicza się także wiążące, prawotwórcze uchwały organizacji międzynarodowych.
+Niektórzy autorzy do źródeł prawa międzynarodowego zaliczają także akty jednostronne państw (notyfikacja, zastrzeżenie, uznanie).
+
+Prawo międzynarodowe cechuje brak hierarchii źródeł prawa, która jest charakterystyczna dla prawa krajowego (konstytucja jest nadrzędna nad ustawami, te z kolei mają pierwszeństwo przez rozporządzeniami). Umowa międzynarodowa może zmienić zwyczaj, ale także (choć znacznie rzadziej) zwyczaj międzynarodowy może zmienić umowę międzynarodową.
+
+Specyfika prawa międzynarodowego
+Normy prawa międzynarodowego mają w większości charakter ius dispositivum, czyli norm względnie obowiązujących. Oznacza to, że na swój użytek dwa państwa lub grupa państw mogą umówić się odmiennie. Istnieje wąska grupa norm bezwzględnie wiążących (imperatywnych, peremptoryjnych) nazywanych normami ius cogens, z którymi inne normy prawa międzynarodowego nie mogą być sprzeczne.
+
+Pozostałe cechy prawa międzynarodowego:
+
+Brak centralnego (nadrzędnego) ustawodawcy i rządu. Same podmioty prawa międzynarodowego (przede wszystkim państwa) tworzą normy prawne, które je wiążą. Podstawą obowiązywania prawa międzynarodowego jest zgoda państw.
+Brak obowiązkowego sądownictwa międzynarodowego (aby sąd międzynarodowy lub arbitraż mógł sprawę rozstrzygać potrzebna jest na to zgoda stron sporu).
+Brak zorganizowanego aparatu przymusu.
+Rozwiązywanie sporów międzynarodowych
+Wszelkie spory muszą być rozwiązywane środkami pokojowymi[6]. To co dziś wydaje się oczywiste, w przeszłości oczywistym nie było. Wojna była dopuszczalnym przez prawo środkiem rozwiązywania sporów, a prawo do prowadzenia wojny (ius ad bellum) uznawano za atrybut podmiotowości prawa międzynarodowego.
+
+Prawo międzynarodowe wśród środków rozwiązywania sporów wyróżnia środki dyplomatyczne i sądowe. Do tych pierwszych zalicza się: negocjacje, dobre usługi, mediację, komisje badania faktów oraz koncyliację. Środkami sądowymi są: arbitraż międzynarodowy oraz sąd międzynarodowy.
+
+Polscy teoretycy prawa międzynarodowego
+ Z tym tematem związana jest kategoria: Polscy specjaliści prawa międzynarodowego.
+Zobacz też
+	Zobacz hasło prawo międzynarodowe w Wikisłowniku
+sankcje w prawie międzynarodowym
+Przypisy
+ Art. 103 Karty Narodów Zjednoczonych.
+ Z kolei na podstawie art. 91 ust. 1 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. z 1997 r. nr 78, poz. 483, z późn. zm.):
+Ratyfikowana umowa międzynarodowa, po jej ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej, stanowi część krajowego porządku prawnego i jest bezpośrednio stosowana, chyba że jej stosowanie jest uzależnione od wydania ustawy.
+ Zob. R Bierzanek, J. Symonides, Prawo międzynarodowe publiczne, wyd. III, Warszawa 1994, s. 13.
+ Fundamentalne dzieło Hugo Grocjusza zatytułowane było De iure belli ac pacis (O prawie wojny i pokoju, wyd. w 1625 r.).
+ Lech Antonowicz: Podręcznik prawa międzynarodowego. Warszawa: Wydawnictwo LexisNexis, 2003, s. 32. ISBN 83-7334-233-8.
+ Zob. art. 33 Karty Narodów Zjednoczonych.
+Bibliografia
+Władysław Czapliński, Anna Wyrozumska: Prawo międzynarodowe publiczne. Zagadnienia systemowe. Wyd. 2. Warszawa: C. H. Beck, 2004, seria: "Studia Prawnicze". ISBN 83-7387-195-0.
+Remigiusz Bierzanek, Janusz Symonides: Prawo międzynarodowe publiczne. Wyd. 8. Warszawa: Wydawnictwo Prawnicze "LexisNexis", 2004. ISBN 83-7334-294-X.
+Stanisław Edward Nahlik: Prawo międzynarodowe i stosunki międzynarodowe. Wyd. 2. Kraków: nakł. UJ, 1981.
+Linki zewnętrzne
+Zbiór Traktatów ONZ (ang.)
+Electronic Information System for Interantional Law (ang.)
+Internetowa Baza Traktatowa polskiego Ministerstwa Spraw Zagranicznych (pol.)
+Kontrola autorytatywna (prawo):GND: 4063693-8NDL: 00566399BNCF: 7413
+Kategorie: Prawo międzynarodoweGałęzie prawa
+Menu nawigacyjne
+Nie jesteś zalogowanyDyskusjaEdycjeUtwórz kontoZaloguj sięArtykułDyskusjaCzytajEdytujEdytuj kod źródłowyHistoria i autorzySzukaj
+Przeszukaj Wikipedię
+Strona główna
+Losuj artykuł
+Kategorie artykułów
+Najlepsze artykuły
+Częste pytania (FAQ)
+Dla czytelników
+O Wikipedii
+Zgłoś błąd
+Kontakt
+Wspomóż Wikipedię
+Dla wikipedystów
+Pierwsze kroki
+Portal wikipedystów
+Ogłoszenia
+Zasady
+Pomoc
+Ostatnie zmiany
+Narzędzia
+Linkujące
+Zmiany w linkowanych
+Prześlij plik
+Strony specjalne
+Link do tej wersji
+Informacje o tej stronie
+Element Wikidanych
+Cytowanie tego artykułu
+Drukuj lub eksportuj
+Utwórz książkę
+Pobierz jako PDF
+Wersja do druku
+W innych projektach
+Wikimedia Commons
+
+W innych językach
+Afrikaans
+العربية
+Asturianu
+Azərbaycanca
+বাংলা
+Bân-lâm-gú
+Беларуская
+Беларуская (тарашкевіца)‎
+Български
+Bosanski
+Català
+Čeština
+Cymraeg
+Dansk
+Deutsch
+Eesti
+Ελληνικά
+English
+Español
+Esperanto
+Euskara
+فارسی
+Galego
+한국어
+Հայերեն
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+Italiano
+עברית
+ქართული
+Қазақша
+Kiswahili
+Kurdî
+Latina
+Latviešu
+Lietuvių
+Magyar
+Македонски
+മലയാളം
+Malti
+მარგალური
+مصرى
+Bahasa Melayu
+Nederlands
+日本語
+Norsk
+Occitan
+Oʻzbekcha/ўзбекча
+ਪੰਜਾਬੀ
+Português
+Qaraqalpaqsha
+Română
+Русский
+Scots
+Shqip
+සිංහල
+Simple English
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Suomi
+Svenska
+Татарча/tatarça
+ไทย
+Тоҷикӣ
+Türkçe
+Українська
+Tiếng Việt
+Winaray
+ייִדיש
+粵語
+中文
+Edytuj linki
+Tę stronę ostatnio edytowano 12 sie 2018, 12:08.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka ochrony prywatnościO WikipediiKorzystasz z Wikipedii tylko na własną odpowiedzialnośćDla deweloperówKomunikat na temat ciasteczekWersja mobilnaWikimedia Foundation Powered by MediaWiki

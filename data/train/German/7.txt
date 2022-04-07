@@ -1,0 +1,339 @@
+
+Mikroprozessor
+Zur Navigation springenZur Suche springen
+	Dieser Artikel oder Abschnitt bedarf einer Überarbeitung: Keine saubere Differenzierung des Begriffs Mikroprozessor von Prozessor bzw. Hauptprozessor.
+Bitte hilf mit, ihn zu verbessern, und entferne anschließend diese Markierung.
+Ein Mikroprozessor (von griechisch μικρός mikrós, deutsch ‚klein, eng‘) ist ein Prozessor in sehr kleinem Maßstab, bei dem alle Bausteine des Prozessors auf einem Mikrochip (integrierter Schaltkreis, IC) vereinigt sind. Der erste Mikroprozessor wurde Anfang der 1970er Jahre von der Firma Texas Instruments auf der Basis der IC-Technik entwickelt.
+
+Im Zuge fortschreitender Miniaturisierung war es möglich, neben dem Mikroprozessor auch zusätzliche Peripherie auf dem Chip zu implementieren. Damit war der Mikrocontroller bzw. das System-on-a-Chip (SoC) geboren.
+
+
+Inhaltsverzeichnis
+1	Geschichte
+1.1	Beachtenswerte 8-Bit-Prozessoren
+1.2	16-Bit-Prozessoren
+1.3	32-Bit-Prozessoren
+1.4	64-Bit-Prozessoren auf dem Desktop
+1.5	RISC-Prozessoren
+2	Design und Fertigung
+3	Variationen
+4	Stromverbrauch
+5	Kühlung
+6	Engineering Samples / Customer Samples
+7	Siehe auch
+8	Literatur
+9	Weblinks
+10	Einzelnachweise
+Geschichte
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten daher möglicherweise demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Entwicklung der Transistoranzahl bei Mikroprozessoren
+Prozessortyp	Transistor­anzahl	Jahr	Hersteller
+KL TI TMS1100.jpg
+TMS1000	8.000	1971	Texas Instruments
+C4004 two lines.jpg
+Intel 4004	2.300	1971	Intel
+KL Intel C8008-1.jpg
+Intel 8008	3.500	1972	Intel
+KL Intel C8080.jpg
+Intel 8080	4.500	1974	Intel
+KL MOS 6502.jpg
+6502	5.000	1975	MOS Technology
+KL TI TMS9900 Black Background.jpg
+TMS9900	8.000	1976	Texas Instruments
+Zilog Z8400APS.jpg
+Z80	8.500	1976	Zilog
+KL Intel D8086.jpg
+Intel 8086	29.000	1978	Intel
+KL Intel TD8088.jpg
+Intel 8088	29.000	1979	Intel
+KL Hitachi HD68000.jpg
+Motorola 68000	68.000	1979	Motorola
+KL Intel 80286 CLCC Top.jpg
+Intel 80286	134.000	1982	Intel
+KL Intel i386DX.jpg
+Intel 80386	275.000	1985	Intel
+Intel 80486DX-33.jpg
+Intel 80486	1.200.000	1989	Intel
+KL Intel Pentium A80501.jpg
+Pentium	3.100.000	1993	Intel
+KL Motorola MC68060.jpg
+Motorola 68060	2.500.000	1994	Motorola
+AMD K5 PR100.jpg
+AMD K5	4.300.000	1996	AMD
+Intel Pentium II 350 MHz.jpg
+Pentium II	7.500.000	1997	Intel
+KL AMD K6 LittleFoot.jpg
+AMD K6	8.800.000	1997	AMD
+KL Intel Pentium III Coppermine.jpg
+Pentium III	9.500.000	1999	Intel
+AMD K6 3.jpg
+AMD K6-III	21.300.000	1999	AMD
+Slot-A Athlon.jpg
+AMD K7	22.000.000	1999	AMD
+KL Intel Pentium 4 Wilamette.jpg
+Pentium 4	42.000.000	2000	Intel
+KL Intel Itanium ES.jpg
+Itanium	25.000.000	2001	Intel
+Athlon XP 3200 a.jpg
+Barton	54.300.000	2003	AMD
+Pentium M Dothan.jpg
+Intel Pentium M	77.000.000	2003	Intel
+Athlon-64-Lenara-CG.jpg
+AMD K8	105.900.000	2003	AMD
+KL Intel Itanium2.jpg
+Itanium 2	220.000.000	2003	Intel
+Itanium 2
+(mit 9 MB Cache)	592.000.000	2004	Intel
+Cell	241.000.000	2006	Sony/IBM/Toshiba
+Intel core2 duo 4300 IMGP5033.jpg
+Core 2 Duo	291.000.000	2006	Intel
+Core 2 Q6600 G0.JPG
+Core 2 Quad	582.000.000	2006	Intel
+Dual-Core Itanium 2	1.700.000.000	2006	Intel
+Power6	789.000.000	2007	IBM
+Intel core i7 940 top R7309478 wp.jpg
+Core i7	731.000.000	2008	Intel
+AMD K10	758.000.000	2009	AMD
+Intel CPU Core i7 2600K Sandy Bridge top.jpg
+Intel Core i7 2600K	995.000.000	2010	Intel
+AMD FX 8350 Prozessor.jpg
+AMD Bulldozer	1.200.000.000	2011	AMD
+Intel Core i7 3930K	2.270.000.000	2011	Intel
+Intel Core i7 4770K	1.400.000.000	2013	Intel
+AMD Kaveri	2.410.000.000	2014	AMD
+E5-2699 v3	5.570.000.000	2014	Intel
+E7-8890 v4	7.200.000.000	2016	Intel
+Siehe auch: Prozessor#Historische Entwicklung
+In den frühen 1960ern wurden die aus Röhren bestehenden Prozessoren durch transistorierte Typen verdrängt. Anfangs wurden die Prozessoren diskret aus einzelnen Röhren aufgebaut. Ein solcher Prozessor hatte das Volumen eines Wandschrankes, die Leistungsaufnahme lag bei einigen tausend Watt, die Taktfrequenz bei 100 kHz.
+
+Der technologische Sprung von der Röhren- zur Transistortechnik hatte einen geringeren Platzbedarf, eine geringere Temperaturentwicklung, eine höhere Verarbeitungsgeschwindigkeit, eine niedrigere Ausfallquote sowie einen geringeren Stromverbrauch von nur einigen 100 Watt zur Folge. Die Taktfrequenz stieg auf etwa 1 MHz. Durch die spätere Verkleinerung der Transistoren auf nur einige Mikrometer war es möglich, immer mehr Transistorfunktionen auf integrierten Schaltungen (ICs) unterzubringen. Waren es zunächst nur einzelne Gatter, integrierte man immer häufiger auch ganze Register und Funktionseinheiten wie Addierer und Zähler, schließlich sogar Registerbänke und Rechenwerke auf einem Chip. Diese zunehmende Integration von immer mehr Transistor- und Gatterfunktionen auf einem Chip führte dann fast zwangsläufig zu dem, was heute als Mikroprozessor bekannt ist.
+
+Patentiert wurde der Mikroprozessor von Mitarbeitern der Firma Texas Instruments (TI), die 1971 den TMS1000 genannten Schaltkreis vorstellten. Er enthielt neben einem Hauptprozessor ein 1 KiB großes ROM, ein 64×4-Bit-RAM und weitere Funktionen wie Zähler und Timer sowie Schnittstellen für Eingabe und Ausgabe. Diese wurden damals üblicherweise in einzelnen Schaltkreisen umgesetzt und der TMS1000 entspricht daher einem Mikrocontroller. Im selben Jahr wie TI präsentierte Intel mit dem 4004 den „Mikroprozessor“ (englisch microprocessor unit, MPU), der als erster Hauptprozessor (CPU) auf einem Chip angesehen wird, da TI den TMS1000 erst ab 1974 als eigenständiges Produkt vermarktete. Mit nur 4 Bit breiten Registern und einer Taktfrequenz von bis zu 740 kHz war der 4004 nicht sehr leistungsfähig. Seine im Vergleich mit den klassischen CPUs äußerst kompakte Bauform verhalf dem Mikroprozessor aber schließlich trotzdem zum Durchbruch. Ursprünglich war der 4004 eine Auftragsentwicklung für den japanischen Tischrechnerhersteller Busicom. 1969 hatte Intels Ted Hoff, Leiter der Abteilung Application Research, die Idee, das Herz dieses Tischrechners in Form eines programmierbaren Bausteins zu realisieren. 1970 entwickelte Federico Faggin, in der Abteilung für Untersuchungen an der Metall-Isolator-Halbleiter-Struktur, eine Schaltkreisintegration auf Grundlage von Transistoren mit einer Gate-Elektrode aus Silizium für die Umsetzung des 4004 und führte das Projekt zu seinem erfolgreichen Debüt auf dem Markt im Jahr 1971. Dass daraus die erste universell einsetzbare Einchip-CPU der Welt resultierte, war eigentlich nicht beabsichtigt. Da Busicom damals in finanziellen Schwierigkeiten steckte, bot man Intel den Rückkauf des 4004-Designs an, woraufhin Intel mit der Vermarktung des 4004 begann. Der 4004 wurde zum ersten kommerziellen Mikroprozessor der Welt. Eine weitere bemerkenswerte Entwicklung wurde erst 1998 nach der Freigabe militärischer Unterlagen bekannt. Demnach hat Garrett AiResearch (u. a. mit den Mitarbeitern Steve Geller und Ray Holt) bereits zwischen 1968 und 1970 einen Chipsatz (aus mehreren ICs bestehendes System, incl. CPU) für militärische Zwecke entwickelt.[1][2][3][4] Der als MP944 bezeichnete Chipsatz war Bestandteil des Central Air Data Computer (CADC), dem Flugkontrollsystem der neuen F-14 Tomcat (US Navy).
+
+Zunächst waren das noch recht einfache Schaltungen. Die Mikroelektronik brachte neben der Miniaturisierung und der Kostenersparnis noch weitere Vorteile wie Geschwindigkeit, geringen Stromverbrauch, Zuverlässigkeit und später auch höhere Komplexität. Das führte dazu, dass vergleichsweise billige Mikroprozessoren mit der Zeit die teuren Prozessoren der Minicomputer und teilweise sogar die Großrechner verdrängten. Gegen Ende des 20. Jahrhunderts hielt der Mikroprozessor Einzug in viele elektronische Geräte, vor allem als CPU von Personal-Computern (PCs). Auch als die Strukturgröße der Mikroprozessorchips auf einige Nanometer weiter verkleinert wurde (14 nm, Stand Januar 2015, Intel Broadwell-Architektur), blieb der Begriff Mikroprozessor bestehen.
+
+Die Wortbreite war wegen der noch nicht so hohen Integrationsdichte zunächst auf 4 Bit beschränkt. In der Folge wurde die Wortbreite kontinuierlich gesteigert, meistens in Verdopplungsschritten. Da die Ressourcen zu Anfang noch so teuer waren, suchte man nach Wegen, sie optimal an die jeweiligen Erfordernisse anzupassen. Eine Episode auf dem Weg dazu waren Bit-Slice-Systeme, bei denen man mehrere Bit-Slice-Prozessoren geringer Bitbreite zu einem System der gewünschten, größeren Bitbreite zusammenschalten konnte.
+
+Zur Realisierung eines kompletten Computers muss der Mikroprozessor noch um Speicher und Ein-/Ausgabe-Funktionen erweitert werden. Diese stehen in Form weiterer Chips zur Verfügung. Nur wenige Jahre nach der Einführung von Mikroprozessoren etablierte sich auch der Begriff des Mikrocontrollers, der diese Funktionen auf einem Chip vereint.
+
+Je nach Wortbreite, Befehlstypus (CISC / RISC) oder einfach Hersteller unterteilen sich die Prozessoren in verschiedene Prozessorarchitekturen.
+
+Beachtenswerte 8-Bit-Prozessoren
+Der 4004 wurde 1972 durch den 8008 abgelöst, den ersten 8-Bit-Mikroprozessor der Welt. Dieser Prozessor war der Vorläufer des äußerst erfolgreichen Intel 8080 (1974) und weiterer 8-Bit-Prozessoren von Intel. Der konkurrierende Motorola 6800 war ab August 1974 erhältlich, im selben Jahr wie der 8080. Die Architektur des 6800 wurde 1975 für den MOS Technology 6502 kopiert und verbessert, der in den 1980er Jahren in der Popularität mit dem Z80 wetteiferte.
+
+Das Entwicklerteam des 8080 gründete die Firma Zilog und brachte 1976 den Z80 heraus, eine stark verbesserte und Code-kompatible Weiterentwicklung. Dieser erlangte die größte Popularität aller 8-Bit-Prozessoren. Details siehe Zilog Z80.
+
+Sowohl der Z80 als auch der 6502 wurden im Hinblick auf niedrige Gesamtkosten entwickelt. Das Gehäuse war klein, die Ansprüche an den Bus gering und es wurden Schaltungen eingebunden, die bisher in einem separaten Chip zur Verfügung gestellt werden mussten (der Z80 verfügte z. B. über einen eigenen Refresh-Generator für dynamische RAM-Speicher DRAM). Diese Eigenschaften waren es schließlich, die dem Heimcomputermarkt zu Beginn der 1980er Jahre zum Durchbruch verhalfen und in Maschinen resultierten, die für 99 Dollar erhältlich waren.
+
+Der SC/MP wurde von der Firma National Semiconductor Corporation aus Santa Clara Mitte der 1970er Jahre vertrieben. Verschiedene Einplatinencomputer wurden als Selbstbau- und Lehrcomputer auf Basis des SC/MP bis etwa 1980 realisiert.
+
+Western Design Center (WDC) stellte 1982 den CMOS 65C02 vor und lizenzierte das Design an verschiedene Firmen. Dieser Prozessor wurde das Herz des Apple IIc und IIe und wurde in Herzschrittmachern und Defibrillatoren, Autos sowie in industriellen Geräten und auf dem Verbrauchermarkt eingesetzt. WDC bereitete so den Weg vor für das Lizenzieren von Mikroprozessor-Technologie; dieses Geschäftsmodell wurde später von ARM und anderen Herstellern in den 1990er Jahren übernommen.
+
+Motorola übertrumpfte 1978 die gesamte 8-Bit-Welt mit der Vorstellung des Motorola 6809, eine der leistungsstärksten und saubersten 8-Bit-Architekturen und auch eine der komplexesten Mikroprozessor-Logiken, die je produziert wurden. Mikroprogrammierung ersetzte zu dieser Zeit die bisher festverdrahteten Logiken – gerade weil die Anforderungen der Designs für eine feste Verdrahtung zu komplex wurden.
+
+Ein weiterer 8-Bit-Mikroprozessor war der Signetics 2650, der aufgrund seiner innovativen und leistungsfähigen Befehlssatz-Architektur kurzzeitig im Zentrum des allgemeinen Interesses stand.
+
+Ein für die Raumfahrt wegweisender Mikroprozessor war der RCA1802 (alias CDP1802, RCA COSMAC; vorgestellt 1976), der in den Voyager-, Viking- und Galileo-Raumsonden eingesetzt wurde. Der CDP1802 wurde verwendet, weil er mit sehr wenig Energie betrieben werden konnte und seine Bauart (Silicon-on-Sapphire) einen wesentlich höheren Schutz gegenüber kosmischer Strahlung und elektrostatischen Entladungen bot als jeder andere Prozessor zu dieser Zeit. Der CP1802 wurde als erster strahlungsgehärteter (radiation-hardened) Prozessor bezeichnet.
+
+16-Bit-Prozessoren
+Der erste Mehrfach-Chip-16-Bit-Mikroprozessor war der IMP-16 von National Semiconductor, vorgestellt 1973. Eine 8-Bit-Version folgte ein Jahr später als IMP-8. 1975 stellte National Semiconductor den ersten Ein-Chip-16-Bit-Mikroprozessor PACE vor, dem später eine NMOS-Version folgte (INS8900).
+
+Andere Mehrfach-Chip-16-Bit-Mikroprozessoren waren der TMS 9900 von TI, der auch mit der hauseigenen TI-990-Minicomputermodellreihe kompatibel war. Der Chip besaß ein großes 64-Pin-DIP-Gehäuse, während die meisten 8-Bit-Prozessoren in das weiter verbreitete, kleinere und billigere 40-Pin-DIP-Gehäuse aus Kunststoff eingesetzt wurden. Ein Nachfolger wurde aus dem 9900 entwickelt, der TMS 9980, der ebenfalls ein billigeres Gehäuse besaß. Er sollte ein Konkurrent zum Intel 8080 werden. Der TMS 9980 konnte 8 Datenbits zur gleichen Zeit kopieren, aber nur 16 KiB adressieren. Ein dritter Chip, der TMS 9995, wurde neu entwickelt. Diese Prozessorfamilie wurde später mit dem 99105 und 99110 erweitert.
+
+WDC machte seinen 65C02 16-Bit-tauglich und stellte diesen Prozessor 1984 als CMOS 65816 vor. Der 65816 stellte den Kern des Apple IIgs und später des Super Nintendo dar, was ihn zu einem der beliebtesten 16-Bit-Designs machte.
+
+Intel verfolgte die Strategie, keine Minicomputer zu emulieren, und „vergrößerte“ stattdessen sein 8080-Design auf 16 Bit. Daraus entstand der Intel 8086, das erste Mitglied der x86-Familie, die heute in den meisten PCs zu finden ist. Der 8086 und sein „kleiner Bruder“, der 8088 boten die Möglichkeit, Software von der 8080-Linie zu portieren, womit Intel gute Geschäfte machte. Nachfolger des 8086 wurde der 80186, der 80286 und 1985 der 32-Bit-Prozessor 80386, die alle rückwärtskompatibel waren und so die Marktvorherrschaft von Intel entscheidend stärkten.
+
+32-Bit-Prozessoren
+Der erste 32-Bit-Mikroprozessor in einem eigenen Gehäuse war der BELLMAC-32A von AT&T Bell Labs, von dem erste Stücke 1980 erhältlich waren, und der 1982 in Masse produziert wurde. Nach der Zerschlagung von AT&T 1984 wurde er in WE 32000 umbenannt (WE für Western Electric) und hatte zwei Nachfolger: Den WE 32100 und WE 32200. Diese Mikroprozessoren wurden in den folgenden Minicomputern von AT&T eingesetzt: 3B2, 3B5, 3B15, „Companion“ und „Alexander“.
+
+Einer der bemerkenswertesten 32-Bit-Mikroprozessoren ist der MC68000 von Motorola, der 1979 vorgestellt wurde. Er wurde häufig auch als 68K bezeichnet und verfügte über 32-Bit-Register, verwendete aber 16 Bit breite interne Busleitungen und einen ebenso breiten externen Datenbus, um die Anzahl benötigter Pins zu verringern. Motorola bezeichnete diesen Prozessor im Allgemeinen als 16-Bit-Prozessor, obwohl er intern über eine 32-Bit-Architektur verfügte. Die Kombination aus einem schnellen und großen Speicheradressraum (16 Megabyte) und geringen Kosten machten ihn zum beliebtesten Prozessor seiner Klasse. Der Apple Lisa und die Macintosh-Reihe verwendeten den 68K; Mitte der 1980er Jahre wurde dieser Prozessor auch im Atari ST und Commodore Amiga eingesetzt.
+
+Intels erster 32-Bit-Mikroprozessor war der 1981 vorgestellte iAPX 432. Obwohl er über eine fortgeschrittene, objektorientierte Architektur verfügte, war ihm kein kommerzieller Erfolg beschieden – nicht zuletzt weil er in der Leistung gegenüber konkurrierenden Architekturen schlechter abschnitt.
+
+Motorolas Erfolg mit dem 68K führte zur Vorstellung des MC68010, der die Technik der virtuellen Speicheradressierung unterstützte. Der MC68020 schließlich verfügte über 32 Bit breite interne und externe Busse. Dieser Prozessor wurde im Unix-Supermicrocomputer äußerst beliebt, und viele kleinere Firmen stellten Desktop-Systeme mit diesem Prozessor her. Der MC68030 integrierte die MMU in den Chip. Die meisten Computer, die nicht auf DOS liefen, setzten nun einen Chip der 68K-Familie ein. Dieser anhaltende Erfolg führte zum MC68040, der auch die FPU in den Chip integrierte und so die Geschwindigkeit arithmetischer Operationen erhöhte. Ein geplanter MC68050 erreichte nicht die erwünschten Verbesserungen und wurde nicht produziert, der MC68060 wurde auf ein Marktsegment geworfen, das bereits mit viel schnelleren RISC-Designs gesättigt war.
+
+Der 68020 und seine Nachfolger wurden häufig in eingebetteten Systemen eingesetzt.
+
+Während dieser Zeit (Anfang bis Mitte 1980) stellte National Semiconductor ähnlich wie Motorola einen 32-Bit-Prozessor mit einem 16-Bit-Pinout her, den NS 16032 (später umbenannt zu NS 32016). Die Version mit einem ebenfalls 32 Bit breiten Bus war der NS 32032. Sequent stellte basierend auf diesem Mikroprozessor Mitte der 1980er Jahre den ersten SMP-Computer vor.
+
+Andere Systeme setzten den Zilog Z80000 ein, der aber zu spät im Markt ankam und bald wieder verschwand.
+
+64-Bit-Prozessoren auf dem Desktop
+Während 64-Bit-Prozessoren in verschiedenen Märkten schon seit den frühen 1990er Jahren im Einsatz waren, wurden sie erst nach 2000 auch auf dem PC-Markt eingesetzt. Im Juli 2003 stellte Apple auf der Entwicklerkonferenz (WWDC) den Power Mac G5 vor, Apples ersten 64-Bit-Desktop-Computer. Vorher hatte es bereits von Sun und anderen Herstellern 64-Bit-Rechner gegeben, die allerdings üblicherweise als Workstations und nicht als Desktop-Rechner bezeichnet werden, auch wenn kein technisches Merkmal diese Unterscheidung rechtfertigt.
+
+Etwa gleichzeitig, mit AMDs Einführung der ersten 64-Bit-Architektur AMD64 (zu IA-32 rückwärtskompatibel) im September 2003, begann die Ära der 64-Bit-Architekturen auch bei x86-Rechnern. AMD wurde bald gefolgt von Intel, die schon zuvor IA-64-CPUs herstellten (Intel Itanium), die aufgrund der fehlenden Abwärtskompatibilität am Consumer-Markt aber scheiterten. Nun wendete sich Intel der AMD64-Architektur zu und produziert seit dem Intel Pentium 4 Kern Prescott 2M (Release: Februar 2005) eigene zu AMD64 kompatible x86/Intel64-Prozessoren. Beide x86-Prozessoren können die bisherige 32-Bit-Software wie auch die neue 64-Bit-Software ausführen. Mit 64-Bit-Windows XP und -Linux bewegt sich die Software nun auf die neue Architektur hin und nutzt das volle Potenzial dieser Prozessoren. Seit der Veröffentlichung von Windows 7 werden die meisten OEM-Computer mit einer 64-Bit-Version veröffentlicht, gerade auch da um 2010 die magische 4-GB-RAM-Grenze der 32-Bit-Systeme bei handelsüblichen Computern erreicht war.
+
+Speziell bei IA-32 ist der Wechsel zu 64-Bit mehr als nur die Erhöhung der Registerbreite, da auch die Anzahl der Register erhöht wurde.
+
+Bei den PowerPC-Architekturen wurde der Wechsel auf 64-Bit schon in den frühen 1990er Jahren vorgenommen (tatsächlich ist der PPC-Prozessor von vornherein als 64-Bit konzipiert, mit einer 32-Bit-Teilmenge der Befehle). Die Registergrößen und internen Busse werden vergrößert, die arithmetischen und vektoriellen Recheneinheiten arbeiteten bereits vor dem Wechsel seit mehreren Jahren mit 64 oder mehr Bits (das ist auch bei IA-32 der Fall). Es werden aber keine neuen Register eingefügt, dadurch ist die gewonnene Geschwindigkeit von 64 gegenüber 32-Bit geringer als bei IA-32.
+
+RISC-Prozessoren
+
+Intel-i860-RISC-Mikroprozessor
+Mitte der 1980er bis in die frühen 1990er Jahre erschienen viele RISC-Mikroprozessoren (englisch Reduced Instruction Set Computing), die anfänglich in spezialisierten Computern und UNIX-Workstations eingesetzt wurden, seither aber universell in den verschiedensten Aufgabengebieten genutzt werden; Intel-Standard-Desktop-Computer sind heute RISC-CISC-Mischformen.
+
+Die erste kommerzielle Architektur stammte von MIPS Technologies, der R2000 (der R1000 wurde nicht verkauft). Der R3000 machte die Architektur erst richtig praktisch, der R4000 schließlich stellte die erste 64-Bit-Architektur der Welt dar. Konkurrierende Projekte brachten die IBM-Power- und Sun-SPARC-Systeme hervor. Bald hatte jeder größere Hersteller ein RISC-Design im Angebot, z. B. den AT&T CRISP, AMD Am29000, Intel i860 und Intel i960, Motorola 88000, DEC Alpha und den HP PA-RISC.
+
+Der Wettbewerb ließ bald die meisten dieser Architekturen verschwinden, wobei IBMs POWER und der davon abgeleitete PowerPC (als die Desktop-RISC-Architektur) und Sun SPARC (nur in Suns eigenen Systemen) blieben. MIPS bietet weiterhin SGI-Systeme an, die Architektur wird aber meist als eingebettetes Design verwendet, z. B. in den Routern von Cisco.
+
+Andere Firmen konzentrieren sich auf Nischenmärkte, allen voran ARM Limited, welche 1989 aus Acorn ausgegliedert wurde. Acorn war ein Hersteller von RISC-Computern, der mit den auf der ARM-Architektur basierenden Modellserien Acorn Archimedes und Acorn Risc PC als einer der ersten auch auf den Heimcomputermarkt abzielte. ARM konzentriert sich jetzt aber auf Prozessoren (siehe auch ARM-Architektur) für eingebettete Systeme.
+
+Design und Fertigung
+Siehe auch: Herstellung von integrierten und mikroelektronischen Schaltkreisen
+Ein Mikroprozessor ist ein Prozessor, bei dem alle Bausteine des Prozessors auf einem Mikrochip vereinigt sind. Die Mikroprozessoren werden aufgrund ihrer unterschiedlichen Anwendungsbereiche an den jeweiligen Einsatzbereich angepasst. Beispielsweise müssen Spezialversionen für Luft- und Raumfahrt besonders hohen Temperaturen und Strahlungsexposition im laufenden Betrieb fehlerfrei standhalten, während Mobilprozessoren eine hohe IPC-Rate, geringe Leckströme und einen niedrigen Energieverbrauch aufweisen müssen. Diesen Bedürfnissen wird auf verschiedene Arten und Weisen Rechnung getragen: So wird bereits mit der Auswahl des Befehlssatzes (CISC oder RISC) eine fundamentale Entwurfsentscheidung getroffen, deren Implikationen in den jeweiligen Spezialartikeln näher erläutert werden. Anschließend wird ein möglichst effizienter Mikrocode entwickelt, der optimal an Randbedingungen wie Cachegrößen, Speicherbandbreite und -latenzen sowie die internen Funktionseinheiten angepasst wird.
+
+Der in einer Hardwarebeschreibungssprache vorliegende logische Entwurf des Mikroprozessors wird sodann an einen Hochleistungscomputer übergeben, der die Leiterbahnen "routet", d. h., eine optimale Anordnung mit möglichst wenig Transistoren sowie minimaler Verlustleistung zu ermitteln sucht (sogenannte Technology Binding oder Technology Mapping). Da diese Routingprobleme NP-vollständig sind, werden meist nur Näherungslösungen gefunden, die sich im Detail noch erheblich verbessern lassen. Aus diesen Bahnberechnungen werden Masken erstellt, die mittels Fotolithografie zur Belichtung von Wafern eingesetzt werden, die anschließend geätzt werden. Die Fertigung eines heutigen Mikroprozessors umfasst weit über 100 Einzelschritte, in deren Verlauf bereits ein einziger Fehler den gesamten Prozessor unbrauchbar machen kann.
+
+In der Endkontrolle werden die Prozessoren schließlich hinsichtlich ihrer Taktfestigkeit klassifiziert, wobei anhand eines für jeden Prozessortyp individuell entwickelten Testprogramms physikalische Eigenschaften wie Signalpegel bei verschiedenen Takten überprüft werden. Hierbei wird besonders auf laufzeitkritische Signalwege auf dem CPU-Die geachtet, um Speed Paths (Fehler durch Signalverzögerungen) zu verhindern.
+
+Allgemein lässt sich feststellen, dass der Validierungsaufwand moderner Prozessoren gewaltige Ausmaße angenommen hat, und trotz aller Anstrengungen nicht alle Fehlersituationen vor der Auslieferung überprüft werden können. Der letzte in allen Funktionen (und Fehlern!) vollständig verifizierte x86-Prozessor war der 80286. Daher liefern alle Hersteller sogenannte Errata-Listen, in denen entdeckte Fehler verzeichnet werden. So musste beispielsweise Intel den berühmt-berüchtigten FDIV-Bug in frühen Pentium-CPUs eingestehen, der auf mehrere fehlende Einträge in einer internen Lookup-Tabelle der FPU zurückzuführen ist.
+
+Im Laufe der Zeit vergrößerte sich aufgrund der immer besser werdenden Technik die Anzahl der vom Prozessor unterstützten Befehle. Heute finden sich überwiegend 32- und 64-Bit-Prozessoren, wobei die gängigsten Betriebssysteme für den Anwender maximal 64, meist aber nur 32 Bit unterstützen. Daran lässt sich schon erkennen, dass die Software im Falle der Prozessoren der Hardware hinterherhinkt. Die in den 1980er Jahren entwickelten 386er waren die ersten 32-Bit-Prozessoren der Intel 80x86-Familie.
+
+Im Jahre 2006 wurde von der Firma ARM der erste kommerzielle ungetaktete, asynchrone Prozessor vorgestellt, der ARM996HS. Da er ohne Taktung auskommt, weist ein asynchroner Prozessor eine im Hochfrequenzbereich geringere und wesentlich weniger prägnante Abstrahlung auf und verbraucht während Prozesspausen keinen nennenswerten Strom.
+
+Variationen
+Im Zuge immer höherer Integrationsdichten der Halbleiterprozesse haben die Entwickler von CPUs weitere Funktionen in die Hardware integriert. Zu den Einheiten, die früher als separate Chips angeschlossen werden mussten und im Laufe der Zeit in die CPU selbst integriert werden konnten, zählen:
+
+die Memory Management Unit zur Speicherverwaltung;
+der numerische Coprozessor für schnellere Rechenoperationen mit Gleitkommazahlen;
+Vektorarithmetikeinheiten, insbesondere für schnelle Grafikbearbeitung – bei Intel unter den Namen MMX, SSE und Nachfolger, beim PowerPC als AltiVec bezeichnet;
+Cache-Speicher, zuerst nur der Level 1, heute zusätzlich Level 2 und auch schon Level 3;
+manchmal der Chipsatz (oder Teile davon) zur Ansteuerung des Arbeitsspeichers;
+manchmal ein Grafikchip zur Anzeigesteuerung;
+bis zu 100 Prozessorkerne auf einem Chip (Mehrkernprozessor, Terascale-Prozessor).[5]
+Mikrocontroller hingegen haben häufig nur wenige Register und einen eingeschränkten Befehlssatz, bei dem Addition und Subtraktion oft schon die komplexesten Operationen sind. Für einfache Anwendungen, wie die Steuerung einer einfachen Maschine, reicht diese Funktionalität jedoch aus, zumal sich höhere Funktionen durch wenige Basisoperationen implementieren lassen, beispielsweise Multiplikation durch Verschieben und Addieren (siehe Russische Bauernmultiplikation). Dafür integrieren Mikrocontroller Peripheriefunktionen und oft auch Arbeitsspeicher mit auf dem Chip.
+
+Siehe auch: Accelerated Processing Unit und Sandy Bridge
+Stromverbrauch
+Lückenhaft	In diesem Artikel oder Abschnitt fehlen noch folgende wichtige Informationen:
+Hier werden primär die Symptome einer hohen Leistungsaufnahme dargestellt. Interessant sind aber die Ursachen, das heißt, durch welche Vorgänge wird denn überhaupt die Leistungsaufnahme bestimmt und welche Möglichkeiten gibt es diese zu verringern.
+Hilf der Wikipedia, indem du sie recherchierst und einfügst.
+Im Zusammenhang mit den steigenden Stromkosten wird der Energieverbrauch von Mikroprozessoren zu einem immer wichtigeren Leistungsmerkmal. Dies gilt vor allem für Großrechnern, Rechenzentren und Serverfarmen sowie bei mobilen Geräten wie Smartphones oder Tabletcomputern. Auch außerhalb von Rechenzentren bieten stromsparende Prozessoren Vorteile. Da die Kühler weniger zu tun haben, werden die Rechner auch leiser. Mitunter können die Computer sogar passiv gekühlt werden. Und im Sommer stellt die von einem PC produzierte Wärme in einem Raum ohne Klimaanlage eine Beeinträchtigung für die dort anwesenden Personen dar.
+
+Früher wurden neue Fertigungstechniken (v. a. Strukturverkleinerungen) vor allem zur Steigerung der Frequenz verwendet; mittlerweile werden sie teilweise eingesetzt, um den bisher stetig steigenden Stromverbrauch wieder zu reduzieren:
+
+Statt immer höherer Taktraten für einen einzigen Rechenkern werden nun bei niedrigerer Frequenz mehrere Rechenkerne in einem Prozessor untergebracht.
+Optimierte Fertigung reduziert Leckströme.
+Aktuelle Mehrkernprozessoren können in ihrem Leistungsbedarf je nach Modell zwischen 45 und 140 Watt liegen (TDP). Es werden auch zunehmend Energiesparfähigkeiten eingebaut, um nicht benötigte Komponenten zeitweise langsamer takten zu können oder ganz abzuschalten. Bzgl. des Gesamt-Stromverbrauchs wird i. A. das Race-to-Idle-Prinzip angewandt. Moderne Prozessoren kennen mitunter sogar einen „Turbo-Modus“, um vorhandene Kühlungsreserven voll auszuschöpfen.
+
+Der Stromverbrauch von Prozessoren ist mit weiteren Folgekosten belastet: Der verbrauchte Strom wird in Wärme umgewandelt, diese muss durch den Lüfter aus dem Rechner abtransportiert werden. Höherer Verbrauch erfordert stärkere Lüfter, die ebenfalls mehr Strom verbrauchen. Ist der Aufstellungsort des Rechners selbst ein klimatisierter Raum, wird auch die Klimaanlage dadurch zusätzlich belastet. Dabei kann man abhängig von der Leistungszahl des Kühlgerätes mit ca. 25–40 % Zusatzverbrauch rechnen, d. h. ein 300-W-PC belastet die Klimaanlage mit 75–120 W höherem Leistungsbedarf. Auch das Netzteil des Rechners muss eventuell größer ausfallen. Ist der Rechner an eine USV angeschlossen, so hat diese abhängig von ihrem Wirkungsgrad ebenfalls einen höheren Eigenverbrauch. Bei vielen Rechnern an einem Ort können auch zusätzliche Investitionskosten für größere Klimaanlagen und größere USV-Anlagen anfallen. Server laufen meist 24 Stunden am Tag, sieben Tage die Woche, also insgesamt 8760 Stunden im Jahr. Um die Energiebilanz von EDV-Systemen zu verbessern, werden unterschiedliche Lösungswege verfolgt. Es wird angestrebt, die Effektivität der Kühlung zu erhöhen (Beispiel: Air Guide), als auch die abgegebene Wärme zu nutzen (Beispiel: Aquasar).
+
+Siehe auch: Green IT
+Kühlung
+→ Hauptartikel: Prozessorkühler
+Moderne CPUs werden – je nach Auslastung – während des Betriebs sehr heiß. Je nach Modell und Hersteller werden pro Quadratzentimeter Verlustleistungen von bis zu 125 Watt erreicht (aktuelle Quadcores). Zum Vergleich: Die 18-cm-Kochplatte eines üblichen Elektroherds erreicht gerade einmal 7–10 W/cm².
+
+CPUs dürfen aber, wie alle Halbleiter, bestimmte Betriebstemperaturen nicht überschreiten, da das zunächst zu Fehlfunktionen („Abstürze“), in extremen Fällen zur Zerstörung des Chips führt (wird bei neueren Prozessoren durch Überhitzungsschutz verhindert). Übliche Grenztemperaturen für den Betrieb liegen zwischen 60 und 90 °C. Temperaturen über etwa 125 bis 135 °C führen zu irreversiblen Schäden. Prozessoren müssen also zwingend gekühlt werden, wobei ein gewisser Sicherheitsabstand zu den vom Hersteller angegebenen Höchstwerten erstrebenswert ist.
+
+Der gängigste Weg, die Kühlung der CPU sicherzustellen, ist die Montage eines Kühlkörpers mit Lüfter. Der verrippte Kühlkörper aus Aluminium oder Kupfer (teilweise kombiniert) vergrößert die Fläche, die zur Wärmeabgabe beiträgt, um ein Vielfaches, der Lüfter soll für einen zügigen Abtransport der Verlustwärme sorgen. Die Bemessung der Kühlung erfolgt häufig nicht nach der theoretisch maximal möglichen Verlustleistung, sondern aus Kostengründen nach der Thermal Design Power (TDP), die deutlich niedriger liegt.
+
+Zwischen Prozessor und Kühlkörper wird Wärmeleitpaste oder ein Wärmeleitpad eingesetzt. Durch Unebenheiten und Rauheit verbleiben zwischen Chip und Kühlkörper Lufteinschlüsse, die den Wärmetransport behindern, die Pasten oder Pads verdrängen diese Luft und verbessern den Wärmeübergang erheblich.
+
+Als Lüfter für den CPU-Kühler werden fast ausschließlich Axiallüfter mit Durchmessern zwischen 40 und 140 mm eingesetzt. Insbesondere kleine Exemplare erreichen Drehzahlen von bis zu 6500/min und können dabei eine erhebliche Geräuschkulisse erzeugen. Die Lüfter werden heute an die Hauptplatine angeschlossen, so dass die Drehzahl überwacht und bei vielen modernen Hauptplatinen auch elektronisch geregelt werden kann.
+
+Als Alternativen zur Luftkühlung gibt es noch die Wasserkühlung für leistungsstarke oder relativ leise Rechner, bei der Wasser inner- oder außerhalb des Rechners in einem Radiator (teilweise auch ohne Lüfter) gekühlt wird und dann mit Hilfe einer Pumpe durch das Gehäuse und an zu kühlenden Objekte wie CPU, manchmal auch zusätzlich an RAM, Chipsatz, Grafikprozessor etc. geleitet wird. Insgesamt ist eine Wasserkühlung aufwändiger, teurer und zumeist wartungsintensiver als eine Luftkühlung. Als erster Computerhersteller verbaute Apple in ihren Power Mac G5 Topmodellen eine standardisierte Wasserkühlung. Zuvor wurden Wasserkühlungen meist nur von Bastlern mit übertakteten Prozessoren in Eigeneinbau verwendet.
+
+Im Industriebereich wird auch Flüssigstickstoffkühlung eingesetzt, die allerdings extrem aufwändig ist. Um flüssig zu sein, muss der Stickstoff auf −196 °C gekühlt werden, was große Kühlaggregate erfordert. Wegen der sehr niedrigen Temperatur im Rechner müssen Hauptplatine und andere Objekte wieder von der Rückseite erwärmt werden, damit sie ordnungsgemäß funktionieren. Diese Technik ist sehr schwierig realisierbar, die Betriebs- und Instandhaltungskosten sind meist höher, als mehrere einzelne Prozessoren parallel zu betreiben. Allgemein gilt es als nicht sinnvoll, eine CPU auf weniger als +10 °C herunterzukühlen, da sonst die Kosten zu hoch werden. Auch haben alle elektronischen Bauteile eine Mindestbetriebstemperatur und an zu stark gekühlten Bauteilen kann sich Kondenswasser niederschlagen, was unbedingt vermieden werden muss.
+
+Flüssigstickstoffkühlung ist jedoch als kurzfristige Lösung zur Aufstellung von neuen Taktfrequenz- und Benchmarkrekorden sinnvoll. Dafür sind auch keine Kühlaggregate notwendig, der Stickstoff wird einfach aus der Flasche nachgefüllt und verdampft. In diesem Fall entfällt auch die Erwärmung der Rückseite, weil die Komponenten während der kurzen für einen Rekordversuch nötigen Zeit meistens auch ohne derartige Maßnahmen funktionsfähig bleiben.
+
+
+Prozessorkühler für Sockel 775 (Intel Pentium D) mit Heatpipe im Vergleich zu einem Kühler für den Sockel 7 (Intel Pentium 1 MMX)
+Einzelne Hersteller verwenden auch Kompressionskältemaschinen. Diese funktionieren ähnlich wie ein Kühlschrank: Ein Kühlmittel wird stark unter Druck gesetzt und die dabei entstehende Wärme abgeführt, beim Ausgleich auf Normaldruck kühlt es weiter ab und kühlt so auch seine Umgebung, sprich Prozessor oder andere Geräte. Diese Lösung wird vor allem bei übertakteten Workstations verwendet, hat aber den Nachteil, auch die Geräuschkulisse eines Kühlschranks zu erzeugen.
+
+Eine weitere Möglichkeit zur Zwangskühlung der CPU bietet das Peltier-Element. Auch hier ist die Gefahr der Bildung von Kondenswasser gegeben. Zudem erzeugt ein Peltier-Element wegen des geringen Wirkungsgrades mindestens noch einmal die gleiche Verlustleistung wie der Prozessor selbst, die zusätzlich abgeführt werden muss. Die „warme“ Seite muss also auch hier per Wasserkühlung oder Kühlkörper mit Lüfter gekühlt werden.
+
+Auch durch den Einsatz einer Ölkühlung kann Wärme abgeführt werden, im PC-Bereich wird dies allerdings bisher nur im experimentellen Umfeld durchgeführt. Für eine Ölkühlung werden meistens keine speziellen Lüfter oder Kühleinrichten an der CPU installiert, sondern einfach das gesamte Motherboard mit installiertem Lüfter in eine Wanne voll Öl getaucht. Hierzu bietet sich nicht leitfähiges, reinstes Mineralöl an.
+
+Engineering Samples / Customer Samples
+Die ersten von einem Hersteller produzierten CPUs werden, ähnlich einem Prototyp, als „Engineering Sample“ oder „Confidential CPU“ an ausgewählte Firmen oder Tester verteilt. Es handelt sich grundsätzlich um voll funktionsfähige Prozessoren, die dem späteren Endprodukt meist in nichts nachstehen. Solche CPUs sind üblicherweise im Handel nicht erhältlich. Erkennbar sind solche CPU-Versionen am Kürzel „ES“ oder dem Aufdruck „Confidential“. Zudem wurden, zumindest in der Vergangenheit von Intel, Prozessoren und ganze Chip-Sätze in „University-Kits“ abgegeben. Die dort enthaltenen Chips hatten den Aufdruck „CS“ und waren in der Regel am Keramikgehäuse beschädigt, vielfach war der Aufdruck schlecht (verrutscht, verschmiert, dubliert). Zu beachten ist, dass die Buchstabenkombination ES oder CS nicht immer Engineering oder Customer Sample bedeuten muss, oftmals ist es auch der Batch-Code oder eine Revisionsbezeichnung.
+
+
+Intel Mobile Pentium 4 mit dem Aufdruck Confidential.
+
+ 
+
+Intel Pentium MMX 166 MHz mit dem Aufdruck ES (sSpec: Q019).
+
+ 
+
+AMD Turion 64 X2 mit dem Aufdruck AMD ENG SAMPLE.
+
+ 
+
+AMD Mobile Athlon XP mit dem Aufdruck Engineering Sample.
+
+ 
+IDT WinChip (Marketing Sample).
+
+Siehe auch
+Liste von Mikroprozessoren
+Literatur
+Thomas Flik: Mikroprozessortechnik und Rechnerstrukturen. Springer-Verlag, Berlin / Heidelberg 2004, ISBN 3-540-22270-7.
+Michael S. Malone: Der Mikroprozessor. Eine ungewöhnliche Biographie. Springer-Verlag, Berlin / Heidelberg 1995, ISBN 3-540-60514-2.
+Thomas Beierlein, Olaf Hagenbruch: Taschenbuch Mikroprozessortechnik. 3. Auflage. Fachbuchverlag Leipzig im Carl Hanser Verlag, Leipzig 2004, ISBN 3-446-22072-0.
+Klaus Wüst: Mikroprozessortechnik: Grundlagen, Architekturen und Programmierung von Mikroprozessoren, Mikrocontrollern und Signalprozessoren. Vieweg und Teubner, 2008, ISBN 978-3-8348-0461-7.
+Dieter Wecker: Prozessorentwurf. 2. Auflage. De Gruyter Oldenbourg-Verlag, 2015, ISBN 978-3-11-040296-4.
+Weblinks
+ Wiktionary: Mikroprozessor – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Commons: Mikroprozessoren – Sammlung von Bildern, Videos und Audiodateien
+25 Microchips that shook the world. Institute of Electrical and Electronics Engineers (englisch) – über die Geschichte der Mikroprozessoren
+Visualisierung verschiedener Adressierungsarten (Adobe Flash)
+Virtuelles Museum für CPU-Bilder (englisch)
+Einzelnachweise
+ Manuel Jiménez: Introduction to Embedded Systems. Springer Science & Business Media, 2013, ISBN 978-1-4614-3143-5, S. 3 (eingeschränkte Vorschau in der Google-Buchsuche).
+ Ray M. Holt: World’s First Microprocessor Chip Set. Ray M. Holt website, archiviert vom Original am 25. Juli 2010; abgerufen am 25. Juli 2010.
+ World’s First Microprocessor. In: firstmicroprocessor.com. 21. April 1998, abgerufen am 9. August 2015.
+ Jivan S. Parab, Vinod G. Shelake, Rajanish K. Kamat, Gourish M. Naik: Exploring C for Microcontrollers: A Hands on Approach. Springer, 2007, ISBN 978-1-4020-6067-0, S. 4 (ee.sharif.edu [PDF]).
+ From a Few Cores to Many: A Tera-scale Computing Research Overview. IBM, 2006, abgerufen am 17. August 2013 (PDF).
+Normdaten (Sachbegriff): GND: 4039232-6
+Kategorien: MikroprozessorRechnerarchitektur
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+Беларуская
+English
+हिन्दी
+Lietuvių
+Polski
+Русский
+Українська
+اردو
+中文
+63 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 20. November 2018 um 14:53 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki

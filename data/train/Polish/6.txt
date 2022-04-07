@@ -1,0 +1,523 @@
+
+Immanuel Kant
+Przejdź do nawigacjiPrzejdź do wyszukiwania
+
+Ten artykuł należy dopracować:
+od 2015-01 → poprawić styl – powinien być encyklopedyczny,
+od 2015-10 → dodać przypisy do treści niemających odnośników do źródeł.
+Dokładniejsze informacje o tym, co należy poprawić, być może znajdują się w dyskusji tego artykułu.
+Po wyeliminowaniu niedoskonałości należy usunąć szablon {{Dopracować}} z tego artykułu.
+Immanuel Kant
+Ilustracja
+Data i miejsce urodzenia	22 kwietnia 1724 
+Królewiec
+Data i miejsce śmierci	12 lutego 1804 
+Królewiec
+Narodowość	niemiecka
+Immanuel Kant signature.svg
+Commons	Multimedia w Wikimedia Commons
+Źródła	Teksty w Wikiźródłach
+Wikicytaty	Cytaty w Wikicytatach
+Immanuel Kant (ur. 22 kwietnia 1724 w Królewcu, zm. 12 lutego 1804 tamże) – niemiecki filozof oświeceniowy, profesor logiki i metafizyki na Uniwersytecie Albrechta w Królewcu.
+
+Immanuel Kant jest twórcą filozofii krytycznej (transcendentalnej), zakładającej, że podmiot jest poznawczym warunkiem przedmiotu. Podstawowymi cechami jego koncepcji filozoficznej są: agnostycyzm poznawczy względem tak zwanych noumenów (rzeczy samych w sobie, np. Boga, materii) oraz aprioryzm w stosunku do zjawisk.
+
+Jego głównym wkładem w filozofię zachodnią było zniesienie opozycji pomiędzy racjonalizmem (por. Kartezjusz) a empiryzmem (por. Hume). Do osiągnięć kantyzmu odwołuje się między innymi neokantyzm (kontynuacja), fenomenologia (rewizja) oraz pozytywizm logiczny (opozycja).
+
+
+Spis treści
+1	Życiorys
+2	Poglądy filozoficzne
+2.1	Streszczenie filozofii Kanta
+2.2	Teoria sądów
+2.3	Filozofia transcendentalna
+2.4	Czas i przestrzeń
+2.5	Kategorie
+2.6	Podmiot a przedmiot
+2.7	Idee regulatywne
+2.8	Etyka – imperatyw kategoryczny i imperatyw obowiązku
+2.8.1	Imperatyw kategoryczny
+2.8.2	Imperatyw obowiązku
+3	Wpływy
+4	W skrócie
+5	Projekt wiecznego pokoju
+6	Dzieła
+6.1	Dzieła przedkrytyczne
+6.2	Dzieła krytyczne
+6.3	Inne dzieła
+6.4	Publikacje pośmiertne
+6.5	Polskie przekłady dzieł
+7	Literatura
+8	Zobacz też
+9	Przypisy
+10	Bibliografia
+11	Linki zewnętrzne
+Życiorys
+
+Immanuel Kant na znaczku
+Immanuel Kant przez całe życie związany był z Królewcem (obecnie: Kaliningrad). Jego ojciec był rzemieślnikiem, a matka córką pochodzącego ze Szkocji rymarza. W dzieciństwie Kant otrzymał surowe luterańskie wykształcenie. Dom rodzicielski i Collegium Fridericianum, do którego uczęszczał, znajdowały się pod wpływem pietyzmu (zwłaszcza kazań Franza Alberta Schultza[1]).
+
+W 1740 roku jako szesnastoletni chłopiec rozpoczął studia filozoficzne na Uniwersytecie Albrechta w Królewcu. Na uniwersytecie, gdzie głównie poświęcał się studiom przyrodniczym, zetknął się po raz pierwszy z filozofią oświecenia pod wpływem Knutzena, ucznia Wolffa. Studia uniwersyteckie zamknął pracą pt. Gedanken von der wahren Schützung der lebendigen Kräfte (1746). Zgłębiał między innymi koncepcję Leibniza. W 1746 roku był zmuszony przerwać naukę w związku ze śmiercią ojca.
+
+W latach 1746-1755 zarabiał na życie podejmując się prowadzenia prywatnych lekcji w okolicznych miejscowościach, co pozwoliło mu poznać elitę pruskiego społeczeństwa[2], a jednocześnie kontynuował własne badania filozoficzne i co kilka lat publikował nowe prace – pierwsza ukazała się w 1749 roku.
+
+W 1755 wydał anonimowo pracę Allgemeine Naturgeschichte und Theorie des Himmels. W tym samym roku wydał pracę magisterską: Meditationum quarundam de igne succincta delineatio i habilitował się na podstawie pracy Principiorum primorum cognitionis methaphysicae nova dilucidatio, w której starał się powiązać teorię Newtona z nauką Leibniza. Po śmierci Knutzena starał się bezskutecznie o katedrę po nim, pisząc w tym celu dysertację Monadologia physica (1756). Prócz tego w tym okresie, tzw. przedkrytycznym, Kant napisał kilka prac z dziedziny estetyki, etyki, teologii i metafizyki.
+
+W 1755 roku zdołał zyskać etat na uczelni, początkowo jako Privatdozent. Ponieważ pensja uczelniana przy tym stanowisku nie była wysoka, nadal prowadził prywatne lekcje. Podobno komentował to słowami, że lubi towarzystwo pięknych i wykształconych kobiet. Mimo tego do końca życia pozostał kawalerem. Przeszedł przez wszystkie szczeble kariery uniwersyteckiej nim w 1770 roku, będąc czterdziestopięcioletnim mężczyzną, objął katedrę logiki oraz metafizyki Uniwersytetu Królewieckiego, dzięki pracy De mundi sensibilis atque intelligibilis forma et principiis (1770). Był już wówczas uznanym wykładowcą i wpływowym filozofem. W tym czasie w jego myśleniu dokonał się zwrot ku filozofii krytycznej.
+
+Praca pedagogiczna na uczelni bardzo go absorbowała – zarzucił ją dopiero na trzy lata przed śmiercią. Pomimo tego znajdował czas na prowadzenie samodzielnych badań filozoficznych. Spędził na nich następną dekadę, czego efektem była publikacja napisanej w scholastycznym języku obszernej Krytyki czystego rozumu w 1781 roku – jednego spośród ważniejszych dzieł w historii filozofii. Ponieważ ta praca spotkała się z małym odzewem, w 1783 roku Kant wydał skromniejsze objętościowo i bardziej przystępne Prolegomena, zawierające wykład jego głównych idei. Pozostałe publikacje Kanta z okresu krytycznego to Uzasadnienie metafizyki moralności z 1785 roku, będące uproszczoną wersją Krytyki praktycznego rozumu z 1788 roku, oraz Krytyka władzy sądzenia z 1790 roku. W swych dziełach zajął się kolejno teorią poznania, etyką oraz estetyką. Pod koniec tego okresu pozostawał Kant pod wpływem empiryzmu Hume’a.
+
+Jego uczniowie – w tym Reinhold, Beck i Fichte – przeszli od kantyzmu do radykalnego w formie idealizmu. W 1799 roku Kant napisał list otwarty do Fichtego, w którym potępił takie praktyki. Uważa się, że było to jego ostatnie wystąpienie filozoficzne.
+
+Dzięki Kantowi prowincjonalny Uniwersytet w Królewcu stał się uznaną uczelnią. Niezachowany dom Kanta znajdował się przy Prinzessinenstr na Woli Zamkowej. W dawnej katedrze królewieckiej, w której został pochowany i gdzie zachowało się jego mauzoleum (proj. Friedrich Lahrs 1923), znajduje się Muzeum Kanta, pamiątki z nim związane gromadzi też Museum Stadt Königsberg w Duisburgu.
+
+Poglądy filozoficzne
+Kant poddał dotychczasowe osiągnięcia filozofii przeglądowi oraz krytycznej ocenie. Podejście takie nazywał idealizmem transcendentalnym (krytycznym). Polegało ono na badaniu elementarnych warunków, jakie muszą być spełnione, aby możliwe było przeprowadzanie jakichkolwiek innych badań. Największym jego dokonaniem była rewizja dotychczasowych koncepcji w dziedzinie epistemologii.
+
+Streszczenie filozofii Kanta
+Na potrzeby formułowania swojej koncepcji Kant został zmuszony od podstaw wypracować swój język filozoficzny. Za podstawę przyjął brak jakichkolwiek wstępnych założeń z wyjątkiem uznania zasad elementarnej logiki. Badania takie nazywał transcendentalnymi, ponieważ dokonuje się w nich wykroczenie poza zastaną wiedzę. Poszukując sądów, które byłyby bezwyjątkowo prawdziwe, a zarazem niosły wiedzę o świecie, stworzył teorię bazującą na tak zwanych sądach syntetycznych a priori. Zdaniem Kanta występują one w arytmetyce oraz geometrii i traktują o dwóch nieredukowalnych składnikach naszych wrażeń: czasie oraz przestrzeni. Istotą jego koncepcji było jednak to, iż uznał, że sądy takie pojawiają się też w klasycznej metafizyce.
+
+Czas i przestrzeń są formami, w które zostają wtłoczone nasze wrażenia zmysłowe. Innym rodzajem form są kategorie, pozwalające na pojęciowe ujmowanie przedmiotów. Dwie główne to przyczyna i substancja. Tym, co możemy poznawać, czyli fenomenami, są zjawiska zapośredniczone przez zmysły i ujęte w czasowe, przestrzenne, przyczynowe oraz substancjalne formy. O tym, co się za nimi kryje – rzeczach samych w sobie, czyli noumenach – nie wiemy nic.
+
+Nasz rozum spekulatywny tworzy idee Boga, duszy i kosmosu. Naturalną ludzką potrzebą jest zgłębianie tych idei, ale prowadzi ono na manowce. Nie sposób przejść od codziennego doświadczenia do tych konstruktów. One również należą do noumenów. Nic o nich nie wiemy. Takie stanowisko nazywa się agnostycyzmem poznawczym.
+
+Obok rozumu spekulatywnego istnieje rozum praktyczny. Jego domeną są prawdy o charakterze regulatywnym, czyli – innymi słowy – normatywnym. Mają one charakter aprioryczny, są więc równie niepodważalne, jak sądy matematyki, lecz dotyczą sfer moralności oraz estetyki. Najogólniejsza spośród tych zasad – imperatyw kategoryczny – mówi, że należy postępować zawsze wedle takich reguł, co do których chcielibyśmy, aby były one stosowane przez każdego i zawsze.
+
+Rozum praktyczny tworzy postulaty. Należą do nich tezy o istnieniu wolnej woli, nieśmiertelnej duszy oraz Boga. Wolna wola jest konieczna, żeby zasady moralne miały sens. Nieśmiertelna dusza, aby możliwe było nieskończone dążenie do doskonałości moralnej. Bóg, by doskonałość moralna i szczęście mogły współistnieć. Doskonałość moralna i jej jedność ze szczęściem nie przejawiają się w świecie naszych doświadczeń. Są one właściwe wspomnianym bytom wyższym. Rozum praktyczny radzi sobie z problemami, które nie leżą w mocy idei rozumu spekulatywnego, za pomocą postulatów.
+
+Teoria sądów
+Kant zaczął od poszerzenia arystotelesowskiej teorii logiki o nowy podział sądów na:
+
+sądy analityczne, czyli takie, które w orzeczeniu wypowiadają jedynie to, co jest zawarte w podmiocie – mają charakter definicji i służą objaśnieniu posiadanej już wiedzy;
+sądy syntetyczne, czyli takie, których orzeczenie wykracza poza podmiot – które rozszerzają naszą wiedzę;
+oraz:
+
+sądy a priori, czyli takie, które są niezależne od doświadczenia – mają swe źródło w umyśle;
+sądy a posteriori, czyli takie, które można wywieść z doświadczenia.
+Te dwa podziały krzyżują się ze sobą.
+
+Wszystkie sądy o charakterze metafizycznym są aprioryczne. Są wśród nich analityczne (te nazywał sądami należącymi do metafizyki) oraz syntetyczne (metafizyczne we właściwym sensie). Pierwsze są środkami do uzyskiwania drugich. Sądy syntetyczne a posteriori oraz sądy analityczne a priori nie budzą wątpliwości. Pierwsze wywodzą się z doświadczenia, drugie zaś opierają się na umowach ułatwiających porozumiewanie się. Sądy analityczne są pewne i powszechne, ale nie poszerzają ludzkiej wiedzy. Sądy empiryczne, czyli syntetyczne a posteriori, powiększają wiedzę, lecz nie są pewne ani powszechne. Kant – podobnie jak poprzednicy – szukał wiedzy, która byłaby powszechna i pewna. Znalazł ją w sądach syntetycznych a priori.
+
+Podział sądów według Kanta
+sądy	a priori	a posteriori
+analityczne	oparte na zasadzie niesprzeczności; objaśniają posiadaną wiedzę i mają charakter definicji	objaśniają posiadaną wiedzę na podstawie doświadczenia
+syntetyczne	sądy metafizyki we właściwym sensie; dostarczają wiedzy powszechnej i pewnej	wywiedzione z doświadczenia; poszerzają naszą wiedzę; występują w przyrodoznawstwie
+Filozofia transcendentalna
+
+Strona tytułowa Krytyki czystego rozumu z 1781 roku
+Empirycy negowali poznanie, które zawierało w sobie sądy syntetyczne a priori, racjonaliści zaś odwrotnie – szukali elementarnych sądów syntetycznych a priori, z których dałoby się wywieść całą wiedzę. Kant uznał, że obie strony były w błędzie.
+
+Empirycy mylili się, twierdząc, jakoby eksperymentator był biernym obserwatorem. W istocie tworzy on teorię na bazie arbitralnie przyjętych podstawowych sądów syntetycznych a priori, a dopiero ta teoria umożliwia mu wykonywanie eksperymentów i wyciąganie z nich wniosków. To ona decyduje, co uznajemy za fakt eksperymentalny, a co odrzucamy jako zakłócenie eksperymentu. Stosowanie czystego empiryzmu, czyli obserwacji pozbawionej teoretycznych założeń, może dać w efekcie co najwyżej zbiory danych, z których zupełnie nic nie będzie wynikało.
+
+Racjonalistom nie udało się natomiast znaleźć żadnego pewnego sądu syntetycznego a priori, któremu nie można by było zaprzeczyć, a ich systemy zawierały wewnętrzne sprzeczności. Słynne kartezjańskie myślę, więc jestem to w istocie sąd syntetyczny a priori, bo wymaga przyjęcia założeń co do tego, czym jest myśl i co to znaczy być. Gdyby jednak nawet przyjąć jakieś założenia odnośnie do tych dwóch pojęć, na każdym etapie rozumowania trzeba by dodawać kolejne ukryte założenia, aby móc kontynuować tok myślowy, którym podążał Kartezjusz. Co więcej, jeżeli zmienimy założenia wyjściowe, będziemy mogli poprowadzić te rozważania w dowolnym innym kierunku. Są one zatem w swej istocie bezwartościowe.
+
+Mimo to przyjmujemy jakieś założenia, a więc sądy syntetyczne a priori, i opieramy na nich naszą wiedzę. Sądów tych nie sposób dowieść empirycznie – możemy je uznawać jedynie na drodze rozumowej, a jedynym rodzajem prawdziwości, jaką rozum jest im w stanie przypisać, jest tak zwana prawda konieczna. W tym miejscu pojawiają się dwa podstawowe pytania: Czy metafizyka jest w ogóle możliwa? oraz: W jaki sposób możliwe jest poznanie płynące z czystego rozumu?
+
+W Krytyce czystego rozumu Kant odpowiadał na pierwsze spośród nich w sposób syntetyczny – badając czysty rozum u jego źródeł. Czytelnikowi trudno jest śledzić te wywody, bo musi wmyślać się w system, który nie zakłada niczego prócz samego rozumu. W Prolegomenach filozof z Królewca przyjął łatwiejsze w percepcji podejście analityczne. Ponieważ wiemy, że istnieją czysta matematyka oraz czyste przyrodoznawstwo, i obie te nauki zawierają twierdzenia bezwzględnie pewne, a zarazem niezależne od doświadczenia, to nie ulega wątpliwości, iż możliwe jest poznanie syntetyczne a priori. Dla Kanta takim rodzajem poznania była również metafizyka.
+
+Drugie spośród wymienionych tu pytań wyrażone w postaci ścisłej brzmi: W jaki sposób możliwe są zdania syntetyczne a priori? Kant rozbija je na pytania o możliwości: czystej matematyki, czystego przyrodoznawstwa, metafizyki w ogóle oraz metafizyki jako nauki. W ten sposób pojawia się koncepcja zwana idealizmem transcendentalnym, którą Kant wolał określać terminem idealizm krytyczny. Tworzący ją zabieg polegał na myślowym wykroczeniu poza sferę przedstawień, aby odkryć to, co je konstytuuje. Omówienie tego procesu myślowego zawierają cztery kolejne części niniejszego artykułu, traktujące o czasie i przestrzeni, kategoriach, podmiocie i przedmiocie oraz ideach regulatywnych.
+
+Czas i przestrzeń
+Początkowo Kant uznawał, podobnie jak Gottfried Leibniz, że czas i przestrzeń są relacyjne, tzn. mają sens jedynie w odniesieniu do różnych ciał, podobnie jak ruch. Później zaczął popierać Newtona i Clarke’a, uznając absolutny czas i przestrzeń. Powoływał się przy tym na szwajcarskiego matematyka i fizyka Leonharda Eulera – absolutna przestrzeń i czas miały być warunkiem powszechności i wieczności praw fizyki[3].
+
+Kant zauważył, że matematyka to logiczna analiza stosunków czasowych (arytmetyka) lub przestrzennych (geometria). Odpowiedź na pytanie o sądy syntetyczne a priori tkwiła zatem w odpowiedzi na pytanie o to, dlaczego stosunki czasowe oraz przestrzenne wydają się nam takie pewne – dużo pewniejsze od danych empirycznych. Kant uznał, że jeżeli wykroczymy myślowo poza sferę przedstawień, pozostaną nam dwa czynniki, których nie uda się nam wyeliminować: przestrzeń i czas. Na tej podstawie stwierdził on, że czas i przestrzeń nie należą do świata materialnego, lecz są formami poznania – sposobami, w jaki ludzki umysł grupuje i układa docierające do niego wrażenia.
+
+Te formy poznania uznał on za wyobrażenia a priori – wbudowane w nasz aparat poznawczy. Przestrzeń i czas nie są wyobrażeniami empirycznymi. Nie sposób usunąć ich z myśli i wyobrazić sobie, że ich nie ma, choć można sobie przedstawić przestrzeń i czas bez przedmiotów. Skoro czas i przestrzeń są formami naszego poznania, to żadne zjawisko nie może być nam dane poza nimi. Jakie są rzeczy w sobie, tego nie wiemy i nie dowiemy się. Nasze zmysły odbierają wrażenia, ale i te nie są nam bezpośrednio dane, lecz ujęte w czasoprzestrzenną formę. Czas i przestrzeń to aprioryczne formy zmysłowości.
+
+Ta paradoksalna myśl, że intuicje czasu i przestrzeni są niejako wbudowane w nasz aparat poznawczy, mimo iż później często atakowana, przyczyniła się do rozwoju matematyki i fizyki. Rozwój geometrii nieeuklidesowej, nowych rodzajów algebry, logiki matematycznej i wbudowywanie tych dokonań matematyki w teorie fizyczne – zwłaszcza w ogólną teorię względności oraz teorię kwantów – były często inspirowane ideą poszukiwania nowych form poznania w sensie kantowskim.
+
+Kategorie
+
+Schemat ilustrujący powstawanie fenomenów – konstruktów wywodzących się z wrażeń zmysłowych, które zostają ujęte w czasoprzestrzenne, a następnie pojęciowe formy. Rzeczy same w sobie, czyli noumeny, do których należy między innymi idea Boga, są ze swej zasady niepoznawalne. Obszar wewnątrz okręgu reprezentuje umysł; na zewnątrz – transcendencję.
+Zgodnie z koncepcją Kanta myślenie to – po pierwsze – zdolność tworzenia pojęć oraz – po drugie – zdolność wyciągania wniosków. Władzę poznawczą odpowiedzialną za pierwsze nazwał rozsądkiem („Verstand”), a za drugie – rozumem („Vernunft”). Według niego nie tylko zmysłowość, ale też rozsądek ma swe aprioryczne formy. Aby przyobleczone w czasoprzestrzenną formę wrażenia stały się dostępne dla naszego umysłu, muszą zostać pojęciowo zorganizowane. Zmysły dostarczają nam różnorodnych wyobrażeń – rozsądek je zespala.
+
+Rozsądek to zdolność łączenia a priori. Służą mu do tego specyficzne narzędzia – czyste pojęcia rozsądku, czyli kategorie. Kant wyszczególnił stosunkowo skomplikowaną ich typologię. Dzielą się one u niego na cztery główne grupy:
+
+ilości
+jakości
+stosunku
+modalności
+Istotne role pełnią należące do grupy kategorii stosunku kategorie przyczyny oraz substancji. To dzięki nim możliwe jest scalanie oderwanych od siebie wyobrażeń w kompleksy zwane fenomenami. W sumie wszystkich kategorii było według Kanta dwanaście – po trzy w każdej grupie – i odpowiadało im dwanaście rodzajów sądów.
+
+Podmiot a przedmiot
+Wcześniejsza filozofia zakładała przeciwieństwo zachodzące pomiędzy podmiotem a przedmiotem. U Kanta podmiot poznania stał się warunkiem przedmiotu poznania. Tym, co poznajemy, są fenomeny – konstrukty wywodzące się z wrażeń zmysłowych, które zostają ujęte w czasoprzestrzenne, a następnie pojęciowe formy. Od rzeczy w sobie (noumenów), czymkolwiek by one były, oddzielają nas trzy sfery: zmysłów, apriorycznych form zmysłowości oraz apriorycznych form rozsądku.
+
+Dotychczas starano się dochodzić istoty rzeczy. Kant przeniósł punkt ciężkości dociekań filozoficznych na badanie warunków poznania rzeczy. Idealizm krytyczny różni się od zwykłego tym właśnie, że zwraca się ku analizie mechanizmów poznawczych. Poprzednicy Kanta uważali, że doświadczenie umożliwia pojęcia – on to odwrócił, stwierdzając, iż to pojęcia umożliwiają doświadczenie. Zabieg ten nazywany jest przewrotem kopernikańskim w filozofii. Określenie to jest jednak późniejsze i nie pochodzi od Kanta[4].
+
+Idee regulatywne
+Na tych podstawach Kant uznał, że o bycie jako całości nie da się powiedzieć niczego pewnego. Każdemu sądowi syntetycznemu a priori można zawsze przeciwstawić sąd przeciwny – każdej tezie odpowiada antyteza. Nigdy nie będzie obiektywnych kryteriów, pozwalających na ustalenie, które człony takich par są prawdziwe. Tezie Bóg istnieje można przeciwstawić antytezę Bóg nie istnieje i nie sposób rozstrzygnąć na drodze spekulatywnej, która spośród nich jest prawdziwa, a która fałszywa.
+
+Sławna stała się kantowska krytyka tradycyjnych dowodów na istnienie Boga. Dowód ontologiczny głosił, że fakt istnienia Boga wynika z istnienia pojęcia Boga (por. św. Anzelm). Dowód kosmologiczny – występujący w rozmaitych wariantach i odnoszący się do pojęcia przyczynowości – wnosił o istnieniu Boga z faktu istnienia świata (por. św. Tomasz). Na pierwszy Kant odpowiedział, że z pojęcia jakiegoś przedmiotu można co najwyżej wnosić o możliwości jego istnienia. Na drugi odparł, że obowiązującej w świecie fenomenów zasady przyczynowości nie można stosować poza jego obrębem. W podobny sposób przebiegała jego krytyka innych dowodów. Nie sposób dowieść istnienia Boga, ale i nie sposób wykazać, że on nie istnieje.
+
+Nie da się ani potwierdzić, ani zanegować żadnych sądów dotyczących Boga, wszechświata i duszy. Niemniej jednak Kant nie odrzucił tych idei. Przyjął, że mają one charakter regulatywny. Tak jak kategorie są wytworami rozsądku, tak idee Boga, duszy itd. są produktami rozumu. Te pierwsze tworzą (konstytuują) nasze doświadczenie, te drugie zaś organizują je w ostateczną całość – nadają mu sens. Trzy wspomniane tu idee stanowią podstawę metafizyki. Mamy naturalną potrzebę ich tworzenia oraz dociekania ich istoty, ale badania te są skazane na niepowodzenie. Idee rozumu wyznaczają kres poznania. Dalej jest już tylko spekulacja. Taką postawę filozoficzną nazywa się agnostycyzmem. (Kant, krytykując dotychczasowe dowody istnienia Boga i uznając całkowitą niedowodliwość Jego istnienia, sam napisał rozprawę, mającą na celu znalezienie nowego, zgodnego z dialektyką transcendentalną dowodu istnienia Boga).
+
+Etyka – imperatyw kategoryczny i imperatyw obowiązku
+
+Popiersie Immanuela Kanta dłuta Friedricha Hagemanna (1773–1806) – Friedrichswerdersche Kirche w Berlinie
+Dotychczasowa filozofia stawiała sobie za cel dowiedzenie istnienia Boga oraz nieśmiertelnej duszy, aby na tych podstawach ufundować powszechnie obowiązujące zasady etyczne. Żaden jednak dowód na istnienie bytu transcendentnego nie był odporny na krytykę. Nie sposób wykazać, że idee te faktycznie istnieją, ale można założyć, iż tak jest, i budować system etyczny na tych postulatach. Kant, zamiast dowodzić istnienia duszy czy Boga, zadowolił się postulowaniem faktów ich istnienia.
+
+Imperatyw kategoryczny
+Rozum czysty (teoretyczny) nie jest w stanie uporać się z problemami metafizycznymi. Może się nimi zająć natomiast kolejna instancja poznawcza – rozum praktyczny. Rozum teoretyczny wytwarza idee – rozum praktyczny operuje na postulatach.
+
+Największe znaczenie ma tak zwany imperatyw kategoryczny, czyli bezwzględny nakaz. Głosi on:
+
+Quote-alpha.pngPostępuj wedle takich tylko zasad, co do których możesz jednocześnie chcieć, żeby stały się prawem powszechnym.
+Jest to jedyna zasada moralna, jaką Kant przyjmuje. Ma ona charakter formalny: nie mówi, co robić i jak – podaje tylko ogólną regułę.
+
+Aby mogła istnieć moralność z jej nakazami i zakazami, człowiek musi być wolny, gdyby bowiem był zdeterminowany, nauki moralne byłyby zbędne. Nie da się udowodnić, że wolność istnieje, ale można jej istnienie założyć, czyli właśnie postulować. Kolejnymi postulatami rozumu praktycznego są: nieśmiertelność duszy oraz istnienie Boga. Dzięki nim możliwe staje się dążenie do moralnej doskonałości oraz związane z tym poczucie szczęścia.
+
+Zdaniem Kanta wszelkie normy moralne można wywieść z imperatywu kategorycznego. Taki pogląd stał się obiektem krytyki, ponieważ imperatyw kategoryczny zdawał się nie rozstrzygać, co należy robić w sytuacji konfliktu interesów.
+
+Imperatyw obowiązku
+Chcąc wskazać wyjście z podobnych dylematów, Kant uwzględnił jeszcze jedną formę umysłu praktycznego, nazwaną przezeń zmysłem obowiązku. Jest ona narzucana ludziom w procesie wychowania i wynika z miejsca, jakie przyszło nam zajmować w społeczeństwie. Regułę tę wyraża imperatyw obowiązku:
+
+Quote-alpha.pngPostępuj tak, jakby zasada twojego postępowania miała się stać siłą twej woli ogólnym prawem.
+Według późnego Kanta moralne jest to, co jest czynione z obowiązku. To zaś, co się robi z własnej ochoty, jest albo obojętne moralnie – jeżeli nie stoi w sprzeczności z naszymi obowiązkami – albo naganne – jeśli stoi.
+
+Wpływy
+Koncepcje Kanta miały wielki wpływ na filozofię zachodnią. Już za jego życia znalazły odbicie – nie zawsze zgodne z jego intencjami – w pracach Reinholda, Becka i Fichtego, później zaś – Schellinga, Hegla oraz Novalisa. Po filozofii krytycznej nie sposób już było ujmować pojęć takich jak absolut, Bóg czy istota na sposób, w jaki czyniono to przed Kantem: kantyzm dał początek ruchowi filozoficznemu, który zyskał miano idealizmu niemieckiego.
+
+Pierwszym poważniejszym krytykiem kantyzmu był Hegel. Uznał on tę filozofię za nazbyt formalną, abstrakcyjną i – przede wszystkim – ahistoryczną. Przeciwstawił jej koncepcję bazującą na wykrytym przez siebie prawie dialektyki. Dla odmiany Schopenhauer tworzył pod znacznym wpływem kantowskiego idealizmu transcendentalnego.
+
+Pośród filozofów dwudziestowiecznych do Kanta nawiązywali w koncepcjach politycznych oraz etycznych między innymi Habermas oraz Rawls, a autentyczne odrodzenie jego myśli miało miejsce w pracach neokantystów: Cohena, Natorpa, Hartmanna i Cassirera.
+
+Kant wpłynął też na intuicjonistów matematycznych. Przeciwstawiali się koncepcjom głoszonym przez logicystów (np. Fregego czy Russella) oraz formalistów (np. Hilberta).
+
+W skrócie
+Przestrzeń i czas to, według Kanta, formy zmysłowej naoczności.
+Wszystko, każda rzecz, którą widzimy, ma dla nas wymiary przestrzenne i zajmuje określone miejsce w czasie.
+Sposób ludzi na postrzeganie wszystkiego w trójwymiarowej przestrzeni i w czasie jest jedyną dostępną nam formą widzenia świata.
+Jedynym dostępnym sposobem myślenia jest używanie pojęć takich jak: stałość ⇔ zmienność; jedność ⇔ wielość; przyczyna ⇔ skutek.
+Projekt wiecznego pokoju
+Opracowany przez Kanta Projekt Wieczystego Pokoju (Zum ewigen Frieden)[5] z 1795 formułuje postulaty dla osiągnięcia trwałego pokoju między państwami:
+
+Artykuły preliminaryjne (przygotowawcze):
+
+„żaden traktat pokoju nie będzie poczytany za ważny, jeśli potajemnie zachowa się w nim materiał, który mógłby posłużyć jako zalążek przyszłej wojny”
+„żadne samoistne państwo (małe czy też duże, to rzecz obojętna) nie może być nabyte przez jakieś inne państwo drogą spadku, zamiany, kupna lub darowizny, gdyż jest ono społecznością ludzi, której nikt – prócz niego samego – nie może rozkazywać i dysponować nią.”
+„wojska regularne (łac. miles perpetuus dosł. „wieczny żołnierz”) winny być z czasem zupełnie zniesione”
+„w związku z zewnętrznymi zatargami państwa nie powinny być zaciągane żadne długi państwowe”
+„żadne państwo nie powinno mieszać się przemocą do ustroju i rządów innego państwa”
+„żadne państwo w stanie wojny z innym państwem nie może sobie pozwolić na takie wrogie kroki, które musiałyby uniemożliwić wzajemne zaufanie w przyszłym pokoju, jak: wynajmowanie skrytobójców (percussores), trucicieli (venefici), łamanie warunków kapitulacji, nakłanianie do zdrady (perduellio) w kraju, z którym prowadzi się wojnę itp.”
+Artykuł 2 i 5 wydają się protestem przeciw rozbiorom Polski.
+
+Artykuły definitywne (ostateczne):
+
+„ustrój obywatelski w każdym państwie powinien być republikański” (podział władz)
+„prawo międzynarodowe powinno opierać się na federacji wolnych państw”
+„ogólnoświatowe prawo obywatelskie powinno być ograniczone do warunków powszechnej gościnności”
+Dalej następują dwa uzupełnienia – „o gwarancji wiecznego pokoju” i „tajny artykuł do wiecznego pokoju”, oraz dwa dodatki, w których autor porusza stosunek moralności do polityki, przyznając pierwszeństwo tej pierwszej.
+
+Dzieła
+Dzieła przedkrytyczne
+Pierwsza faza
+1749: Gedanken von der wahren Schätzung der lebendigen Kräfte – pierwsza praca wydana drukiem
+1755: Allgemeine Naturgeschichte und Theorie des Himmels
+1755: Principiorum primorum cognitionis metaphysicae nova dilucidatio (Neue Erhellung der ersten Grundsätze metaphysischer Erkenntnisse) – praca habilitacyjna
+Druga faza
+1763: Untersuchung über die Deutlichkeit der Grundsätze der natürlichen Theologie und Moral – praca napisana na konkurs Akademii Berlińskiej – nie uzyskała nagrody
+1763: Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes
+1763: Versuch den Begriff der negativen Größen in die Weltweisheit einzuführen
+1764: Beobachtungen über das Gefühl des Schönen und Erhabenen
+1766: Träume eines Geistersehers, erläutert durch Träume der Metaphysik
+Trzecia faza
+1770: De mundi sensibilis atque intelligibilis forma et principiis (Über die Form und die Prinzipien der sinnlichen und intelligiblen Welt) – praca broniona przed objęciem katedry (O formie i zasadach świata)
+Dzieła krytyczne
+1781: Kritik der reinen Vernunft (Krytyka czystego rozumu) – zmienione i poprawione drugie wydanie ukazało się w 1787 roku
+1783: Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können (Prolegomena do wszelkiej przyszłej metafizyki, która będzie mogła wystąpić jako nauka)[6].
+1785: Grundlegung zur Metaphysik der Sitten (Uzasadnienie metafizyki moralności)
+1788: Kritik der praktischen Vernunft (Krytyka praktycznego rozumu)
+1790: Kritik der Urteilskraft (Krytyka władzy sądzenia)
+1797: Metaphysik der Sitten (Metafizyka moralności)
+Inne dzieła
+1784: Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht
+1786: Metaphysische Anfangsgründe der Naturwissenschaft
+1793: Die Religion innerhalb der Grenzen der bloßen Vernunft (Religia w obrębie samego rozumu)
+Publikacje pośmiertne
+1882–1884: Reflexionen (wyd. Erdmann)
+1889–1899: Lose Blätter (wyd. Reicke)
+Polskie przekłady dzieł
+Ważniejsze przekłady polskie
+Projekt wiecznego pokoju. Rozwaga filozoficzna Józef Władysław Bychowiec
+Krytyka czystego rozumu, tłum. Piotr Chmielowski (1904) lub Roman Ingarden
+Krytyka praktycznego rozumu, tłum. Feliks Kierski, (1911)
+Krytyka władzy sądzenia, tłum. Jerzy Gałecki (1986)
+Metafizyczne podstawy nauki o cnocie, tłum. Włodzimierz Galewicz (2004)
+Metafizyczne podstawy nauki prawa, tłum. Włodzimierz Galewicz (2006)
+Metafizyka moralności, tłum. Ewa Nowak (2005)
+Religia w obrębie samego rozumu, tłum. Aleksander Bobko (2007)
+Literatura w języku polskim
+Fr. Paulsen: Kant i jego nauka (tłumaczenie polskie 1903)
+Adam Żółtowski: Filozofia Kanta (1923)
+Stefan Harassek: Kant w Polsce przed rokiem 1830 (1916)
+Literatura
+Siegfried Marck, 1917, Kant und Hegel. Eine Gegenüberstellung ihrer Grundbegriffe, Tübingen.
+Karl Vorländer, 1924, Immanuel Kant. Der Mann und das Werk, Leipzig, 1992 Hamburg, 2003 Wiesbaden
+Tadeusz Kroński, 1966, Kant, Warszawa.
+W. Gromiec, 1976, Kant – podmiot, osoba, państwo celów, Wrocław.
+Marek Jan Siemek, 1977, Idea transcendentalizmu u Fichtego i Kanta, Warszawa.
+Friedrich Wilhelm Joseph von Schelling, 1979, System idealizmu transcendentalnego, Warszawa.
+Otfried Höffe, 1994, Immanuel Kant, Warszawa.
+Leszek Kołakowski, 2006, Immanuel Kant, s. 7–16, [w:] O co nas pytają wielcy filozofowie, Kraków.
+Sławomir Molęda, Kantowska krytyka eudajmonizmu państwowego, „Histmag.org”, 23 czerwca 2009.
+Mirosław Żelazny, Metafizyka czasu i wieczności jako filozofia człowieka w idealizmie niemieckim od Kanta do Nietzschego, Toruń 1986.
+Mirosław Żelazny, Idea wolności w filozofii Kanta, Toruń 1993 (II wyd. 2001).
+Mirosław Żelazny, Kant dla początkujących, Toruń 2008.
+Tomasz Kupś, Filozofia religii Immanuela Kanta, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika, 2008. ​ISBN 978-83-231-2308-8​.
+Zobacz też
+Co to jest Oświecenie
+sapere aude
+Kant-Studien
+dom Kanta
+Przypisy
+ Pierre Chaunu: Cywilizacja wieku Oświecenia. Warszawa: PIW, 1993, s. 243. ISBN 83-06-02339-0.
+ Pierre Chaunu: Cywilizacja wieku Oświecenia. Warszawa: PIW, 1993, s. 244. ISBN 83-06-02339-0.
+ Heller i Pabjan 2014 ↓, s. 57–59.
+ Paul F. Boller, jr.; John George, They Never Said it. A Book of Fake Quotes, Misquotes, & Misleading Attributions; Oxford University Press, New York-Oxford 1989, s. 57-58. ​ISBN 0-19-506469-0​.
+ Idea wieczystego pokoju. Część I, Idea wieczystego pokoju. Część II, Traktat o wiecznym pokoju” I. Kanta jako pierwowzór porządku prawnego wspólnoty europejskiej.
+ Immanuel Kant, Prolegomena do wszelkiej przyszłej metafizyki, która będzie mogła wystąpić jako nauka, Benedykt Bornstein (tłum.), Janina Suchorzewska (oprac.), Warszawa: PWN, 1993, ISBN 83-01-11368-5, OCLC 749448916.
+Bibliografia
+Michał Heller, Tadeusz Pabjan: Elementy filozofii przyrody. Kraków: Copernicus Center Press, 2014. ISBN 978-83-7886-065-5.
+Kant, s. 161–184, [w:] Władysław Tatarkiewicz, 1988, Historia Filozofii, t. 2, PWN, Warszawa, ​ISBN 83-01-08652-1​.
+Kant I., Prolegomena do wszelkiej przyszłej metafizyki, która będzie mogła wystąpić jako nauka, B. Bornstein (tłum.), J. Suchorzewska (oprac.), Warszawa: PWN, 1993, ISBN 83-01-11368-5, OCLC 749448916.
+Leszek Kołakowski, O co pyta nas Kant?, [w:] Tygodnik Powszechny, 3/2006 (2949), 15 stycznia 2006 roku, ISSN 0041-4808.
+Kant…, s. 137–164, [w:] Roger Scruton, 1989, A Short History of Modern Philosophy – from Descartes to Wittgenstein, ARK, London, New York, ​ISBN 0-7448-0010-2​.
+Kant, s. 217-242, [w:] D. W. Hamlyn, 1987, The Pelican History of Western Philosophy, Penguin Books, London, ​ISBN 0-14-022863-2​.
+Linki zewnętrzne
+Polskojęzyczne:
+
+Sławomir Molęda, Kantowska krytyka eudajmonizmu państwowego, „Histmag.org”, 23 czerwca 2009.
+Jerzy Kochan Niebieskie oczy Kanta
+Immanuel Kant, Prolegomena do wszelkiej przyszłej metafizyki która będzie mogła wystąpić jako nauka
+Dzieła zebrane Immanuela Kanta. [zarchiwizowane z tego adresu].
+Immanuel Kant, Krytyka praktycznego rozumu
+Polskie Towarzystwo Kantowskie
+Wprowadzenie do filozofii transcendentalnej Immanuela Kanta (seria trzech tekstów)
+Angielskojęzyczne:
+
+Brytyjskie Towarzystwo Kantowskie.
+Strona Steve’a Palmquista – pełna systematyzacja tekstów Kanta + dużo artykułów. (ang. • niem.)
+Artykuły na Internet Encyclopedia of Philosophy (ang.) [dostęp 2018-06-27]:
+
+McCormick M., Immanuel Kant: Metaphysics. (Metafizyka Kanta)
+McLear C., Kant: Philosophy of Mind. (Kantowska filozofia umysłu)
+Artykuły na Stanford Encyclopedia of Philosophy (ang.) [dostęp 2018-08-07]:
+
+Rohlf M., Immanuel Kant, 25 stycznia 2016.
+Schönfeld M., Thompson M., Kant's Philosophical Development, 25 listopada 2014. (Filozoficzny rozwój Kanta)
+Wilson C., Leibniz's Influence on Kant, 30 stycznia 2018. (Wpływ Leibniza na Kanta)
+Hanna R., Kant's Theory of Judgment, 23 października 2017. (Kantowska teoria sądu)
+Williams G., Kant's Account of Reason, 1 listopada 2017. (Kantowskie ujęcie rozumu)
+Grier M., Kant's Critique of Metaphysics, 29 marca 2018. (Kantowska krytyka metafizyki)
+Stang N.F., Kant's Transcendental Idealism, 4 marca 2016. (Idealizm transcendentalny Kanta)
+Brook A., Kant's View of the Mind and Consciousness of Self, 22 stycznia 2013. (Kantowska teoria umysłu i samoświadomości)
+Shabel L., Kant's Philosophy of Mathematics, 19 lipca 2013. (Kantowska filozofia matematyki)
+Janiak A., Kant's Views on Space and Time, 10 października 2016. (Poglądy Kanta na przestrzeń i czas)
+Watkins E., Stan M., Kant's Philosophy of Science, 18 lipca 2014. (Filozofia nauki Kanta)
+De Pierris G., Friedman M., Kant and Hume on Causality, 11 grudnia 2013. (Kant i Hume o przyczynowości)
+Johnson R., Cureton A., Kant's Moral Philosophy, 7 lipca 2016. (Filozofia moralna Kanta)
+Denis L., Wilson E., Kant and Hume on Morality, 29 marca 2018. (Kanta i Hume o moralności)
+Ginsborg H., Kant's Aesthetics and Teleology, 13 lutego 2013. (Estetyka i teleologia Kanta)
+Pereboom D., Kant's Transcendental Arguments, 2 marca 2018. (Argumenty transcendentalne Kanta)
+Pasternack L., Rossi P., Kant's Philosophy of Religion, 18 lipca 2014. (Kantowska filozofia religii)
+Rauscher F., Kant's Social and Political Philosophy, 1 września 2016. (Filozofia społeczno-polityczna Kanta)
+Niemieckojęzyczne:
+
+Immanuel Kant Utwory
+Niemieckie Towarzystwo Kantowskie.
+Uniwersytet w Marburgu – teksty źródłowe w oryginale.
+Kontrola autorytatywna (osoba):ISNI: 0000 0001 2282 4025VIAF: 82088490ULAN: 500107055LCCN: n79021614GND: 118559796NDL: 00445131SELIBR: 192570BnF: 11909393pSUDOC: 02694507XSBN: IT\ICCU\CFIV\000707NLA: 35259064NKC: jn19990004171DBNL: kant020BNE: XX1002482NTA: 06840753XBIBSYS: 90066754Open Library: OL18074AWorldCat
+Kategorie: Absolwenci i studenci Uniwersytetu Albrechta w KrólewcuCzłonkowie Pruskiej Akademii NaukEpistemologiaEstetycyEtycyFilozofowie niemieckojęzyczniFilozofowie nowożytniFilozofowie prawaFilozofowie XVIII wiekuImmanuel KantLudzie urodzeni w KrólewcuNauczyciele domowiNiemieccy myśliciele polityczniRektorzy Uniwersytetu Albrechta w KrólewcuUrodzeni w 1724Wykładowcy Uniwersytetu Albrechta w KrólewcuZmarli w 1804
+Menu nawigacyjne
+Nie jesteś zalogowanyDyskusjaEdycjeUtwórz kontoZaloguj sięArtykułDyskusjaCzytajEdytujEdytuj kod źródłowyHistoria i autorzySzukaj
+Przeszukaj Wikipedię
+Strona główna
+Losuj artykuł
+Kategorie artykułów
+Najlepsze artykuły
+Częste pytania (FAQ)
+Dla czytelników
+O Wikipedii
+Zgłoś błąd
+Kontakt
+Wspomóż Wikipedię
+Dla wikipedystów
+Pierwsze kroki
+Portal wikipedystów
+Ogłoszenia
+Zasady
+Pomoc
+Ostatnie zmiany
+Narzędzia
+Linkujące
+Zmiany w linkowanych
+Prześlij plik
+Strony specjalne
+Link do tej wersji
+Informacje o tej stronie
+Element Wikidanych
+Cytowanie tego artykułu
+Drukuj lub eksportuj
+Utwórz książkę
+Pobierz jako PDF
+Wersja do druku
+W innych projektach
+Wikimedia Commons
+Wikicytaty
+Wikiźródła
+
+W innych językach
+Afrikaans
+Alemannisch
+አማርኛ
+العربية
+Aragonés
+Asturianu
+Aymar aru
+Azərbaycanca
+বাংলা
+Bân-lâm-gú
+Башҡортса
+Беларуская
+Беларуская (тарашкевіца)‎
+भोजपुरी
+Bikol Central
+Български
+Bosanski
+Brezhoneg
+Буряад
+Català
+Чӑвашла
+Čeština
+Cymraeg
+Dansk
+Deutsch
+Eesti
+Ελληνικά
+Emiliàn e rumagnòl
+English
+Español
+Esperanto
+Estremeñu
+Euskara
+فارسی
+Fiji Hindi
+Føroyskt
+Français
+Frysk
+Gaeilge
+Gàidhlig
+Galego
+贛語
+ગુજરાતી
+한국어
+Հայերեն
+हिन्दी
+Hrvatski
+Ido
+Ilokano
+Bahasa Indonesia
+Interlingua
+Íslenska
+Italiano
+עברית
+Basa Jawa
+Kabɩyɛ
+ಕನ್ನಡ
+ქართული
+Қазақша
+Kinyarwanda
+Kiswahili
+Kurdî
+Кыргызча
+Кырык мары
+لۊری شومالی
+Latina
+Latviešu
+Lëtzebuergesch
+Лезги
+Lietuvių
+Ligure
+Limburgs
+Lingua Franca Nova
+Livvinkarjala
+Lumbaart
+Magyar
+मैथिली
+Македонски
+Malagasy
+മലയാളം
+Malti
+मराठी
+მარგალური
+مصرى
+Bahasa Melayu
+Mirandés
+Монгол
+မြန်မာဘာသာ
+Nāhuatl
+Nederlands
+नेपाली
+नेपाल भाषा
+日本語
+Нохчийн
+Norsk
+Norsk nynorsk
+Occitan
+Oʻzbekcha/ўзбекча
+ਪੰਜਾਬੀ
+پنجابی
+پښتو
+Patois
+Piemontèis
+Tok Pisin
+Plattdüütsch
+Português
+Qaraqalpaqsha
+Română
+Rumantsch
+Runa Simi
+Русиньскый
+Русский
+Саха тыла
+संस्कृतम्
+Sardu
+Scots
+Shqip
+Sicilianu
+Simple English
+Slovenčina
+Slovenščina
+کوردی
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+தமிழ்
+Taqbaylit
+Татарча/tatarça
+తెలుగు
+ไทย
+Türkçe
+Українська
+اردو
+Vepsän kel’
+Tiếng Việt
+Volapük
+Võro
+文言
+Winaray
+吴语
+ייִדיש
+Yorùbá
+粵語
+Zazaki
+Zeêuws
+Žemaitėška
+中文
+Edytuj linki
+Tę stronę ostatnio edytowano 28 lut 2019, 08:14.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka ochrony prywatnościO WikipediiKorzystasz z Wikipedii tylko na własną odpowiedzialnośćDla deweloperówKomunikat na temat ciasteczekWersja mobilnaWikimedia Foundation Powered by MediaWiki
